@@ -171,6 +171,21 @@
   },
   "active": "38e9ab7eabb2bcc1",
   "lastOpenFiles": [
+    "node_modules/sass-embedded/LICENSE",
+    "node_modules/satori/LICENSE",
+    "node_modules/sharp/src/common.cc",
+    "node_modules/sharp/src",
+    "node_modules/safer-buffer/package.json",
+    "node_modules/semver/LICENSE",
+    "node_modules/slash/license",
+    "node_modules/section-matter/package.json",
+    "node_modules/sharp/LICENSE",
+    "node_modules/sisteransi/src/sisteransi.d.ts",
+    "node_modules/sisteransi/src/index.js",
+    "node_modules/yoga-layout/README.md",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "index.md",
     "Patterns/Collective_Action_Problem.md",
     "Primitives/Decentralized_Autonomous_Organizations.md",
     "Research/Web3_Systemic_Solutions_Essay_Outline.md",
@@ -193,9 +208,6 @@
     "Patterns/Vitality.md",
     "Primitives/Constant_Product_Formula.md",
     "Primitives/LP_Tokens.md",
-    "Primitives/Liquidity_Providers.md",
-    "Primitives/Liquidity_Pools.md",
-    "Capacities/Transparency.md",
-    "Trust_Building.md"
+    "Primitives/Liquidity_Providers.md"
   ]
 }
