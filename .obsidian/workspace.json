@@ -11,14 +11,10 @@
             "id": "38e9ab7eabb2bcc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Patterns/Free_Rider_Problem.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Free_Rider_Problem"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patterns/Free_Rider_Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Free_Rider_Problem"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patterns/Free_Rider_Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Free_Rider_Problem"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Patterns/Free_Rider_Problem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Free_Rider_Problem"
+              "title": "Outline"
             }
           }
         ]
@@ -171,50 +164,51 @@
   },
   "active": "38e9ab7eabb2bcc1",
   "lastOpenFiles": [
-    "node_modules/pixi.js/lib/rendering/renderers/types.d.ts",
-    "node_modules/pixi.js/lib/scene/text-bitmap/TextBitmapMixins.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/shared/system/SystemRunner.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/shared/system/System.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/shared/system/SharedSystems.d.ts",
-    "node_modules/pixi.js/lib/Shaders.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/shared/SchedulerSystem.d.ts",
-    "node_modules/pixi.js/lib/scene/SceneMixins.d.ts",
-    "node_modules/pixi.js/lib/rendering/RenderingMixins.d.ts",
-    "node_modules/pixi.js/lib/rendering/renderers/shared/Renderable.d.ts",
-    "node_modules/pixi.js/lib/scene/text-bitmap/DynamicBitmapFont.d.ts",
-    "node_modules/pixi.js/README.md",
-    "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/parse-latin/readme.md",
-    "node_modules/source-map-js/README.md",
-    "node_modules/d3-zoom/README.md",
-    "node_modules/esbuild-sass-plugin/README.md",
-    "node_modules/micromark-extension-gfm-autolink-literal/readme.md",
-    "node_modules/unified/readme.md",
-    "node_modules/gray-matter/README.md",
-    "node_modules/linebreak/readme.md",
-    "node_modules/stringify-entities/readme.md",
-    "node_modules/@floating-ui/utils/README.md",
-    "node_modules/hast-util-to-jsx-runtime/readme.md",
-    "node_modules/is-core-module/CHANGELOG.md",
-    "node_modules/picomatch/CHANGELOG.md",
-    "node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
-    "node_modules/yargs-parser/CHANGELOG.md",
-    "node_modules/braces/README.md",
-    "node_modules/ignore/README.md",
-    "node_modules/micromorph/README.md",
-    "node_modules/parse-css-color/CHANGELOG.md",
-    "node_modules/postcss-value-parser/README.md",
-    "node_modules/readdirp/README.md",
-    "node_modules/rfdc/readme.md",
-    "node_modules/cli-spinner/img/spinner.gif",
-    "node_modules/gifuct-js/demo/horses.gif",
-    "node_modules/gifuct-js/demo/jblack.gif",
-    "node_modules/gifuct-js/demo/dog.gif",
-    "node_modules/js-binary-schema-parser/example/dog.gif",
-    "node_modules/js-binary-schema-parser/example/box.gif",
-    "node_modules/js-binary-schema-parser/example/horses.gif",
-    "quartz/static/og-image.png",
-    "quartz/static/icon.png"
+    "public/index-og-image.webp",
+    "public/Web3_Systemic_Solutions_Essay-og-image.webp",
+    "public/Research/Web3_Systemic_Solutions_Essay_Outline-og-image.webp",
+    "public/Research/Web3_Primitives-og-image.webp",
+    "public/Research/Web3_Affordances_Potentials-og-image.webp",
+    "public/Research/Systemic_Problems-og-image.webp",
+    "public/Research/Prospectus-og-image.webp",
+    "public/Research/Crypto_For_Good_Claims-og-image.webp",
+    "public/Research/Call_Transcript-og-image.webp",
+    "public/Research/Call_Summary-og-image.webp",
+    "public/README-og-image.webp",
+    "public/index.html",
+    "public/Web3_Systemic_Solutions_Essay.html",
+    "public/Research/Web3_Systemic_Solutions_Essay_Outline.html",
+    "public/Research/Web3_Primitives.html",
+    "public/Research/Web3_Affordances_Potentials.html",
+    "public/Research/Systemic_Problems.html",
+    "public/Research/Prospectus.html",
+    "public/Research/Crypto_For_Good_Claims.html",
+    "public/Research/Call_Transcript.html",
+    "public/Research/Call_Summary.html",
+    "Patterns/Free_Rider_Problem.md",
+    "content/Capacities/Trustlessness.md",
+    "content/Capacities/Programmability.md",
+    "content/Capacities/Transparency.md",
+    "content/Capacities/Reliability.md",
+    "content/Capacities/Rapidity.md",
+    "content/Capacities/Immutability.md",
+    "content/Capacities/Privacy_Preservation.md",
+    "content/Capacities/Portability.md",
+    "content/Capacities/Permissionlessness.md",
+    "content/Capacities/Distributed_Consensus.md",
+    "content/Capacities/Censorship_Resistance.md",
+    "content/Capacities/Automation.md",
+    "content/Capacities/Borderlessness.md",
+    "content/Capacities/Auditability.md",
+    "content/Primitives/Zero_Knowledge_Proofs.md",
+    "content/Primitives/Yield_Farming.md",
+    "content/Primitives/State_Channels.md",
+    "content/Primitives/Staking.md",
+    "content/Primitives/Smart_Contracts.md",
+    "content/Primitives/Slashing.md",
+    "content/Primitives/Sidechains.md",
+    "content/Primitives/Sharding.md",
+    "content/Primitives/Sandwich_attacks.md",
+    "content/Primitives/Real_World_Assets.md"
   ]
 }
