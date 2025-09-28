@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "cf74e0ea17cec4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ceffd60160ccafe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e9ab7eabb2bcc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patterns/Free_Rider_Problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Free_Rider_Problem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78d948c2b8cb7e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54572a43b0c9587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7e38e14ebdeafd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfa13d3f24321c96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ac9ee6204f06773",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57523eefbf184cef",
+    "type": "split",
+    "children": [
+      {
+        "id": "75cfa660ca6ca472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14769007b8a31ae3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Patterns/Free_Rider_Problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Free_Rider_Problem"
+            }
+          },
+          {
+            "id": "42f67b7bfe3f12c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Patterns/Free_Rider_Problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Free_Rider_Problem"
+            }
+          },
+          {
+            "id": "21f4d784d5b98966",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ef8606a74598a1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Patterns/Free_Rider_Problem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Free_Rider_Problem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "38e9ab7eabb2bcc1",
+  "lastOpenFiles": [
+    "Patterns/Collective_Action_Problem.md",
+    "Primitives/Decentralized_Autonomous_Organizations.md",
+    "Research/Web3_Systemic_Solutions_Essay_Outline.md",
+    "Research/Web3_Primitives.md",
+    "Research/Web3_Affordances_Potentials.md",
+    "Research/Crypto_For_Good_Claims.md",
+    "Web3_Systemic_Solutions_Essay.md",
+    "README.md",
+    "Primitives/Smart_Contracts.md",
+    "Capacities/Reliability.md",
+    "Capacities/Portability.md",
+    "Capacities/Automation.md",
+    "Capacities/Rapidity.md",
+    "Capacities/Borderlessness.md",
+    "Capacities/Auditability.md",
+    "Capacities/Permissionlessness.md",
+    "Capacities/Trustlessness.md",
+    "Patterns/Choice.md",
+    "Patterns/Resilience.md",
+    "Patterns/Vitality.md",
+    "Primitives/Constant_Product_Formula.md",
+    "Primitives/LP_Tokens.md",
+    "Primitives/Liquidity_Providers.md",
+    "Primitives/Liquidity_Pools.md",
+    "Capacities/Transparency.md",
+    "Trust_Building.md"
+  ]
+}
