@@ -144,13 +144,13 @@
 
 ## Related Concepts
 
-- [[Distributed_Consensus]] - Mechanisms for achieving agreement on immutable data
+- [[distributed consensus]] - Mechanisms for achieving agreement on immutable data
 - [[Cryptographic_Security]] - Mathematical foundations of immutability
 - [[Transparency]] - Open and verifiable records
-- [[Censorship_Resistance]] - Resistance to data suppression
+- [[censorship resistance]] - Resistance to data suppression
 - [[Audit_Trails]] - Complete history of system changes
 - [[Data_Integrity]] - Ensuring data accuracy and consistency
-- [[Smart_Contracts]] - Immutable program execution
+- [[smart contract]] - Immutable program execution
 - [[Blockchain_Security]] - Security properties of immutable systems
 - [[Network_Effects]] - Benefits of distributed immutable systems
 - [[Regulatory_Compliance]] - Legal and regulatory considerations

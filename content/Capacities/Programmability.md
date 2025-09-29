@@ -150,12 +150,12 @@
 
 ## Related Concepts
 
-- [[Smart_Contracts]] - Programmable agreements and automated execution
-- [[Ethereum_Virtual_Machine]] - Execution environment for smart contracts
+- [[smart contract]] - Programmable agreements and automated execution
+- [[Ethereum Virtual Machine (EVM)]] - Execution environment for smart contracts
 - [[Gas]] - Resource metering and transaction costs
-- [[Decentralized_Autonomous_Organizations]] - Programmable organizational governance
-- [[Automated_Market_Makers]] - Programmable financial infrastructure
-- [[Governance_Models]] - Programmable decision-making systems
+- [[decentralized autonomous organizations (DAOs)]] - Programmable organizational governance
+- [[automated market makers (AMMs)]] - Programmable financial infrastructure
+- [[governance mechanisms]] - Programmable decision-making systems
 - [[Tokenomics]] - Programmable economic incentives
 - [[Composability]] - Programmable interaction between systems
 - [[Immutability]] - Permanent program execution

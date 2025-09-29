@@ -37,10 +37,10 @@
 
 ## Applications in Web3
 
-### [[Decentralization]]
+### [[decentralization]]
 - **Distributed Networks**: No single points of failure
-- **[[Distributed_Consensus]]**: Multiple validators securing the network
-- **[[Decentralized_Storage_Networks]]**: Distributed across multiple nodes
+- **[[distributed consensus]]**: Multiple validators securing the network
+- **[[decentralized storage networks]]**: Distributed across multiple nodes
 - **[[Polycentric_Governance]]**: Multiple decision-making centers
 
 ### [[Polycentric_Governance]]
@@ -54,7 +54,7 @@
 - **[[Interoperability]]**: Systems that can work together
 - **Innovation**: New combinations of existing components
 - **Adaptation**: Systems that can evolve over time
-- **[[Smart_Contracts]]**: Programmable components for complex systems
+- **[[smart contract]]**: Programmable components for complex systems
 
 ## Beneficial Potentials
 

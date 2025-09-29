@@ -14,10 +14,10 @@
 
 ## Technical Mechanisms
 
-### [[Decentralization|Distributed Architecture]]
+### [[decentralization|Distributed Architecture]]
 - **Redundancy**: Multiple copies of data across different nodes
 - **Fault Tolerance**: System continues operating despite node failures
-- **[[Distributed_Consensus]]**: Agreement on system state across nodes
+- **[[distributed consensus]]**: Agreement on system state across nodes
 - **[[Cryptographic_Security]]**: Mathematical guarantees of data integrity
 - **[[Immutability]]**: Data that cannot be altered or deleted
 
@@ -76,21 +76,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **[[Reliability|Reliable Trading]]**: Consistent execution of trades
 - **Stable Lending**: Predictable lending and borrowing
 - **[[Security|Secure Storage]]**: Safe storage of digital assets
 - **[[Transparency]]**: Public oversight of all activities
 - **[[Auditability]]**: Complete record of all transactions
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Reliable Governance**: Consistent decision-making processes
 - **Transparent Operations**: Public oversight of all activities
 - **Auditable History**: Complete record of all decisions
 - **Accountable Systems**: Systems that can be held accountable
 - **Responsive Governance**: Systems that adapt to changing needs
 
-### [[Public_Goods_Funding]]
+### [[Public Goods Funding]]
 - **Reliable Allocation**: Consistent distribution of funds
 - **Transparent Tracking**: Public monitoring of fund usage
 - **Auditable History**: Complete record of all allocations

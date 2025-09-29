@@ -10,11 +10,11 @@
 - **Conditional Logic**: Actions triggered by specific conditions
 - **Autonomous Operations**: Systems that operate independently
 - **Reduced Intermediation**: Elimination of human intermediaries
-- **Programmable Behavior**: Customizable automated responses
+- **[[Programmable Incentives]]**: Customizable automated responses
 
 ## Technical Mechanisms
 
-### [[Smart_Contracts]]
+### [[smart contract]]
 - **[[Automation]]**: Self-executing code without human intervention
 - **Conditional Logic**: If-then statements that trigger actions
 - **State Changes**: Automatic updates to system state
@@ -40,9 +40,9 @@
 ### Reliability and Trust
 - **Predictable Behavior**: Consistent execution of predefined logic
 - **Reduced Human Error**: Elimination of manual mistakes
-- **Transparent Operations**: All actions are publicly verifiable
-- **Immutable Logic**: Code cannot be changed once deployed
-- **Auditable Processes**: Complete history of all operations
+- **[[Transparency]]**: All actions are publicly verifiable
+- **[[Immutability]]**: Code cannot be changed once deployed
+- **[[Auditability]]**: Complete history of all operations
 
 ### Innovation and Development
 - **Programmable Money**: Customizable financial instruments
@@ -76,21 +76,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **[[Automation|Automated Trading]]**: Self-executing trading strategies
-- **[[Decentralized_Lending_Protocols]]**: Automated lending and borrowing
-- **[[Yield_Farming]]**: Automated yield optimization
-- **[[Flash_Loans]]**: Automated uncollateralized lending
+- **[[decentralized lending protocols]]**: Automated lending and borrowing
+- **[[yield farming]]**: Automated yield optimization
+- **[[Flash Loans]]**: Automated uncollateralized lending
 - **[[Arbitrage]]**: Automated price correction
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Automated Governance**: Self-executing decision-making
 - **Treasury Management**: Automated fund allocation
 - **Voting Systems**: Automated vote processing
 - **Proposal Mechanisms**: Automated proposal handling
 - **Execution**: Automated implementation of decisions
 
-### [[Public_Goods_Funding]]
+### [[Public Goods Funding]]
 - **Automated Allocation**: Automatic distribution of funds
 - **Impact Measurement**: Automated tracking of outcomes
 - **Donor Management**: Automated donor communication

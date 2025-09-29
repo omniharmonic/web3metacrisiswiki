@@ -210,16 +210,16 @@
 
 ## References
 
-- [[Web3_Primitives.md]] - Technical foundation
-- [[Web3_Affordances_Potentials.md]] - Detailed affordances analysis
-- [[Web3_Systemic_Solutions_Essay.md]] - Role in systemic solutions
-- [[Crypto_For_Good_Claims.md]] - Social impact applications
-- [[Call_Transcript.md]] - Discussion of transparency
+- [[Web3 Primitives]] - Technical foundation
+- [[Web3 Affordances & Potentials]] - Detailed affordances analysis
+- [[Web3 and the Generative Dynamics of the Metacrisis v01]] - Role in systemic solutions
+- [[Crypto For Good Claims]] - Social impact applications
+- [[Call Transcript]] - Discussion of transparency
 
 ## Related Concepts
 
-- [[Smart_Contracts]] - Technical foundation
-- [[Decentralization]] - Core principle
-- [[Privacy_Preservation]] - Related capability
+- [[smart contract]] - Technical foundation
+- [[decentralization]] - Core principle
+- [[Privacy Preservation]] - Related capability
 - [[Accountability]] - Core benefit
 - [[Trust_Building]] - Social impact

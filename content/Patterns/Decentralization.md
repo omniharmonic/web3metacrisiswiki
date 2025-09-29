@@ -1,4 +1,3 @@
-# Decentralization
 
 ## Definition
 
@@ -152,16 +151,16 @@
 
 ## References
 
-- [[Web3_Primitives.md]] - Technical foundation
-- [[Web3_Affordances_Potentials.md]] - Detailed affordances analysis
-- [[Web3_Systemic_Solutions_Essay.md]] - Role in systemic solutions
-- [[Decentralized_Autonomous_Organizations]] - Governance applications
-- [[Call_Transcript.md]] - Discussion of decentralization
+- [[Web3 Primitives]] - Technical foundation
+- [[Web3 Affordances & Potentials]] - Detailed affordances analysis
+- [[Web3 and the Generative Dynamics of the Metacrisis v01]] - Role in systemic solutions
+- [[decentralized autonomous organizations (DAOs)]] - Governance applications
+- [[Call Transcript]] - Discussion of decentralization
 
 ## Related Concepts
 
-- [[Consensus_Mechanisms]] - Technical foundation
-- [[Governance_Models]] - Decision-making processes
+- [[consensus mechanisms]] - Technical foundation
+- [[governance mechanisms]] - Decision-making processes
 - [[Economic_Incentives]] - Alignment mechanisms
-- [[Privacy_Preservation]] - User empowerment
-- [[Censorship_Resistance]] - Core capability
+- [[Privacy Preservation]] - User empowerment
+- [[censorship resistance]] - Core capability

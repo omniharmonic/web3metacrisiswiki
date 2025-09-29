@@ -47,13 +47,13 @@
 ## Beneficial Applications
 
 ### Network Security
-- **[[Proof_of_Stake]]**: Economic security through token staking
+- **[[Proof of Stake (PoS)]]**: Economic security through token staking
 - **Validator incentives**: Sustainable rewards for network maintenance
 - **Attack prevention**: Economic disincentives for malicious behavior
 - **Decentralized security**: Distributed security model through token distribution
 
 ### Governance and Coordination
-- **[[Decentralized_Autonomous_Organizations]]**: Token-based organizational structures
+- **[[decentralized autonomous organizations (DAOs)]]**: Token-based organizational structures
 - **Community governance**: Democratic decision-making through token voting
 - **Resource allocation**: Community-directed funding and development
 - **Protocol evolution**: Stakeholder-driven protocol improvements
@@ -65,7 +65,7 @@
 - **Revenue distribution**: Sharing protocol success with token holders
 
 ### Innovation Funding
-- **[[Public_Goods_Funding]]**: Community funding of beneficial projects
+- **[[Public Goods Funding]]**: Community funding of beneficial projects
 - **Developer incentives**: Token rewards for protocol contributions
 - **Ecosystem growth**: Funding complementary projects and infrastructure
 - **Research and development**: Community-funded protocol improvements
@@ -144,13 +144,13 @@
 
 ## Related Concepts
 
-- [[Mechanism_Design]] - Theoretical foundation for tokenomics
+- [[Mechanism Design]] - Theoretical foundation for tokenomics
 - [[Incentive_Design]] - Core principle of tokenomics
-- [[Game_Theory]] - Mathematical framework for analyzing tokenomics
-- [[Proof_of_Stake]] - Consensus mechanism relying on tokenomics
-- [[Decentralized_Autonomous_Organizations]] - Organizations using tokenomics
-- [[Public_Goods_Funding]] - Application of tokenomics
-- [[Governance_Models]] - Systems using tokenomics for decision-making
+- [[Game Theory]] - Mathematical framework for analyzing tokenomics
+- [[Proof of Stake (PoS)]] - Consensus mechanism relying on tokenomics
+- [[decentralized autonomous organizations (DAOs)]] - Organizations using tokenomics
+- [[Public Goods Funding]] - Application of tokenomics
+- [[governance mechanisms]] - Systems using tokenomics for decision-making
 - [[Staking]] - Key tokenomics mechanism
 - [[Slashing]] - Penalty mechanism in tokenomics
 - [[Token_Standards]] - Technical implementation of tokenomics

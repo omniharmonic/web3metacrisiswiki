@@ -1,4 +1,3 @@
-# Composability
 
 ## Definition
 
@@ -142,15 +141,15 @@ Composability creates a powerful economic flywheel that accelerates development:
 
 ## References
 
-- [[Web3_Primitives.md]] - Comprehensive taxonomy
-- [[Web3_Affordances_Potentials.md]] - Detailed affordances analysis
-- [[Web3_Systemic_Solutions_Essay.md]] - Role in systemic solutions
-- [[Call_Transcript.md]] - Discussion of composability
+- [[Web3 Primitives]] - Comprehensive taxonomy
+- [[Web3 Affordances & Potentials]] - Detailed affordances analysis
+- [[Web3 and the Generative Dynamics of the Metacrisis v01]] - Role in systemic solutions
+- [[Call Transcript]] - Discussion of composability
 
 ## Related Concepts
 
-- [[Smart_Contracts]] - Technical foundation
+- [[smart contract]] - Technical foundation
 - [[Token_Standards]] - Standardized interfaces
-- [[Decentralized_Applications]] - Composable applications
+- [[decentralized applications (dApps)]] - Composable applications
 - [[Network_Effects]] - Economic dynamics
 - [[Modularity]] - Design principle

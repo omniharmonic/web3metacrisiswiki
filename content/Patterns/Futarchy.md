@@ -2,7 +2,7 @@
 
 ## Definition
 
-**Futarchy** is a governance system proposed by economist Robin Hanson where decisions are made through [[Prediction_Markets]] rather than traditional voting. In futarchy, participants bet on the outcomes of different policy options, and the policy with the highest predicted success (as determined by market prices) is implemented. This system aims to aggregate dispersed information and incentivize accurate predictions about policy outcomes.
+**Futarchy** is a governance system proposed by economist Robin Hanson where decisions are made through [[Prediction Markets]] rather than traditional voting. In futarchy, participants bet on the outcomes of different policy options, and the policy with the highest predicted success (as determined by market prices) is implemented. This system aims to aggregate dispersed information and incentivize accurate predictions about policy outcomes.
 
 ## Core Mechanism
 
@@ -47,7 +47,7 @@
 - **Continuous improvement**: Learning from prediction accuracy
 
 ### Web3 Applications
-- **[[Decentralized_Autonomous_Organizations]]**: Governance for decentralized organizations
+- **[[decentralized autonomous organizations (DAOs)]]**: Governance for decentralized organizations
 - **Protocol governance**: Managing blockchain protocol decisions
 - **Resource allocation**: Deciding how to allocate community resources
 - **Policy implementation**: Implementing community policies
@@ -126,22 +126,22 @@
 
 ## Related Concepts
 
-- [[Prediction_Markets]] - Core mechanism of futarchy
-- [[Decentralized_Autonomous_Organizations]] - Organizational structure using futarchy
-- [[Governance_Models]] - Broader category of governance systems
+- [[Prediction Markets]] - Core mechanism of futarchy
+- [[decentralized autonomous organizations (DAOs)]] - Organizational structure using futarchy
+- [[governance mechanisms]] - Broader category of governance systems
 - [[Information_Aggregation]] - Core function of prediction markets
 - [[Wisdom_of_Crowds]] - Theoretical foundation for prediction markets
 - [[Market_Design]] - Framework for designing prediction markets
-- [[Mechanism_Design]] - Framework for designing governance systems
-- [[Game_Theory]] - Strategic analysis of prediction markets
-- [[Nash_Equilibrium]] - Stable outcomes in prediction markets
+- [[Mechanism Design]] - Framework for designing governance systems
+- [[Game Theory]] - Strategic analysis of prediction markets
+- [[Nash Equilibrium]] - Stable outcomes in prediction markets
 - [[Tokenomics]] - Economic design for governance systems
 - [[Staking]] - Economic participation in governance
 - [[Slashing]] - Penalties for governance violations
-- [[Public_Goods_Funding]] - Application area for governance
-- [[Quadratic_Voting]] - Alternative voting mechanism
-- [[Conviction_Voting]] - Time-weighted voting mechanism
-- [[Holographic_Consensus]] - Attention economy management
+- [[Public Goods Funding]] - Application area for governance
+- [[Quadratic Voting]] - Alternative voting mechanism
+- [[Conviction Voting]] - Time-weighted voting mechanism
+- [[Holographic Consensus]] - Attention economy management
 
 ## References
 

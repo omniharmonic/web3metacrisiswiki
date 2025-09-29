@@ -7,9 +7,9 @@
 ## Core Concepts
 
 - **Transparent Operations**: All system activities are publicly visible
-- **Verifiable Records**: Cryptographic proofs ensure data integrity
+- **Verifiable Records**: [[Cryptographic Proof Generation]] ensures data integrity
 - **Public Access**: Anyone can view and analyze system data
-- **Immutable History**: Records cannot be altered or deleted
+- **[[Immutable Records]]**: Records cannot be altered or deleted
 - **Real-time Monitoring**: Continuous observation of system behavior
 
 ## Technical Mechanisms
@@ -24,9 +24,9 @@
 ### Verifiable Records
 - **Cryptographic Hashing**: Immutable linking of data blocks
 - **Digital Signatures**: Proof of transaction authenticity
-- **Consensus Mechanisms**: Distributed agreement on system state
+- **[[Distributed Consensus]]**: Distributed agreement on system state
 - **Merkle Trees**: Efficient verification of large datasets
-- **Zero-Knowledge Proofs**: Verification without revealing sensitive information
+- **[[Zero Knowledge Proof (ZKP)]]**: Verification without revealing sensitive information
 
 ### Public Access
 - **Open APIs**: Programmatic access to system data
@@ -46,9 +46,9 @@
 
 ### Trust and Security
 - **Verifiable Operations**: Mathematical proofs ensure system integrity
-- **Immutable Records**: Cannot be altered or deleted by any party
+- **[[Immutable Records]]**: Cannot be altered or deleted by any party
 - **Public Verification**: Anyone can verify system behavior
-- **Transparent Processes**: All activities are publicly verifiable
+- **[[Transparency]]**: All activities are publicly verifiable
 - **Accountability**: Systems that can be held accountable
 
 ### Innovation and Efficiency
@@ -83,21 +83,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **Transparent Trading**: All trades are publicly visible
 - **Auditable Protocols**: Smart contracts are transparent
 - **Performance Tracking**: Real-time monitoring of protocol performance
 - **Risk Assessment**: Public analysis of protocol risks
 - **Innovation**: Encouraging new approaches to DeFi
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Transparent Governance**: All decisions are publicly visible
 - **Auditable Treasury**: Public tracking of fund allocation
 - **Voting Records**: Public records of all votes
 - **Proposal History**: Complete history of all proposals
 - **Member Activity**: Public tracking of member participation
 
-### [[Public_Goods_Funding]]
+### [[Public Goods Funding]]
 - **Transparent Allocation**: Public tracking of fund distribution
 - **Impact Measurement**: Public analysis of project outcomes
 - **Donor Visibility**: Public records of all donations

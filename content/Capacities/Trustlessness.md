@@ -83,21 +83,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **Automated Market Makers**: Trustless token trading
 - **Lending Protocols**: Automated lending and borrowing
 - **Yield Farming**: Automated yield optimization
 - **Flash Loans**: Uncollateralized lending within single transactions
 - **Cross-Chain Bridges**: Trustless asset transfers between blockchains
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Governance**: Trustless decision-making processes
 - **Treasury Management**: Automated fund allocation
 - **Voting Systems**: Transparent and auditable voting
 - **Proposal Mechanisms**: Automated proposal processing
 - **Execution**: Automated implementation of decisions
 
-### [[Self_Sovereign_Identity]]
+### [[self-sovereign identity]]
 - **Data Control**: Individuals control their own data
 - **Selective Disclosure**: Sharing only necessary information
 - **Verification**: Cryptographic proof of attributes

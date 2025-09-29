@@ -109,13 +109,13 @@ Shard Coordination = (Shard State, Cross-Shard Communication)
 
 ## Integration with Other Primitives
 
-### [[Smart_Contracts]]
+### [[smart contract]]
 - **Shard management**: Managing shard operations
 - **Cross-shard transactions**: Cross-shard transaction processing
 - **Automation**: Automated shard operations
 - **Security**: Securing shard operations
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Shard governance**: Governing shard operations
 - **Decision making**: Making shard decisions
 - **Community participation**: Community participation in shards
@@ -145,14 +145,14 @@ Shard Coordination = (Shard State, Cross-Shard Communication)
 
 ## References
 
-- **Source Documents**: [[Web3_Primitives]], [[Scalability_Trilemma]]
+- **Source Documents**: [[Web3 Primitives]], [[scalability trilemma]]
 - **Technical Resources**: [Ethereum 2.0](https://ethereum.org/en/upgrades/), [Polkadot](https://polkadot.network/)
-- **Related Concepts**: [[Smart_Contracts]], [[Decentralized_Autonomous_Organizations]], [[Composability]]
+- **Related Concepts**: [[smart contract]], [[decentralized autonomous organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[Smart_Contracts]] - Self-executing agreements on blockchains
-- [[Decentralized_Autonomous_Organizations]] - Community-controlled organizations
+- [[smart contract]] - Self-executing agreements on blockchains
+- [[decentralized autonomous organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
-- [[Scalability_Trilemma]] - The fundamental trade-offs in blockchain design
-- [[Decentralization]] - Distribution of control and decision-making
+- [[scalability trilemma]] - The fundamental trade-offs in blockchain design
+- [[decentralization]] - Distribution of control and decision-making
