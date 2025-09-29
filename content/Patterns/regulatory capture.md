@@ -1,7 +1,12 @@
-add details on **cultural capture** (shared worldviews between regulators and industry), **material capture** (financial incentives and revolving door employment), **informational capture** (dependency on industry-provided data and expertise), and **political capture** (industry influence over regulatory appointments and budgets)
-## Definition
+# Regulatory Capture
 
-**Regulatory Capture** represents the systematic subversion of public interest by private power through the co-optation of regulatory agencies designed to protect collective welfare. This phenomenon occurs when regulatory agencies become dominated by the industries they are meant to oversee, transforming society's institutional "immune response" against harmful market activities into a protective mechanism that actively shields those activities from accountability and reform.
+## Definition and Theoretical Framework
+
+**Regulatory Capture** represents one of the most pernicious and well-documented forms of institutional failure in modern democratic societies, occurring when regulatory agencies designed to protect public interest become systematically dominated by the very industries they are meant to oversee. This phenomenon, first rigorously analyzed by economist George J. Stigler in his Nobel Prize-winning work on regulatory theory, transforms society's institutional "immune response" against harmful market activities into a protective mechanism that actively shields those activities from accountability and reform.
+
+The theoretical foundation for understanding regulatory capture draws from public choice theory, which applies economic analysis to political decision-making processes. Stigler's insight that regulation is often "acquired by the industry and is designed and operated primarily for its benefit" challenged the traditional "public interest" theory of regulation and revealed systematic patterns of institutional co-optation that persist across different regulatory domains and democratic contexts.
+
+Contemporary scholarship identifies multiple distinct mechanisms through which capture operates, ranging from direct material incentives to more subtle forms of cognitive and cultural alignment that create genuine belief among regulators that industry interests correspond to public welfare.
 
 ## Core Mechanisms
 
