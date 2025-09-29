@@ -12,7 +12,7 @@ title: ""
 
 ## 🌟 Primary Document
 
-**[[Web3 and the Generative Dynamics of the Metacrisis v01]]** serves as the foundational analysis examining Web3 technologies as potential technological substrates for addressing civilizational coordination failures. This comprehensive document provides:
+**[[Web3 and the Generative Dynamics of the Metacrisis v02]]** serves as the foundational analysis examining Web3 technologies as potential technological substrates for addressing civilizational coordination failures. This comprehensive document provides:
 
 - **Rigorous empirical assessment** of blockchain-based approaches across technical affordances, implementation challenges, and governance mechanisms
 - **Systematic evaluation** of over forty specific "crypto for good" claims spanning economic empowerment, transparency enhancement, governance innovation, individual sovereignty protection, and incentive realignment

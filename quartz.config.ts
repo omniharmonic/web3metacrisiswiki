@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "omniharmonic.github.io/web3metacrisiswiki",
-    ignorePatterns: ["private", "templates", ".obsidian", "**/Call Summary.md", "**/Call Transcript.md", "**/Editorial Notes.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/Call Summary.md", "**/Call Transcript.md", "**/Editorial Notes.md", "**/Web3 and the Generative Dynamics of the Metacrisis v01.md", "**/Web3 and the Generative Dynamics of the Metacrisis_v00.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
