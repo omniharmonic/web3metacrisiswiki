@@ -14535,7 +14535,7 @@ var config = {
     },
     locale: "en-US",
     baseUrl: "omniharmonic.github.io/web3metacrisiswiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/Call Summary.md", "**/Call Transcript.md", "**/Editorial Notes.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
