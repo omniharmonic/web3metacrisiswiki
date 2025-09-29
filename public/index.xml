@@ -6,65 +6,65 @@
       <description>Last 10 notes on Web3 Meta-Crisis Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Web3 and the Generative Dynamics of the Metacrisis v01</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v01</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v01</guid>
-    <description><![CDATA[ A Comprehensive Analysis of Blockchain Technology’s Potential for Addressing Systemic Civilizational Failures Abstract Contemporary civilization confronts an unprecedented convergence of interconnected systemic crises that collectively constitute what complexity theorists term the “meta-crisis”—a se... ]]></description>
-    <pubDate>Mon, 29 Sep 2025 03:16:46 GMT</pubDate>
-  </item><item>
-    <title>Byzantine Fault Tolerance</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</guid>
-    <description><![CDATA[ Byzantine Fault Tolerance Definition Byzantine Fault Tolerance (BFT) is the capacity of distributed systems to continue operating correctly even when some nodes fail or behave maliciously. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
-  </item><item>
-    <title>Regulatory Complexity</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Complexity</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Complexity</guid>
-    <description><![CDATA[ Regulatory Complexity Regulatory complexity represents the exponential growth in regulatory requirements, creating barriers to compliance that favor large corporations and enable regulatory capture. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <title>Auditability</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Auditability</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Auditability</guid>
+    <description><![CDATA[ Auditability Definition Auditability is the capacity of blockchain systems to provide transparent, verifiable, and publicly accessible records of all transactions, operations, and decisions. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item><item>
     <title>Automated Verification</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automated-Verification</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automated-Verification</guid>
     <description><![CDATA[ Automated Verification Definition Automated Verification is the capacity of blockchain systems to automatically verify the authenticity, validity, and compliance of data, transactions, and processes without human intervention. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
+  </item><item>
+    <title>Automation</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automation</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automation</guid>
+    <description><![CDATA[ Automation Definition Automation is the capacity of blockchain systems to execute predefined actions automatically without human intervention, using smart contracts and other automated mechanisms. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item><item>
     <title>Banking the Unbanked</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Banking-the-Unbanked</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Banking-the-Unbanked</guid>
     <description><![CDATA[ Banking the Unbanked Definition Banking the Unbanked is the capacity of blockchain systems to provide financial services to individuals and communities who lack access to traditional banking infrastructure. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item><item>
     <title>Biodiversity and Ecosystem Service Tokens</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Biodiversity-and-Ecosystem-Service-Tokens</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Biodiversity-and-Ecosystem-Service-Tokens</guid>
     <description><![CDATA[ Biodiversity and Ecosystem Service Tokens Definition Biodiversity and Ecosystem Service Tokens are digital assets that represent and monetize the value of natural ecosystems, biodiversity conservation, and environmental services. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item><item>
-    <title>Barriers to Entry</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Barriers-to-Entry</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Barriers-to-Entry</guid>
-    <description><![CDATA[ Barriers to Entry Barriers to entry represent obstacles that prevent new competitors from entering a market, enabling economic centralization and regulatory capture by protecting incumbents from competition. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <title>Borderlessness</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Borderlessness</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Borderlessness</guid>
+    <description><![CDATA[ Borderlessness Definition Borderlessness is the capacity of blockchain systems to operate across geographical, political, and jurisdictional boundaries without requiring permission or approval from any central authority. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item><item>
-    <title>Incentive Mechanisms</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Incentive-Mechanisms</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Incentive-Mechanisms</guid>
-    <description><![CDATA[ Incentive Mechanisms Incentive mechanisms represent the economic and social structures that shape human behavior by aligning individual actions with collective goals. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <title>Byzantine Fault Tolerance</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</guid>
+    <description><![CDATA[ Byzantine Fault Tolerance Definition Byzantine Fault Tolerance (BFT) is the capacity of distributed systems to continue operating correctly even when some nodes fail or behave maliciously. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item><item>
-    <title>Information Asymmetries</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Information-Asymmetries</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Information-Asymmetries</guid>
-    <description><![CDATA[ Information Asymmetries Information asymmetries represent situations where one party in a transaction has more or better information than another party, creating opportunities for exploitation and market failures. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <title>Carbon Credit Tokenization</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Carbon-Credit-Tokenization</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Carbon-Credit-Tokenization</guid>
+    <description><![CDATA[ Carbon Credit Tokenization Definition Carbon Credit Tokenization is the capacity of blockchain systems to create digital tokens that represent verified carbon credits, enabling transparent, liquid, and globally accessible carbon markets. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item><item>
-    <title>Institutional Defense</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Institutional-Defense</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Institutional-Defense</guid>
-    <description><![CDATA[ Institutional Defense Institutional defense represents the systematic resistance of existing institutions to reforms that would reduce their power, influence, or resources. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 02:54:22 GMT</pubDate>
+    <title>Community-Based Reputation and Verification</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Based-Reputation-and-Verification</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Based-Reputation-and-Verification</guid>
+    <description><![CDATA[ Community-Based Reputation and Verification Definition Community-Based Reputation and Verification is the capacity of blockchain systems to enable communities to collectively build, maintain, and verify reputation systems without centralized authorities. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
+  </item><item>
+    <title>Community-Verified Impact Assessment</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Verified-Impact-Assessment</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Verified-Impact-Assessment</guid>
+    <description><![CDATA[ Community-Verified Impact Assessment Definition Community-Verified Impact Assessment is the capacity of blockchain systems to enable communities to collectively measure, verify, and assess the social and environmental impact of projects, initiatives, and interventions. ]]></description>
+    <pubDate>Mon, 29 Sep 2025 03:29:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
