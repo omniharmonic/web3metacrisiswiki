@@ -2,7 +2,7 @@
 
 ## Definition
 
-**Staking** is the process of locking up cryptocurrency tokens to participate in the operation and security of a blockchain network, typically in [[Proof_of_Stake]] (PoS) consensus mechanisms. Stakers commit their tokens as collateral to validate transactions, propose new blocks, and maintain network consensus, earning rewards for their participation while facing potential penalties ([[Slashing]]) for malicious or incorrect behavior.
+**Staking** is the process of locking up cryptocurrency tokens to participate in the operation and security of a blockchain network, typically in [[Proof of Stake (PoS)]] (PoS) consensus mechanisms. Stakers commit their tokens as collateral to validate transactions, propose new blocks, and maintain network consensus, earning rewards for their participation while facing potential penalties ([[Slashing]]) for malicious or incorrect behavior.
 
 ## Technical Architecture
 
@@ -144,18 +144,18 @@
 
 ## Related Concepts
 
-- [[Proof_of_Stake]] - Consensus mechanism utilizing staking
+- [[Proof of Stake (PoS)]] - Consensus mechanism utilizing staking
 - [[Slashing]] - Penalty mechanism for staking violations
 - [[Validators]] - Network participants who stake tokens
 - [[Tokenomics]] - Economic design including staking mechanisms
-- [[Consensus_Mechanisms]] - Broader category including staking-based consensus
+- [[consensus mechanisms]] - Broader category including staking-based consensus
 - [[Economic_Security]] - Security model based on economic incentives
 - [[Liquid_Staking]] - Derivative staking mechanisms
 - [[Delegation]] - Mechanism for indirect staking participation
 - [[Network_Security]] - Security provided through staking
-- [[Yield_Farming]] - Related income generation strategy
+- [[yield farming]] - Related income generation strategy
 - [[DeFi]] - Ecosystem utilizing staking mechanisms
-- [[Governance_Models]] - Decision-making systems using staked tokens
+- [[governance mechanisms]] - Decision-making systems using staked tokens
 
 ## References
 

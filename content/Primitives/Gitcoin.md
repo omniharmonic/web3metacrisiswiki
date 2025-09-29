@@ -1,8 +1,7 @@
-# Gitcoin
 
 ## Definition
 
-**Gitcoin** is a leading platform for [[Public_Goods_Funding]] that uses Web3 technologies to fund open source software development, scientific research, and other public goods. The platform implements [[Quadratic_Funding]] mechanisms to create anti-plutocratic funding systems where community preferences determine resource allocation, making it a key example of Web3 solutions to [[Free_Rider_Problem]]s and [[Collective_Action_Problem]]s.
+**Gitcoin** is a leading platform for [[Public Goods Funding]] that uses Web3 technologies to fund open source software development, scientific research, and other public goods. The platform implements [[Quadratic Funding]] mechanisms to create anti-plutocratic funding systems where community preferences determine resource allocation, making it a key example of Web3 solutions to [[Free Rider Problem]]s and [[Collective Action Problem]]s.
 
 ## Core Platform Features
 
@@ -47,7 +46,7 @@
 ## Beneficial Applications
 
 ### Public Goods Provision
-- **[[Free_Rider_Problem]]** solution: Creating incentives for voluntary contribution
+- **[[Free Rider Problem]]** solution: Creating incentives for voluntary contribution
 - **Preference revelation**: Discovering true demand for public goods
 - **Efficient allocation**: Funding projects with highest social value
 - **Democratic participation**: Enabling meaningful community input
@@ -93,10 +92,10 @@
 ## Implementation Considerations
 
 ### Mechanism Design
-- **[[Quadratic_Funding]]**: Anti-plutocratic funding mechanisms
-- **[[Quadratic_Voting]]**: Preference intensity expression
-- **[[Conviction_Voting]]**: Time-weighted decision making
-- **[[Holographic_Consensus]]**: Attention economy management
+- **[[Quadratic Funding]]**: Anti-plutocratic funding mechanisms
+- **[[Quadratic Voting]]**: Preference intensity expression
+- **[[Conviction Voting]]**: Time-weighted decision making
+- **[[Holographic Consensus]]**: Attention economy management
 
 ### Economic Sustainability
 - **Token economics**: Designing sustainable token systems
@@ -105,7 +104,7 @@
 - **Revenue models**: Generating resources for platform operation
 
 ### Community Governance
-- **[[Decentralized_Autonomous_Organizations]]**: Community control over platform
+- **[[decentralized autonomous organizations (DAOs)]]**: Community control over platform
 - **Proposal systems**: Community proposal and voting mechanisms
 - **Treasury management**: Community control over platform funds
 - **Upgrade processes**: Community-driven platform evolution
@@ -138,21 +137,21 @@
 
 ## Related Concepts
 
-- [[Public_Goods_Funding]] - Core application area
-- [[Quadratic_Funding]] - Primary funding mechanism
-- [[Quadratic_Voting]] - Preference expression mechanism
-- [[Conviction_Voting]] - Time-weighted decision making
-- [[Holographic_Consensus]] - Attention economy management
-- [[Free_Rider_Problem]] - Problem addressed by platform
-- [[Collective_Action_Problem]] - Broader coordination challenges
-- [[Mechanism_Design]] - Theoretical foundation for platform
+- [[Public Goods Funding]] - Core application area
+- [[Quadratic Funding]] - Primary funding mechanism
+- [[Quadratic Voting]] - Preference expression mechanism
+- [[Conviction Voting]] - Time-weighted decision making
+- [[Holographic Consensus]] - Attention economy management
+- [[Free Rider Problem]] - Problem addressed by platform
+- [[Collective Action Problem]] - Broader coordination challenges
+- [[Mechanism Design]] - Theoretical foundation for platform
 - [[Tokenomics]] - Economic design for platform
-- [[Decentralized_Autonomous_Organizations]] - Organizational structure
-- [[Governance_Models]] - Decision-making systems
+- [[decentralized autonomous organizations (DAOs)]] - Organizational structure
+- [[governance mechanisms]] - Decision-making systems
 - [[Staking]] - Economic participation mechanism
 - [[Slashing]] - Penalty for platform violations
-- [[Game_Theory]] - Strategic analysis of platform
-- [[Nash_Equilibrium]] - Stable outcomes in platform
+- [[Game Theory]] - Strategic analysis of platform
+- [[Nash Equilibrium]] - Stable outcomes in platform
 
 ## References
 

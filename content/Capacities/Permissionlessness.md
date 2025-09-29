@@ -83,21 +83,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **Open Protocols**: Anyone can use DeFi services
 - **Token Creation**: Anyone can create new tokens
 - **Liquidity Provision**: Anyone can provide liquidity
 - **Yield Farming**: Anyone can participate in yield farming
 - **Cross-Chain Operations**: Seamless asset transfers between blockchains
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Open Membership**: Anyone can join DAOs
 - **Governance Participation**: Anyone can participate in voting
 - **Proposal Submission**: Anyone can submit proposals
 - **Treasury Access**: Transparent and auditable fund management
 - **Decision Making**: Collective decision-making processes
 
-### [[Self_Sovereign_Identity]]
+### [[self-sovereign identity]]
 - **Identity Creation**: Anyone can create digital identities
 - **Data Control**: Individuals control their own data
 - **Selective Disclosure**: Sharing only necessary information

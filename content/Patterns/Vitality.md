@@ -37,14 +37,14 @@
 
 ## Applications in Web3
 
-### [[Public_Goods_Funding]]
+### [[Public Goods Funding]]
 - **Community Support**: Funding projects that enhance collective well-being
 - **Open Source**: Supporting software that benefits everyone
 - **Research**: Advancing knowledge for human flourishing
 - **Infrastructure**: Building systems that serve all users
-- **[[Quadratic_Funding]]**: Anti-plutocratic funding mechanisms
+- **[[Quadratic Funding]]**: Anti-plutocratic funding mechanisms
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Community Governance**: Decisions that benefit all members
 - **Resource Allocation**: Fair distribution of collective resources
 - **Inclusive Participation**: Ensuring all voices are heard
@@ -55,7 +55,7 @@
 - **Fair Distribution**: Avoiding concentration of power and wealth
 - **Community Benefits**: Rewards that strengthen social bonds
 - **Ecological Considerations**: Accounting for environmental impact
-- **[[Mechanism_Design]]**: Designing systems for collective benefit
+- **[[Mechanism Design]]**: Designing systems for collective benefit
 
 ## Beneficial Potentials
 

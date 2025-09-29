@@ -15,7 +15,7 @@
 ## Technical Mechanisms
 
 ### Cross-Chain Operations
-- **[[Bridge_Protocols]]**: Transferring assets between [[Blockchain]]s
+- **[[Bridge_Protocols]]**: Transferring assets between [[blockchain]]s
 - **[[Atomic_Swaps]]**: Direct exchanges between different networks
 - **[[Interoperability]] Standards**: Common protocols for different systems
 - **Multi-Chain Wallets**: Single interface for multiple networks
@@ -83,21 +83,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **Cross-Chain Trading**: Trading assets across different networks
 - **Multi-Chain Wallets**: Single interface for multiple networks
 - **Cross-Chain Lending**: Lending assets across different platforms
-- **[[Portability|Portable Yield]]**: Moving [[Yield_Farming]] strategies between platforms
+- **[[Portability|Portable Yield]]**: Moving [[yield farming]] strategies between platforms
 - **Universal Access**: Using DeFi services across different networks
 
-### [[Self_Sovereign_Identity]]
+### [[self-sovereign identity]]
 - **Portable Identity**: Moving identity between platforms
 - **Cross-Platform Authentication**: Single identity for multiple systems
 - **Verifiable Credentials**: Portable proof of attributes
 - **Identity Bridges**: Moving identity between platforms
 - **Universal Access**: Using identity services across different networks
 
-### [[Public_Goods_Funding]]
+### [[Public Goods Funding]]
 - **Cross-Platform Donations**: Donating to projects across different networks
 - **Portable Impact**: Moving impact measurement between platforms
 - **Universal Funding**: Accessing funding from multiple sources

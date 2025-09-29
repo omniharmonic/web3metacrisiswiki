@@ -7,7 +7,7 @@
 ## Core Concepts
 
 - **Global Access**: Anyone can participate regardless of location
-- **Cross-Border Operations**: Seamless transactions across jurisdictions
+- **[[Cross-Border Remittances]]**: Seamless transactions across jurisdictions
 - **Jurisdictional Independence**: Not subject to single-country regulations
 - **Geographic Neutrality**: No preference for specific locations
 - **International Coordination**: Global collaboration without borders
@@ -23,8 +23,8 @@
 
 ### Cross-Border Operations
 - **Peer-to-Peer**: Direct transactions without intermediaries
-- **[[Cryptographic_Security]]**: Secure without trusted third parties
-- **[[Automation]]**: [[Smart_Contracts]] execute globally
+- **[[Cryptographic Protocols]]**: Secure without trusted third parties
+- **[[Automation]]**: [[Smart Contract]] execute globally
 - **[[Rapidity]]**: Instant cross-border transactions
 - **24/7 Operation**: Continuous operation across time zones
 
@@ -76,21 +76,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **Global Trading**: Anyone can trade assets worldwide
-- **Cross-Chain Operations**: Seamless asset transfers between [[Blockchain]]s
-- **[[Liquidity_Providers]]**: Global liquidity for trading
-- **[[Yield_Farming]]**: International yield optimization
-- **[[Flash_Loans]]**: Global access to uncollateralized lending
+- **Cross-Chain Operations**: Seamless asset transfers between [[blockchain]]s
+- **[[Liquidity Providers (LPs)]]**: Global liquidity for trading
+- **[[yield farming]]**: International yield optimization
+- **[[Flash Loans]]**: Global access to uncollateralized lending
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Global Membership**: Anyone can join DAOs worldwide
 - **International Governance**: Global decision-making processes
 - **Cross-Border Funding**: International resource allocation
 - **Global Collaboration**: Teams working across borders
 - **Cultural Exchange**: Connecting diverse communities
 
-### [[Public_Goods_Funding]]
+### [[Public Goods Funding]]
 - **Global Donations**: International funding for public goods
 - **Transparent Tracking**: Public monitoring of fund distribution
 - **Cross-Border Impact**: Global benefits from local contributions

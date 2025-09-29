@@ -1,8 +1,7 @@
-# MEV (Maximal Extractable Value)
 
 ## Definition
 
-**MEV (Maximal Extractable Value)**, formerly known as "Miner Extractable Value," refers to the maximum value that can be extracted from block production in excess of the standard block reward and [[Gas]] fees. This extraction occurs through the strategic ordering, inclusion, or exclusion of transactions within a block, allowing validators (or miners in [[Proof_of_Work]] systems) to capture additional value at the expense of users. MEV represents a critical challenge to the fairness and efficiency of [[Decentralized_Finance]] systems.
+**MEV (Maximal Extractable Value)**, formerly known as "Miner Extractable Value," refers to the maximum value that can be extracted from block production in excess of the standard block reward and [[Gas]] fees. This extraction occurs through the strategic ordering, inclusion, or exclusion of transactions within a block, allowing validators (or miners in [[proof of work (PoW)]] systems) to capture additional value at the expense of users. MEV represents a critical challenge to the fairness and efficiency of [[Decentralized Finance (DeFi)]] systems.
 
 ## Technical Architecture
 
@@ -12,10 +11,10 @@
 - **Priority manipulation**: Reordering transactions for profit extraction
 
 ### Value Extraction Mechanisms
-- **[[Front_running]]**: Placing transactions ahead of known profitable transactions
+- **[[front running]]**: Placing transactions ahead of known profitable transactions
 - **Back-running**: Placing transactions immediately after specific transactions
-- **[[Sandwich_attacks]]**: Surrounding target transactions with extractive trades
-- **Arbitrage**: Exploiting price differences across [[Automated_Market_Makers]]
+- **[[sandwich attacks]]**: Surrounding target transactions with extractive trades
+- **Arbitrage**: Exploiting price differences across [[automated market makers (AMMs)]]
 
 ### MEV Supply Chain
 - **Searchers**: Identify MEV opportunities and create extraction transactions
@@ -37,8 +36,8 @@
 ## Detrimental Potentials
 
 ### User Exploitation
-- **[[Front_running]]**: Users' transactions exploited for profit
-- **[[Sandwich_attacks]]**: Deliberate manipulation of user transaction outcomes
+- **[[front running]]**: Users' transactions exploited for profit
+- **[[sandwich attacks]]**: Deliberate manipulation of user transaction outcomes
 - **Increased costs**: Higher gas fees due to MEV competition
 
 ### Market Manipulation
@@ -99,14 +98,14 @@
 
 ## Related Concepts
 
-- [[Front_running]] - Primary MEV extraction technique
-- [[Sandwich_attacks]] - Specific MEV exploitation method
+- [[front running]] - Primary MEV extraction technique
+- [[sandwich attacks]] - Specific MEV exploitation method
 - [[Arbitrage]] - Market efficiency mechanism
-- [[Automated_Market_Makers]] - Common MEV target
-- [[Flash_Loans]] - Tool for MEV extraction
-- [[Proof_of_Stake]] - Consensus mechanism enabling MEV
+- [[automated market makers (AMMs)]] - Common MEV target
+- [[Flash Loans]] - Tool for MEV extraction
+- [[Proof of Stake (PoS)]] - Consensus mechanism enabling MEV
 - [[Gas]] - Fee mechanism affected by MEV
-- [[Decentralized_Exchange]] - Primary MEV extraction venue
+- [[decentralized exchanges]] - Primary MEV extraction venue
 - [[Liquidity]] - Market property affected by MEV
 - [[Market_Manipulation]] - Potential negative outcome
 

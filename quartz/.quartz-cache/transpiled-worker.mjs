@@ -11507,9 +11507,8 @@ var RemoveDrafts = /* @__PURE__ */ __name(() => ({
 import path6 from "path";
 
 // quartz/components/Header.tsx
-import { jsx } from "preact/jsx-runtime";
 var Header = /* @__PURE__ */ __name(({ children }) => {
-  return children.length > 0 ? /* @__PURE__ */ jsx("header", { children }) : null;
+  return children.length > 0 ? /* @__PURE__ */ React.createElement("header", null, children) : null;
 }, "Header");
 Header.css = `
 header {
@@ -11534,9 +11533,8 @@ var clipboard_inline_default = "";
 var clipboard_default = "";
 
 // quartz/components/Body.tsx
-import { jsx as jsx2 } from "preact/jsx-runtime";
 var Body = /* @__PURE__ */ __name(({ children }) => {
-  return /* @__PURE__ */ jsx2("div", { id: "quartz-body", children });
+  return /* @__PURE__ */ React.createElement("div", { id: "quartz-body" }, children);
 }, "Body");
 Body.afterDOMLoaded = clipboard_inline_default;
 Body.css = clipboard_default;
@@ -11547,22 +11545,21 @@ import { render } from "preact-render-to-string";
 
 // quartz/util/resources.tsx
 import { randomUUID } from "crypto";
-import { jsx as jsx3 } from "preact/jsx-runtime";
 function JSResourceToScriptElement(resource, preserve) {
   const scriptType = resource.moduleType ?? "application/javascript";
   const spaPreserve = preserve ?? resource.spaPreserve;
   if (resource.contentType === "external") {
-    return /* @__PURE__ */ jsx3("script", { src: resource.src, type: scriptType, "spa-preserve": spaPreserve }, resource.src);
+    return /* @__PURE__ */ React.createElement("script", { key: resource.src, src: resource.src, type: scriptType, "spa-preserve": spaPreserve });
   } else {
     const content = resource.script;
-    return /* @__PURE__ */ jsx3(
+    return /* @__PURE__ */ React.createElement(
       "script",
       {
+        key: randomUUID(),
         type: scriptType,
         "spa-preserve": spaPreserve,
         dangerouslySetInnerHTML: { __html: content }
-      },
-      randomUUID()
+      }
     );
   }
 }
@@ -11570,17 +11567,17 @@ __name(JSResourceToScriptElement, "JSResourceToScriptElement");
 function CSSResourceToStyleElement(resource, preserve) {
   const spaPreserve = preserve ?? resource.spaPreserve;
   if (resource.inline ?? false) {
-    return /* @__PURE__ */ jsx3("style", { children: resource.content });
+    return /* @__PURE__ */ React.createElement("style", null, resource.content);
   } else {
-    return /* @__PURE__ */ jsx3(
+    return /* @__PURE__ */ React.createElement(
       "link",
       {
+        key: resource.content,
         href: resource.content,
         rel: "stylesheet",
         type: "text/css",
         "spa-preserve": spaPreserve
-      },
-      resource.content
+      }
     );
   }
 }
@@ -11592,7 +11589,6 @@ __name(concatenateResources, "concatenateResources");
 
 // quartz/components/renderPage.tsx
 import { visit as visit6 } from "unist-util-visit";
-import { jsx as jsx4, jsxs } from "preact/jsx-runtime";
 var headerRegex = new RegExp(/h[1-6]/);
 function pageResources(baseDir, staticResources) {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json");
@@ -11748,35 +11744,18 @@ function renderPage(cfg, slug, componentData, components, pageResources2) {
   } = components;
   const Header2 = Header_default();
   const Body2 = Body_default();
-  const LeftComponent = /* @__PURE__ */ jsx4("div", { class: "left sidebar", children: left.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) });
-  const RightComponent = /* @__PURE__ */ jsx4("div", { class: "right sidebar", children: right.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) });
+  const LeftComponent = /* @__PURE__ */ React.createElement("div", { class: "left sidebar" }, left.map((BodyComponent) => /* @__PURE__ */ React.createElement(BodyComponent, { ...componentData })));
+  const RightComponent = /* @__PURE__ */ React.createElement("div", { class: "right sidebar" }, right.map((BodyComponent) => /* @__PURE__ */ React.createElement(BodyComponent, { ...componentData })));
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en";
   const direction = i18n(cfg.locale).direction ?? "ltr";
-  const doc = /* @__PURE__ */ jsxs("html", { lang, dir: direction, children: [
-    /* @__PURE__ */ jsx4(Head, { ...componentData }),
-    /* @__PURE__ */ jsx4("body", { "data-slug": slug, children: /* @__PURE__ */ jsx4("div", { id: "quartz-root", class: "page", children: /* @__PURE__ */ jsxs(Body2, { ...componentData, children: [
-      LeftComponent,
-      /* @__PURE__ */ jsxs("div", { class: "center", children: [
-        /* @__PURE__ */ jsxs("div", { class: "page-header", children: [
-          /* @__PURE__ */ jsx4(Header2, { ...componentData, children: header.map((HeaderComponent) => /* @__PURE__ */ jsx4(HeaderComponent, { ...componentData })) }),
-          /* @__PURE__ */ jsx4("div", { class: "popover-hint", children: beforeBody.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) })
-        ] }),
-        /* @__PURE__ */ jsx4(Content2, { ...componentData }),
-        /* @__PURE__ */ jsx4("hr", {}),
-        /* @__PURE__ */ jsx4("div", { class: "page-footer", children: afterBody.map((BodyComponent) => /* @__PURE__ */ jsx4(BodyComponent, { ...componentData })) })
-      ] }),
-      RightComponent,
-      /* @__PURE__ */ jsx4(Footer, { ...componentData })
-    ] }) }) }),
-    pageResources2.js.filter((resource) => resource.loadTime === "afterDOMReady").map((res) => JSResourceToScriptElement(res))
-  ] });
+  const doc = /* @__PURE__ */ React.createElement("html", { lang, dir: direction }, /* @__PURE__ */ React.createElement(Head, { ...componentData }), /* @__PURE__ */ React.createElement("body", { "data-slug": slug }, /* @__PURE__ */ React.createElement("div", { id: "quartz-root", class: "page" }, /* @__PURE__ */ React.createElement(Body2, { ...componentData }, LeftComponent, /* @__PURE__ */ React.createElement("div", { class: "center" }, /* @__PURE__ */ React.createElement("div", { class: "page-header" }, /* @__PURE__ */ React.createElement(Header2, { ...componentData }, header.map((HeaderComponent) => /* @__PURE__ */ React.createElement(HeaderComponent, { ...componentData }))), /* @__PURE__ */ React.createElement("div", { class: "popover-hint" }, beforeBody.map((BodyComponent) => /* @__PURE__ */ React.createElement(BodyComponent, { ...componentData })))), /* @__PURE__ */ React.createElement(Content2, { ...componentData }), /* @__PURE__ */ React.createElement("hr", null), /* @__PURE__ */ React.createElement("div", { class: "page-footer" }, afterBody.map((BodyComponent) => /* @__PURE__ */ React.createElement(BodyComponent, { ...componentData })))), RightComponent, /* @__PURE__ */ React.createElement(Footer, { ...componentData })))), pageResources2.js.filter((resource) => resource.loadTime === "afterDOMReady").map((res) => JSResourceToScriptElement(res)));
   return "<!DOCTYPE html>\n" + render(doc);
 }
 __name(renderPage, "renderPage");
 
 // quartz/util/jsx.tsx
 import { toJsxRuntime } from "hast-util-to-jsx-runtime";
-import { Fragment, jsx as jsx5, jsxs as jsxs2 } from "preact/jsx-runtime";
+import { Fragment, jsx, jsxs } from "preact/jsx-runtime";
 
 // quartz/util/trace.ts
 import { styleText as styleText2 } from "util";
@@ -11813,16 +11792,15 @@ function trace(msg, err) {
 __name(trace, "trace");
 
 // quartz/util/jsx.tsx
-import { jsx as jsx6 } from "preact/jsx-runtime";
 var customComponents = {
-  table: /* @__PURE__ */ __name((props) => /* @__PURE__ */ jsx6("div", { class: "table-container", children: /* @__PURE__ */ jsx6("table", { ...props }) }), "table")
+  table: /* @__PURE__ */ __name((props) => /* @__PURE__ */ React.createElement("div", { class: "table-container" }, /* @__PURE__ */ React.createElement("table", { ...props })), "table")
 };
 function htmlToJsx(fp, tree) {
   try {
     return toJsxRuntime(tree, {
       Fragment,
-      jsx: jsx5,
-      jsxs: jsxs2,
+      jsx,
+      jsxs,
       elementAttributeNameCase: "html",
       components: customComponents
     });
@@ -11833,12 +11811,11 @@ function htmlToJsx(fp, tree) {
 __name(htmlToJsx, "htmlToJsx");
 
 // quartz/components/pages/Content.tsx
-import { jsx as jsx7 } from "preact/jsx-runtime";
 var Content = /* @__PURE__ */ __name(({ fileData, tree }) => {
   const content = htmlToJsx(fileData.filePath, tree);
   const classes = fileData.frontmatter?.cssclasses ?? [];
   const classString = ["popover-hint", ...classes].join(" ");
-  return /* @__PURE__ */ jsx7("article", { class: classString, children: content });
+  return /* @__PURE__ */ React.createElement("article", { class: classString }, content);
 }, "Content");
 var Content_default = /* @__PURE__ */ __name((() => Content), "default");
 
@@ -11846,7 +11823,6 @@ var Content_default = /* @__PURE__ */ __name((() => Content), "default");
 var listPage_default = "";
 
 // quartz/components/Date.tsx
-import { jsx as jsx8 } from "preact/jsx-runtime";
 function getDate(cfg, data) {
   if (!cfg.defaultDateType) {
     throw new Error(
@@ -11865,12 +11841,11 @@ function formatDate(d, locale = "en-US") {
 }
 __name(formatDate, "formatDate");
 function Date2({ date, locale }) {
-  return /* @__PURE__ */ jsx8("time", { datetime: date.toISOString(), children: formatDate(date, locale) });
+  return /* @__PURE__ */ React.createElement("time", { datetime: date.toISOString() }, formatDate(date, locale));
 }
 __name(Date2, "Date");
 
 // quartz/components/PageList.tsx
-import { jsx as jsx9, jsxs as jsxs3 } from "preact/jsx-runtime";
 function byDateAndAlphabeticalFolderFirst(cfg) {
   return (f1, f2) => {
     const f1IsFolder = isFolderPath(f1.slug ?? "");
@@ -11896,22 +11871,18 @@ var PageList = /* @__PURE__ */ __name(({ cfg, fileData, allFiles, limit, sort })
   if (limit) {
     list = list.slice(0, limit);
   }
-  return /* @__PURE__ */ jsx9("ul", { class: "section-ul", children: list.map((page) => {
+  return /* @__PURE__ */ React.createElement("ul", { class: "section-ul" }, list.map((page) => {
     const title = page.frontmatter?.title;
     const tags = page.frontmatter?.tags ?? [];
-    return /* @__PURE__ */ jsx9("li", { class: "section-li", children: /* @__PURE__ */ jsxs3("div", { class: "section", children: [
-      /* @__PURE__ */ jsx9("p", { class: "meta", children: page.dates && /* @__PURE__ */ jsx9(Date2, { date: getDate(cfg, page), locale: cfg.locale }) }),
-      /* @__PURE__ */ jsx9("div", { class: "desc", children: /* @__PURE__ */ jsx9("h3", { children: /* @__PURE__ */ jsx9("a", { href: resolveRelative(fileData.slug, page.slug), class: "internal", children: title }) }) }),
-      /* @__PURE__ */ jsx9("ul", { class: "tags", children: tags.map((tag) => /* @__PURE__ */ jsx9("li", { children: /* @__PURE__ */ jsx9(
-        "a",
-        {
-          class: "internal tag-link",
-          href: resolveRelative(fileData.slug, `tags/${tag}`),
-          children: tag
-        }
-      ) })) })
-    ] }) });
-  }) });
+    return /* @__PURE__ */ React.createElement("li", { class: "section-li" }, /* @__PURE__ */ React.createElement("div", { class: "section" }, /* @__PURE__ */ React.createElement("p", { class: "meta" }, page.dates && /* @__PURE__ */ React.createElement(Date2, { date: getDate(cfg, page), locale: cfg.locale })), /* @__PURE__ */ React.createElement("div", { class: "desc" }, /* @__PURE__ */ React.createElement("h3", null, /* @__PURE__ */ React.createElement("a", { href: resolveRelative(fileData.slug, page.slug), class: "internal" }, title))), /* @__PURE__ */ React.createElement("ul", { class: "tags" }, tags.map((tag) => /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(
+      "a",
+      {
+        class: "internal tag-link",
+        href: resolveRelative(fileData.slug, `tags/${tag}`)
+      },
+      tag
+    ))))));
+  }));
 }, "PageList");
 PageList.css = `
 .section h3 {
@@ -11924,7 +11895,6 @@ PageList.css = `
 `;
 
 // quartz/components/pages/TagContent.tsx
-import { Fragment as Fragment2, jsx as jsx10, jsxs as jsxs4 } from "preact/jsx-runtime";
 var defaultOptions9 = {
   numPages: 10
 };
@@ -11953,51 +11923,28 @@ var TagContent_default = /* @__PURE__ */ __name(((opts) => {
       for (const tag2 of tags) {
         tagItemMap.set(tag2, allPagesWithTag(tag2));
       }
-      return /* @__PURE__ */ jsxs4("div", { class: "popover-hint", children: [
-        /* @__PURE__ */ jsx10("article", { class: classes, children: /* @__PURE__ */ jsx10("p", { children: content }) }),
-        /* @__PURE__ */ jsx10("p", { children: i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length }) }),
-        /* @__PURE__ */ jsx10("div", { children: tags.map((tag2) => {
-          const pages = tagItemMap.get(tag2);
-          const listProps = {
-            ...props,
-            allFiles: pages
-          };
-          const contentPage = allFiles.filter((file) => file.slug === `tags/${tag2}`).at(0);
-          const root = contentPage?.htmlAst;
-          const content2 = !root || root?.children.length === 0 ? contentPage?.description : htmlToJsx(contentPage.filePath, root);
-          const tagListingPage = `/tags/${tag2}`;
-          const href = resolveRelative(fileData.slug, tagListingPage);
-          return /* @__PURE__ */ jsxs4("div", { children: [
-            /* @__PURE__ */ jsx10("h2", { children: /* @__PURE__ */ jsx10("a", { class: "internal tag-link", href, children: tag2 }) }),
-            content2 && /* @__PURE__ */ jsx10("p", { children: content2 }),
-            /* @__PURE__ */ jsxs4("div", { class: "page-listing", children: [
-              /* @__PURE__ */ jsxs4("p", { children: [
-                i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length }),
-                pages.length > options2.numPages && /* @__PURE__ */ jsxs4(Fragment2, { children: [
-                  " ",
-                  /* @__PURE__ */ jsx10("span", { children: i18n(cfg.locale).pages.tagContent.showingFirst({
-                    count: options2.numPages
-                  }) })
-                ] })
-              ] }),
-              /* @__PURE__ */ jsx10(PageList, { limit: options2.numPages, ...listProps, sort: options2?.sort })
-            ] })
-          ] });
-        }) })
-      ] });
+      return /* @__PURE__ */ React.createElement("div", { class: "popover-hint" }, /* @__PURE__ */ React.createElement("article", { class: classes }, /* @__PURE__ */ React.createElement("p", null, content)), /* @__PURE__ */ React.createElement("p", null, i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })), /* @__PURE__ */ React.createElement("div", null, tags.map((tag2) => {
+        const pages = tagItemMap.get(tag2);
+        const listProps = {
+          ...props,
+          allFiles: pages
+        };
+        const contentPage = allFiles.filter((file) => file.slug === `tags/${tag2}`).at(0);
+        const root = contentPage?.htmlAst;
+        const content2 = !root || root?.children.length === 0 ? contentPage?.description : htmlToJsx(contentPage.filePath, root);
+        const tagListingPage = `/tags/${tag2}`;
+        const href = resolveRelative(fileData.slug, tagListingPage);
+        return /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement("h2", null, /* @__PURE__ */ React.createElement("a", { class: "internal tag-link", href }, tag2)), content2 && /* @__PURE__ */ React.createElement("p", null, content2), /* @__PURE__ */ React.createElement("div", { class: "page-listing" }, /* @__PURE__ */ React.createElement("p", null, i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length }), pages.length > options2.numPages && /* @__PURE__ */ React.createElement(React.Fragment, null, " ", /* @__PURE__ */ React.createElement("span", null, i18n(cfg.locale).pages.tagContent.showingFirst({
+          count: options2.numPages
+        })))), /* @__PURE__ */ React.createElement(PageList, { limit: options2.numPages, ...listProps, sort: options2?.sort })));
+      })));
     } else {
       const pages = allPagesWithTag(tag);
       const listProps = {
         ...props,
         allFiles: pages
       };
-      return /* @__PURE__ */ jsxs4("div", { class: "popover-hint", children: [
-        /* @__PURE__ */ jsx10("article", { class: classes, children: content }),
-        /* @__PURE__ */ jsxs4("div", { class: "page-listing", children: [
-          /* @__PURE__ */ jsx10("p", { children: i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length }) }),
-          /* @__PURE__ */ jsx10("div", { children: /* @__PURE__ */ jsx10(PageList, { ...listProps, sort: options2?.sort }) })
-        ] })
-      ] });
+      return /* @__PURE__ */ React.createElement("div", { class: "popover-hint" }, /* @__PURE__ */ React.createElement("article", { class: classes }, content), /* @__PURE__ */ React.createElement("div", { class: "page-listing" }, /* @__PURE__ */ React.createElement("p", null, i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })), /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement(PageList, { ...listProps, sort: options2?.sort }))));
     }
   }, "TagContent");
   TagContent.css = concatenateResources(listPage_default, PageList.css);
@@ -12155,7 +12102,6 @@ function trieFromAllFiles(allFiles) {
 __name(trieFromAllFiles, "trieFromAllFiles");
 
 // quartz/components/pages/FolderContent.tsx
-import { jsx as jsx11, jsxs as jsxs5 } from "preact/jsx-runtime";
 var defaultOptions10 = {
   showFolderCount: true,
   showSubfolders: true
@@ -12217,39 +12163,27 @@ var FolderContent_default = /* @__PURE__ */ __name(((opts) => {
       allFiles: allPagesInFolder
     };
     const content = tree.children.length === 0 ? fileData.description : htmlToJsx(fileData.filePath, tree);
-    return /* @__PURE__ */ jsxs5("div", { class: "popover-hint", children: [
-      /* @__PURE__ */ jsx11("article", { class: classes, children: content }),
-      /* @__PURE__ */ jsxs5("div", { class: "page-listing", children: [
-        options2.showFolderCount && /* @__PURE__ */ jsx11("p", { children: i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-          count: allPagesInFolder.length
-        }) }),
-        /* @__PURE__ */ jsx11("div", { children: /* @__PURE__ */ jsx11(PageList, { ...listProps }) })
-      ] })
-    ] });
+    return /* @__PURE__ */ React.createElement("div", { class: "popover-hint" }, /* @__PURE__ */ React.createElement("article", { class: classes }, content), /* @__PURE__ */ React.createElement("div", { class: "page-listing" }, options2.showFolderCount && /* @__PURE__ */ React.createElement("p", null, i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
+      count: allPagesInFolder.length
+    })), /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement(PageList, { ...listProps }))));
   }, "FolderContent");
   FolderContent.css = concatenateResources(listPage_default, PageList.css);
   return FolderContent;
 }), "default");
 
 // quartz/components/pages/404.tsx
-import { jsx as jsx12, jsxs as jsxs6 } from "preact/jsx-runtime";
 var NotFound = /* @__PURE__ */ __name(({ cfg }) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`);
   const baseDir = url.pathname;
-  return /* @__PURE__ */ jsxs6("article", { class: "popover-hint", children: [
-    /* @__PURE__ */ jsx12("h1", { children: "404" }),
-    /* @__PURE__ */ jsx12("p", { children: i18n(cfg.locale).pages.error.notFound }),
-    /* @__PURE__ */ jsx12("a", { href: baseDir, children: i18n(cfg.locale).pages.error.home })
-  ] });
+  return /* @__PURE__ */ React.createElement("article", { class: "popover-hint" }, /* @__PURE__ */ React.createElement("h1", null, "404"), /* @__PURE__ */ React.createElement("p", null, i18n(cfg.locale).pages.error.notFound), /* @__PURE__ */ React.createElement("a", { href: baseDir }, i18n(cfg.locale).pages.error.home));
 }, "NotFound");
 var __default = /* @__PURE__ */ __name((() => NotFound), "default");
 
 // quartz/components/ArticleTitle.tsx
-import { jsx as jsx13 } from "preact/jsx-runtime";
 var ArticleTitle = /* @__PURE__ */ __name(({ fileData, displayClass }) => {
   const title = fileData.frontmatter?.title;
   if (title) {
-    return /* @__PURE__ */ jsx13("h1", { class: classNames(displayClass, "article-title"), children: title });
+    return /* @__PURE__ */ React.createElement("h1", { class: classNames(displayClass, "article-title") }, title);
   } else {
     return null;
   }
@@ -12268,48 +12202,40 @@ var darkmode_inline_default = "";
 var darkmode_default = "";
 
 // quartz/components/Darkmode.tsx
-import { jsx as jsx14, jsxs as jsxs7 } from "preact/jsx-runtime";
 var Darkmode = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
-  return /* @__PURE__ */ jsxs7("button", { class: classNames(displayClass, "darkmode"), children: [
-    /* @__PURE__ */ jsxs7(
-      "svg",
-      {
-        xmlns: "http://www.w3.org/2000/svg",
-        xmlnsXlink: "http://www.w3.org/1999/xlink",
-        version: "1.1",
-        class: "dayIcon",
-        x: "0px",
-        y: "0px",
-        viewBox: "0 0 35 35",
-        style: "enable-background:new 0 0 35 35",
-        xmlSpace: "preserve",
-        "aria-label": i18n(cfg.locale).components.themeToggle.darkMode,
-        children: [
-          /* @__PURE__ */ jsx14("title", { children: i18n(cfg.locale).components.themeToggle.darkMode }),
-          /* @__PURE__ */ jsx14("path", { d: "M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z" })
-        ]
-      }
-    ),
-    /* @__PURE__ */ jsxs7(
-      "svg",
-      {
-        xmlns: "http://www.w3.org/2000/svg",
-        xmlnsXlink: "http://www.w3.org/1999/xlink",
-        version: "1.1",
-        class: "nightIcon",
-        x: "0px",
-        y: "0px",
-        viewBox: "0 0 100 100",
-        style: "enable-background:new 0 0 100 100",
-        xmlSpace: "preserve",
-        "aria-label": i18n(cfg.locale).components.themeToggle.lightMode,
-        children: [
-          /* @__PURE__ */ jsx14("title", { children: i18n(cfg.locale).components.themeToggle.lightMode }),
-          /* @__PURE__ */ jsx14("path", { d: "M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z" })
-        ]
-      }
-    )
-  ] });
+  return /* @__PURE__ */ React.createElement("button", { class: classNames(displayClass, "darkmode") }, /* @__PURE__ */ React.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      xmlnsXlink: "http://www.w3.org/1999/xlink",
+      version: "1.1",
+      class: "dayIcon",
+      x: "0px",
+      y: "0px",
+      viewBox: "0 0 35 35",
+      style: "enable-background:new 0 0 35 35",
+      xmlSpace: "preserve",
+      "aria-label": i18n(cfg.locale).components.themeToggle.darkMode
+    },
+    /* @__PURE__ */ React.createElement("title", null, i18n(cfg.locale).components.themeToggle.darkMode),
+    /* @__PURE__ */ React.createElement("path", { d: "M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z" })
+  ), /* @__PURE__ */ React.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      xmlnsXlink: "http://www.w3.org/1999/xlink",
+      version: "1.1",
+      class: "nightIcon",
+      x: "0px",
+      y: "0px",
+      viewBox: "0 0 100 100",
+      style: "enable-background:new 0 0 100 100",
+      xmlSpace: "preserve",
+      "aria-label": i18n(cfg.locale).components.themeToggle.lightMode
+    },
+    /* @__PURE__ */ React.createElement("title", null, i18n(cfg.locale).components.themeToggle.lightMode),
+    /* @__PURE__ */ React.createElement("path", { d: "M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z" })
+  ));
 }, "Darkmode");
 Darkmode.beforeDOMLoaded = darkmode_inline_default;
 Darkmode.css = darkmode_default;
@@ -12322,9 +12248,8 @@ var readermode_inline_default = "";
 var readermode_default = "";
 
 // quartz/components/ReaderMode.tsx
-import { jsx as jsx15, jsxs as jsxs8 } from "preact/jsx-runtime";
 var ReaderMode = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
-  return /* @__PURE__ */ jsx15("button", { class: classNames(displayClass, "readermode"), children: /* @__PURE__ */ jsxs8(
+  return /* @__PURE__ */ React.createElement("button", { class: classNames(displayClass, "readermode") }, /* @__PURE__ */ React.createElement(
     "svg",
     {
       xmlns: "http://www.w3.org/2000/svg",
@@ -12339,13 +12264,11 @@ var ReaderMode = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
       width: "64px",
       height: "64px",
       viewBox: "0 0 24 24",
-      "aria-label": i18n(cfg.locale).components.readerMode.title,
-      children: [
-        /* @__PURE__ */ jsx15("title", { children: i18n(cfg.locale).components.readerMode.title }),
-        /* @__PURE__ */ jsx15("g", { transform: "translate(-1.8, -1.8) scale(1.15, 1.2)", children: /* @__PURE__ */ jsx15("path", { d: "M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z" }) })
-      ]
-    }
-  ) });
+      "aria-label": i18n(cfg.locale).components.readerMode.title
+    },
+    /* @__PURE__ */ React.createElement("title", null, i18n(cfg.locale).components.readerMode.title),
+    /* @__PURE__ */ React.createElement("g", { transform: "translate(-1.8, -1.8) scale(1.15, 1.2)" }, /* @__PURE__ */ React.createElement("path", { d: "M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z" }))
+  ));
 }, "ReaderMode");
 ReaderMode.beforeDOMLoaded = readermode_inline_default;
 ReaderMode.css = readermode_default;
@@ -12460,7 +12383,6 @@ import { promises as fs2 } from "fs";
 import path4 from "path";
 import readingTime from "reading-time";
 import { styleText as styleText3 } from "util";
-import { jsx as jsx16, jsxs as jsxs9 } from "preact/jsx-runtime";
 var defaultHeaderWeight = [700];
 var defaultBodyWeight = [400];
 async function getSatoriFonts(headerFont, bodyFont) {
@@ -12552,7 +12474,7 @@ var defaultImage = /* @__PURE__ */ __name(({
   const tags = fileData.frontmatter?.tags ?? [];
   const bodyFont = getFontSpecificationName(cfg.theme.typography.body);
   const headerFont = getFontSpecificationName(cfg.theme.typography.header);
-  return /* @__PURE__ */ jsxs9(
+  return /* @__PURE__ */ React.createElement(
     "div",
     {
       style: {
@@ -12563,197 +12485,177 @@ var defaultImage = /* @__PURE__ */ __name(({
         backgroundColor: cfg.theme.colors[colorScheme].light,
         padding: "2.5rem",
         fontFamily: bodyFont
+      }
+    },
+    /* @__PURE__ */ React.createElement(
+      "div",
+      {
+        style: {
+          display: "flex",
+          alignItems: "center",
+          gap: "1rem",
+          marginBottom: "0.5rem"
+        }
       },
-      children: [
-        /* @__PURE__ */ jsxs9(
+      iconBase64 && /* @__PURE__ */ React.createElement(
+        "img",
+        {
+          src: iconBase64,
+          width: 56,
+          height: 56,
+          style: {
+            borderRadius: "50%"
+          }
+        }
+      ),
+      /* @__PURE__ */ React.createElement(
+        "div",
+        {
+          style: {
+            display: "flex",
+            fontSize: 32,
+            color: cfg.theme.colors[colorScheme].gray,
+            fontFamily: bodyFont
+          }
+        },
+        cfg.baseUrl
+      )
+    ),
+    /* @__PURE__ */ React.createElement(
+      "div",
+      {
+        style: {
+          display: "flex",
+          marginTop: "1rem",
+          marginBottom: "1.5rem"
+        }
+      },
+      /* @__PURE__ */ React.createElement(
+        "h1",
+        {
+          style: {
+            margin: 0,
+            fontSize: useSmallerFont ? 64 : 72,
+            fontFamily: headerFont,
+            fontWeight: 700,
+            color: cfg.theme.colors[colorScheme].dark,
+            lineHeight: 1.2,
+            display: "-webkit-box",
+            WebkitBoxOrient: "vertical",
+            WebkitLineClamp: 2,
+            overflow: "hidden",
+            textOverflow: "ellipsis"
+          }
+        },
+        title
+      )
+    ),
+    /* @__PURE__ */ React.createElement(
+      "div",
+      {
+        style: {
+          display: "flex",
+          flex: 1,
+          fontSize: 36,
+          color: cfg.theme.colors[colorScheme].darkgray,
+          lineHeight: 1.4
+        }
+      },
+      /* @__PURE__ */ React.createElement(
+        "p",
+        {
+          style: {
+            margin: 0,
+            display: "-webkit-box",
+            WebkitBoxOrient: "vertical",
+            WebkitLineClamp: 5,
+            overflow: "hidden",
+            textOverflow: "ellipsis"
+          }
+        },
+        description
+      )
+    ),
+    /* @__PURE__ */ React.createElement(
+      "div",
+      {
+        style: {
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "space-between",
+          marginTop: "2rem",
+          paddingTop: "2rem",
+          borderTop: `1px solid ${cfg.theme.colors[colorScheme].lightgray}`
+        }
+      },
+      /* @__PURE__ */ React.createElement(
+        "div",
+        {
+          style: {
+            display: "flex",
+            alignItems: "center",
+            gap: "2rem",
+            color: cfg.theme.colors[colorScheme].gray,
+            fontSize: 28
+          }
+        },
+        date && /* @__PURE__ */ React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /* @__PURE__ */ React.createElement(
+          "svg",
+          {
+            style: { marginRight: "0.5rem" },
+            width: "28",
+            height: "28",
+            viewBox: "0 0 24 24",
+            fill: "none",
+            stroke: "currentColor"
+          },
+          /* @__PURE__ */ React.createElement("rect", { x: "3", y: "4", width: "18", height: "18", rx: "2", ry: "2" }),
+          /* @__PURE__ */ React.createElement("line", { x1: "16", y1: "2", x2: "16", y2: "6" }),
+          /* @__PURE__ */ React.createElement("line", { x1: "8", y1: "2", x2: "8", y2: "6" }),
+          /* @__PURE__ */ React.createElement("line", { x1: "3", y1: "10", x2: "21", y2: "10" })
+        ), date),
+        /* @__PURE__ */ React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /* @__PURE__ */ React.createElement(
+          "svg",
+          {
+            style: { marginRight: "0.5rem" },
+            width: "28",
+            height: "28",
+            viewBox: "0 0 24 24",
+            fill: "none",
+            stroke: "currentColor"
+          },
+          /* @__PURE__ */ React.createElement("circle", { cx: "12", cy: "12", r: "10" }),
+          /* @__PURE__ */ React.createElement("polyline", { points: "12 6 12 12 16 14" })
+        ), readingTimeText)
+      ),
+      /* @__PURE__ */ React.createElement(
+        "div",
+        {
+          style: {
+            display: "flex",
+            gap: "0.5rem",
+            flexWrap: "wrap",
+            justifyContent: "flex-end",
+            maxWidth: "60%"
+          }
+        },
+        tags.slice(0, 3).map((tag) => /* @__PURE__ */ React.createElement(
           "div",
           {
             style: {
               display: "flex",
-              alignItems: "center",
-              gap: "1rem",
-              marginBottom: "0.5rem"
-            },
-            children: [
-              iconBase64 && /* @__PURE__ */ jsx16(
-                "img",
-                {
-                  src: iconBase64,
-                  width: 56,
-                  height: 56,
-                  style: {
-                    borderRadius: "50%"
-                  }
-                }
-              ),
-              /* @__PURE__ */ jsx16(
-                "div",
-                {
-                  style: {
-                    display: "flex",
-                    fontSize: 32,
-                    color: cfg.theme.colors[colorScheme].gray,
-                    fontFamily: bodyFont
-                  },
-                  children: cfg.baseUrl
-                }
-              )
-            ]
-          }
-        ),
-        /* @__PURE__ */ jsx16(
-          "div",
-          {
-            style: {
-              display: "flex",
-              marginTop: "1rem",
-              marginBottom: "1.5rem"
-            },
-            children: /* @__PURE__ */ jsx16(
-              "h1",
-              {
-                style: {
-                  margin: 0,
-                  fontSize: useSmallerFont ? 64 : 72,
-                  fontFamily: headerFont,
-                  fontWeight: 700,
-                  color: cfg.theme.colors[colorScheme].dark,
-                  lineHeight: 1.2,
-                  display: "-webkit-box",
-                  WebkitBoxOrient: "vertical",
-                  WebkitLineClamp: 2,
-                  overflow: "hidden",
-                  textOverflow: "ellipsis"
-                },
-                children: title
-              }
-            )
-          }
-        ),
-        /* @__PURE__ */ jsx16(
-          "div",
-          {
-            style: {
-              display: "flex",
-              flex: 1,
-              fontSize: 36,
-              color: cfg.theme.colors[colorScheme].darkgray,
-              lineHeight: 1.4
-            },
-            children: /* @__PURE__ */ jsx16(
-              "p",
-              {
-                style: {
-                  margin: 0,
-                  display: "-webkit-box",
-                  WebkitBoxOrient: "vertical",
-                  WebkitLineClamp: 5,
-                  overflow: "hidden",
-                  textOverflow: "ellipsis"
-                },
-                children: description
-              }
-            )
-          }
-        ),
-        /* @__PURE__ */ jsxs9(
-          "div",
-          {
-            style: {
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "space-between",
-              marginTop: "2rem",
-              paddingTop: "2rem",
-              borderTop: `1px solid ${cfg.theme.colors[colorScheme].lightgray}`
-            },
-            children: [
-              /* @__PURE__ */ jsxs9(
-                "div",
-                {
-                  style: {
-                    display: "flex",
-                    alignItems: "center",
-                    gap: "2rem",
-                    color: cfg.theme.colors[colorScheme].gray,
-                    fontSize: 28
-                  },
-                  children: [
-                    date && /* @__PURE__ */ jsxs9("div", { style: { display: "flex", alignItems: "center" }, children: [
-                      /* @__PURE__ */ jsxs9(
-                        "svg",
-                        {
-                          style: { marginRight: "0.5rem" },
-                          width: "28",
-                          height: "28",
-                          viewBox: "0 0 24 24",
-                          fill: "none",
-                          stroke: "currentColor",
-                          children: [
-                            /* @__PURE__ */ jsx16("rect", { x: "3", y: "4", width: "18", height: "18", rx: "2", ry: "2" }),
-                            /* @__PURE__ */ jsx16("line", { x1: "16", y1: "2", x2: "16", y2: "6" }),
-                            /* @__PURE__ */ jsx16("line", { x1: "8", y1: "2", x2: "8", y2: "6" }),
-                            /* @__PURE__ */ jsx16("line", { x1: "3", y1: "10", x2: "21", y2: "10" })
-                          ]
-                        }
-                      ),
-                      date
-                    ] }),
-                    /* @__PURE__ */ jsxs9("div", { style: { display: "flex", alignItems: "center" }, children: [
-                      /* @__PURE__ */ jsxs9(
-                        "svg",
-                        {
-                          style: { marginRight: "0.5rem" },
-                          width: "28",
-                          height: "28",
-                          viewBox: "0 0 24 24",
-                          fill: "none",
-                          stroke: "currentColor",
-                          children: [
-                            /* @__PURE__ */ jsx16("circle", { cx: "12", cy: "12", r: "10" }),
-                            /* @__PURE__ */ jsx16("polyline", { points: "12 6 12 12 16 14" })
-                          ]
-                        }
-                      ),
-                      readingTimeText
-                    ] })
-                  ]
-                }
-              ),
-              /* @__PURE__ */ jsx16(
-                "div",
-                {
-                  style: {
-                    display: "flex",
-                    gap: "0.5rem",
-                    flexWrap: "wrap",
-                    justifyContent: "flex-end",
-                    maxWidth: "60%"
-                  },
-                  children: tags.slice(0, 3).map((tag) => /* @__PURE__ */ jsxs9(
-                    "div",
-                    {
-                      style: {
-                        display: "flex",
-                        padding: "0.5rem 1rem",
-                        backgroundColor: cfg.theme.colors[colorScheme].highlight,
-                        color: cfg.theme.colors[colorScheme].secondary,
-                        borderRadius: "10px",
-                        fontSize: 24
-                      },
-                      children: [
-                        "#",
-                        tag
-                      ]
-                    }
-                  ))
-                }
-              )
-            ]
-          }
-        )
-      ]
-    }
+              padding: "0.5rem 1rem",
+              backgroundColor: cfg.theme.colors[colorScheme].highlight,
+              color: cfg.theme.colors[colorScheme].secondary,
+              borderRadius: "10px",
+              fontSize: 24
+            }
+          },
+          "#",
+          tag
+        ))
+      )
+    )
   );
 }, "defaultImage");
 
@@ -12813,7 +12715,6 @@ var write = /* @__PURE__ */ __name(async ({ ctx, slug, ext, content }) => {
 // quartz/plugins/emitters/ogImage.tsx
 import fs4 from "node:fs/promises";
 import { styleText as styleText4 } from "util";
-import { Fragment as Fragment3, jsx as jsx17, jsxs as jsxs10 } from "preact/jsx-runtime";
 var defaultOptions11 = {
   colorScheme: "lightMode",
   width: 1200,
@@ -12926,16 +12827,7 @@ var CustomOgImages = /* @__PURE__ */ __name((userOpts) => {
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`;
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath;
             const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`;
-            return /* @__PURE__ */ jsxs10(Fragment3, { children: [
-              !userDefinedOgImagePath && /* @__PURE__ */ jsxs10(Fragment3, { children: [
-                /* @__PURE__ */ jsx17("meta", { property: "og:image:width", content: fullOptions.width.toString() }),
-                /* @__PURE__ */ jsx17("meta", { property: "og:image:height", content: fullOptions.height.toString() })
-              ] }),
-              /* @__PURE__ */ jsx17("meta", { property: "og:image", content: ogImagePath }),
-              /* @__PURE__ */ jsx17("meta", { property: "og:image:url", content: ogImagePath }),
-              /* @__PURE__ */ jsx17("meta", { name: "twitter:image", content: ogImagePath }),
-              /* @__PURE__ */ jsx17("meta", { property: "og:image:type", content: ogImageMimeType })
-            ] });
+            return /* @__PURE__ */ React.createElement(React.Fragment, null, !userDefinedOgImagePath && /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement("meta", { property: "og:image:width", content: fullOptions.width.toString() }), /* @__PURE__ */ React.createElement("meta", { property: "og:image:height", content: fullOptions.height.toString() })), /* @__PURE__ */ React.createElement("meta", { property: "og:image", content: ogImagePath }), /* @__PURE__ */ React.createElement("meta", { property: "og:image:url", content: ogImagePath }), /* @__PURE__ */ React.createElement("meta", { name: "twitter:image", content: ogImagePath }), /* @__PURE__ */ React.createElement("meta", { property: "og:image:type", content: ogImageMimeType }));
           }
         ]
       };
@@ -12944,7 +12836,6 @@ var CustomOgImages = /* @__PURE__ */ __name((userOpts) => {
 }, "CustomOgImages");
 
 // quartz/components/Head.tsx
-import { Fragment as Fragment4, jsx as jsx18, jsxs as jsxs11 } from "preact/jsx-runtime";
 var Head_default = /* @__PURE__ */ __name((() => {
   const Head = /* @__PURE__ */ __name(({
     cfg,
@@ -12965,65 +12856,28 @@ var Head_default = /* @__PURE__ */ __name((() => {
       (e) => e.name === CustomOgImagesEmitterName
     );
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`;
-    return /* @__PURE__ */ jsxs11("head", { children: [
-      /* @__PURE__ */ jsx18("title", { children: title }),
-      /* @__PURE__ */ jsx18("meta", { charSet: "utf-8" }),
-      cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && /* @__PURE__ */ jsxs11(Fragment4, { children: [
-        /* @__PURE__ */ jsx18("link", { rel: "preconnect", href: "https://fonts.googleapis.com" }),
-        /* @__PURE__ */ jsx18("link", { rel: "preconnect", href: "https://fonts.gstatic.com" }),
-        /* @__PURE__ */ jsx18("link", { rel: "stylesheet", href: googleFontHref(cfg.theme) }),
-        cfg.theme.typography.title && /* @__PURE__ */ jsx18("link", { rel: "stylesheet", href: googleFontSubsetHref(cfg.theme, cfg.pageTitle) })
-      ] }),
-      /* @__PURE__ */ jsx18("link", { rel: "preconnect", href: "https://cdnjs.cloudflare.com", crossOrigin: "anonymous" }),
-      /* @__PURE__ */ jsx18("meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }),
-      /* @__PURE__ */ jsx18("meta", { name: "og:site_name", content: cfg.pageTitle }),
-      /* @__PURE__ */ jsx18("meta", { property: "og:title", content: title }),
-      /* @__PURE__ */ jsx18("meta", { property: "og:type", content: "website" }),
-      /* @__PURE__ */ jsx18("meta", { name: "twitter:card", content: "summary_large_image" }),
-      /* @__PURE__ */ jsx18("meta", { name: "twitter:title", content: title }),
-      /* @__PURE__ */ jsx18("meta", { name: "twitter:description", content: description }),
-      /* @__PURE__ */ jsx18("meta", { property: "og:description", content: description }),
-      /* @__PURE__ */ jsx18("meta", { property: "og:image:alt", content: description }),
-      !usesCustomOgImage && /* @__PURE__ */ jsxs11(Fragment4, { children: [
-        /* @__PURE__ */ jsx18("meta", { property: "og:image", content: ogImageDefaultPath }),
-        /* @__PURE__ */ jsx18("meta", { property: "og:image:url", content: ogImageDefaultPath }),
-        /* @__PURE__ */ jsx18("meta", { name: "twitter:image", content: ogImageDefaultPath }),
-        /* @__PURE__ */ jsx18(
-          "meta",
-          {
-            property: "og:image:type",
-            content: `image/${getFileExtension(ogImageDefaultPath) ?? "png"}`
-          }
-        )
-      ] }),
-      cfg.baseUrl && /* @__PURE__ */ jsxs11(Fragment4, { children: [
-        /* @__PURE__ */ jsx18("meta", { property: "twitter:domain", content: cfg.baseUrl }),
-        /* @__PURE__ */ jsx18("meta", { property: "og:url", content: socialUrl }),
-        /* @__PURE__ */ jsx18("meta", { property: "twitter:url", content: socialUrl })
-      ] }),
-      /* @__PURE__ */ jsx18("link", { rel: "icon", href: iconPath }),
-      /* @__PURE__ */ jsx18("meta", { name: "description", content: description }),
-      /* @__PURE__ */ jsx18("meta", { name: "generator", content: "Quartz" }),
-      css.map((resource) => CSSResourceToStyleElement(resource, true)),
-      js.filter((resource) => resource.loadTime === "beforeDOMReady").map((res) => JSResourceToScriptElement(res, true)),
-      additionalHead.map((resource) => {
-        if (typeof resource === "function") {
-          return resource(fileData);
-        } else {
-          return resource;
-        }
-      })
-    ] });
+    return /* @__PURE__ */ React.createElement("head", null, /* @__PURE__ */ React.createElement("title", null, title), /* @__PURE__ */ React.createElement("meta", { charSet: "utf-8" }), cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement("link", { rel: "preconnect", href: "https://fonts.googleapis.com" }), /* @__PURE__ */ React.createElement("link", { rel: "preconnect", href: "https://fonts.gstatic.com" }), /* @__PURE__ */ React.createElement("link", { rel: "stylesheet", href: googleFontHref(cfg.theme) }), cfg.theme.typography.title && /* @__PURE__ */ React.createElement("link", { rel: "stylesheet", href: googleFontSubsetHref(cfg.theme, cfg.pageTitle) })), /* @__PURE__ */ React.createElement("link", { rel: "preconnect", href: "https://cdnjs.cloudflare.com", crossOrigin: "anonymous" }), /* @__PURE__ */ React.createElement("meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }), /* @__PURE__ */ React.createElement("meta", { name: "og:site_name", content: cfg.pageTitle }), /* @__PURE__ */ React.createElement("meta", { property: "og:title", content: title }), /* @__PURE__ */ React.createElement("meta", { property: "og:type", content: "website" }), /* @__PURE__ */ React.createElement("meta", { name: "twitter:card", content: "summary_large_image" }), /* @__PURE__ */ React.createElement("meta", { name: "twitter:title", content: title }), /* @__PURE__ */ React.createElement("meta", { name: "twitter:description", content: description }), /* @__PURE__ */ React.createElement("meta", { property: "og:description", content: description }), /* @__PURE__ */ React.createElement("meta", { property: "og:image:alt", content: description }), !usesCustomOgImage && /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement("meta", { property: "og:image", content: ogImageDefaultPath }), /* @__PURE__ */ React.createElement("meta", { property: "og:image:url", content: ogImageDefaultPath }), /* @__PURE__ */ React.createElement("meta", { name: "twitter:image", content: ogImageDefaultPath }), /* @__PURE__ */ React.createElement(
+      "meta",
+      {
+        property: "og:image:type",
+        content: `image/${getFileExtension(ogImageDefaultPath) ?? "png"}`
+      }
+    )), cfg.baseUrl && /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement("meta", { property: "twitter:domain", content: cfg.baseUrl }), /* @__PURE__ */ React.createElement("meta", { property: "og:url", content: socialUrl }), /* @__PURE__ */ React.createElement("meta", { property: "twitter:url", content: socialUrl })), /* @__PURE__ */ React.createElement("link", { rel: "icon", href: iconPath }), /* @__PURE__ */ React.createElement("meta", { name: "description", content: description }), /* @__PURE__ */ React.createElement("meta", { name: "generator", content: "Quartz" }), css.map((resource) => CSSResourceToStyleElement(resource, true)), js.filter((resource) => resource.loadTime === "beforeDOMReady").map((res) => JSResourceToScriptElement(res, true)), additionalHead.map((resource) => {
+      if (typeof resource === "function") {
+        return resource(fileData);
+      } else {
+        return resource;
+      }
+    }));
   }, "Head");
   return Head;
 }), "default");
 
 // quartz/components/PageTitle.tsx
-import { jsx as jsx19 } from "preact/jsx-runtime";
 var PageTitle = /* @__PURE__ */ __name(({ fileData, cfg, displayClass }) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title;
   const baseDir = pathToRoot(fileData.slug);
-  return /* @__PURE__ */ jsx19("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ jsx19("a", { href: baseDir, children: title }) });
+  return /* @__PURE__ */ React.createElement("h2", { class: classNames(displayClass, "page-title") }, /* @__PURE__ */ React.createElement("a", { href: baseDir }, title));
 }, "PageTitle");
 PageTitle.css = `
 .page-title {
@@ -13041,7 +12895,6 @@ import readingTime2 from "reading-time";
 var contentMeta_default = "";
 
 // quartz/components/ContentMeta.tsx
-import { jsx as jsx20 } from "preact/jsx-runtime";
 var defaultOptions12 = {
   showReadingTime: true,
   showComma: true
@@ -13053,16 +12906,16 @@ var ContentMeta_default = /* @__PURE__ */ __name(((opts) => {
     if (text) {
       const segments = [];
       if (fileData.dates) {
-        segments.push(/* @__PURE__ */ jsx20(Date2, { date: getDate(cfg, fileData), locale: cfg.locale }));
+        segments.push(/* @__PURE__ */ React.createElement(Date2, { date: getDate(cfg, fileData), locale: cfg.locale }));
       }
       if (options2.showReadingTime) {
         const { minutes, words: _words } = readingTime2(text);
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes)
         });
-        segments.push(/* @__PURE__ */ jsx20("span", { children: displayedTime }));
+        segments.push(/* @__PURE__ */ React.createElement("span", null, displayedTime));
       }
-      return /* @__PURE__ */ jsx20("p", { "show-comma": options2.showComma, class: classNames(displayClass, "content-meta"), children: segments });
+      return /* @__PURE__ */ React.createElement("p", { "show-comma": options2.showComma, class: classNames(displayClass, "content-meta") }, segments);
     } else {
       return null;
     }
@@ -13073,9 +12926,8 @@ var ContentMeta_default = /* @__PURE__ */ __name(((opts) => {
 }), "default");
 
 // quartz/components/Spacer.tsx
-import { jsx as jsx21 } from "preact/jsx-runtime";
 function Spacer({ displayClass }) {
-  return /* @__PURE__ */ jsx21("div", { class: classNames(displayClass, "spacer") });
+  return /* @__PURE__ */ React.createElement("div", { class: classNames(displayClass, "spacer") });
 }
 __name(Spacer, "Spacer");
 var Spacer_default = /* @__PURE__ */ __name((() => Spacer), "default");
@@ -13090,21 +12942,17 @@ var toc_default = "";
 var toc_inline_default = "";
 
 // quartz/components/OverflowList.tsx
-import { jsx as jsx22, jsxs as jsxs12 } from "preact/jsx-runtime";
 var OverflowList = /* @__PURE__ */ __name(({
   children,
   ...props
 }) => {
-  return /* @__PURE__ */ jsxs12("ul", { ...props, class: [props.class, "overflow"].filter(Boolean).join(" "), id: props.id, children: [
-    children,
-    /* @__PURE__ */ jsx22("li", { class: "overflow-end" })
-  ] });
+  return /* @__PURE__ */ React.createElement("ul", { ...props, class: [props.class, "overflow"].filter(Boolean).join(" "), id: props.id }, children, /* @__PURE__ */ React.createElement("li", { class: "overflow-end" }));
 }, "OverflowList");
 var numLists = 0;
 var OverflowList_default = /* @__PURE__ */ __name(() => {
   const id = `list-${numLists++}`;
   return {
-    OverflowList: /* @__PURE__ */ __name((props) => /* @__PURE__ */ jsx22(OverflowList, { ...props, id }), "OverflowList"),
+    OverflowList: /* @__PURE__ */ __name((props) => /* @__PURE__ */ React.createElement(OverflowList, { ...props, id }), "OverflowList"),
     overflowListAfterDOMLoaded: `
 document.addEventListener("nav", (e) => {
   const observer = new IntersectionObserver((entries) => {
@@ -13133,7 +12981,6 @@ document.addEventListener("nav", (e) => {
 }, "default");
 
 // quartz/components/TableOfContents.tsx
-import { jsx as jsx23, jsxs as jsxs13 } from "preact/jsx-runtime";
 var defaultOptions13 = {
   layout: "modern"
 };
@@ -13150,44 +12997,39 @@ var TableOfContents_default = /* @__PURE__ */ __name(((opts) => {
       return null;
     }
     const id = `toc-${numTocs++}`;
-    return /* @__PURE__ */ jsxs13("div", { class: classNames(displayClass, "toc"), children: [
-      /* @__PURE__ */ jsxs13(
-        "button",
+    return /* @__PURE__ */ React.createElement("div", { class: classNames(displayClass, "toc") }, /* @__PURE__ */ React.createElement(
+      "button",
+      {
+        type: "button",
+        class: fileData.collapseToc ? "collapsed toc-header" : "toc-header",
+        "aria-controls": id,
+        "aria-expanded": !fileData.collapseToc
+      },
+      /* @__PURE__ */ React.createElement("h3", null, i18n(cfg.locale).components.tableOfContents.title),
+      /* @__PURE__ */ React.createElement(
+        "svg",
         {
-          type: "button",
-          class: fileData.collapseToc ? "collapsed toc-header" : "toc-header",
-          "aria-controls": id,
-          "aria-expanded": !fileData.collapseToc,
-          children: [
-            /* @__PURE__ */ jsx23("h3", { children: i18n(cfg.locale).components.tableOfContents.title }),
-            /* @__PURE__ */ jsx23(
-              "svg",
-              {
-                xmlns: "http://www.w3.org/2000/svg",
-                width: "24",
-                height: "24",
-                viewBox: "0 0 24 24",
-                fill: "none",
-                stroke: "currentColor",
-                "stroke-width": "2",
-                "stroke-linecap": "round",
-                "stroke-linejoin": "round",
-                class: "fold",
-                children: /* @__PURE__ */ jsx23("polyline", { points: "6 9 12 15 18 9" })
-              }
-            )
-          ]
-        }
-      ),
-      /* @__PURE__ */ jsx23(
-        OverflowList2,
-        {
-          id,
-          class: fileData.collapseToc ? "collapsed toc-content" : "toc-content",
-          children: fileData.toc.map((tocEntry) => /* @__PURE__ */ jsx23("li", { class: `depth-${tocEntry.depth}`, children: /* @__PURE__ */ jsx23("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug, children: tocEntry.text }) }, tocEntry.slug))
-        }
+          xmlns: "http://www.w3.org/2000/svg",
+          width: "24",
+          height: "24",
+          viewBox: "0 0 24 24",
+          fill: "none",
+          stroke: "currentColor",
+          "stroke-width": "2",
+          "stroke-linecap": "round",
+          "stroke-linejoin": "round",
+          class: "fold"
+        },
+        /* @__PURE__ */ React.createElement("polyline", { points: "6 9 12 15 18 9" })
       )
-    ] });
+    ), /* @__PURE__ */ React.createElement(
+      OverflowList2,
+      {
+        id,
+        class: fileData.collapseToc ? "collapsed toc-content" : "toc-content"
+      },
+      fileData.toc.map((tocEntry) => /* @__PURE__ */ React.createElement("li", { key: tocEntry.slug, class: `depth-${tocEntry.depth}` }, /* @__PURE__ */ React.createElement("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug }, tocEntry.text)))
+    ));
   }, "TableOfContents");
   TableOfContents2.css = toc_default;
   TableOfContents2.afterDOMLoaded = concatenateResources(toc_inline_default, overflowListAfterDOMLoaded);
@@ -13195,10 +13037,7 @@ var TableOfContents_default = /* @__PURE__ */ __name(((opts) => {
     if (!fileData.toc) {
       return null;
     }
-    return /* @__PURE__ */ jsxs13("details", { class: "toc", open: !fileData.collapseToc, children: [
-      /* @__PURE__ */ jsx23("summary", { children: /* @__PURE__ */ jsx23("h3", { children: i18n(cfg.locale).components.tableOfContents.title }) }),
-      /* @__PURE__ */ jsx23("ul", { children: fileData.toc.map((tocEntry) => /* @__PURE__ */ jsx23("li", { class: `depth-${tocEntry.depth}`, children: /* @__PURE__ */ jsx23("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug, children: tocEntry.text }) }, tocEntry.slug)) })
-    ] });
+    return /* @__PURE__ */ React.createElement("details", { class: "toc", open: !fileData.collapseToc }, /* @__PURE__ */ React.createElement("summary", null, /* @__PURE__ */ React.createElement("h3", null, i18n(cfg.locale).components.tableOfContents.title)), /* @__PURE__ */ React.createElement("ul", null, fileData.toc.map((tocEntry) => /* @__PURE__ */ React.createElement("li", { key: tocEntry.slug, class: `depth-${tocEntry.depth}` }, /* @__PURE__ */ React.createElement("a", { href: `#${tocEntry.slug}`, "data-for": tocEntry.slug }, tocEntry.text)))));
   }, "LegacyTableOfContents");
   LegacyTableOfContents.css = legacyToc_default;
   return layout === "modern" ? TableOfContents2 : LegacyTableOfContents;
@@ -13211,7 +13050,6 @@ var explorer_default = "";
 var explorer_inline_default = "";
 
 // quartz/components/Explorer.tsx
-import { jsx as jsx24, jsxs as jsxs14 } from "preact/jsx-runtime";
 var defaultOptions14 = {
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
@@ -13241,7 +13079,7 @@ var Explorer_default = /* @__PURE__ */ __name(((userOpts) => {
   const { OverflowList: OverflowList2, overflowListAfterDOMLoaded } = OverflowList_default();
   const Explorer = /* @__PURE__ */ __name(({ cfg, displayClass }) => {
     const id = `explorer-${numExplorers++}`;
-    return /* @__PURE__ */ jsxs14(
+    return /* @__PURE__ */ React.createElement(
       "div",
       {
         class: classNames(displayClass, "explorer"),
@@ -13253,89 +13091,77 @@ var Explorer_default = /* @__PURE__ */ __name(((userOpts) => {
           sortFn: opts.sortFn.toString(),
           filterFn: opts.filterFn.toString(),
           mapFn: opts.mapFn.toString()
-        }),
-        children: [
-          /* @__PURE__ */ jsx24(
-            "button",
-            {
-              type: "button",
-              class: "explorer-toggle mobile-explorer hide-until-loaded",
-              "data-mobile": true,
-              "aria-controls": id,
-              children: /* @__PURE__ */ jsxs14(
-                "svg",
-                {
-                  xmlns: "http://www.w3.org/2000/svg",
-                  width: "24",
-                  height: "24",
-                  viewBox: "0 0 24 24",
-                  "stroke-width": "2",
-                  "stroke-linecap": "round",
-                  "stroke-linejoin": "round",
-                  class: "lucide-menu",
-                  children: [
-                    /* @__PURE__ */ jsx24("line", { x1: "4", x2: "20", y1: "12", y2: "12" }),
-                    /* @__PURE__ */ jsx24("line", { x1: "4", x2: "20", y1: "6", y2: "6" }),
-                    /* @__PURE__ */ jsx24("line", { x1: "4", x2: "20", y1: "18", y2: "18" })
-                  ]
-                }
-              )
-            }
-          ),
-          /* @__PURE__ */ jsxs14(
-            "button",
-            {
-              type: "button",
-              class: "title-button explorer-toggle desktop-explorer",
-              "data-mobile": false,
-              "aria-expanded": true,
-              children: [
-                /* @__PURE__ */ jsx24("h2", { children: opts.title ?? i18n(cfg.locale).components.explorer.title }),
-                /* @__PURE__ */ jsx24(
-                  "svg",
-                  {
-                    xmlns: "http://www.w3.org/2000/svg",
-                    width: "14",
-                    height: "14",
-                    viewBox: "5 8 14 8",
-                    fill: "none",
-                    stroke: "currentColor",
-                    "stroke-width": "2",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    class: "fold",
-                    children: /* @__PURE__ */ jsx24("polyline", { points: "6 9 12 15 18 9" })
-                  }
-                )
-              ]
-            }
-          ),
-          /* @__PURE__ */ jsx24("div", { id, class: "explorer-content", "aria-expanded": false, role: "group", children: /* @__PURE__ */ jsx24(OverflowList2, { class: "explorer-ul" }) }),
-          /* @__PURE__ */ jsx24("template", { id: "template-file", children: /* @__PURE__ */ jsx24("li", { children: /* @__PURE__ */ jsx24("a", { href: "#" }) }) }),
-          /* @__PURE__ */ jsx24("template", { id: "template-folder", children: /* @__PURE__ */ jsxs14("li", { children: [
-            /* @__PURE__ */ jsxs14("div", { class: "folder-container", children: [
-              /* @__PURE__ */ jsx24(
-                "svg",
-                {
-                  xmlns: "http://www.w3.org/2000/svg",
-                  width: "12",
-                  height: "12",
-                  viewBox: "5 8 14 8",
-                  fill: "none",
-                  stroke: "currentColor",
-                  "stroke-width": "2",
-                  "stroke-linecap": "round",
-                  "stroke-linejoin": "round",
-                  class: "folder-icon",
-                  children: /* @__PURE__ */ jsx24("polyline", { points: "6 9 12 15 18 9" })
-                }
-              ),
-              /* @__PURE__ */ jsx24("div", { children: /* @__PURE__ */ jsx24("button", { class: "folder-button", children: /* @__PURE__ */ jsx24("span", { class: "folder-title" }) }) })
-            ] }),
-            /* @__PURE__ */ jsx24("div", { class: "folder-outer", children: /* @__PURE__ */ jsx24("ul", { class: "content" }) })
-          ] }) })
-        ]
-      }
+        })
+      },
+      /* @__PURE__ */ React.createElement(
+        "button",
+        {
+          type: "button",
+          class: "explorer-toggle mobile-explorer hide-until-loaded",
+          "data-mobile": true,
+          "aria-controls": id
+        },
+        /* @__PURE__ */ React.createElement(
+          "svg",
+          {
+            xmlns: "http://www.w3.org/2000/svg",
+            width: "24",
+            height: "24",
+            viewBox: "0 0 24 24",
+            "stroke-width": "2",
+            "stroke-linecap": "round",
+            "stroke-linejoin": "round",
+            class: "lucide-menu"
+          },
+          /* @__PURE__ */ React.createElement("line", { x1: "4", x2: "20", y1: "12", y2: "12" }),
+          /* @__PURE__ */ React.createElement("line", { x1: "4", x2: "20", y1: "6", y2: "6" }),
+          /* @__PURE__ */ React.createElement("line", { x1: "4", x2: "20", y1: "18", y2: "18" })
+        )
+      ),
+      /* @__PURE__ */ React.createElement(
+        "button",
+        {
+          type: "button",
+          class: "title-button explorer-toggle desktop-explorer",
+          "data-mobile": false,
+          "aria-expanded": true
+        },
+        /* @__PURE__ */ React.createElement("h2", null, opts.title ?? i18n(cfg.locale).components.explorer.title),
+        /* @__PURE__ */ React.createElement(
+          "svg",
+          {
+            xmlns: "http://www.w3.org/2000/svg",
+            width: "14",
+            height: "14",
+            viewBox: "5 8 14 8",
+            fill: "none",
+            stroke: "currentColor",
+            "stroke-width": "2",
+            "stroke-linecap": "round",
+            "stroke-linejoin": "round",
+            class: "fold"
+          },
+          /* @__PURE__ */ React.createElement("polyline", { points: "6 9 12 15 18 9" })
+        )
+      ),
+      /* @__PURE__ */ React.createElement("div", { id, class: "explorer-content", "aria-expanded": false, role: "group" }, /* @__PURE__ */ React.createElement(OverflowList2, { class: "explorer-ul" })),
+      /* @__PURE__ */ React.createElement("template", { id: "template-file" }, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement("a", { href: "#" }))),
+      /* @__PURE__ */ React.createElement("template", { id: "template-folder" }, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement("div", { class: "folder-container" }, /* @__PURE__ */ React.createElement(
+        "svg",
+        {
+          xmlns: "http://www.w3.org/2000/svg",
+          width: "12",
+          height: "12",
+          viewBox: "5 8 14 8",
+          fill: "none",
+          stroke: "currentColor",
+          "stroke-width": "2",
+          "stroke-linecap": "round",
+          "stroke-linejoin": "round",
+          class: "folder-icon"
+        },
+        /* @__PURE__ */ React.createElement("polyline", { points: "6 9 12 15 18 9" })
+      ), /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement("button", { class: "folder-button" }, /* @__PURE__ */ React.createElement("span", { class: "folder-title" })))), /* @__PURE__ */ React.createElement("div", { class: "folder-outer" }, /* @__PURE__ */ React.createElement("ul", { class: "content" }))))
     );
   }, "Explorer");
   Explorer.css = explorer_default;
@@ -13344,14 +13170,13 @@ var Explorer_default = /* @__PURE__ */ __name(((userOpts) => {
 }), "default");
 
 // quartz/components/TagList.tsx
-import { jsx as jsx25 } from "preact/jsx-runtime";
 var TagList = /* @__PURE__ */ __name(({ fileData, displayClass }) => {
   const tags = fileData.frontmatter?.tags;
   if (tags && tags.length > 0) {
-    return /* @__PURE__ */ jsx25("ul", { class: classNames(displayClass, "tags"), children: tags.map((tag) => {
+    return /* @__PURE__ */ React.createElement("ul", { class: classNames(displayClass, "tags") }, tags.map((tag) => {
       const linkDest = resolveRelative(fileData.slug, `tags/${tag}`);
-      return /* @__PURE__ */ jsx25("li", { children: /* @__PURE__ */ jsx25("a", { href: linkDest, class: "internal tag-link", children: tag }) });
-    }) });
+      return /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement("a", { href: linkDest, class: "internal tag-link" }, tag));
+    }));
   } else {
     return null;
   }
@@ -13393,7 +13218,6 @@ var graph_inline_default = "";
 var graph_default = "";
 
 // quartz/components/Graph.tsx
-import { jsx as jsx26, jsxs as jsxs15 } from "preact/jsx-runtime";
 var defaultOptions15 = {
   localGraph: {
     drag: true,
@@ -13430,32 +13254,25 @@ var Graph_default = /* @__PURE__ */ __name(((opts) => {
   const Graph = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
     const localGraph = { ...defaultOptions15.localGraph, ...opts?.localGraph };
     const globalGraph = { ...defaultOptions15.globalGraph, ...opts?.globalGraph };
-    return /* @__PURE__ */ jsxs15("div", { class: classNames(displayClass, "graph"), children: [
-      /* @__PURE__ */ jsx26("h3", { children: i18n(cfg.locale).components.graph.title }),
-      /* @__PURE__ */ jsxs15("div", { class: "graph-outer", children: [
-        /* @__PURE__ */ jsx26("div", { class: "graph-container", "data-cfg": JSON.stringify(localGraph) }),
-        /* @__PURE__ */ jsx26("button", { class: "global-graph-icon", "aria-label": "Global Graph", children: /* @__PURE__ */ jsx26(
-          "svg",
-          {
-            version: "1.1",
-            xmlns: "http://www.w3.org/2000/svg",
-            xmlnsXlink: "http://www.w3.org/1999/xlink",
-            x: "0px",
-            y: "0px",
-            viewBox: "0 0 55 55",
-            fill: "currentColor",
-            xmlSpace: "preserve",
-            children: /* @__PURE__ */ jsx26(
-              "path",
-              {
-                d: "M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17\n                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4\n                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562\n                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829\n                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91\n                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4\n                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665\n                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2\n                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4\n                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2\n                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
-              }
-            )
-          }
-        ) })
-      ] }),
-      /* @__PURE__ */ jsx26("div", { class: "global-graph-outer", children: /* @__PURE__ */ jsx26("div", { class: "global-graph-container", "data-cfg": JSON.stringify(globalGraph) }) })
-    ] });
+    return /* @__PURE__ */ React.createElement("div", { class: classNames(displayClass, "graph") }, /* @__PURE__ */ React.createElement("h3", null, i18n(cfg.locale).components.graph.title), /* @__PURE__ */ React.createElement("div", { class: "graph-outer" }, /* @__PURE__ */ React.createElement("div", { class: "graph-container", "data-cfg": JSON.stringify(localGraph) }), /* @__PURE__ */ React.createElement("button", { class: "global-graph-icon", "aria-label": "Global Graph" }, /* @__PURE__ */ React.createElement(
+      "svg",
+      {
+        version: "1.1",
+        xmlns: "http://www.w3.org/2000/svg",
+        xmlnsXlink: "http://www.w3.org/1999/xlink",
+        x: "0px",
+        y: "0px",
+        viewBox: "0 0 55 55",
+        fill: "currentColor",
+        xmlSpace: "preserve"
+      },
+      /* @__PURE__ */ React.createElement(
+        "path",
+        {
+          d: "M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17\n                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4\n                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562\n                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829\n                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91\n                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4\n                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665\n                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2\n                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4\n                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2\n                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
+        }
+      )
+    ))), /* @__PURE__ */ React.createElement("div", { class: "global-graph-outer" }, /* @__PURE__ */ React.createElement("div", { class: "global-graph-container", "data-cfg": JSON.stringify(globalGraph) })));
   }, "Graph");
   Graph.css = graph_default;
   Graph.afterDOMLoaded = graph_inline_default;
@@ -13466,7 +13283,6 @@ var Graph_default = /* @__PURE__ */ __name(((opts) => {
 var backlinks_default = "";
 
 // quartz/components/Backlinks.tsx
-import { jsx as jsx27, jsxs as jsxs16 } from "preact/jsx-runtime";
 var defaultOptions16 = {
   hideWhenEmpty: true
 };
@@ -13484,10 +13300,7 @@ var Backlinks_default = /* @__PURE__ */ __name(((opts) => {
     if (options2.hideWhenEmpty && backlinkFiles.length == 0) {
       return null;
     }
-    return /* @__PURE__ */ jsxs16("div", { class: classNames(displayClass, "backlinks"), children: [
-      /* @__PURE__ */ jsx27("h3", { children: i18n(cfg.locale).components.backlinks.title }),
-      /* @__PURE__ */ jsx27(OverflowList2, { children: backlinkFiles.length > 0 ? backlinkFiles.map((f) => /* @__PURE__ */ jsx27("li", { children: /* @__PURE__ */ jsx27("a", { href: resolveRelative(fileData.slug, f.slug), class: "internal", children: f.frontmatter?.title }) })) : /* @__PURE__ */ jsx27("li", { children: i18n(cfg.locale).components.backlinks.noBacklinksFound }) })
-    ] });
+    return /* @__PURE__ */ React.createElement("div", { class: classNames(displayClass, "backlinks") }, /* @__PURE__ */ React.createElement("h3", null, i18n(cfg.locale).components.backlinks.title), /* @__PURE__ */ React.createElement(OverflowList2, null, backlinkFiles.length > 0 ? backlinkFiles.map((f) => /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement("a", { href: resolveRelative(fileData.slug, f.slug), class: "internal" }, f.frontmatter?.title))) : /* @__PURE__ */ React.createElement("li", null, i18n(cfg.locale).components.backlinks.noBacklinksFound)));
   }, "Backlinks");
   Backlinks.css = backlinks_default;
   Backlinks.afterDOMLoaded = overflowListAfterDOMLoaded;
@@ -13501,7 +13314,6 @@ var search_default = "";
 var search_inline_default = "";
 
 // quartz/components/Search.tsx
-import { jsx as jsx28, jsxs as jsxs17 } from "preact/jsx-runtime";
 var defaultOptions17 = {
   enablePreview: true
 };
@@ -13509,32 +13321,17 @@ var Search_default = /* @__PURE__ */ __name(((userOpts) => {
   const Search = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
     const opts = { ...defaultOptions17, ...userOpts };
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder;
-    return /* @__PURE__ */ jsxs17("div", { class: classNames(displayClass, "search"), children: [
-      /* @__PURE__ */ jsxs17("button", { class: "search-button", children: [
-        /* @__PURE__ */ jsxs17("svg", { role: "img", xmlns: "http://www.w3.org/2000/svg", viewBox: "0 0 19.9 19.7", children: [
-          /* @__PURE__ */ jsx28("title", { children: "Search" }),
-          /* @__PURE__ */ jsxs17("g", { class: "search-path", fill: "none", children: [
-            /* @__PURE__ */ jsx28("path", { "stroke-linecap": "square", d: "M18.5 18.3l-5.4-5.4" }),
-            /* @__PURE__ */ jsx28("circle", { cx: "8", cy: "8", r: "7" })
-          ] })
-        ] }),
-        /* @__PURE__ */ jsx28("p", { children: i18n(cfg.locale).components.search.title })
-      ] }),
-      /* @__PURE__ */ jsx28("div", { class: "search-container", children: /* @__PURE__ */ jsxs17("div", { class: "search-space", children: [
-        /* @__PURE__ */ jsx28(
-          "input",
-          {
-            autocomplete: "off",
-            class: "search-bar",
-            name: "search",
-            type: "text",
-            "aria-label": searchPlaceholder,
-            placeholder: searchPlaceholder
-          }
-        ),
-        /* @__PURE__ */ jsx28("div", { class: "search-layout", "data-preview": opts.enablePreview })
-      ] }) })
-    ] });
+    return /* @__PURE__ */ React.createElement("div", { class: classNames(displayClass, "search") }, /* @__PURE__ */ React.createElement("button", { class: "search-button" }, /* @__PURE__ */ React.createElement("svg", { role: "img", xmlns: "http://www.w3.org/2000/svg", viewBox: "0 0 19.9 19.7" }, /* @__PURE__ */ React.createElement("title", null, "Search"), /* @__PURE__ */ React.createElement("g", { class: "search-path", fill: "none" }, /* @__PURE__ */ React.createElement("path", { "stroke-linecap": "square", d: "M18.5 18.3l-5.4-5.4" }), /* @__PURE__ */ React.createElement("circle", { cx: "8", cy: "8", r: "7" }))), /* @__PURE__ */ React.createElement("p", null, i18n(cfg.locale).components.search.title)), /* @__PURE__ */ React.createElement("div", { class: "search-container" }, /* @__PURE__ */ React.createElement("div", { class: "search-space" }, /* @__PURE__ */ React.createElement(
+      "input",
+      {
+        autocomplete: "off",
+        class: "search-bar",
+        name: "search",
+        type: "text",
+        "aria-label": searchPlaceholder,
+        placeholder: searchPlaceholder
+      }
+    ), /* @__PURE__ */ React.createElement("div", { class: "search-layout", "data-preview": opts.enablePreview }))));
   }, "Search");
   Search.afterDOMLoaded = search_inline_default;
   Search.css = search_default;
@@ -13548,35 +13345,21 @@ var footer_default = "";
 var version = "4.5.2";
 
 // quartz/components/Footer.tsx
-import { jsx as jsx29, jsxs as jsxs18 } from "preact/jsx-runtime";
 var Footer_default = /* @__PURE__ */ __name(((opts) => {
   const Footer = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
     const year = (/* @__PURE__ */ new Date()).getFullYear();
     const links = opts?.links ?? [];
-    return /* @__PURE__ */ jsxs18("footer", { class: `${displayClass ?? ""}`, children: [
-      /* @__PURE__ */ jsxs18("p", { children: [
-        i18n(cfg.locale).components.footer.createdWith,
-        " ",
-        /* @__PURE__ */ jsxs18("a", { href: "https://quartz.jzhao.xyz/", children: [
-          "Quartz v",
-          version
-        ] }),
-        " \xA9 ",
-        year
-      ] }),
-      /* @__PURE__ */ jsx29("ul", { children: Object.entries(links).map(([text, link]) => /* @__PURE__ */ jsx29("li", { children: /* @__PURE__ */ jsx29("a", { href: link, children: text }) })) })
-    ] });
+    return /* @__PURE__ */ React.createElement("footer", { class: `${displayClass ?? ""}` }, /* @__PURE__ */ React.createElement("p", null, i18n(cfg.locale).components.footer.createdWith, " ", /* @__PURE__ */ React.createElement("a", { href: "https://quartz.jzhao.xyz/" }, "Quartz v", version), " \xA9 ", year), /* @__PURE__ */ React.createElement("ul", null, Object.entries(links).map(([text, link]) => /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement("a", { href: link }, text)))));
   }, "Footer");
   Footer.css = footer_default;
   return Footer;
 }), "default");
 
 // quartz/components/DesktopOnly.tsx
-import { jsx as jsx30 } from "preact/jsx-runtime";
 var DesktopOnly_default = /* @__PURE__ */ __name(((component) => {
   const Component = component;
   const DesktopOnly = /* @__PURE__ */ __name((props) => {
-    return /* @__PURE__ */ jsx30(Component, { displayClass: "desktop-only", ...props });
+    return /* @__PURE__ */ React.createElement(Component, { displayClass: "desktop-only", ...props });
   }, "DesktopOnly");
   DesktopOnly.displayName = component.displayName;
   DesktopOnly.afterDOMLoaded = component?.afterDOMLoaded;
@@ -13586,11 +13369,10 @@ var DesktopOnly_default = /* @__PURE__ */ __name(((component) => {
 }), "default");
 
 // quartz/components/MobileOnly.tsx
-import { jsx as jsx31 } from "preact/jsx-runtime";
 var MobileOnly_default = /* @__PURE__ */ __name(((component) => {
   const Component = component;
   const MobileOnly = /* @__PURE__ */ __name((props) => {
-    return /* @__PURE__ */ jsx31(Component, { displayClass: "mobile-only", ...props });
+    return /* @__PURE__ */ React.createElement(Component, { displayClass: "mobile-only", ...props });
   }, "MobileOnly");
   MobileOnly.displayName = component.displayName;
   MobileOnly.afterDOMLoaded = component?.afterDOMLoaded;
@@ -13599,14 +13381,10 @@ var MobileOnly_default = /* @__PURE__ */ __name(((component) => {
   return MobileOnly;
 }), "default");
 
-// quartz/components/RecentNotes.tsx
-import { jsx as jsx32, jsxs as jsxs19 } from "preact/jsx-runtime";
-
 // quartz/components/styles/breadcrumbs.scss
 var breadcrumbs_default = "";
 
 // quartz/components/Breadcrumbs.tsx
-import { jsx as jsx33, jsxs as jsxs20 } from "preact/jsx-runtime";
 var defaultOptions18 = {
   spacerSymbol: "\u276F",
   rootName: "Home",
@@ -13647,46 +13425,39 @@ var Breadcrumbs_default = /* @__PURE__ */ __name(((opts) => {
     if (!options2.showCurrentPage) {
       crumbs.pop();
     }
-    return /* @__PURE__ */ jsx33("nav", { class: classNames(displayClass, "breadcrumb-container"), "aria-label": "breadcrumbs", children: crumbs.map((crumb, index) => /* @__PURE__ */ jsxs20("div", { class: "breadcrumb-element", children: [
-      /* @__PURE__ */ jsx33("a", { href: crumb.path, children: crumb.displayName }),
-      index !== crumbs.length - 1 && /* @__PURE__ */ jsx33("p", { children: ` ${options2.spacerSymbol} ` })
-    ] })) });
+    return /* @__PURE__ */ React.createElement("nav", { class: classNames(displayClass, "breadcrumb-container"), "aria-label": "breadcrumbs" }, crumbs.map((crumb, index) => /* @__PURE__ */ React.createElement("div", { class: "breadcrumb-element" }, /* @__PURE__ */ React.createElement("a", { href: crumb.path }, crumb.displayName), index !== crumbs.length - 1 && /* @__PURE__ */ React.createElement("p", null, ` ${options2.spacerSymbol} `))));
   }, "Breadcrumbs");
   Breadcrumbs.css = breadcrumbs_default;
   return Breadcrumbs;
 }), "default");
 
-// quartz/components/Comments.tsx
-import { Fragment as Fragment5, jsx as jsx34 } from "preact/jsx-runtime";
-
 // quartz/components/Flex.tsx
-import { jsx as jsx35 } from "preact/jsx-runtime";
 var Flex_default = /* @__PURE__ */ __name(((config2) => {
   const Flex = /* @__PURE__ */ __name((props) => {
     const direction = config2.direction ?? "row";
     const wrap = config2.wrap ?? "nowrap";
     const gap = config2.gap ?? "1rem";
-    return /* @__PURE__ */ jsx35(
+    return /* @__PURE__ */ React.createElement(
       "div",
       {
         class: classNames(props.displayClass, "flex-component"),
-        style: `flex-direction: ${direction}; flex-wrap: ${wrap}; gap: ${gap};`,
-        children: config2.components.map((c) => {
-          const grow = c.grow ? 1 : 0;
-          const shrink = c.shrink ?? true ? 1 : 0;
-          const basis = c.basis ?? "auto";
-          const order = c.order ?? 0;
-          const align = c.align ?? "center";
-          const justify = c.justify ?? "center";
-          return /* @__PURE__ */ jsx35(
-            "div",
-            {
-              style: `flex-grow: ${grow}; flex-shrink: ${shrink}; flex-basis: ${basis}; order: ${order}; align-self: ${align}; justify-self: ${justify};`,
-              children: /* @__PURE__ */ jsx35(c.Component, { ...props })
-            }
-          );
-        })
-      }
+        style: `flex-direction: ${direction}; flex-wrap: ${wrap}; gap: ${gap};`
+      },
+      config2.components.map((c) => {
+        const grow = c.grow ? 1 : 0;
+        const shrink = c.shrink ?? true ? 1 : 0;
+        const basis = c.basis ?? "auto";
+        const order = c.order ?? 0;
+        const align = c.align ?? "center";
+        const justify = c.justify ?? "center";
+        return /* @__PURE__ */ React.createElement(
+          "div",
+          {
+            style: `flex-grow: ${grow}; flex-shrink: ${shrink}; flex-basis: ${basis}; order: ${order}; align-self: ${align}; justify-self: ${justify};`
+          },
+          /* @__PURE__ */ React.createElement(c.Component, { ...props })
+        );
+      })
     );
   }, "Flex");
   Flex.afterDOMLoaded = concatenateResources(
@@ -13700,11 +13471,10 @@ var Flex_default = /* @__PURE__ */ __name(((config2) => {
 }), "default");
 
 // quartz/components/ConditionalRender.tsx
-import { jsx as jsx36 } from "preact/jsx-runtime";
 var ConditionalRender_default = /* @__PURE__ */ __name(((config2) => {
   const ConditionalRender = /* @__PURE__ */ __name((props) => {
     if (config2.condition(props)) {
-      return /* @__PURE__ */ jsx36(config2.component, { ...props });
+      return /* @__PURE__ */ React.createElement(config2.component, { ...props });
     }
     return null;
   }, "ConditionalRender");
@@ -14113,7 +13883,6 @@ var FolderPage = /* @__PURE__ */ __name((userOpts) => {
 
 // quartz/plugins/emitters/contentIndex.tsx
 import { toHtml as toHtml2 } from "hast-util-to-html";
-import { jsx as jsx37 } from "preact/jsx-runtime";
 var defaultOptions19 = {
   enableSiteMap: true,
   enableRSS: true,
@@ -14224,7 +13993,7 @@ var ContentIndex = /* @__PURE__ */ __name((opts) => {
       if (opts?.enableRSS) {
         return {
           additionalHead: [
-            /* @__PURE__ */ jsx37(
+            /* @__PURE__ */ React.createElement(
               "link",
               {
                 rel: "alternate",
@@ -14765,7 +14534,7 @@ var config = {
       provider: "plausible"
     },
     locale: "en-US",
-    baseUrl: "omniharmonic.github.io/web3metacrisiswiki-quartz",
+    baseUrl: "omniharmonic.github.io/web3metacrisiswiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

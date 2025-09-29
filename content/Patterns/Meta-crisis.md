@@ -1,4 +1,3 @@
-# Meta-crisis
 
 ## Definition
 
@@ -33,15 +32,15 @@ Game-theoretic analysis suggests three primary basins of attraction:
 
 ## References
 
-- [[Systemic_Problems.md]] - Detailed analysis of the five systemic failures
-- [[Web3_Systemic_Solutions_Essay.md]] - Web3 as a design space for the Third Attractor
-- [[Call_Transcript.md]] - Discussion of meta-crisis dynamics and solutions
+- [[Systemic Problem Analysis]] - Detailed analysis of the five systemic failures
+- [[Web3 and the Generative Dynamics of the Metacrisis v01]] - Web3 as a design space for the Third Attractor
+- [[Call Transcript]] - Discussion of meta-crisis dynamics and solutions
 - [[Prospectus.md]] - Framework for addressing civilizational challenges
 
 ## Related Concepts
 
-- [[Third_Attractor]] - The desired future state
-- [[Vitality_Resilience_Choice]] - Design principles for life-affirming civilization
-- [[Regulatory_Capture]] - One of the five systemic problems
-- [[Misaligned_Incentives]] - Core generator function
-- [[Multi-polar_Traps]] - Mechanism of systemic failure
+- [[Third Attractor]] - The desired future state
+- [[Vitality, Resilience, Choice]] - Design principles for life-affirming civilization
+- [[regulatory capture]] - One of the five systemic problems
+- [[misaligned incentives]] - Core generator function
+- [[multi-polar traps]] - Mechanism of systemic failure

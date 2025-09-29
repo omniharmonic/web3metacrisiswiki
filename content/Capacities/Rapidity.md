@@ -15,9 +15,9 @@
 ## Technical Mechanisms
 
 ### Fast Transaction Processing
-- **[[Automation]]**: [[Smart_Contracts]] execute without human intervention
+- **[[Automation]]**: [[smart contract]] execute without human intervention
 - **Parallel Processing**: Multiple transactions processed simultaneously
-- **Optimized [[Distributed_Consensus]]**: Efficient agreement mechanisms
+- **Optimized [[distributed consensus]]**: Efficient agreement mechanisms
 - **[[Layer_2_Rollups]]**: Scaling solutions for increased speed
 - **Real-time Updates**: Live updates of system state
 
@@ -76,21 +76,21 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Finance]] (DeFi)
+### [[Decentralized Finance (DeFi)]] (DeFi)
 - **Fast Trading**: Quick execution of trades
 - **Rapid [[Arbitrage]]**: Fast correction of price inefficiencies
 - **Quick Lending**: Fast access to loans
 - **Instant Swaps**: Immediate [[Token]] exchanges
 - **Real-time Pricing**: Live price updates
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Quick Voting**: Fast decision-making processes
 - **Rapid Response**: Immediate reactions to events
 - **Fast Funding**: Quick allocation of resources
 - **Crisis Coordination**: Rapid collective action
 - **Iterative Governance**: Fast improvement of governance processes
 
-### [[Public_Goods_Funding]]
+### [[Public Goods Funding]]
 - **Rapid Donations**: Quick delivery of funds
 - **Crisis Response**: Fast aid during emergencies
 - **Quick Allocation**: Rapid distribution of resources

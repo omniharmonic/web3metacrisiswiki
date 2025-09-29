@@ -1,4 +1,3 @@
-# Tokenization
 
 ## Definition
 
@@ -144,16 +143,16 @@
 
 ## References
 
-- [[Web3_Primitives.md]] - Technical foundation
-- [[Web3_Affordances_Potentials.md]] - Detailed affordances analysis
-- [[Web3_Systemic_Solutions_Essay.md]] - Role in systemic solutions
-- [[Crypto_For_Good_Claims.md]] - Social impact applications
-- [[Call_Transcript.md]] - Discussion of tokenization
+- [[Web3 Primitives]] - Technical foundation
+- [[Web3 Affordances & Potentials]] - Detailed affordances analysis
+- [[Web3 and the Generative Dynamics of the Metacrisis v01]] - Role in systemic solutions
+- [[Crypto For Good Claims]] - Social impact applications
+- [[Call Transcript]] - Discussion of tokenization
 
 ## Related Concepts
 
-- [[Smart_Contracts]] - Technical foundation
+- [[smart contract]] - Technical foundation
 - [[Token_Standards]] - Standardized interfaces
-- [[Decentralized_Finance]] - Financial applications
+- [[Decentralized Finance (DeFi)]] - Financial applications
 - [[Asset_Representation]] - Core mechanism
 - [[Programmable_Money]] - Economic implications

@@ -130,13 +130,13 @@ External Data Sources → Oracle Nodes → Consensus → Smart Contracts
 
 ## Integration with Other Primitives
 
-### [[Smart_Contracts]]
+### [[smart contract]]
 - **Data integration**: Providing data to smart contracts
 - **Automated execution**: Triggering contract execution based on data
 - **Conditional logic**: Conditional execution based on external data
 - **Integration**: Seamless interaction with smart contracts
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Governance**: Community control of oracle networks
 - **Treasury management**: Oracle network fund management
 - **Decision making**: Collective decision-making processes
@@ -166,14 +166,14 @@ External Data Sources → Oracle Nodes → Consensus → Smart Contracts
 
 ## References
 
-- **Source Documents**: [[Web3_Primitives]], [[Oracle_Problem]], [[Web3_Systemic_Solutions_Essay_Outline]]
+- **Source Documents**: [[Web3 Primitives]], [[oracle problem]], [[Paper Outline]]
 - **Technical Resources**: [Chainlink Documentation](https://docs.chain.link/), [Band Protocol](https://bandprotocol.com/)
-- **Related Concepts**: [[Smart_Contracts]], [[Decentralized_Autonomous_Organizations]], [[Composability]]
+- **Related Concepts**: [[smart contract]], [[decentralized autonomous organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[Smart_Contracts]] - Self-executing agreements on blockchains
-- [[Decentralized_Autonomous_Organizations]] - Community-controlled organizations
+- [[smart contract]] - Self-executing agreements on blockchains
+- [[decentralized autonomous organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
-- [[Oracle_Problem]] - The fundamental limitation of blockchain data access
-- [[Decentralization]] - Distribution of control and decision-making
+- [[oracle problem]] - The fundamental limitation of blockchain data access
+- [[decentralization]] - Distribution of control and decision-making

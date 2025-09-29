@@ -108,13 +108,13 @@ Sidechain: Burn Assets → Bridge → Parent Chain: Unlock Assets
 
 ## Integration with Other Primitives
 
-### [[Smart_Contracts]]
+### [[smart contract]]
 - **Bridge management**: Managing bridge operations
 - **Asset transfer**: Transferring assets between chains
 - **Automation**: Automated bridge operations
 - **Security**: Securing bridge operations
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Bridge governance**: Governing bridge operations
 - **Decision making**: Making bridge decisions
 - **Community participation**: Community participation in bridges
@@ -144,14 +144,14 @@ Sidechain: Burn Assets → Bridge → Parent Chain: Unlock Assets
 
 ## References
 
-- **Source Documents**: [[Web3_Primitives]], [[Scalability_Trilemma]]
+- **Source Documents**: [[Web3 Primitives]], [[scalability trilemma]]
 - **Technical Resources**: [Polygon](https://polygon.technology/), [xDai](https://www.xdaichain.com/)
-- **Related Concepts**: [[Smart_Contracts]], [[Decentralized_Autonomous_Organizations]], [[Composability]]
+- **Related Concepts**: [[smart contract]], [[decentralized autonomous organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[Smart_Contracts]] - Self-executing agreements on blockchains
-- [[Decentralized_Autonomous_Organizations]] - Community-controlled organizations
+- [[smart contract]] - Self-executing agreements on blockchains
+- [[decentralized autonomous organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
-- [[Scalability_Trilemma]] - The fundamental trade-offs in blockchain design
-- [[Decentralization]] - Distribution of control and decision-making
+- [[scalability trilemma]] - The fundamental trade-offs in blockchain design
+- [[decentralization]] - Distribution of control and decision-making

@@ -2,7 +2,7 @@
 
 ## Definition
 
-**Slashing** is a penalty mechanism in [[Proof_of_Stake]] blockchain networks where validators lose a portion of their [[Staking|staked]] tokens as punishment for malicious behavior, protocol violations, or actions that could harm network security. This economic penalty serves as a deterrent against attacks and ensures validators have strong incentives to act honestly and maintain network integrity.
+**Slashing** is a penalty mechanism in [[Proof of Stake (PoS)]] blockchain networks where validators lose a portion of their [[Staking|staked]] tokens as punishment for malicious behavior, protocol violations, or actions that could harm network security. This economic penalty serves as a deterrent against attacks and ensures validators have strong incentives to act honestly and maintain network integrity.
 
 ## Technical Architecture
 
@@ -145,14 +145,14 @@
 ## Related Concepts
 
 - [[Staking]] - Primary mechanism subject to slashing
-- [[Proof_of_Stake]] - Consensus mechanism utilizing slashing
+- [[Proof of Stake (PoS)]] - Consensus mechanism utilizing slashing
 - [[Validators]] - Network participants subject to slashing
 - [[Economic_Security]] - Security model based on slashing penalties
-- [[Consensus_Mechanisms]] - Broader category including slashing-based security
+- [[consensus mechanisms]] - Broader category including slashing-based security
 - [[Tokenomics]] - Economic design including slashing mechanisms
 - [[Network_Security]] - Security provided through slashing deterrence
 - [[Incentive_Design]] - Framework for designing slashing mechanisms
-- [[Game_Theory]] - Mathematical analysis of slashing incentives
+- [[Game Theory]] - Mathematical analysis of slashing incentives
 - [[Risk_Management]] - Strategies for managing slashing risks
 - [[Validator_Operations]] - Practices for avoiding slashing conditions
 - [[Protocol_Governance]] - Governance of slashing rules and parameters

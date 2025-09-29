@@ -37,18 +37,18 @@
 
 ## Applications in Web3
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Participatory Governance**: All members have a voice in decisions
 - **Transparent Processes**: Open and auditable decision-making
 - **Exit Rights**: Members can leave if they disagree with decisions
 - **Innovation**: Encouraging new approaches to governance
 
-### [[Self_Sovereign_Identity]]
+### [[self-sovereign identity]]
 - **Data Control**: Individuals control their own data
 - **Selective Disclosure**: Sharing only necessary information
 - **[[Portability]]**: Identity that works across different systems
-- **[[Privacy_Preservation]]**: Protecting personal information from surveillance
-- **[[Zero_Knowledge_Proofs]]**: Verification without revealing sensitive data
+- **[[Privacy Preservation]]**: Protecting personal information from surveillance
+- **[[zero knowledge proof (ZKP)]]**: Verification without revealing sensitive data
 
 ### [[Economic_Pluralism]]
 - **Multiple Currencies**: Different forms of value and exchange

@@ -1,4 +1,3 @@
-# Gas
 
 ## Definition
 
@@ -129,13 +128,13 @@ Total Gas Fee = Gas Units Used × (Base Fee + Priority Fee)
 
 - [[EIP_1559]] - Fee structure reform
 - [[MEV]] - Value extraction affecting gas markets
-- [[Front_running]] - Gas price manipulation for transaction ordering
+- [[front running]] - Gas price manipulation for transaction ordering
 - [[Layer_2_Rollups]] - Scaling solution reducing gas costs
-- [[Ethereum_Virtual_Machine]] - Execution environment using gas
-- [[Smart_Contracts]] - Primary consumers of gas
-- [[Proof_of_Stake]] - Consensus mechanism receiving gas fees
+- [[Ethereum Virtual Machine (EVM)]] - Execution environment using gas
+- [[smart contract]] - Primary consumers of gas
+- [[Proof of Stake (PoS)]] - Consensus mechanism receiving gas fees
 - [[Network_Congestion]] - Condition driving up gas prices
-- [[Scalability_Trilemma]] - Fundamental challenge gas addresses
+- [[scalability trilemma]] - Fundamental challenge gas addresses
 - [[User_Experience]] - Area impacted by gas complexity
 
 ## References

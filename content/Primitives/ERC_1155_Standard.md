@@ -2,7 +2,7 @@
 
 ## Definition
 
-**ERC-1155** is a hybrid token standard that enables a single smart contract to manage multiple token types, including both fungible tokens (like [[ERC_20_Standard|ERC-20]]) and non-fungible tokens (like [[ERC_721_Standard|ERC-721]]). This standard was designed to address the limitations of previous token standards by providing a more efficient and flexible approach to token management.
+**ERC-1155** is a hybrid token standard that enables a single smart contract to manage multiple token types, including both fungible tokens (like [[ERC-20 Standard|ERC-20]]) and non-fungible tokens (like [[ERC-721 Standard (NFTs)|ERC-721]]). This standard was designed to address the limitations of previous token standards by providing a more efficient and flexible approach to token management.
 
 ## Core Properties
 
@@ -120,13 +120,13 @@ interface ERC1155 {
 
 ## Integration with Other Primitives
 
-### [[Smart_Contracts]]
+### [[smart contract]]
 - **Automated logic**: Self-executing rules for token behavior
 - **Conditional transfers**: Tokens that transfer based on conditions
 - **Time-based releases**: Tokens that become available over time
 - **Access control**: Gated content and services
 
-### [[Decentralized_Autonomous_Organizations]]
+### [[decentralized autonomous organizations (DAOs)]]
 - **Multi-token governance**: Different voting rights for different tokens
 - **Treasury management**: Diverse asset types in DAO treasuries
 - **Reward systems**: Multiple types of contributor rewards
@@ -140,13 +140,13 @@ interface ERC1155 {
 
 ## References
 
-- **Source Documents**: [[Web3_Primitives]], [[Web3_Systemic_Solutions_Essay_Outline]]
+- **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Specification**: [ERC-1155 Standard](https://eips.ethereum.org/EIPS/eip-1155)
-- **Related Standards**: [[ERC_20_Standard]], [[ERC_721_Standard]]
+- **Related Standards**: [[ERC-20 Standard]], [[ERC-721 Standard (NFTs)]]
 
 ## Related Concepts
 
-- [[Tokenization]] - The process of creating digital representations of assets
+- [[tokenization]] - The process of creating digital representations of assets
 - [[Multi_Asset_Management]] - Systems for handling diverse asset types
 - [[Batch_Operations]] - Efficient processing of multiple operations
 - [[Gaming_Economies]] - Economic systems within games and virtual worlds
