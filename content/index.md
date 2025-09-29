@@ -1,3 +1,7 @@
+---
+hidePageTitle: true
+---
+
 # Web3 and the Generative Dynamics of the Metacrisis
 
 > A comprehensive analysis of blockchain technology's potential for addressing systemic civilizational failures
