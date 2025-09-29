@@ -1,5 +1,5 @@
 ---
-hidePageTitle: true
+title: ""
 ---
 
 # Web3 and the Generative Dynamics of the Metacrisis
