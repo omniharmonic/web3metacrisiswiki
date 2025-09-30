@@ -175,9 +175,12 @@
 - **Community Resilience**: More resilient communities
 - **Collaboration**: Better collaboration on countermeasures
 
-## References
-- Crypto_For_Good_Claims.md: Discusses social proof as key Web3 patterns
-- Social_Proof.md: Social proof is fundamental to Web3 operations
-- Decentralized_Autonomous_Organizations.md: Social proof affects DAO governance
-- Public_Goods_Funding.md: Social proof affects public goods funding
-- Economic_Pluralism.md: Social proof affects economic pluralism
+## Related Concepts
+
+- [[Bot Networks and Coordinated Inauthentic Behavior]]
+- [[Content Recommendation Systems]]
+- [[Filter Bubbles]]
+- [[Engagement Optimization]]
+- [[Behavioral Analytics and Psychological Profiling]]
+- [[Community Governance]]
+- [[Trust and Reputation Systems]]

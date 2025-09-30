@@ -175,9 +175,12 @@
 - **Community Resilience**: More resilient communities
 - **Collaboration**: Better collaboration on countermeasures
 
-## References
-- Crypto_For_Good_Claims.md: Discusses scalable generation as key Web3 patterns
-- Scalable_Generation.md: Scalable generation is fundamental to Web3 operations
-- Decentralized_Autonomous_Organizations.md: Scalable generation affects DAO governance
-- Public_Goods_Funding.md: Scalable generation affects public goods funding
-- Economic_Pluralism.md: Scalable generation affects economic pluralism
+## Related Concepts
+
+- [[Artificial Intelligence and Machine Learning]]
+- [[Bot Networks and Coordinated Inauthentic Behavior]]
+- [[Epistemic Crisis]]
+- [[Content Recommendation Systems]]
+- [[Microtargeting and Personalized Manipulation]]
+- [[Information Pollution]]
+- [[Media Literacy]]
