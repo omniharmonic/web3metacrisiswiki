@@ -1,16 +1,12 @@
 # Fractional Ownership
 
-## Definition
+## Definition and Economic Significance
 
-**Fractional Ownership** is the capacity of blockchain systems to enable multiple parties to own fractional shares of assets, allowing for more accessible and liquid ownership of high-value assets through tokenization and smart contract management.
+**Fractional Ownership** represents digitally-enabled asset fractionalization—the capacity to divide ownership of assets into tradeable shares through tokenization. This capability challenges assumptions about minimum viable ownership units, whether asset fractionalization democratizes wealth or enables new forms of financialization, and how blockchain changes the economics of fractional ownership compared to traditional mechanisms.
 
-## Core Concepts
+The significance extends beyond technical implementation to encompass questions about securities regulation, whether tokenization provides genuine accessibility or primarily benefits sophisticated investors through regulatory arbitrage, and the political economy of financializing previously illiquid assets.
 
-- **Asset Tokenization**: Converting assets into tradeable tokens
-- **Fractional Shares**: Dividing assets into smaller, tradeable units
-- **Liquidity**: Making illiquid assets more liquid
-- **Accessibility**: Lowering barriers to asset ownership
-- **Governance**: Collective decision-making about shared assets
+## Technical Architecture and Tokenization Mechanisms
 
 ## Technical Mechanisms
 

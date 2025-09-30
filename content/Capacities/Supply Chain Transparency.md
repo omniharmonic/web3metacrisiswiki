@@ -1,13 +1,14 @@
 # Supply Chain Transparency
 
-## Definition
+## Definition and Accountability Significance
 
-**Supply Chain Transparency** is the capacity of blockchain systems to provide complete visibility into supply chains, enabling tracking of products from origin to destination, ensuring authenticity, quality, and ethical sourcing while providing transparent information to all stakeholders.
+**Supply Chain Transparency** represents end-to-end visibility—the capacity to track products through complex supply chains via blockchain recording rather than institutional oversight. This capability challenges assumptions about whether transparency requires immutable records, how visibility affects accountability, and whether technical tracking solves coordination problems that prove fundamentally social.
 
-## Core Concepts
+The significance extends beyond technical implementation to encompass oracle problems in physical-digital bridging, whether transparency benefits consumers or enables surveillance, and the political economy of supply chains where transparency costs concentrate on producers while benefits accrue to retailers and consumers.
 
-- **Complete Visibility**: Full visibility into supply chains
-- **Product Tracking**: Tracking products from origin to destination
+Note: See also [[Provenance Tracking]] for related analysis of immutability and authentication challenges.
+
+## Technical Architecture and Tracking Mechanisms
 - **Authenticity Verification**: Verifying product authenticity
 - **Quality Assurance**: Ensuring product quality
 - **Ethical Sourcing**: Ensuring ethical sourcing practices

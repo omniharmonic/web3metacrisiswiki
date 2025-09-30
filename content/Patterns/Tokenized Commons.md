@@ -175,9 +175,12 @@
 - **Community Resilience**: More resilient communities
 - **Collaboration**: Better collaboration on countermeasures
 
-## References
-- Crypto_For_Good_Claims.md: Discusses tokenized commons as key Web3 patterns
-- Tokenized_Commons.md: Tokenized commons are fundamental to Web3 operations
-- Decentralized_Autonomous_Organizations.md: Tokenized commons affect DAO governance
-- Public_Goods_Funding.md: Tokenized commons affect public goods funding
-- Economic_Pluralism.md: Tokenized commons affect economic pluralism
+## Related Concepts
+
+- [[Commons Contribution Tracking]]
+- [[Public Goods Funding]]
+- [[Community Governance]]
+- [[Quadratic Funding]]
+- [[Decentralized Autonomous Organizations (DAOs)]]
+- [[Mechanism Design Theory]]
+- [[Regenerative Economics]]

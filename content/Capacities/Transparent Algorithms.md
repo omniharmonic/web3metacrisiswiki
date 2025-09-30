@@ -1,16 +1,12 @@
 # Transparent Algorithms
 
-## Definition
+## Definition and Epistemic Significance
 
-**Transparent Algorithms** is the capacity of blockchain systems to make algorithmic processes, decision-making logic, and automated systems completely transparent and auditable, enabling users to understand, verify, and trust algorithmic decisions.
+**Transparent Algorithms** represents code-based accountability\u2014making decision-making logic publicly auditable through open source smart contracts. This capability challenges assumptions about whether algorithmic transparency enables oversight, how code visibility affects gaming, and whether technical auditability translates to practical understanding.
 
-## Core Concepts
+The significance extends beyond technical implementation to encompass tensions between transparency and competitive advantage, whether open algorithms prove more trustworthy than audited proprietary ones, and the political economy where transparency may enable sophisticated gaming while excluding non-technical stakeholders from meaningful oversight.
 
-- **Algorithmic Transparency**: Complete visibility into algorithmic processes
-- **Decision Logic**: Transparent decision-making logic
-- **Auditability**: Ability to audit algorithmic decisions
-- **Verification**: Ability to verify algorithmic outputs
-- **Trust**: Building trust through algorithmic transparency
+## Technical Architecture and Transparency Mechanisms
 
 ## Technical Mechanisms
 

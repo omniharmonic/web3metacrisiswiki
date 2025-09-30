@@ -1,16 +1,12 @@
 # Externality Markets
 
-## Definition
+## Definition and Economic Significance
 
-**Externality Markets** is the capacity of blockchain systems to create markets for externalities (positive and negative impacts that affect third parties), enabling the pricing, trading, and management of environmental and social externalities through tokenized assets and smart contracts.
+**Externality Markets** represent an attempt to address market failures—the capacity to create tradable assets representing environmental and social impacts not captured by conventional markets. This capability challenges assumptions about whether market mechanisms can internalize externalities, who determines externality pricing, and whether tokenization enables or obscures accountability for societal harms.
 
-## Core Concepts
+The significance extends beyond technical implementation to encompass fundamental questions about environmental economics, whether financialization helps or hinders sustainability goals, and the political economy of assigning property rights to atmospheric carbon or ecosystem services.
 
-- **Externalities**: Positive or negative impacts on third parties
-- **Market Mechanisms**: Creating markets for externalities
-- **Tokenization**: Converting externalities into tradeable assets
-- **Pricing**: Determining the value of externalities
-- **Trading**: Enabling the exchange of externality assets
+## Technical Architecture and Market Design
 
 ## Technical Mechanisms
 
