@@ -12,7 +12,7 @@ title: ""
 
 ## 🌟 Primary Document
 
-**[[Web3 and the Generative Dynamics of the Metacrisis v02]]** serves as the foundational analysis examining Web3 technologies as potential technological substrates for addressing civilizational coordination failures. This comprehensive document provides:
+**[[Web3 and the Generative Dynamics of the Metacrisis v03]]** serves as the foundational analysis examining Web3 technologies as potential technological substrates for addressing civilizational coordination failures. This comprehensive document provides:
 
 - **Rigorous empirical assessment** of blockchain-based approaches across technical affordances, implementation challenges, and governance mechanisms
 - **Systematic evaluation** of over forty specific "crypto for good" claims spanning economic empowerment, transparency enhancement, governance innovation, individual sovereignty protection, and incentive realignment
@@ -165,7 +165,7 @@ Core capabilities and affordances of Web3 systems:
 ## 📖 Document Architecture
 
 ### Primary Analysis
-- **[[Web3 and the Generative Dynamics of the Metacrisis v01]]** - The foundational comprehensive analysis examining Web3's potential for addressing systemic civilizational failures
+- **[[Web3 and the Generative Dynamics of the Metacrisis v03]]** - The foundational comprehensive analysis examining Web3's potential for addressing systemic civilizational failures
 
 ### Supporting Research Materials  
 - **[[Systemic Problem Analysis]]** - Detailed analysis of the five core systemic failures comprising the meta-crisis
@@ -291,7 +291,7 @@ The analysis concludes with evidence-based recommendations for:
 
 ## 📋 Usage Guide
 
-**Start with the Primary Document**: Begin with **[[Web3 and the Generative Dynamics of the Metacrisis v01]]** for the comprehensive analysis and strategic framework.
+**Start with the Primary Document**: Begin with **[[Web3 and the Generative Dynamics of the Metacrisis v03]]** for the comprehensive analysis and strategic framework.
 
 **Navigate by Interest**: Use the wiki's interconnected structure to explore specific concepts, technical primitives, or implementation patterns referenced in the primary analysis.
 
