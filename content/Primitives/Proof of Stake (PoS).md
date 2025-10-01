@@ -115,13 +115,13 @@ Slashing = Penalty for Malicious Behavior
 
 ## Integration with Other Primitives
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **Transaction validation**: Validating smart contract transactions
 - **Network security**: Securing smart contract networks
 - **Immutable records**: Creating immutable contract records
 - **Decentralization**: Maintaining contract decentralization
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Network security**: Securing DAO networks
 - **Transaction validation**: Validating DAO transactions
 - **Immutable records**: Creating immutable governance records
@@ -153,12 +153,12 @@ Slashing = Penalty for Malicious Behavior
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [Ethereum PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/), [Cardano Ouroboros](https://cardano.org/)
-- **Related Concepts**: [[smart contract]], [[decentralized autonomous organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[smart contract]] - Self-executing agreements on blockchains
-- [[decentralized autonomous organizations (DAOs)]] - Community-controlled organizations
+- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[distributed consensus]] - Agreement among multiple nodes
 - [[decentralization]] - Distribution of control and decision-making

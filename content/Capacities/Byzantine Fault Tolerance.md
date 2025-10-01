@@ -90,7 +90,7 @@
 - **Cross-Chain Bridges**: Secure asset transfers between blockchains
 - **Insurance Products**: Secure insurance and risk management
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Secure Governance**: BFT consensus for governance decisions
 - **Treasury Management**: Secure fund allocation and spending
 - **Voting Systems**: Secure and verifiable voting mechanisms

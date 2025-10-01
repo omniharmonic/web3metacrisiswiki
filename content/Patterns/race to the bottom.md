@@ -64,14 +64,14 @@ What political scientist Steven Levitsky calls "competitive authoritarianism" ca
 - **[[Community-Verified Impact Assessment]]**: Local verification of standards compliance
 
 ### Decentralized Governance
-[[Decentralized autonomous organizations (DAOs)]] can coordinate standards:
+[[Decentralized Autonomous Organizations (DAOs)]] can coordinate standards:
 - **[[Polycentric Governance]]**: Multiple overlapping standard-setting bodies
 - **[[Holographic Consensus]]**: Community-driven standard development
 - **[[Quadratic Voting]]**: Democratic allocation of standard-setting resources
 - **[[Conviction Voting]]**: Long-term commitment to high standards
 
 ### Programmable Incentives
-[[Smart contract]] can create economic incentives for high standards:
+[[content/Primitives/smart contracts]] can create economic incentives for high standards:
 - **[[Programmable Incentives]]**: Automated rewards for exceeding standards
 - **[[Tokenization]]**: Economic incentives for quality and safety
 - **[[Fractional Ownership]]**: Democratized access to high-standard products

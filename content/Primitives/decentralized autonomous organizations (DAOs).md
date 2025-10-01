@@ -156,7 +156,7 @@
 
 ## Related Concepts
 
-- [[smart contract]] - Technical foundation
+- [[content/Primitives/smart contracts]] - Technical foundation
 - [[Governance Tokens]] - Voting mechanism
 - [[Treasury_Management]] - Financial governance
 - [[Decentralized_Governance]] - Organizational structure

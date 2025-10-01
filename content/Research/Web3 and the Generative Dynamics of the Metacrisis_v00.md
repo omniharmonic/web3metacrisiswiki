@@ -72,7 +72,7 @@ The Third Attractor framework provides a lens for evaluating whether specific in
 
 ### Web3 Technologies as Potential Technological Substrate
 
-Web3 technologies—encompassing [[blockchain]] networks, [[smart contract]], [[decentralized applications (dApps)]], [[cryptographic protocols]], and [[distributed governance]] mechanisms—have emerged as potential technological substrates for addressing the [[meta-crisis]] through novel coordination mechanisms that could enable movement toward the [[Third Attractor]]. The term "Web3" itself represents the third generation of internet architecture, following Web1's static information sharing and Web2's interactive but centralized platforms.
+Web3 technologies—encompassing [[blockchain]] networks, [[content/Primitives/smart contracts]], [[decentralized applications (dApps)]], [[cryptographic protocols]], and [[distributed governance]] mechanisms—have emerged as potential technological substrates for addressing the [[meta-crisis]] through novel coordination mechanisms that could enable movement toward the [[Third Attractor]]. The term "Web3" itself represents the third generation of internet architecture, following Web1's static information sharing and Web2's interactive but centralized platforms.
 
 **Foundational Technological Paradigm Shift**
 
@@ -90,7 +90,7 @@ These cryptographic primitives collectively enable the creation of systems where
 
 The resilience properties of decentralized infrastructure stem from redundancy, geographic distribution, and economic incentives that align individual and collective interests. Unlike centralized systems where single points of failure can compromise entire networks, decentralized systems degrade gracefully and can continue operating even when significant portions are compromised or offline.
 
-**[[Programmable Incentives]]** enable the creation of economic mechanisms that reward prosocial behavior and punish harmful actions through automated [[smart contract]] and [[tokenization]]. [[smart contract]] can automatically execute agreements based on verifiable conditions, reducing the need for trusted intermediaries. [[tokenization]] systems can create economic incentives for desired behaviors, from contributing to public goods to maintaining network infrastructure.
+**[[Programmable Incentives]]** enable the creation of economic mechanisms that reward prosocial behavior and punish harmful actions through automated [[content/Primitives/smart contracts]] and [[tokenization]]. [[content/Primitives/smart contracts]] can automatically execute agreements based on verifiable conditions, reducing the need for trusted intermediaries. [[tokenization]] systems can create economic incentives for desired behaviors, from contributing to public goods to maintaining network infrastructure.
 
 These programmable incentive systems can potentially address the [[misaligned incentives]] that drive many components of the [[meta-crisis]]. By making prosocial behavior economically rational and harmful behavior economically costly, Web3 systems could help align individual incentives with collective welfare in ways that traditional institutions have struggled to achieve.
 
@@ -98,13 +98,13 @@ These programmable incentive systems can potentially address the [[misaligned in
 
 This immutability property has important implications for addressing problems like [[regulatory capture]] and corruption, where powerful actors may attempt to suppress or alter inconvenient records. Immutable records can preserve evidence of wrongdoing and enable accountability mechanisms that resist institutional capture.
 
-**[[Composability]] and [[Interoperability]]** enable different Web3 systems to interact and build upon each other, creating network effects and emergent capabilities that exceed the sum of individual components. [[smart contract]] can call other [[smart contract]], tokens can be used across multiple applications, and data can be shared between different protocols. This [[Composability]] enables rapid innovation and experimentation with new coordination mechanisms.
+**[[Composability]] and [[Interoperability]]** enable different Web3 systems to interact and build upon each other, creating network effects and emergent capabilities that exceed the sum of individual components. [[content/Primitives/smart contracts]] can call other [[content/Primitives/smart contracts]], tokens can be used across multiple applications, and data can be shared between different protocols. This [[Composability]] enables rapid innovation and experimentation with new coordination mechanisms.
 
 **Critical Limitations and Contested Claims**
 
 However, the relationship between technological capability and social transformation remains deeply contested. Critics highlight fundamental limitations that may prevent Web3 technologies from realizing their transformative potential:
 
-**Governance Challenges** emerge from the difficulty of creating truly democratic decentralized systems. [[Token]]-based governance often becomes plutocratic, where wealthy actors accumulate governance tokens to control decisions. Low participation rates in [[decentralized autonomous organizations (DAOs)]] governance mean that small groups of large holders can dominate decision-making. The absence of traditional legal frameworks creates uncertainty about liability, enforceability, and dispute resolution.
+**Governance Challenges** emerge from the difficulty of creating truly democratic decentralized systems. [[Token]]-based governance often becomes plutocratic, where wealthy actors accumulate governance tokens to control decisions. Low participation rates in [[Decentralized Autonomous Organizations (DAOs)]] governance mean that small groups of large holders can dominate decision-making. The absence of traditional legal frameworks creates uncertainty about liability, enforceability, and dispute resolution.
 
 **Scalability Constraints** limit the practical applications of [[blockchain]] systems. Current networks can process only a fraction of the transactions handled by traditional payment systems, while [[Gas]] fees can become prohibitively expensive during periods of high demand. Energy consumption, particularly for [[proof of work (PoW)]] systems, raises environmental concerns. These constraints may prevent Web3 systems from achieving the scale necessary for addressing global problems.
 
@@ -152,7 +152,7 @@ The second stage provides systematic mapping of Web3 primitives across six disti
 
 *Decentralized Finance Layer*: [[automated market makers (AMMs)]], lending protocols, yield farming mechanisms, and financial primitives. Analysis covers capital efficiency, systemic risks, accessibility barriers, and regulatory compliance challenges.
 
-*Organizational Layer*: [[decentralized autonomous organizations (DAOs)]], [[governance mechanisms]], treasury management, and collective decision-making systems. Evaluation includes democratic participation, plutocratic tendencies, coordination effectiveness, and accountability mechanisms.
+*Organizational Layer*: [[Decentralized Autonomous Organizations (DAOs)]], [[governance mechanisms]], treasury management, and collective decision-making systems. Evaluation includes democratic participation, plutocratic tendencies, coordination effectiveness, and accountability mechanisms.
 
 *Infrastructure Layer*: Oracle networks, [[decentralized storage networks]], identity protocols, and interoperability mechanisms. Assessment covers reliability, censorship resistance, data integrity, and single points of failure.
 
@@ -340,7 +340,7 @@ The proposed decentralized regulatory networks would integrate multiple Web3 pri
 
 **[[blockchain]] infrastructure**: Multiple blockchain networks would provide the foundational infrastructure for immutable record-keeping, smart contract execution, and cross-jurisdictional coordination. Interoperability protocols would enable communication between different blockchain networks while maintaining security and decentralization.
 
-**[[smart contract]] systems**: Advanced smart contract platforms would implement regulatory logic, automate compliance monitoring, and facilitate coordination between different system components. Formal verification techniques would ensure contract correctness and security.
+**[[content/Primitives/smart contracts]] systems**: Advanced smart contract platforms would implement regulatory logic, automate compliance monitoring, and facilitate coordination between different system components. Formal verification techniques would ensure contract correctness and security.
 
 **[[decentralized storage networks]]**: IPFS and other distributed storage systems would provide censorship-resistant storage for regulatory documents, evidence, and historical records. Content addressing would ensure document integrity while distributed replication would prevent single points of failure.
 
@@ -978,7 +978,7 @@ Maximal Extractable Value ([[MEV]]) attacks exploit the ability of block produce
 
 These limitations prevent many applications from achieving mainstream adoption and create barriers to entry for users who cannot afford high transaction fees. Layer 2 solutions attempt to address these issues but often involve trade-offs in decentralization or security.
 
-#### 2.1.2 [[smart contract]]: Programmable Agreements and Automated Execution
+#### 2.1.2 [[content/Primitives/smart contracts]]: Programmable Agreements and Automated Execution
 
 Smart contracts represent one of the most significant innovations in blockchain technology, providing the ability to create self-executing agreements with the terms directly written into code. This capability enables automation of complex processes, elimination of intermediaries, and creation of trustless systems where participants can coordinate without requiring mutual trust.
 
@@ -1016,7 +1016,7 @@ Automated compliance verification can reduce costs and improve reliability compa
 
 Self-sovereign identity systems built on smart contracts can eliminate dependence on centralized identity providers while maintaining the ability to verify identity claims. This can be particularly valuable for individuals who lack access to traditional identity documents or who need to maintain privacy while proving specific attributes.
 
-**Governance and Organizational Automation**: Smart contracts enable new forms of organizational governance including [[decentralized autonomous organizations (DAOs)]], automated proposal execution, and transparent voting mechanisms. These systems can reduce administrative overhead while increasing transparency and participation.
+**Governance and Organizational Automation**: Smart contracts enable new forms of organizational governance including [[Decentralized Autonomous Organizations (DAOs)]], automated proposal execution, and transparent voting mechanisms. These systems can reduce administrative overhead while increasing transparency and participation.
 
 Automated governance systems can execute decisions immediately upon reaching consensus, eliminating delays and reducing the potential for human error or manipulation. Transparent voting enables participants to verify that their votes are counted correctly and that decisions are implemented as agreed.
 
@@ -1254,7 +1254,7 @@ The approval mechanism is essential for DeFi protocols where users need to autho
 
 [[automated market makers (AMMs)]] like Uniswap can create trading pairs for any ERC-20 tokens, while lending protocols like [[Aave]] can accept any ERC-20 token as collateral. This composability has enabled rapid innovation and experimentation in DeFi.
 
-**[[Governance Tokens]] and [[decentralized autonomous organizations (DAOs)]]**: Many blockchain projects use ERC-20 tokens to represent governance rights in decentralized organizations. Token holders can vote on proposals and participate in protocol governance.
+**[[Governance Tokens]] and [[Decentralized Autonomous Organizations (DAOs)]]**: Many blockchain projects use ERC-20 tokens to represent governance rights in decentralized organizations. Token holders can vote on proposals and participate in protocol governance.
 
 Governance tokens align incentives between token holders and protocol success, as token value typically depends on protocol adoption and revenue. This creates economic incentives for good governance decisions.
 

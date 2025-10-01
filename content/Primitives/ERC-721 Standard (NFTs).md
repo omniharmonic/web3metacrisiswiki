@@ -112,13 +112,13 @@ interface ERC721 {
 
 ## Integration with Other Primitives
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **Automated logic**: Self-executing rules for NFT behavior
 - **Royalty mechanisms**: Automatic creator payments
 - **Access control**: Gated content and services
 - **Marketplace logic**: Automated trading and auctions
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Governance tokens**: Voting rights in DAO decisions
 - **Membership NFTs**: Access to DAO participation
 - **Reward mechanisms**: Unique rewards for contributions

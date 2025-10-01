@@ -5,13 +5,13 @@ Smart contract regulatory enforcement represents the automated execution of regu
 ## Core Concepts
 
 ### Automated Compliance
-- **[[Smart Contract]]**: Self-executing contracts that automatically enforce regulatory requirements
+- **[[content/Primitives/smart contracts]]**: Self-executing contracts that automatically enforce regulatory requirements
 - **[[Automated Verification]]**: Automated checking of compliance with regulatory standards
 - **[[Deterministic Execution Properties]]**: Predictable and verifiable regulatory enforcement
 - **[[Transparent and Auditable Execution]]**: Public verification of regulatory compliance
 
 ### Decentralized Enforcement
-- **[[Decentralized autonomous organizations (DAOs)]]**: Community-governed regulatory systems
+- **[[Decentralized Autonomous Organizations (DAOs)]]**: Community-governed regulatory systems
 - **[[Polycentric Governance]]**: Multiple overlapping regulatory jurisdictions
 - **[[Holographic Consensus]]**: Community-driven regulatory development
 - **[[Technological Sovereignty]]**: Communities controlling their own regulatory systems
@@ -45,7 +45,7 @@ Smart contract regulatory enforcement represents the automated execution of regu
 ## Technical Implementation
 
 ### Smart Contract Architecture
-- **[[Smart Contract]]**: Automated regulatory enforcement
+- **[[content/Primitives/smart contracts]]**: Automated regulatory enforcement
 - **[[Immutability]]**: Permanent records of regulatory compliance
 - **[[Transparency]]**: Public verification of regulatory systems
 - **[[Auditability]]**: Historical tracking of regulatory compliance
@@ -105,10 +105,10 @@ Smart contract regulatory enforcement addresses key components of the [[meta-cri
 - **[[Civic Renaissance]]**: Democratic participation in regulatory systems
 
 ## Related Concepts
-- [[smart contract]]
+- [[content/Primitives/smart contracts]]
 - [[automated verification]]
 - [[programmable incentives]]
-- [[decentralized autonomous organizations (DAOs)]]
+- [[Decentralized Autonomous Organizations (DAOs)]]
 - [[polycentric governance]]
 - [[regulatory capture]]
 - [[regulatory complexity]]

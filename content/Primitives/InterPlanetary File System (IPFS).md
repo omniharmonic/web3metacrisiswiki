@@ -82,7 +82,7 @@
 - **Accountability**: Accountable IPFS
 - **Privacy**: Privacy-preserving IPFS
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO IPFS**: IPFS in DAOs
 - **Voting IPFS**: IPFS in DAO voting
 - **Proposal IPFS**: IPFS in DAO proposals

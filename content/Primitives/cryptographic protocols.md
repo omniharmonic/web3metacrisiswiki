@@ -83,7 +83,7 @@
 - **Accountability**: Accountable cryptographic protocols systems
 - **Privacy**: Privacy-preserving cryptographic protocols systems
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Cryptographic Protocols Systems**: Cryptographic protocols systems in DAOs
 - **Voting Cryptographic Protocols Systems**: Cryptographic protocols systems in DAO voting
 - **Proposal Cryptographic Protocols Systems**: Cryptographic protocols systems in DAO proposals

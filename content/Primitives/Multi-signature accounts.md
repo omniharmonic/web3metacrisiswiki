@@ -82,7 +82,7 @@
 - **Accountability**: Accountable multi-signature systems
 - **Privacy**: Privacy-preserving multi-signature
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Multi-signature**: Multi-signature in DAOs
 - **Voting Multi-signature**: Multi-signature in DAO voting
 - **Proposal Multi-signature**: Multi-signature in DAO proposals

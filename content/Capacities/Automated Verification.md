@@ -7,7 +7,7 @@
 ## Core Concepts
 
 - **[[Cryptographic Proof Generation]]**: Mathematical verification of claims without revealing underlying data
-- **[[Smart Contract]] Logic**: Automated verification rules encoded in smart contracts
+- **[[content/Primitives/smart contracts]] Logic**: Automated verification rules encoded in smart contracts
 - **[[Zero Knowledge Proof (ZKP)]]**: Verification without revealing sensitive information
 - **[[Distributed Consensus]]**: Distributed verification across multiple nodes
 - **[[Immutable Records]]**: Permanent verification history
@@ -90,7 +90,7 @@
 - **Transaction Verification**: Automated validation of financial transactions
 - **Audit Trails**: Automated tracking of all financial activities
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Member Verification**: Automated verification of membership requirements
 - **Proposal Validation**: Automated checking of proposal validity
 - **Voting Verification**: Automated verification of voting eligibility

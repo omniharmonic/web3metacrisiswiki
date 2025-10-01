@@ -82,7 +82,7 @@
 - **Accountability**: Accountable ICOs
 - **Privacy**: Privacy-preserving ICOs
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO ICOs**: ICOs in DAOs
 - **Voting ICOs**: ICOs in DAO voting
 - **Proposal ICOs**: ICOs in DAO proposals

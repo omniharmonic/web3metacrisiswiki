@@ -51,7 +51,7 @@ Self-sovereign identity represents a paradigm shift from centralized identity ma
 - **[[Hash Functions]]**: Tamper-evident data structures
 
 ### Blockchain Integration
-- **[[Smart Contract]]**: Automated identity verification and management
+- **[[content/Primitives/smart contracts]]**: Automated identity verification and management
 - **[[Immutability]]**: Permanent records of identity events
 - **[[Transparency]]**: Public verification of identity systems
 - **[[Auditability]]**: Historical tracking of identity changes

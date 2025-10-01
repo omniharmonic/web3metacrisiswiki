@@ -83,7 +83,7 @@
 - **Accountability**: Accountable Zcash systems
 - **Privacy**: Privacy-preserving Zcash
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Zcash**: Zcash in DAOs
 - **Voting Zcash**: Zcash in DAO voting
 - **Proposal Zcash**: Zcash in DAO proposals

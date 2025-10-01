@@ -82,7 +82,7 @@
 - **Accountability**: Accountable optimistic rollup systems
 - **Privacy**: Privacy-preserving optimistic rollups
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Optimistic Rollups**: Optimistic rollups in DAOs
 - **Voting Optimistic Rollups**: Optimistic rollups in DAO voting
 - **Proposal Optimistic Rollups**: Optimistic rollups in DAO proposals

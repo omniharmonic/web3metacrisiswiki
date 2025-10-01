@@ -89,7 +89,7 @@ The significance extends beyond technical implementation to encompass fundamenta
 - **Conservation Incentives**: Incentivizing conservation
 - **Sustainability**: Promoting sustainability
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Ecosystem DAOs**: Community-controlled ecosystem organizations
 - **Governance**: Decentralized decision-making about ecosystems
 - **Funding**: Community funding for ecosystem projects

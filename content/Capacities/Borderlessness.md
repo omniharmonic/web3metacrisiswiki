@@ -24,7 +24,7 @@
 ### Cross-Border Operations
 - **Peer-to-Peer**: Direct transactions without intermediaries
 - **[[Cryptographic Protocols]]**: Secure without trusted third parties
-- **[[Automation]]**: [[Smart Contract]] execute globally
+- **[[Automation]]**: [[content/Primitives/smart contracts]] execute globally
 - **[[Rapidity]]**: Instant cross-border transactions
 - **24/7 Operation**: Continuous operation across time zones
 
@@ -83,7 +83,7 @@
 - **[[yield farming]]**: International yield optimization
 - **[[Flash Loans]]**: Global access to uncollateralized lending
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Global Membership**: Anyone can join DAOs worldwide
 - **International Governance**: Global decision-making processes
 - **Cross-Border Funding**: International resource allocation

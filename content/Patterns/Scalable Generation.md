@@ -83,7 +83,7 @@
 - **Accountability**: Accountable generation systems
 - **Privacy**: Privacy-preserving generation
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Governance Generation**: Generating DAO governance content
 - **Voting Generation**: Generating DAO voting content
 - **Proposal Generation**: Generating DAO proposals

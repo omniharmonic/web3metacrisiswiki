@@ -45,7 +45,7 @@ Yet empirical evidence from existing decentralized governance systems reveals si
 
 ### Economic Disintermediation and New Intermediaries
 
-Decentralization promises to reduce the power of financial intermediaries by enabling direct peer-to-peer transactions and eliminating rent-seeking middlemen in various economic activities. This has particular significance for financial inclusion by enabling access to financial services for populations excluded from traditional banking systems, and for reducing transaction costs in cross-border payments and other financial activities.
+Decentralization promises to reduce the power of financial intermediaries by enabling direct peer-to-peer transactions and eliminating rent-seek[[Decentralized Autonomous Organizations (DAOs)]]s has particular significance for financial inclusion by enabling access to financial services for populations excluded from traditional banking systems, and for reducing transaction costs in cross-border payments and other financial activities.
 
 However, the practical implementation of decentralized systems often recreates intermediary functions through new types of service providers including cryptocurrency exchanges, wallet providers, and layer-2 scaling solutions that may exhibit similar concentration and power dynamics as traditional intermediaries. The technical complexity of directly interacting with decentralized systems means that most users access them through centralized interfaces that reintroduce many of the trust assumptions and power concentrations that decentralization purports to eliminate.
 

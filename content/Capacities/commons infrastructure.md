@@ -90,7 +90,7 @@
 - **Sustainability**: Long-term infrastructure sustainability
 - **Resilience**: Infrastructure resistant to failures and attacks
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Infrastructure DAOs**: Community-controlled infrastructure organizations
 - **Governance**: Decentralized decision-making about infrastructure
 - **Funding**: Community funding for infrastructure projects

@@ -91,7 +91,7 @@ The emphasis on sandboxing acknowledges that permissionless deployment requires 
 - **Sandboxed Cross-Chain**: Sandboxed cross-chain operations
 - **Sandboxed Governance**: Sandboxed governance participation
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Sandboxed DAOs**: Community-controlled sandboxed organizations
 - **Governance**: Decentralized decision-making about sandboxing
 - **Funding**: Community funding for sandboxed projects

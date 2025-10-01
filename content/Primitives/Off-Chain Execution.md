@@ -83,7 +83,7 @@
 - **Accountability**: Accountable off-chain execution systems
 - **Privacy**: Privacy-preserving off-chain execution
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Off-Chain Execution**: Off-chain execution in DAOs
 - **Voting Off-Chain Execution**: Off-chain execution in DAO voting
 - **Proposal Off-Chain Execution**: Off-chain execution in DAO proposals

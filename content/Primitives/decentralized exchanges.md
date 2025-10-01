@@ -83,7 +83,7 @@
 - **Accountability**: Accountable DEX systems
 - **Privacy**: Privacy-preserving DEX
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO DEX**: DEX in DAOs
 - **Voting DEX**: DEX in DAO voting
 - **Proposal DEX**: DEX in DAO proposals

@@ -40,14 +40,14 @@ Regulatory complexity creates self-reinforcing dynamics:
 ## Web3 Solutions and Limitations
 
 ### Automated Compliance
-[[Smart contract]] can automate regulatory compliance:
+[[content/Primitives/smart contracts]] can automate regulatory compliance:
 - **[[Automated Verification]]**: Automated checking of regulatory compliance
 - **[[Deterministic Execution Properties]]**: Predictable and verifiable compliance
 - **[[Transparent and Auditable Execution]]**: Public verification of compliance
 - **[[Programmable Incentives]]**: Economic incentives for compliance
 
 ### Decentralized Governance
-[[Decentralized autonomous organizations (DAOs)]] can simplify regulatory processes:
+[[Decentralized Autonomous Organizations (DAOs)]] can simplify regulatory processes:
 - **[[Polycentric Governance]]**: Multiple overlapping regulatory systems
 - **[[Holographic Consensus]]**: Community-driven regulatory development
 - **[[Quadratic Voting]]**: Democratic allocation of regulatory resources

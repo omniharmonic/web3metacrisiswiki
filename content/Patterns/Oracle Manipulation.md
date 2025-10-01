@@ -42,7 +42,7 @@ The [[oracle problem]] arises from the fundamental limitation that blockchain sy
 - **[[Sandboxed Environment and Security Isolation]]**: Isolating oracle functions from other system components
 
 ### Governance Mechanisms
-- **[[Decentralized autonomous organizations (DAOs)]]**: Community governance of oracle networks
+- **[[Decentralized Autonomous Organizations (DAOs)]]**: Community governance of oracle networks
 - **[[Quadratic Voting]]**: Democratic allocation of oracle resources
 - **[[Conviction Voting]]**: Long-term commitment to oracle reliability
 - **[[Holographic Consensus]]**: Community-driven oracle development
@@ -79,7 +79,7 @@ Oracle manipulation represents a critical vulnerability that could undermine Web
 
 ### Governance and Coordination
 - **[[Polycentric Governance]]**: Multiple overlapping oracle systems
-- **[[Decentralized autonomous organizations (DAOs)]]**: Community control of oracle networks
+- **[[Decentralized Autonomous Organizations (DAOs)]]**: Community control of oracle networks
 - **[[Holographic Consensus]]**: Community-driven oracle development
 - **[[Technological Sovereignty]]**: Communities controlling their own data sources
 

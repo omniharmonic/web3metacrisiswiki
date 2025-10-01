@@ -83,7 +83,7 @@
 - **Accountability**: Accountable zk-SNARK systems
 - **Privacy**: Privacy-preserving zk-SNARKs
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO zk-SNARKs**: zk-SNARKs in DAOs
 - **Voting zk-SNARKs**: zk-SNARKs in DAO voting
 - **Proposal zk-SNARKs**: zk-SNARKs in DAO proposals

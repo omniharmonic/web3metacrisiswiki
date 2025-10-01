@@ -83,7 +83,7 @@
 - **Accountability**: Accountable zk-Rollup systems
 - **Privacy**: Privacy-preserving zk-Rollups
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO zk-Rollups**: zk-Rollups in DAOs
 - **Voting zk-Rollups**: zk-Rollups in DAO voting
 - **Proposal zk-Rollups**: zk-Rollups in DAO proposals

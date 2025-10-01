@@ -137,7 +137,7 @@ User Transaction → Prover → Validity Proof → Main Chain
 
 ## Integration with Other Primitives
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **EVM compatibility**: Support for existing smart contracts
 - **Gas optimization**: Reduced execution costs
 - **Batch processing**: Multiple contract calls in single transaction
@@ -175,12 +175,12 @@ User Transaction → Prover → Validity Proof → Main Chain
 
 - **Source Documents**: [[Web3 Primitives]], [[scalability trilemma]], [[Paper Outline]]
 - **Technical Resources**: [Ethereum Layer 2 Scaling](https://ethereum.org/en/layer-2/)
-- **Related Concepts**: [[zero knowledge proof (ZKP)]], [[smart contract]], [[Composability]]
+- **Related Concepts**: [[zero knowledge proof (ZKP)]], [[content/Primitives/smart contracts]], [[Composability]]
 
 ## Related Concepts
 
 - [[scalability trilemma]] - The fundamental trade-offs in blockchain design
 - [[zero knowledge proof (ZKP)]] - Cryptographic methods for privacy and verification
-- [[smart contract]] - Programmable logic on blockchains
+- [[content/Primitives/smart contracts]] - Programmable logic on blockchains
 - [[Composability]] - Ability of components to work together
 - [[decentralization]] - Distribution of control and decision-making

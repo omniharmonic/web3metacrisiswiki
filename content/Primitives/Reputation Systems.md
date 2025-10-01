@@ -82,7 +82,7 @@
 - **Accountability**: Accountable reputation systems
 - **Privacy**: Privacy-preserving reputation
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Reputation**: Reputation in DAOs
 - **Voting Reputation**: Reputation in DAO voting
 - **Proposal Reputation**: Reputation in DAO proposals

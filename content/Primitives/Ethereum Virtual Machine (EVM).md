@@ -56,8 +56,8 @@ The **Ethereum Virtual Machine (EVM)** is the computational engine at the heart 
 ## Role in Web3 Stack
 
 The EVM serves as the **foundational execution layer** for:
-- [[smart contract]] - Programmable logic
-- [[decentralized autonomous organizations (DAOs)]] - Governance mechanisms
+- [[content/Primitives/smart contracts]] - Programmable logic
+- [[Decentralized Autonomous Organizations (DAOs)]] - Governance mechanisms
 - [[DeFi_Protocols]] - Financial applications
 - [[Token_Standards]] - ERC-20, ERC-721, ERC-1155
 
@@ -83,7 +83,7 @@ The EVM serves as the **foundational execution layer** for:
 
 ## Related Concepts
 
-- [[smart contract]] - Primary use case
+- [[content/Primitives/smart contracts]] - Primary use case
 - [[Gas_Mechanism]] - Economic model
 - [[Proof of Stake (PoS)]] - Consensus mechanism
 - [[Composability]] - Key design principle
