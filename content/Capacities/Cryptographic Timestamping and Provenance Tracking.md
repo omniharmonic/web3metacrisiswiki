@@ -60,7 +60,7 @@ The immutability of cryptographic provenance creates fundamental tensions with p
 - **Regulatory Compliance**: Verifiable compliance with regulations
 - **Risk Assessment**: Timestamp and provenance data for risk assessment
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Governance Timestamps**: Verifiable timestamps for governance decisions
 - **Member Provenance**: History of member participation
 - **Proposal Timestamps**: Verifiable timestamps for proposals

@@ -86,7 +86,7 @@ The significance extends beyond technical implementation to encompass fundamenta
 - **Air Quality Markets**: Trading air quality credits
 - **Social Impact Markets**: Trading social impact credits
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Externality DAOs**: Community-controlled externality organizations
 - **Governance**: Decentralized decision-making about externality markets
 - **Funding**: Community funding for externality projects

@@ -5,7 +5,7 @@ Polycentric governance represents a framework for organizing collective decision
 ## Core Principles
 
 ### Multiple Overlapping Jurisdictions
-- **[[Decentralized autonomous organizations (DAOs)]]**: Multiple overlapping governance systems
+- **[[Decentralized Autonomous Organizations (DAOs)]]**: Multiple overlapping governance systems
 - **[[Holographic Consensus]]**: Community-driven decision making
 - **[[Quadratic Voting]]**: Democratic allocation of resources
 - **[[Conviction Voting]]**: Long-term commitment to public interest
@@ -19,7 +19,7 @@ Polycentric governance represents a framework for organizing collective decision
 ## Web3 Applications
 
 ### Decentralized Governance
-- **[[Decentralized autonomous organizations (DAOs)]]**: Community-governed systems
+- **[[Decentralized Autonomous Organizations (DAOs)]]**: Community-governed systems
 - **[[Polycentric Governance]]**: Multiple overlapping governance systems
 - **[[Holographic Consensus]]**: Community-driven decision making
 - **[[Quadratic Voting]]**: Democratic allocation of resources
@@ -39,7 +39,7 @@ Polycentric governance represents a framework for organizing collective decision
 ## Technical Implementation
 
 ### Blockchain Integration
-- **[[Smart Contract]]**: Automated governance enforcement
+- **[[content/Primitives/smart contracts]]**: Automated governance enforcement
 - **[[Immutability]]**: Permanent records of governance decisions
 - **[[Transparency]]**: Public verification of governance processes
 - **[[Auditability]]**: Historical tracking of governance changes
@@ -99,7 +99,7 @@ Polycentric governance addresses key components of the [[meta-crisis]]:
 - **[[Civic Renaissance]]**: Democratic participation in governance systems
 
 ## Related Concepts
-- [[decentralized autonomous organizations (DAOs)]]
+- [[Decentralized Autonomous Organizations (DAOs)]]
 - [[holographic consensus]]
 - [[quadratic voting]]
 - [[conviction voting]]

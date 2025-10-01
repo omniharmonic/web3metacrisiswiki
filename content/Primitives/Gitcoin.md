@@ -104,7 +104,7 @@
 - **Revenue models**: Generating resources for platform operation
 
 ### Community Governance
-- **[[decentralized autonomous organizations (DAOs)]]**: Community control over platform
+- **[[Decentralized Autonomous Organizations (DAOs)]]**: Community control over platform
 - **Proposal systems**: Community proposal and voting mechanisms
 - **Treasury management**: Community control over platform funds
 - **Upgrade processes**: Community-driven platform evolution
@@ -146,7 +146,7 @@
 - [[Collective Action Problem]] - Broader coordination challenges
 - [[Mechanism Design]] - Theoretical foundation for platform
 - [[Tokenomics]] - Economic design for platform
-- [[decentralized autonomous organizations (DAOs)]] - Organizational structure
+- [[Decentralized Autonomous Organizations (DAOs)]] - Organizational structure
 - [[governance mechanisms]] - Decision-making systems
 - [[Staking]] - Economic participation mechanism
 - [[Slashing]] - Penalty for platform violations

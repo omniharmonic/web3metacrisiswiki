@@ -40,7 +40,7 @@ Institutional defense operates through multiple channels:
 ## Web3 Solutions and Limitations
 
 ### Decentralized Governance
-[[Decentralized autonomous organizations (DAOs)]] can reduce institutional defense:
+[[Decentralized Autonomous Organizations (DAOs)]] can reduce institutional defense:
 - **[[Polycentric Governance]]**: Multiple overlapping governance systems
 - **[[Holographic Consensus]]**: Community-driven decision making
 - **[[Quadratic Voting]]**: Democratic allocation of resources

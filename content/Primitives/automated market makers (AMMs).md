@@ -197,7 +197,7 @@
 
 ## Related Concepts
 
-- [[smart contract]] - Technical foundation
+- [[content/Primitives/smart contracts]] - Technical foundation
 - [[Liquidity Pools]] - Core component
 - [[Decentralized Finance (DeFi)]] - Primary application
 - [[Composability]] - Key design principle

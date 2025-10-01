@@ -40,7 +40,7 @@ Web3 technical building blocks and protocols:
 
 **Core Infrastructure:**
 - **[[Ethereum Virtual Machine (EVM)]]** - Core execution environment
-- **[[smart contract]]** - Programmable logic layer
+- **[[content/Primitives/smart contracts]]** - Programmable logic layer
 - **[[Account Models]]** - User interaction foundation
 - **[[Composability]]** - Interoperability and modularity
 
@@ -66,13 +66,13 @@ Web3 technical building blocks and protocols:
 - **[[yield farming]]** - Liquidity mining strategies
 
 **Scaling Solutions:**
-- **[[Layer_2_Rollups]]** - Optimistic and ZK rollups
+- **[[Layer 2 Rollups]]** - Optimistic and ZK rollups
 - **[[State Channels]]** - Off-chain transaction channels
 - **[[Sidechains]]** - Independent connected chains
 - **[[Sharding]]** - Horizontal scaling approach
 
 **Data & Infrastructure:**
-- **[[Blockchain_Oracles]]** - Off-chain data bridges
+- **[[Blockchain Oracles]]** - Off-chain data bridges
 - **[[decentralized storage networks]]** - Distributed data storage
 - **[[Decentralized Data Indexing]]** - Blockchain data organization
 - **[[Decentralized Identifiers (DIDs)]]** - Self-sovereign identity
@@ -205,21 +205,21 @@ The primary document systematically evaluates Web3 technologies as potential tec
 ## 🗺️ Navigation
 
 ### By Problem Domain
-- **Governance**: [[regulatory capture]], [[decentralized autonomous organizations (DAOs)]], [[distributed consensus]]
+- **Governance**: [[regulatory capture]], [[Decentralized Autonomous Organizations (DAOs)]], [[distributed consensus]]
 - **Economics**: [[misaligned incentives]], [[tokenization]], [[automated market makers (AMMs)]]
 - **Information**: [[oracle problem]], [[Privacy Preservation]], [[zero knowledge proof (ZKP)]]
 - **Coordination**: [[multi-polar traps]], [[Composability]], [[decentralization]]
 
 ### By Solution Approach
-- **Technical**: [[smart contract]], [[Ethereum Virtual Machine (EVM)]], [[scalability trilemma]]
+- **Technical**: [[content/Primitives/smart contracts]], [[Ethereum Virtual Machine (EVM)]], [[scalability trilemma]]
 - **Economic**: [[tokenization]], [[automated market makers (AMMs)]], [[ERC-20 Standard]]
-- **Social**: [[decentralized autonomous organizations (DAOs)]], [[distributed consensus]], [[censorship resistance]]
+- **Social**: [[Decentralized Autonomous Organizations (DAOs)]], [[distributed consensus]], [[censorship resistance]]
 - **Governance**: [[Vitality, Resilience, Choice]], [[Third Attractor]], [[meta-crisis]]
 
 ### By Capability
 - **Coordination**: [[distributed consensus]], [[Composability]], [[decentralization]]
 - **Privacy**: [[Privacy Preservation]], [[zero knowledge proof (ZKP)]], [[censorship resistance]]
-- **Governance**: [[decentralized autonomous organizations (DAOs)]], [[Vitality, Resilience, Choice]]
+- **Governance**: [[Decentralized Autonomous Organizations (DAOs)]], [[Vitality, Resilience, Choice]]
 - **Economics**: [[tokenization]], [[automated market makers (AMMs)]], [[misaligned incentives]]
 
 ## 📊 Statistics

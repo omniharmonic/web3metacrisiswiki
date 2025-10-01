@@ -83,7 +83,7 @@
 - **Accountability**: Accountable end-to-end encrypted communication
 - **Privacy**: Privacy-preserving end-to-end encrypted communication
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO End-to-End Encrypted Communication**: End-to-end encrypted communication in DAOs
 - **Voting End-to-End Encrypted Communication**: End-to-end encrypted communication in DAO voting
 - **Proposal End-to-End Encrypted Communication**: End-to-end encrypted communication in DAO proposals

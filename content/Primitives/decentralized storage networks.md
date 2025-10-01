@@ -134,13 +134,13 @@ Data → Hash Function → Content Hash → Network Storage
 
 ## Integration with Other Primitives
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **Data storage**: Storing data for smart contracts
 - **Metadata storage**: Storing NFT metadata and media
 - **Integration**: Seamless interaction with smart contracts
 - **Automation**: Automated data storage and retrieval
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Governance**: Community control of storage networks
 - **Treasury management**: Storage network fund management
 - **Decision making**: Collective decision-making processes
@@ -172,12 +172,12 @@ Data → Hash Function → Content Hash → Network Storage
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [IPFS Documentation](https://docs.ipfs.io/), [Arweave](https://www.arweave.org/)
-- **Related Concepts**: [[smart contract]], [[decentralized autonomous organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[smart contract]] - Self-executing agreements on blockchains
-- [[decentralized autonomous organizations (DAOs)]] - Community-controlled organizations
+- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[censorship resistance]] - Ability to operate without interference
 - [[decentralization]] - Distribution of control and decision-making

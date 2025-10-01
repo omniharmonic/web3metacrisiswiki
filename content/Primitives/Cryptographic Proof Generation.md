@@ -83,7 +83,7 @@
 - **Accountability**: Accountable cryptographic proof generation
 - **Privacy**: Privacy-preserving cryptographic proof generation
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Cryptographic Proof Generation**: Cryptographic proof generation in DAOs
 - **Voting Cryptographic Proof Generation**: Cryptographic proof generation in DAO voting
 - **Proposal Cryptographic Proof Generation**: Cryptographic proof generation in DAO proposals

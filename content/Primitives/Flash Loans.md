@@ -151,7 +151,7 @@ interface IFlashLoanReceiver {
 
 ## Integration with Other Primitives
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **Automated execution**: Self-executing flash loan operations
 - **Conditional logic**: Automated risk management
 - **Integration**: Seamless interaction with other protocols
@@ -173,11 +173,11 @@ interface IFlashLoanReceiver {
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [Aave Flash Loans](https://docs.aave.com/developers/guides/flash-loans)
-- **Related Concepts**: [[smart contract]], [[decentralized lending protocols]], [[Composability]]
+- **Related Concepts**: [[content/Primitives/smart contracts]], [[decentralized lending protocols]], [[Composability]]
 
 ## Related Concepts
 
-- [[smart contract]] - Self-executing agreements on blockchains
+- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
 - [[decentralized lending protocols]] - Autonomous money markets
 - [[Composability]] - Ability of components to work together
 - [[Arbitrage]] - Exploiting price differences for profit

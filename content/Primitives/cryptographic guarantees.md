@@ -83,7 +83,7 @@
 - **Accountability**: Accountable cryptographic guarantees
 - **Privacy**: Privacy-preserving cryptographic guarantees
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Cryptographic Guarantees**: Cryptographic guarantees in DAOs
 - **Voting Cryptographic Guarantees**: Cryptographic guarantees in DAO voting
 - **Proposal Cryptographic Guarantees**: Cryptographic guarantees in DAO proposals

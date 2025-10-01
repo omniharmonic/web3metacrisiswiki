@@ -120,13 +120,13 @@ interface ERC1155 {
 
 ## Integration with Other Primitives
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **Automated logic**: Self-executing rules for token behavior
 - **Conditional transfers**: Tokens that transfer based on conditions
 - **Time-based releases**: Tokens that become available over time
 - **Access control**: Gated content and services
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Multi-token governance**: Different voting rights for different tokens
 - **Treasury management**: Diverse asset types in DAO treasuries
 - **Reward systems**: Multiple types of contributor rewards

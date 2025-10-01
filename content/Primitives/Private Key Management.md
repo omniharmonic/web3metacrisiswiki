@@ -83,7 +83,7 @@
 - **Accountability**: Accountable private key management systems
 - **Privacy**: Privacy-preserving private key management
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Private Key Management**: Private key management in DAOs
 - **Voting Private Key Management**: Private key management in DAO voting
 - **Proposal Private Key Management**: Private key management in DAO proposals

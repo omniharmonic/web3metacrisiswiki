@@ -55,7 +55,7 @@ However, blockchain networks also exhibit significant centralization vulnerabili
 - **[[Interoperability]]**: Systems that can work together
 - **Innovation**: New combinations of existing components
 - **Adaptation**: Systems that can evolve over time
-- **[[smart contract]]**: Programmable components for complex systems
+- **[[content/Primitives/smart contracts]]**: Programmable components for complex systems
 
 ## Beneficial Potentials
 

@@ -131,7 +131,7 @@ Total Gas Fee = Gas Units Used × (Base Fee + Priority Fee)
 - [[front running]] - Gas price manipulation for transaction ordering
 - [[Layer_2_Rollups]] - Scaling solution reducing gas costs
 - [[Ethereum Virtual Machine (EVM)]] - Execution environment using gas
-- [[smart contract]] - Primary consumers of gas
+- [[content/Primitives/smart contracts]] - Primary consumers of gas
 - [[Proof of Stake (PoS)]] - Consensus mechanism receiving gas fees
 - [[Network_Congestion]] - Condition driving up gas prices
 - [[scalability trilemma]] - Fundamental challenge gas addresses

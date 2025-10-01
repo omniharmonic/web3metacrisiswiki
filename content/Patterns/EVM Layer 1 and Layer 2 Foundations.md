@@ -37,8 +37,8 @@ The EVM ecosystem continues to evolve through Ethereum 2.0 upgrades that improve
 ## Related Concepts
 
 - [[blockchain]]
-- [[smart contract]]
-- [[decentralized autonomous organizations (DAOs)]]
+- [[content/Primitives/smart contracts]]
+- [[Decentralized Autonomous Organizations (DAOs)]]
 - [[Tokenomics]]
 - [[consensus mechanisms]]
 - [[scalability trilemma]]

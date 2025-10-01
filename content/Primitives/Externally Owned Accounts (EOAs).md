@@ -82,7 +82,7 @@
 - **Accountability**: Accountable EOAs
 - **Privacy**: Privacy-preserving EOAs
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO EOAs**: EOAs in DAOs
 - **Voting EOAs**: EOAs in DAO voting
 - **Proposal EOAs**: EOAs in DAO proposals

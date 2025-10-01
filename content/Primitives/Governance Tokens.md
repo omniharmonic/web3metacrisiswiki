@@ -83,7 +83,7 @@
 - **Accountability**: Accountable governance tokens
 - **Privacy**: Privacy-preserving governance tokens
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Governance Tokens**: Governance tokens in DAOs
 - **Voting Governance Tokens**: Governance tokens in DAO voting
 - **Proposal Governance Tokens**: Governance tokens in DAO proposals

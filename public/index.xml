@@ -6,65 +6,65 @@
       <description>Last 10 notes on Web3 Meta-Crisis Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Auditability</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Auditability</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Auditability</guid>
-    <description><![CDATA[ Auditability Definition and Institutional Significance Auditability represents the capacity of systems to provide comprehensive, verifiable, and independently accessible records of all operations, decisions, and resource flows that enable external verification of institutional behavior without requi... ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Blockchain Oracles</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Blockchain-Oracles</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Blockchain-Oracles</guid>
+    <description><![CDATA[ Blockchain Oracles / Decentralized Oracle Networks (DONs) Definition Blockchain Oracles and Decentralized Oracle Networks (DONs) are secure bridges that connect blockchains to external data sources, enabling smart contracts to access real-world information. ]]></description>
+    <pubDate>Wed, 01 Oct 2025 01:10:12 GMT</pubDate>
   </item><item>
-    <title>Immutability</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Immutability</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Immutability</guid>
-    <description><![CDATA[ Immutability Definition and Conceptual Framework Immutability represents one of the most philosophically significant properties of blockchain systems: the capacity to create records that resist alteration or deletion once committed to the distributed ledger. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>decentralization</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/decentralization</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/decentralization</guid>
+    <description><![CDATA[ Decentralization Definition and Political Theory Decentralization represents the distribution of control, decision-making authority, and resource allocation across multiple independent nodes, participants, or entities rather than concentrating these functions within singular hierarchical authorities... ]]></description>
+    <pubDate>Wed, 01 Oct 2025 01:10:11 GMT</pubDate>
   </item><item>
-    <title>Programmability</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Programmability</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Programmability</guid>
-    <description><![CDATA[ Programmability Definition and Conceptual Significance Programmability represents the capacity to encode complex logical operations and automate rule-based processes through smart contracts and programmable blockchain systems. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Decentralized Autonomous Organizations (DAOs)</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</guid>
+    <description><![CDATA[ Definition Decentralized Autonomous Organizations (DAOs) are novel organizational structures that are community-owned and managed, operating on a blockchain according to rules encoded in smart contracts. ]]></description>
+    <pubDate>Wed, 01 Oct 2025 01:09:12 GMT</pubDate>
   </item><item>
-    <title>Transparency</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Transparency</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Transparency</guid>
-    <description><![CDATA[ Transparency Definition and Democratic Significance Transparency represents the capacity to make information, processes, and decisions visible, auditable, and accessible to relevant stakeholders without requiring permission from intermediary authorities. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>tokenization</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</guid>
+    <description><![CDATA[ Tokenization Definition and Economic Theory Tokenization represents the process of converting rights, claims, or assets into programmable digital tokens that can be transferred, traded, and composed within blockchain ecosystems. ]]></description>
+    <pubDate>Wed, 01 Oct 2025 01:09:12 GMT</pubDate>
   </item><item>
-    <title>Trustlessness</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Trustlessness</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Trustlessness</guid>
-    <description><![CDATA[ Trustlessness Definition and Theoretical Framework Trustlessness represents a paradigmatic shift in computational systems—the capacity to achieve reliable coordination and execution without requiring trust in any single party, intermediary, or central authority. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Community-Based Reputation and Verification</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Based-Reputation-and-Verification</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Based-Reputation-and-Verification</guid>
+    <description><![CDATA[ Community-Based Reputation and Verification Definition and Social Significance Community-Based Reputation and Verification represents a fundamental reimagining of trust infrastructure—the capacity to build, maintain, and verify reputation systems through collective community action rather than centr... ]]></description>
+    <pubDate>Tue, 30 Sep 2025 22:27:33 GMT</pubDate>
   </item><item>
-    <title>censorship resistance</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/censorship-resistance</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/censorship-resistance</guid>
-    <description><![CDATA[ Censorship Resistance Conceptual Framework and Democratic Significance Censorship resistance represents the capacity of information and communication systems to maintain functionality and provide access to data, services, and resources despite attempts by powerful entities to block, restrict, or con... ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Community-Verified Impact Assessment</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Verified-Impact-Assessment</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Community-Verified-Impact-Assessment</guid>
+    <description><![CDATA[ Community-Verified Impact Assessment Definition and Epistemological Significance Community-Verified Impact Assessment represents a fundamental challenge to expert-driven impact evaluation—the capacity to enable communities to collectively measure, verify, and assess the social and environmental cons... ]]></description>
+    <pubDate>Tue, 30 Sep 2025 22:27:33 GMT</pubDate>
   </item><item>
-    <title>Algorithmic Amplification</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Algorithmic-Amplification</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Algorithmic-Amplification</guid>
-    <description><![CDATA[ Algorithmic Amplification Definition and Theoretical Foundations Algorithmic Amplification represents the systematic use of computational systems to selectively increase the reach, visibility, and influence of specific content, behaviors, or social phenomena beyond their organic propagation patterns... ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Complementary Currencies</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Complementary-Currencies</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Complementary-Currencies</guid>
+    <description><![CDATA[ Complementary Currencies Definition and Economic Significance Complementary Currencies represent a fundamental challenge to monetary sovereignty and centralized currency issuance—the capacity to create alternative monetary systems that operate alongside or instead of national currencies to serve spe... ]]></description>
+    <pubDate>Tue, 30 Sep 2025 22:27:33 GMT</pubDate>
   </item><item>
-    <title>Behavioral Economics</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Behavioral-Economics</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Behavioral-Economics</guid>
-    <description><![CDATA[ Behavioral Economics Definition and Theoretical Foundations Behavioral Economics represents an interdisciplinary field that integrates psychological insights about human decision-making with economic analysis, challenging the traditional assumption of perfectly rational actors to explain how cogniti... ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Content-Addressed Information Storage</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Content-Addressed-Information-Storage</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Content-Addressed-Information-Storage</guid>
+    <description><![CDATA[ Content-Addressed Information Storage Definition and Architectural Significance Content-Addressed Information Storage represents a fundamental reconception of information architecture—the capacity to identify, locate, and retrieve information based on cryptographic representations of content itself ... ]]></description>
+    <pubDate>Tue, 30 Sep 2025 22:27:33 GMT</pubDate>
   </item><item>
-    <title>Choice</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Choice</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Choice</guid>
-    <description><![CDATA[ Choice Definition and Philosophical Foundations Choice represents the fundamental capacity for autonomous agency and self-determination that enables individuals and communities to shape their own conditions of existence without external coercion or systemic constraint. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Credential Verification</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Credential-Verification</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Credential-Verification</guid>
+    <description><![CDATA[ Credential Verification Definition and Institutional Significance Credential Verification represents a fundamental challenge to centralized certification authority—the capacity to verify the authenticity and validity of credentials, qualifications, and attestations through cryptographic mechanisms r... ]]></description>
+    <pubDate>Tue, 30 Sep 2025 22:27:33 GMT</pubDate>
   </item><item>
-    <title>Collective Action Problem</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problem</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problem</guid>
-    <description><![CDATA[ Collective Action Problem Definition and Theoretical Foundations The Collective Action Problem represents a fundamental challenge in social coordination where rational individual behavior leads to collectively suboptimal outcomes, despite mutual benefits available through cooperation. ]]></description>
-    <pubDate>Mon, 29 Sep 2025 22:25:01 GMT</pubDate>
+    <title>Cross-Border Remittances</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Cross-Border-Remittances</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Cross-Border-Remittances</guid>
+    <description><![CDATA[ Cross-Border Remittances Definition and Economic Significance Cross-Border Remittances represents a fundamental challenge to correspondent banking monopolies—the capacity to enable international money transfers through peer-to-peer networks rather than hierarchical banking relationships. ]]></description>
+    <pubDate>Tue, 30 Sep 2025 22:27:33 GMT</pubDate>
   </item>
     </channel>
   </rss>

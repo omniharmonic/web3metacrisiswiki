@@ -83,7 +83,7 @@
 - **Accountability**: Accountable decentralized identity systems
 - **Privacy**: Privacy-preserving decentralized identity systems
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Decentralized Identity Systems**: Decentralized identity systems in DAOs
 - **Voting Decentralized Identity Systems**: Decentralized identity systems in DAO voting
 - **Proposal Decentralized Identity Systems**: Decentralized identity systems in DAO proposals

@@ -14,7 +14,7 @@
 
 ## Technical Mechanisms
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **[[Automation]]**: Self-executing code without human intervention
 - **Conditional Logic**: If-then statements that trigger actions
 - **State Changes**: Automatic updates to system state
@@ -83,7 +83,7 @@
 - **[[Flash Loans]]**: Automated uncollateralized lending
 - **[[Arbitrage]]**: Automated price correction
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Automated Governance**: Self-executing decision-making
 - **Treasury Management**: Automated fund allocation
 - **Voting Systems**: Automated vote processing

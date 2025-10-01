@@ -6,7 +6,7 @@
 
 The theoretical significance of liquid democracy extends far beyond technical governance innovation to encompass fundamental questions about the scalability of democratic participation, the role of expertise in collective decision-making, and the conditions under which technological innovation can enhance rather than undermine democratic legitimacy. The mechanism attempts to solve what political scientist Robert Dahl termed "the problem of scale" where direct participation becomes impractical in large populations while representative systems may fail to reflect citizen preferences accurately.
 
-In Web3 contexts, liquid democracy represents a core governance primitive for [[Decentralized Autonomous Organizations]], potentially addressing both the low participation rates that plague traditional DAO governance and the expertise barriers that may exclude ordinary community members from meaningful participation in technical decision-making. However, its effectiveness depends critically on solving challenges related to delegation concentration, information asymmetries, and the maintenance of democratic accountability in systems designed for efficiency optimization.
+In Web3 contexts, liquid democracy represents a core governance primitive for [[Decentralized Autonomous Organizations (DAOs)]], potentially addressing both the low participation rates that plague traditional DAO governance and the expertise barriers that may exclude ordinary community members from meaningful participation in technical decision-making. However, its effectiveness depends critically on solving challenges related to delegation concentration, information asymmetries, and the maintenance of democratic accountability in systems designed for efficiency optimization.
 
 ## Delegation Mechanics and Democratic Theory
 
@@ -48,9 +48,9 @@ The digital implementation also reveals new categories of manipulation including
 
 ### Smart Contract Automation and Transparent Governance
 
-Web3 implementations of liquid democracy leverage [[Smart Contracts]] to automate complex delegation calculations and vote weighting while ensuring transparency and verifiability of all governance decisions. This automation potentially reduces the administrative costs of dynamic delegation while creating permanent, auditable records of delegation relationships and voting outcomes.
+Web3 implementations of liquid democracy leverage [[content/Primitives/smart contracts|smart contracts]] to automate complex delegation calculations and vote weighting while ensuring transparency and verifiability of all governance decisions. This automation potentially reduces the administrative costs of dynamic delegation while creating permanent, auditable records of delegation relationships and voting outcomes.
 
-[[Ethereum Virtual Machine]] implementations enable sophisticated delegation logic including conditional delegation based on issue types, automatic delegation expiration, and complex vote weighting formulas that can account for token holdings, reputation scores, and historical participation. The programmable nature of smart contracts allows for experimentation with delegation rules that would be impractical in traditional governance systems.
+[[Ethereum Virtual Machine (EVM)]] implementations enable sophisticated delegation logic including conditional delegation based on issue types, automatic delegation expiration, and complex vote weighting formulas that can account for token holdings, reputation scores, and historical participation. The programmable nature of smart contracts allows for experimentation with delegation rules that would be impractical in traditional governance systems.
 
 However, smart contract implementation introduces new categories of risk including coding vulnerabilities that could be exploited to manipulate governance outcomes, gas cost optimization that may bias toward simple over complex delegation formulas, and the difficulty of implementing nuanced delegation logic within computational constraints.
 
@@ -64,7 +64,7 @@ Yet the introduction of financial incentives may also create new categories of m
 
 ### DAO Governance and Organizational Applications
 
-Major [[Decentralized Autonomous Organizations]] including MakerDAO, Compound, and Uniswap have experimented with liquid democracy mechanisms for governance decisions ranging from protocol parameters to treasury allocation. These implementations provide large-scale empirical evidence about liquid democracy performance in high-stakes governance environments with significant financial implications.
+Major [[Decentralized Autonomous Organizations (DAOs)]] including MakerDAO, Compound, and Uniswap have experimented with liquid democracy mechanisms for governance decisions ranging from protocol parameters to treasury allocation. These implementations provide large-scale empirical evidence about liquid democracy performance in high-stakes governance environments with significant financial implications.
 
 The results demonstrate both the potential for increased participation through delegation and persistent challenges with delegation concentration, low rates of delegation switching, and the technical complexity barriers that may exclude ordinary token holders from meaningful governance participation. Analysis reveals that effective governance often concentrates among small numbers of sophisticated participants despite the availability of delegation mechanisms.
 
@@ -108,7 +108,7 @@ The maturation of liquid democracy depends on solving fundamental challenges inc
 
 ## Related Concepts
 
-[[Decentralized Autonomous Organizations]] - Organizational structures that may implement liquid democracy for governance
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that may implement liquid democracy for governance
 [[Governance Tokens]] - Voting rights mechanisms that enable liquid democracy participation
 [[Quadratic Voting]] - Alternative voting mechanism that addresses similar preference intensity challenges
 [[Conviction Voting]] - Time-weighted governance mechanism that complements delegation systems

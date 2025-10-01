@@ -82,7 +82,7 @@
 - **Accountability**: Accountable oracle network systems
 - **Privacy**: Privacy-preserving oracle networks
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Oracle Networks**: Oracle networks in DAOs
 - **Voting Oracle Networks**: Oracle networks in DAO voting
 - **Proposal Oracle Networks**: Oracle networks in DAO proposals

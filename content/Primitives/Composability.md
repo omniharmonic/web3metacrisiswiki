@@ -148,7 +148,7 @@ Composability creates a powerful economic flywheel that accelerates development:
 
 ## Related Concepts
 
-- [[smart contract]] - Technical foundation
+- [[content/Primitives/smart contracts]] - Technical foundation
 - [[Token_Standards]] - Standardized interfaces
 - [[decentralized applications (dApps)]] - Composable applications
 - [[Network_Effects]] - Economic dynamics

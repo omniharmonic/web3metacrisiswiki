@@ -42,7 +42,7 @@ The climate crisis intersects with [[epistemic collapse]] through:
 - **[[Fractional Ownership]]**: Democratized access to carbon markets
 
 ### Decentralized Climate Governance
-[[Decentralized autonomous organizations (DAOs)]] can coordinate climate action:
+[[Decentralized Autonomous Organizations (DAOs)]] can coordinate climate action:
 - **[[Polycentric Governance]]**: Multiple overlapping climate governance systems
 - **[[Holographic Consensus]]**: Community-driven decision making on climate priorities
 - **[[Quadratic Voting]]**: Democratic allocation of climate funding

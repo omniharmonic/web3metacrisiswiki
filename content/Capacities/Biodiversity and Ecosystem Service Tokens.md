@@ -24,8 +24,8 @@
 ### Measurement and Verification
 - **Satellite Monitoring**: Remote sensing for ecosystem health assessment
 - **IoT Sensors**: Internet of Things devices for real-time environmental monitoring
-- **[[Blockchain_Oracles]]**: External data feeds for environmental metrics
-- **[[Smart Contract]]**: Automated verification of conservation activities
+- **[[Blockchain Oracles]]**: External data feeds for environmental metrics
+- **[[content/Primitives/smart contracts]]**: Automated verification of conservation activities
 - **[[Cryptographic Proof Generation]]**: Verification of environmental claims
 
 ### Market Mechanisms
@@ -90,7 +90,7 @@
 - **Yield Farming**: Investment opportunities in environmental projects
 - **Cross-Border Trading**: International environmental markets
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Conservation DAOs**: Community-controlled conservation organizations
 - **Environmental Governance**: Decentralized decision-making for environmental issues
 - **Resource Management**: Community management of natural resources

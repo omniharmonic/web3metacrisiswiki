@@ -82,7 +82,7 @@
 - **Accountability**: Accountable Ethereum Attestation Service
 - **Privacy**: Privacy-preserving Ethereum Attestation Service
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Ethereum Attestation Service**: Ethereum Attestation Service in DAOs
 - **Voting Ethereum Attestation Service**: Ethereum Attestation Service in DAO voting
 - **Proposal Ethereum Attestation Service**: Ethereum Attestation Service in DAO proposals

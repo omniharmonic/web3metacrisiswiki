@@ -83,7 +83,7 @@
 - **Accountability**: Accountable social proof systems
 - **Privacy**: Privacy-preserving social proof
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Governance Social Proof**: Social proof in DAO governance
 - **Voting Social Proof**: Social proof in DAO voting
 - **Proposal Social Proof**: Social proof in DAO proposals

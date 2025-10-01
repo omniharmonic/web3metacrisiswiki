@@ -83,7 +83,7 @@
 - **Accountability**: Accountable contract accounts
 - **Privacy**: Privacy-preserving contract accounts
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Contract Accounts**: Contract accounts in DAOs
 - **Voting Contract Accounts**: Contract accounts in DAO voting
 - **Proposal Contract Accounts**: Contract accounts in DAO proposals

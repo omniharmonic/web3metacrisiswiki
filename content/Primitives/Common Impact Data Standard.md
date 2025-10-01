@@ -83,7 +83,7 @@
 - **Accountability**: Accountable impact data standard systems
 - **Privacy**: Privacy-preserving impact data standard
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Impact Data Standard**: Impact data standard in DAOs
 - **Voting Impact Data Standard**: Impact data standard in DAO voting
 - **Proposal Impact Data Standard**: Impact data standard in DAO proposals

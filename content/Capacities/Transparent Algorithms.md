@@ -86,7 +86,7 @@ The significance extends beyond technical implementation to encompass tensions b
 - **Verification**: Ability to verify algorithmic outputs
 - **Trust**: Building trust through algorithmic transparency
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Transparent Algorithmic DAOs**: Community-controlled transparent algorithmic organizations
 - **Governance**: Transparent decentralized algorithmic decision-making
 - **Funding**: Transparent community algorithmic funding mechanisms

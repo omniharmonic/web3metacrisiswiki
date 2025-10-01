@@ -90,7 +90,7 @@
 - **Yield Farming**: Investment opportunities for small amounts
 - **Cross-Border Payments**: International money transfers
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Community Banking**: Community-controlled financial services
 - **Microfinance**: Small loans for community development
 - **Mutual Aid**: Community support and insurance systems

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Patterns/Panopticon.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Panopticon"
+              "title": "Web3 and the Generative Dynamics of the Metacrisis v02"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Patterns/Panopticon.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Panopticon"
+              "title": "Backlinks for Web3 and the Generative Dynamics of the Metacrisis v02"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Patterns/Panopticon.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Panopticon"
+              "title": "Outgoing links from Web3 and the Generative Dynamics of the Metacrisis v02"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Patterns/Panopticon.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Panopticon"
+              "title": "Outline of Web3 and the Generative Dynamics of the Metacrisis v02"
             }
           }
         ]
@@ -245,8 +245,23 @@
     "public/Research/Paper-Outline.html",
     "public/Research/Crypto-For-Good-Claims.html",
     "public/Primitives/zk-SNARKs.html",
-    "content/Primitives/Reputation Systems.md",
+    "content/Patterns/Liquid Democracy.md",
+    "content/Patterns/Conviction Voting.md",
+    "Decentralized Autonomous Organizations.md",
+    "content/Patterns/Quadratic Voting.md",
+    "content/Primitives/Decentralized Autonomous Organizations (DAOs).md",
+    "content/Patterns/Tokenomics.md",
+    "content/Primitives/Governance Tokens.md",
+    "Ethereum Virtual Machine.md",
+    "content/Primitives/smart contracts.md",
+    "Smart Contracts.md",
+    "content/Research/Prospectus.md",
+    "content/index.md",
+    "content/Patterns/meta-crisis.md",
+    "content/Primitives/Blockchain Oracles.md",
+    "content/Patterns/Vitality, Resilience, Choice.md",
     "content/Patterns/Panopticon.md",
+    "content/Primitives/Reputation Systems.md",
     "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
     "content/Research/Web3 and the Generative Dynamics of the Metacrisis v01.md",
     "content/Web3 and the Generative Dynamics of the Metacrisis v01.md",
@@ -254,21 +269,6 @@
     "content/index-backup.md",
     "content/Research/Editorial Notes.md",
     "content/README.md",
-    "content/Web3 and the Generative Dynamics of the Metacrisis v01_temp.md",
-    "Editorial Notes.md",
-    "content/Primitives/Bonding Curves.md",
-    "content/Web3 and the Generative Dynamics of the Metacrisis_v00.md",
-    "content/Patterns/climatological shifts.md",
-    "content/Patterns/Incentive Mechanisms.md",
-    "content/Patterns/negative externalities.md",
-    "content/Patterns/Political Externalities.md",
-    "content/Research/Call Summary.md",
-    "content/Research/Call Transcript.md",
-    "content/Research/Paper Outline.md",
-    "content/Research/Web3 Primitives.md",
-    "content/Research/Web3 Affordances & Potentials.md",
-    "content/Research/Systemic Problem Analysis.md",
-    "content/Research/Crypto For Good Claims.md",
-    "content/Primitives/State Channels.md"
+    "content/Web3 and the Generative Dynamics of the Metacrisis v01_temp.md"
   ]
 }

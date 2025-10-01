@@ -83,7 +83,7 @@
 - **Accountability**: Accountable commons systems
 - **Privacy**: Privacy-preserving commons
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **DAO Commons**: Commons in DAOs
 - **Voting Commons**: Commons in DAO voting
 - **Proposal Commons**: Commons in DAO proposals

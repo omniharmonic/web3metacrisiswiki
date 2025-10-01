@@ -86,7 +86,7 @@ The significance extends beyond technical implementation to encompass questions 
 - **Natural Resources**: Fractional ownership of natural resources
 - **Infrastructure**: Fractional ownership of infrastructure
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Asset DAOs**: Community-controlled asset organizations
 - **Governance**: Decentralized decision-making about asset management
 - **Funding**: Community funding for asset projects

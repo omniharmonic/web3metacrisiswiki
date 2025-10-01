@@ -90,7 +90,7 @@
 - **Yield Farming**: Investment opportunities in carbon projects
 - **Cross-Border Trading**: International carbon markets
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Carbon DAOs**: Community-controlled carbon organizations
 - **Environmental Governance**: Decentralized decision-making for carbon issues
 - **Resource Management**: Community management of carbon resources

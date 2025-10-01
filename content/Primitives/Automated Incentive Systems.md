@@ -28,7 +28,7 @@ Successful automated incentive systems require careful attention to incentive al
 
 ## Related Concepts
 
-- [[smart contract]]
+- [[content/Primitives/smart contracts]]
 - [[Tokenomics]]
 - [[Governance Tokens]]
 - [[Liquidity Pools]]

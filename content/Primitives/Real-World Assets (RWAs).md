@@ -122,13 +122,13 @@
 
 ## Integration with Other Primitives
 
-### [[smart contract]]
+### [[content/Primitives/smart contracts]]
 - **Automated execution**: Self-executing asset management
 - **Compliance**: Automated compliance with regulations
 - **Transparency**: Transparent asset management
 - **Automation**: Automated asset operations
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Governance**: Community governance of asset protocols
 - **Decision making**: Better decision-making processes
 - **Community participation**: Increased community participation
@@ -160,12 +160,12 @@
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [Centrifuge](https://centrifuge.io/), [MakerDAO](https://makerdao.com/)
-- **Related Concepts**: [[smart contract]], [[decentralized autonomous organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[smart contract]] - Self-executing agreements on blockchains
-- [[decentralized autonomous organizations (DAOs)]] - Community-controlled organizations
+- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[tokenization]] - Process of creating digital representations of assets
 - [[DeFi]] - Decentralized finance protocols and applications

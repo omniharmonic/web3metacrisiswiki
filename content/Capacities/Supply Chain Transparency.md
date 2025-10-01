@@ -91,7 +91,7 @@ Note: See also [[Provenance Tracking]] for related analysis of immutability and 
 - **Compliance**: Meeting regulatory requirements
 - **Sustainability**: Tracking environmental impact
 
-### [[decentralized autonomous organizations (DAOs)]]
+### [[Decentralized Autonomous Organizations (DAOs)]]
 - **Supply Chain DAOs**: Community-controlled supply chain organizations
 - **Governance**: Decentralized decision-making about supply chains
 - **Funding**: Community funding for supply chain projects
