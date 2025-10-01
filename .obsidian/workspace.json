@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web3 and the Generative Dynamics of the Metacrisis v02"
+              "title": "Web3 and the Generative Dynamics of the Metacrisis v03"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Web3 and the Generative Dynamics of the Metacrisis v02"
+              "title": "Backlinks for Web3 and the Generative Dynamics of the Metacrisis v03"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Web3 and the Generative Dynamics of the Metacrisis v02"
+              "title": "Outgoing links from Web3 and the Generative Dynamics of the Metacrisis v03"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
+                "file": "content/Web3 and the Generative Dynamics of the Metacrisis v03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web3 and the Generative Dynamics of the Metacrisis v02"
+              "title": "Outline of Web3 and the Generative Dynamics of the Metacrisis v03"
             }
           }
         ]
@@ -222,29 +222,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "38e9ab7eabb2bcc1",
+  "active": "b7e38e14ebdeafd7",
   "lastOpenFiles": [
     "public/index-og-image.webp",
     "public/index-backup-og-image.webp",
-    "public/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v02-og-image.webp",
+    "public/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v03-og-image.webp",
     "public/Research/Web3-Primitives-og-image.webp",
     "public/Research/Web3-Affordances--and--Potentials-og-image.webp",
+    "public/Research/Towards-An-Open-CIvics-og-image.webp",
     "public/Research/Systemic-Problem-Analysis-og-image.webp",
     "public/Research/Prospectus-og-image.webp",
     "public/Research/Paper-Outline-og-image.webp",
     "public/Research/Crypto-For-Good-Claims-og-image.webp",
-    "public/Primitives/zk-SNARKs-og-image.webp",
-    "public/Primitives/zk-Rollups-og-image.webp",
+    "public/Research/Beyond-Narrow-Optimization-og-image.webp",
     "public/index.html",
     "public/index-backup.html",
-    "public/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v02.html",
+    "public/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v03.html",
     "public/Research/Web3-Primitives.html",
     "public/Research/Web3-Affordances--and--Potentials.html",
+    "public/Research/Towards-An-Open-CIvics.html",
     "public/Research/Systemic-Problem-Analysis.html",
     "public/Research/Prospectus.html",
     "public/Research/Paper-Outline.html",
     "public/Research/Crypto-For-Good-Claims.html",
-    "public/Primitives/zk-SNARKs.html",
+    "content/Research/Towards An Open CIvics.md",
+    "content/Research/Beyond Narrow Optimization.md",
+    "content/Research/Web3 and the Generative Dynamics of the Metacrisis v02.md",
+    "content/Web3 and the Generative Dynamics of the Metacrisis v03.md",
     "content/Patterns/Liquid Democracy.md",
     "content/Patterns/Conviction Voting.md",
     "Decentralized Autonomous Organizations.md",
@@ -262,13 +266,9 @@
     "content/Patterns/Vitality, Resilience, Choice.md",
     "content/Patterns/Panopticon.md",
     "content/Primitives/Reputation Systems.md",
-    "content/Web3 and the Generative Dynamics of the Metacrisis v02.md",
     "content/Research/Web3 and the Generative Dynamics of the Metacrisis v01.md",
     "content/Web3 and the Generative Dynamics of the Metacrisis v01.md",
     "content/Research/Web3 and the Generative Dynamics of the Metacrisis_v00.md",
-    "content/index-backup.md",
-    "content/Research/Editorial Notes.md",
-    "content/README.md",
-    "content/Web3 and the Generative Dynamics of the Metacrisis v01_temp.md"
+    "content/index-backup.md"
   ]
 }
