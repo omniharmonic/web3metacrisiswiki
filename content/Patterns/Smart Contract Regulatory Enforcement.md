@@ -1,3 +1,11 @@
+---
+aliases:
+  - "smart contract regulatory enforcement"
+  - "smart-contract-regulatory-enforcement"
+  - "Smart-Contract-Regulatory-Enforcement"
+  - "smart -contract -regulatory -enforcement"
+---
+
 # Smart Contract Regulatory Enforcement
 
 Smart contract regulatory enforcement represents the automated execution of regulatory requirements through blockchain-based systems, potentially addressing [[regulatory capture]] and improving compliance while reducing the need for centralized oversight. This approach leverages [[programmable incentives]] and [[automated verification]] to create self-enforcing regulatory systems.

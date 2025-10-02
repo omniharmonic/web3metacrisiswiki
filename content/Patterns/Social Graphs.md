@@ -1,3 +1,11 @@
+---
+aliases:
+  - "social graphs"
+  - "social-graphs"
+  - "Social-Graphs"
+  - "social -graphs"
+---
+
 # Social Graphs
 
 ## Definition and Theoretical Foundations

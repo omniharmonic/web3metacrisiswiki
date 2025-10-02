@@ -1,3 +1,8 @@
+---
+aliases:
+  - "auditability"
+---
+
 # Auditability
 
 ## Definition and Institutional Significance

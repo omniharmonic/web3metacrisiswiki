@@ -1,3 +1,11 @@
+---
+aliases:
+  - "content-addressed information storage"
+  - "content-addressed-information-storage"
+  - "Content-addressed-Information-Storage"
+  - "content--addressed -information -storage"
+---
+
 # Content-Addressed Information Storage
 
 ## Definition and Architectural Significance

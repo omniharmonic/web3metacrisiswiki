@@ -1,3 +1,9 @@
+---
+aliases:
+  - "availability-heuristic"
+  - "Availability-Heuristic"
+---
+
 # Availability Heuristic
 
 ## Definition and Theoretical Foundations

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "liquidity providers (lps)"
+  - "liquidity-providers-(lps)"
+  - "Liquidity-Providers-(Lps)"
+  - "liquidity -providers (-l-ps)"
+---
+
 
 ## Definition
 

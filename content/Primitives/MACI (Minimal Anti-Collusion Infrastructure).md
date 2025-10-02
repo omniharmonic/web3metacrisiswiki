@@ -1,3 +1,11 @@
+---
+aliases:
+  - "maci (minimal anti-collusion infrastructure)"
+  - "maci-(minimal-anti-collusion-infrastructure)"
+  - "Maci-(Minimal-Anti-collusion-Infrastructure)"
+  - "m-a-c-i (-minimal -anti--collusion -infrastructure)"
+---
+
 # Definition
 
 MACI (Minimal Anti-Collusion Infrastructure) is a privacy-focused Ethereum application that provides private and collusion-resistant on-chain voting. Its architecture relies on several cryptographic primitives including:

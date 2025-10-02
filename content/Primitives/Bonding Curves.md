@@ -1,3 +1,11 @@
+---
+aliases:
+  - "bonding curves"
+  - "bonding-curves"
+  - "Bonding-Curves"
+  - "bonding -curves"
+---
+
 # Bonding Curves
 
 Bonding curves are mathematical functions that define the relationship between token price and supply in automated market makers and token distribution mechanisms. They enable the creation of markets for tokens without requiring traditional order books or centralized exchanges.

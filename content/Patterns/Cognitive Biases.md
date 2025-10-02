@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cognitive biases"
+  - "cognitive-biases"
+  - "Cognitive-Biases"
+  - "cognitive -biases"
+---
+
 # Cognitive Biases
 
 ## Definition and Theoretical Foundations

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "privacy preservation"
+  - "privacy-preservation"
+  - "Privacy-Preservation"
+  - "privacy -preservation"
+---
+
 
 # Privacy Preservation
 

@@ -1,3 +1,9 @@
+---
+aliases:
+  - "climatological-shifts"
+  - "Climatological-Shifts"
+---
+
 # Climatological Shifts
 
 ## Definition and Theoretical Foundations

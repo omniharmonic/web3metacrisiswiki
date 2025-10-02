@@ -1,3 +1,11 @@
+---
+aliases:
+  - "layer 2 rollups"
+  - "layer-2-rollups"
+  - "Layer-2-Rollups"
+  - "layer 2 -rollups"
+---
+
 # Layer 2 Rollups
 
 ## Definition

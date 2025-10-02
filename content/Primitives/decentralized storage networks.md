@@ -1,3 +1,9 @@
+---
+aliases:
+  - "decentralized-storage-networks"
+  - "Decentralized-Storage-Networks"
+---
+
 
 ## Definition
 

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "social credit systems"
+  - "social-credit-systems"
+  - "Social-Credit-Systems"
+  - "social -credit -systems"
+---
+
 # Social Credit Systems
 
 Social credit systems represent comprehensive digital surveillance and behavioral scoring infrastructures that continuously monitor, evaluate, and rate individuals based on their activities, social interactions, and compliance with established norms. These systems enable automated social control through algorithmic governance of access to services, opportunities, and social participation, representing a significant shift toward techno-social management of human behavior.

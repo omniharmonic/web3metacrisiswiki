@@ -1,3 +1,11 @@
+---
+aliases:
+  - "commons contribution tracking"
+  - "commons-contribution-tracking"
+  - "Commons-Contribution-Tracking"
+  - "commons -contribution -tracking"
+---
+
 # Commons Contribution Tracking
 
 Commons contribution tracking refers to systems and mechanisms designed to measure, record, and recognize individual and collective contributions to shared resources, public goods, and community endeavors. These systems address the fundamental challenge of coordinating collective action by making visible the often invisible work that sustains commons.

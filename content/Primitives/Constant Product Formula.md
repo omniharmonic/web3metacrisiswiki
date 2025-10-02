@@ -1,3 +1,11 @@
+---
+aliases:
+  - "constant product formula"
+  - "constant-product-formula"
+  - "Constant-Product-Formula"
+  - "constant -product -formula"
+---
+
 # Definition
 
 The **Constant Product Formula** is the mathematical relationship (x×y=k) that governs pricing in [[automated market makers (AMMs)]] (AMMs), where x and y represent the quantities of two tokens in a [[Liquidity_Pool]], and k is a constant. This formula ensures that the product of token quantities remains constant, automatically adjusting prices based on supply and demand dynamics.

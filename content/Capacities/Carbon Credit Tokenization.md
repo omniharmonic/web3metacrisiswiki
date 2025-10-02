@@ -1,3 +1,11 @@
+---
+aliases:
+  - "carbon credit tokenization"
+  - "carbon-credit-tokenization"
+  - "Carbon-Credit-Tokenization"
+  - "carbon -credit -tokenization"
+---
+
 # Carbon Credit Tokenization
 
 ## Definition

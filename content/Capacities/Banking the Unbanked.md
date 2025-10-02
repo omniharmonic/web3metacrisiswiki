@@ -1,3 +1,11 @@
+---
+aliases:
+  - "banking the unbanked"
+  - "banking-the-unbanked"
+  - "Banking-The-Unbanked"
+  - "banking the -unbanked"
+---
+
 # Banking the Unbanked
 
 ## Definition

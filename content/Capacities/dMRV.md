@@ -1,3 +1,10 @@
+---
+aliases:
+  - "dmrv"
+  - "Dmrv"
+  - "d-m-r-v"
+---
+
 # dMRV (Decentralized Measurement, Reporting, and Verification)
 
 ## Definition and Environmental Significance

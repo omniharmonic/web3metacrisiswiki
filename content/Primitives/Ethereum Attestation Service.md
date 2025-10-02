@@ -1,3 +1,11 @@
+---
+aliases:
+  - "ethereum attestation service"
+  - "ethereum-attestation-service"
+  - "Ethereum-Attestation-Service"
+  - "ethereum -attestation -service"
+---
+
 
 ## Definition
 

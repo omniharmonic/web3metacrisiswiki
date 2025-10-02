@@ -1,3 +1,8 @@
+---
+aliases:
+  - "immutability"
+---
+
 # Immutability
 
 ## Definition and Conceptual Framework

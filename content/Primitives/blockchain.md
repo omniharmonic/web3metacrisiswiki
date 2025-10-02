@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Blockchain"
+---
+
 # Blockchain
 
 ## Definition and Theoretical Foundations

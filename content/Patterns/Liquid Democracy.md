@@ -1,3 +1,11 @@
+---
+aliases:
+  - "liquid democracy"
+  - "liquid-democracy"
+  - "Liquid-Democracy"
+  - "liquid -democracy"
+---
+
 # Liquid Democracy
 
 ## Definition and Theoretical Foundations

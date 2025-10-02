@@ -1,3 +1,11 @@
+---
+aliases:
+  - "global state"
+  - "global-state"
+  - "Global-State"
+  - "global -state"
+---
+
 # Global State
 
 ## Definition and Theoretical Foundations

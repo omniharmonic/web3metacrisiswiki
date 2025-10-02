@@ -1,3 +1,11 @@
+---
+aliases:
+  - "impermanent loss"
+  - "impermanent-loss"
+  - "Impermanent-Loss"
+  - "impermanent -loss"
+---
+
 ## Definition
 
 **Impermanent Loss** is a temporary loss of funds experienced by liquidity providers in [[automated market makers (AMMs)]] (AMMs) due to volatility in the trading pair. It occurs when the price ratio of deposited tokens changes compared to when they were initially deposited. The loss is "impermanent" because it can be recovered if the price ratio returns to the original state, but becomes permanent when liquidity is withdrawn at a different price ratio.

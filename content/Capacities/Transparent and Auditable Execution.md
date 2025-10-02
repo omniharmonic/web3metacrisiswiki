@@ -1,3 +1,11 @@
+---
+aliases:
+  - "transparent and auditable execution"
+  - "transparent-and-auditable-execution"
+  - "Transparent-And-Auditable-Execution"
+  - "transparent and -auditable -execution"
+---
+
 # Transparent and Auditable Execution
 
 ## Definition

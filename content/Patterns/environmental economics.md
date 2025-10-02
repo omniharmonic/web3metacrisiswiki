@@ -1,3 +1,9 @@
+---
+aliases:
+  - "environmental-economics"
+  - "Environmental-Economics"
+---
+
 # Environmental Economics
 
 ## Definition and Theoretical Foundations

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "interplanetary file system (ipfs)"
+  - "interplanetary-file-system-(ipfs)"
+  - "Interplanetary-File-System-(Ipfs)"
+  - "inter-planetary -file -system (-i-p-f-s)"
+---
+
 
 ## Definition
 

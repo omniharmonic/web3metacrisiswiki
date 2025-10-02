@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized social networks"
+  - "decentralized-social-networks"
+  - "Decentralized-Social-Networks"
+  - "decentralized -social -networks"
+---
+
 # Decentralized Social Networks
 
 ## Definition and Democratic Significance

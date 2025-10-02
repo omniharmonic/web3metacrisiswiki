@@ -1,3 +1,11 @@
+---
+aliases:
+  - "engagement optimization"
+  - "engagement-optimization"
+  - "Engagement-Optimization"
+  - "engagement -optimization"
+---
+
 # Engagement Optimization
 
 Engagement optimization refers to the systematic design and deployment of algorithmic systems, user interface elements, and psychological techniques to maximize user attention, time spent, and interaction frequency on digital platforms. These practices prioritize engagement metrics over user wellbeing, often employing persuasive design patterns that exploit psychological vulnerabilities.

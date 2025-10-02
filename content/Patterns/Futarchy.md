@@ -1,3 +1,8 @@
+---
+aliases:
+  - "futarchy"
+---
+
 # Futarchy
 
 ## Definition and Theoretical Foundations

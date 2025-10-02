@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized applications (dapps)"
+  - "decentralized-applications-(dapps)"
+  - "Decentralized-Applications-(Dapps)"
+  - "decentralized applications (d-apps)"
+---
+
 # Decentralized Applications (dApps)
 
 ## Definition and Theoretical Foundations

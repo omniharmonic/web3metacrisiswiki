@@ -1,3 +1,8 @@
+---
+aliases:
+  - "panopticon"
+---
+
 # Panopticon
 
 ## Definition and Theoretical Foundations

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "automated verification"
+  - "automated-verification"
+  - "Automated-Verification"
+  - "automated -verification"
+---
+
 # Automated Verification
 
 ## Definition

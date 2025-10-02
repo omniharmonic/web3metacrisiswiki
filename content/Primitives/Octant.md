@@ -1,3 +1,8 @@
+---
+aliases:
+  - "octant"
+---
+
 # Octant
 
 ## Definition

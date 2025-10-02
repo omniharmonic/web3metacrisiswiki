@@ -1,3 +1,11 @@
+---
+aliases:
+  - "provenance tracking"
+  - "provenance-tracking"
+  - "Provenance-Tracking"
+  - "provenance -tracking"
+---
+
 # Provenance Tracking
 
 ## Definition and Evidential Significance

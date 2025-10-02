@@ -1,3 +1,11 @@
+---
+aliases:
+  - "network nations"
+  - "network-nations"
+  - "Network-Nations"
+  - "network -nations"
+---
+
 # Network Nations
 
 ## Definition and Theoretical Foundations

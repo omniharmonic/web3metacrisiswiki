@@ -1,3 +1,11 @@
+---
+aliases:
+  - "state channels"
+  - "state-channels"
+  - "State-Channels"
+  - "state -channels"
+---
+
 
 ## Definition
 

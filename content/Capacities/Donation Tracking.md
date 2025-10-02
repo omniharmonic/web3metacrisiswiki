@@ -1,3 +1,11 @@
+---
+aliases:
+  - "donation tracking"
+  - "donation-tracking"
+  - "Donation-Tracking"
+  - "donation -tracking"
+---
+
 # Donation Tracking
 
 ## Definition and Philanthropic Significance

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "quadratic funding"
+  - "quadratic-funding"
+  - "Quadratic-Funding"
+  - "quadratic -funding"
+---
+
 # Quadratic Funding
 
 ## Definition and Theoretical Foundations

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "internet of things and ubiquitous monitoring"
+  - "internet-of-things-and-ubiquitous-monitoring"
+  - "Internet-Of-Things-And-Ubiquitous-Monitoring"
+  - "internet of -things and -ubiquitous -monitoring"
+---
+
 # Internet of Things and Ubiquitous Monitoring
 
 The Internet of Things (IoT) and ubiquitous monitoring refers to the proliferation of connected sensors, devices, and systems that continuously collect data about physical environments, human behavior, and social interactions, creating unprecedented capabilities for surveillance and control while also enabling new forms of environmental and social coordination.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized autonomous organizations (daos)"
+  - "decentralized-autonomous-organizations-(daos)"
+  - "Decentralized-Autonomous-Organizations-(Daos)"
+  - "decentralized -autonomous -organizations (-d-a-os)"
+---
+
 
 ## Definition
 

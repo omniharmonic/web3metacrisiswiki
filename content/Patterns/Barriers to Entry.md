@@ -1,3 +1,11 @@
+---
+aliases:
+  - "barriers to entry"
+  - "barriers-to-entry"
+  - "Barriers-To-Entry"
+  - "barriers to -entry"
+---
+
 # Barriers to Entry
 
 Barriers to entry represent obstacles that prevent new competitors from entering a market, enabling [[economic centralization]] and [[regulatory capture]] by protecting incumbents from competition. This pattern exemplifies how [[misaligned incentives]] can create systems that favor established players over new entrants.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "predictive policing"
+  - "predictive-policing"
+  - "Predictive-Policing"
+  - "predictive -policing"
+---
+
 # Predictive Policing
 
 Predictive policing refers to the use of data analytics, machine learning algorithms, and statistical models to forecast criminal activity and guide law enforcement resource allocation. While offering potential benefits for crime prevention and public safety, predictive policing systems raise significant concerns about bias, civil liberties, and the potential for technological enforcement of existing social inequalities.

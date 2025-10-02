@@ -1,3 +1,9 @@
+---
+aliases:
+  - "decentralized-exchanges"
+  - "Decentralized-Exchanges"
+---
+
 # Decentralized Exchanges
 
 ## Definition

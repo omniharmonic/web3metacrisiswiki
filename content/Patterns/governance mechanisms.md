@@ -1,3 +1,9 @@
+---
+aliases:
+  - "governance-mechanisms"
+  - "Governance-Mechanisms"
+---
+
 # Governance Mechanisms
 
 ## Definition and Theoretical Foundations

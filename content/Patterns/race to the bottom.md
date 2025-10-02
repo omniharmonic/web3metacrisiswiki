@@ -1,3 +1,9 @@
+---
+aliases:
+  - "race-to-the-bottom"
+  - "Race-To-The-Bottom"
+---
+
 # Race to the Bottom
 
 ## Definition and Theoretical Foundations

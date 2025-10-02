@@ -1,3 +1,9 @@
+---
+aliases:
+  - "ecological-benefits-framework"
+  - "Ecological-Benefits-Framework"
+---
+
 # Ecological Benefits Framework
 
 ## Definition and Theoretical Foundations

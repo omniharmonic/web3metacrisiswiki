@@ -1,3 +1,8 @@
+---
+aliases:
+  - "automation"
+---
+
 # Automation
 
 ## Definition

@@ -1,3 +1,8 @@
+---
+aliases:
+  - "superchain"
+---
+
 # Definition
 
 The term "Superchain" refers to a network or ecosystem of interconnected blockchain chains, usually Layer 2 (L2) chains, that share security, technology, and infrastructure to improve scalability, efficiency, and interoperability. It is a concept designed to address the challenges of scalability and systemic risk faced by traditional multi-chain blockchain architectures by enabling chains to operate as interchangeable resources under a unified framework.

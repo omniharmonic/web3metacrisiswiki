@@ -14011,28 +14011,55 @@ var ContentIndex = /* @__PURE__ */ __name((opts) => {
 
 // quartz/plugins/emitters/aliases.ts
 import path8 from "path";
+function toTitleCaseSegment(seg) {
+  if (seg.length === 0) return seg;
+  return seg.charAt(0).toUpperCase() + seg.slice(1).toLowerCase();
+}
+__name(toTitleCaseSegment, "toTitleCaseSegment");
+function generateCaseVariants(slug) {
+  if (slug === "index") return [];
+  const segments = slug.split("/");
+  const lower = segments.map((s) => s.toLowerCase()).join("/");
+  const title = segments.map((s) => toTitleCaseSegment(s)).join("/");
+  const variants = /* @__PURE__ */ new Set();
+  variants.add(lower);
+  variants.add(title);
+  return Array.from(variants);
+}
+__name(generateCaseVariants, "generateCaseVariants");
+async function* emitRedirect(ctx, fromSlug, toSlug) {
+  const redirUrl = resolveRelative(fromSlug, toSlug);
+  yield write({
+    ctx,
+    content: `
+      <!DOCTYPE html>
+      <html lang="en-us">
+      <head>
+      <title>${toSlug}</title>
+      <link rel="canonical" href="${redirUrl}">
+      <meta name="robots" content="noindex">
+      <meta charset="utf-8">
+      <meta http-equiv="refresh" content="0; url=${redirUrl}">
+      </head>
+      </html>
+      `,
+    slug: fromSlug,
+    ext: ".html"
+  });
+}
+__name(emitRedirect, "emitRedirect");
 async function* processFile(ctx, file) {
   const ogSlug = simplifySlug(file.data.slug);
   for (const aliasTarget of file.data.aliases ?? []) {
     const aliasTargetSlug = isRelativeURL(aliasTarget) ? path8.normalize(path8.join(ogSlug, "..", aliasTarget)) : aliasTarget;
-    const redirUrl = resolveRelative(aliasTargetSlug, ogSlug);
-    yield write({
-      ctx,
-      content: `
-        <!DOCTYPE html>
-        <html lang="en-us">
-        <head>
-        <title>${ogSlug}</title>
-        <link rel="canonical" href="${redirUrl}">
-        <meta name="robots" content="noindex">
-        <meta charset="utf-8">
-        <meta http-equiv="refresh" content="0; url=${redirUrl}">
-        </head>
-        </html>
-        `,
-      slug: aliasTargetSlug,
-      ext: ".html"
-    });
+    if (aliasTargetSlug !== ogSlug) {
+      yield* emitRedirect(ctx, aliasTargetSlug, ogSlug);
+    }
+  }
+  for (const variant of generateCaseVariants(ogSlug)) {
+    if (variant !== ogSlug) {
+      yield* emitRedirect(ctx, variant, ogSlug);
+    }
   }
 }
 __name(processFile, "processFile");

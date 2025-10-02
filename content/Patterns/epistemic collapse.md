@@ -1,3 +1,9 @@
+---
+aliases:
+  - "epistemic-collapse"
+  - "Epistemic-Collapse"
+---
+
 
 ## Definition
 

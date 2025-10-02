@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cross-platform data portability"
+  - "cross-platform-data-portability"
+  - "Cross-platform-Data-Portability"
+  - "cross--platform -data -portability"
+---
+
 # Cross-Platform Data Portability
 
 ## Definition and Democratic Significance

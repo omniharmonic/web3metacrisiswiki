@@ -1,3 +1,11 @@
+---
+aliases:
+  - "ecological collapse"
+  - "ecological-collapse"
+  - "Ecological-Collapse"
+  - "ecological -collapse"
+---
+
 # Ecological Collapse
 
 ## Definition and Theoretical Foundations

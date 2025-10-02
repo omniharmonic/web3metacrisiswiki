@@ -1,3 +1,10 @@
+---
+aliases:
+  - "multi-signature accounts"
+  - "multi-signature-accounts"
+  - "Multi-signature-Accounts"
+---
+
 
 ## Definition
 

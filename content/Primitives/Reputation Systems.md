@@ -1,3 +1,11 @@
+---
+aliases:
+  - "reputation systems"
+  - "reputation-systems"
+  - "Reputation-Systems"
+  - "reputation -systems"
+---
+
 
 ## Definition
 

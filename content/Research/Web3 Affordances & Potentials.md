@@ -1,3 +1,11 @@
+---
+aliases:
+  - "web3 affordances & potentials"
+  - "web3-affordances-&-potentials"
+  - "Web3-Affordances-&-Potentials"
+  - "web3 -affordances & -potentials"
+---
+
 # **Web3 Primitives: A Deep Dive into Affordances and Potentials**
 
 This document provides a comprehensive list of each Ethereum and Web3 primitive, detailing its unique capabilities (affordances) and mapping its potential beneficial and detrimental applications.

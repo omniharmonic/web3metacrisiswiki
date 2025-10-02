@@ -1,3 +1,11 @@
+---
+aliases:
+  - "political externalities"
+  - "political-externalities"
+  - "Political-Externalities"
+  - "political -externalities"
+---
+
 # Political Externalities
 
 Political externalities refer to the consequences of political decisions, policies, and actions that affect individuals and groups not directly involved in the political decision-making process. These externalities represent a form of democratic deficit where those who bear the costs or receive the benefits of political decisions lack adequate voice or representation in determining those outcomes.

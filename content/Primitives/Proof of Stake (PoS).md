@@ -1,3 +1,11 @@
+---
+aliases:
+  - "proof of stake (pos)"
+  - "proof-of-stake-(pos)"
+  - "Proof-Of-Stake-(Pos)"
+  - "proof of -stake (-po-s)"
+---
+
 
 ## Definition
 

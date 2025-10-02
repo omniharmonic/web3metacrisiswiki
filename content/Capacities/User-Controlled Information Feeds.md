@@ -1,3 +1,11 @@
+---
+aliases:
+  - "user-controlled information feeds"
+  - "user-controlled-information-feeds"
+  - "User-controlled-Information-Feeds"
+  - "user--controlled -information -feeds"
+---
+
 # User-Controlled Information Feeds
 
 ## Definition

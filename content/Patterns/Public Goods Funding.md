@@ -1,3 +1,11 @@
+---
+aliases:
+  - "public goods funding"
+  - "public-goods-funding"
+  - "Public-Goods-Funding"
+  - "public -goods -funding"
+---
+
 
 # Public Goods Funding
 

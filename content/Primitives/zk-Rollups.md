@@ -1,3 +1,10 @@
+---
+aliases:
+  - "zk-rollups"
+  - "Zk-rollups"
+  - "zk--rollups"
+---
+
 # zk-Rollups
 
 ## Definition

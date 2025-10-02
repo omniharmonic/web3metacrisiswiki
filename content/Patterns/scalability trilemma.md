@@ -1,3 +1,9 @@
+---
+aliases:
+  - "scalability-trilemma"
+  - "Scalability-Trilemma"
+---
+
 # Scalability Trilemma
 
 ## Definition and Theoretical Foundations

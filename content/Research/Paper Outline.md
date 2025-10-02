@@ -1,3 +1,11 @@
+---
+aliases:
+  - "paper outline"
+  - "paper-outline"
+  - "Paper-Outline"
+  - "paper -outline"
+---
+
 # **Web3 and the Meta-Crisis: A Comprehensive Analysis of Blockchain Technology's Potential for Addressing Systemic Civilizational Failures**
 
 ## **Paper Outline**

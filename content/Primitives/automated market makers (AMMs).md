@@ -1,3 +1,11 @@
+---
+aliases:
+  - "automated market makers (amms)"
+  - "automated-market-makers-(amms)"
+  - "Automated-Market-Makers-(Amms)"
+  - "automated market makers (-a-m-ms)"
+---
+
 
 ## Definition
 

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "sybil attacks"
+  - "sybil-attacks"
+  - "Sybil-Attacks"
+  - "sybil -attacks"
+---
+
 # Sybil Attacks
 
 ## Definition and Theoretical Foundations

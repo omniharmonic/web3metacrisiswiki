@@ -1,3 +1,11 @@
+---
+aliases:
+  - "supply chain management"
+  - "supply-chain-management"
+  - "Supply-Chain-Management"
+  - "supply -chain -management"
+---
+
 # Supply Chain Management
 
 Supply chain management encompasses the coordination of complex networks of suppliers, manufacturers, distributors, and customers to deliver goods and services efficiently. In the context of the metacrisis, supply chain systems represent both critical infrastructure for human welfare and a source of significant environmental and social challenges including labor exploitation, environmental degradation, and systemic vulnerabilities exposed by global disruptions.

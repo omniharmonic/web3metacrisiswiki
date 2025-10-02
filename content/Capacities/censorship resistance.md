@@ -1,3 +1,9 @@
+---
+aliases:
+  - "censorship-resistance"
+  - "Censorship-Resistance"
+---
+
 
 # Censorship Resistance
 

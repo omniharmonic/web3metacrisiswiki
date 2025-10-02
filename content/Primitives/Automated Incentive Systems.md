@@ -1,3 +1,11 @@
+---
+aliases:
+  - "automated incentive systems"
+  - "automated-incentive-systems"
+  - "Automated-Incentive-Systems"
+  - "automated -incentive -systems"
+---
+
 # Automated Incentive Systems
 
 Automated incentive systems are programmable mechanisms that distribute rewards, penalties, or other incentives based on predetermined rules and observable behaviors or outcomes. These systems leverage smart contracts to create transparent, predictable, and tamper-resistant incentive structures without requiring human intermediation.

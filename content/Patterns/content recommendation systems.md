@@ -1,3 +1,9 @@
+---
+aliases:
+  - "content-recommendation-systems"
+  - "Content-Recommendation-Systems"
+---
+
 # Content Recommendation Systems
 
 Content recommendation systems are algorithmic mechanisms that analyze user behavior, preferences, and contextual data to suggest personalized content, products, or services. These systems have become central to digital platform design, shaping what billions of people see, read, buy, and think about on a daily basis.

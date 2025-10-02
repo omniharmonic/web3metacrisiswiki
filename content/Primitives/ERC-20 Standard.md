@@ -1,3 +1,11 @@
+---
+aliases:
+  - "erc-20 standard"
+  - "erc-20-standard"
+  - "Erc-20-Standard"
+  - "e-r-c-20 -standard"
+---
+
 
 ## Definition
 

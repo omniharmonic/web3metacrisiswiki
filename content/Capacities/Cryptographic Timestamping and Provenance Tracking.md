@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cryptographic timestamping and provenance tracking"
+  - "cryptographic-timestamping-and-provenance-tracking"
+  - "Cryptographic-Timestamping-And-Provenance-Tracking"
+  - "cryptographic -timestamping and -provenance -tracking"
+---
+
 # Cryptographic Timestamping and Provenance Tracking
 
 ## Definition and Epistemological Significance

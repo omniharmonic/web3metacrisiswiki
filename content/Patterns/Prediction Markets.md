@@ -1,3 +1,11 @@
+---
+aliases:
+  - "prediction markets"
+  - "prediction-markets"
+  - "Prediction-Markets"
+  - "prediction -markets"
+---
+
 # Prediction Markets
 
 ## Definition and Theoretical Foundations

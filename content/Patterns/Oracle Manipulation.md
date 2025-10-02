@@ -1,3 +1,11 @@
+---
+aliases:
+  - "oracle manipulation"
+  - "oracle-manipulation"
+  - "Oracle-Manipulation"
+  - "oracle -manipulation"
+---
+
 # Oracle Manipulation
 
 Oracle manipulation represents a fundamental vulnerability in blockchain systems where external data sources can be compromised, corrupted, or gamed to provide false information to smart contracts. This creates a critical attack vector that undermines the reliability and security of Web3 applications, particularly those requiring real-world data for decision-making.

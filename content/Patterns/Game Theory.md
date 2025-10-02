@@ -1,3 +1,11 @@
+---
+aliases:
+  - "game theory"
+  - "game-theory"
+  - "Game-Theory"
+  - "game -theory"
+---
+
 
 # Game Theory
 

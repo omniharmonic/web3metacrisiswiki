@@ -1,3 +1,11 @@
+---
+aliases:
+  - "real-world assets (rwas)"
+  - "real-world-assets-(rwas)"
+  - "Real-world-Assets-(Rwas)"
+  - "real--world -assets (-r-w-as)"
+---
+
 
 ## Definition
 

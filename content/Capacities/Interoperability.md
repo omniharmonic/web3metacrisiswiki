@@ -1,3 +1,8 @@
+---
+aliases:
+  - "interoperability"
+---
+
 # Interoperability
 
 ## Definition and Technical Significance

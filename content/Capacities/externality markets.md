@@ -1,3 +1,9 @@
+---
+aliases:
+  - "externality-markets"
+  - "Externality-Markets"
+---
+
 # Externality Markets
 
 ## Definition and Economic Significance

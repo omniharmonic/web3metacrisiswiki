@@ -1,3 +1,9 @@
+---
+aliases:
+  - "cryptographic-protocols"
+  - "Cryptographic-Protocols"
+---
+
 # Cryptographic Protocols
 
 ## Definition

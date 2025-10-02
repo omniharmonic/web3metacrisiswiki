@@ -1,3 +1,11 @@
+---
+aliases:
+  - "political protection"
+  - "political-protection"
+  - "Political-Protection"
+  - "political -protection"
+---
+
 # Political Protection
 
 Political protection represents the systematic use of political power to shield economic actors from market competition, regulatory oversight, and accountability mechanisms. This pattern exemplifies how [[regulatory capture]] and [[misaligned incentives]] can create systems where political power serves private interests rather than public welfare.

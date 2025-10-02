@@ -1,3 +1,11 @@
+---
+aliases:
+  - "improved democratic governance via daos"
+  - "improved-democratic-governance-via-daos"
+  - "Improved-Democratic-Governance-Via-Daos"
+  - "improved -democratic -governance via -d-a-os"
+---
+
 # Improved Democratic Governance via DAOs
 
 ## Definition and Political Significance

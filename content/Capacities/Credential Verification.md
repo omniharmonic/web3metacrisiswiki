@@ -1,3 +1,11 @@
+---
+aliases:
+  - "credential verification"
+  - "credential-verification"
+  - "Credential-Verification"
+  - "credential -verification"
+---
+
 # Credential Verification
 
 ## Definition and Institutional Significance

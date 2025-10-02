@@ -1,3 +1,9 @@
+---
+aliases:
+  - "distributed-consensus"
+  - "Distributed-Consensus"
+---
+
 # Distributed Consensus
 
 ## Definition and Foundational Significance

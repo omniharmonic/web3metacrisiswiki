@@ -1,3 +1,9 @@
+---
+aliases:
+  - "sandwich-attacks"
+  - "Sandwich-Attacks"
+---
+
 
 ## Definition
 

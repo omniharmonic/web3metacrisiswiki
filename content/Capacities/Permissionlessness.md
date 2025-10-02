@@ -1,3 +1,8 @@
+---
+aliases:
+  - "permissionlessness"
+---
+
 # Permissionlessness
 
 ## Definition and Ideological Significance

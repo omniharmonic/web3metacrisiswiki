@@ -1,3 +1,11 @@
+---
+aliases:
+  - "initial coin offerings (icos)"
+  - "initial-coin-offerings-(icos)"
+  - "Initial-Coin-Offerings-(Icos)"
+  - "initial -coin -offerings (-i-c-os)"
+---
+
 
 ## Definition
 

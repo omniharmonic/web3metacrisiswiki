@@ -1,3 +1,9 @@
+---
+aliases:
+  - "technological-sovereignty"
+  - "Technological-Sovereignty"
+---
+
 # Technological Sovereignty
 
 Technological sovereignty refers to the capacity of individuals, communities, organizations, or nations to maintain meaningful control over their technological infrastructure, data, and digital systems. This concept encompasses both the technical capabilities and governance structures necessary to make autonomous decisions about technology adoption, development, and deployment.

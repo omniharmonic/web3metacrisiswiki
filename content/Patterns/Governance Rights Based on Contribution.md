@@ -1,3 +1,11 @@
+---
+aliases:
+  - "governance rights based on contribution"
+  - "governance-rights-based-on-contribution"
+  - "Governance-Rights-Based-On-Contribution"
+  - "governance -rights -based on -contribution"
+---
+
 # Governance Rights Based on Contribution
 
 ## Definition and Theoretical Foundations

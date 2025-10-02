@@ -1,3 +1,9 @@
+---
+aliases:
+  - "mechanism-design-theory"
+  - "Mechanism-Design-Theory"
+---
+
 # Mechanism Design Theory
 
 Mechanism design theory is a field of economics and game theory that focuses on designing rules, institutions, and systems to achieve desired outcomes when participants have private information and potentially conflicting incentives. This theoretical framework has become particularly relevant for Web3 systems that attempt to coordinate collective action through algorithmic governance and tokenized incentive structures.

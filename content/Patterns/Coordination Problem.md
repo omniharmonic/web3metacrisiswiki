@@ -1,3 +1,11 @@
+---
+aliases:
+  - "coordination problem"
+  - "coordination-problem"
+  - "Coordination-Problem"
+  - "coordination -problem"
+---
+
 # Coordination Problem
 
 ## Definition and Theoretical Foundations

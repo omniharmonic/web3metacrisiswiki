@@ -1,3 +1,8 @@
+---
+aliases:
+  - "choice"
+---
+
 # Choice
 
 ## Definition and Philosophical Foundations

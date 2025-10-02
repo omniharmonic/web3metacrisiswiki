@@ -1,3 +1,9 @@
+---
+aliases:
+  - "transaction-processing"
+  - "Transaction-Processing"
+---
+
 # Transaction Processing
 
 ## Definition and Theoretical Foundations

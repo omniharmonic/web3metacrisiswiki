@@ -1,3 +1,11 @@
+---
+aliases:
+  - "community-based reputation and verification"
+  - "community-based-reputation-and-verification"
+  - "Community-based-Reputation-And-Verification"
+  - "community--based -reputation and -verification"
+---
+
 # Community-Based Reputation and Verification
 
 ## Definition and Social Significance

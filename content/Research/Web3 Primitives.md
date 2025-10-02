@@ -1,3 +1,11 @@
+---
+aliases:
+  - "web3 primitives"
+  - "web3-primitives"
+  - "Web3-Primitives"
+  - "web3 -primitives"
+---
+
 # **A Comprehensive Taxonomy of Ethereum and Web3 Primitives: The Foundational Building Blocks of a Decentralized Internet**
 
 ## **Introduction: Defining the Foundational Building Blocks of the Decentralized Web**

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "externally owned accounts (eoas)"
+  - "externally-owned-accounts-(eoas)"
+  - "Externally-Owned-Accounts-(Eoas)"
+  - "externally -owned -accounts (-e-o-as)"
+---
+
 
 ## Definition
 

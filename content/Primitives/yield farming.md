@@ -1,3 +1,9 @@
+---
+aliases:
+  - "yield-farming"
+  - "Yield-Farming"
+---
+
 
 ## Definition
 

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "social engineering attacks"
+  - "social-engineering-attacks"
+  - "Social-Engineering-Attacks"
+  - "social -engineering -attacks"
+---
+
 # Social Engineering Attacks
 
 Social engineering attacks represent sophisticated psychological manipulation techniques that exploit human psychology, trust relationships, and social dynamics to bypass technical security measures and gain unauthorized access to information, systems, or resources. These attacks succeed by targeting the human element in security systems, often proving more effective than direct technical attacks against well-secured systems.

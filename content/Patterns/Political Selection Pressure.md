@@ -1,3 +1,11 @@
+---
+aliases:
+  - "political selection pressure"
+  - "political-selection-pressure"
+  - "Political-Selection-Pressure"
+  - "political -selection -pressure"
+---
+
 # Political Selection Pressure
 
 Political selection pressure refers to the systematic forces that shape which political behaviors, strategies, institutions, and actors succeed or fail within political systems. These pressures operate like evolutionary forces, selecting for traits that enhance political survival and success while eliminating those that prove disadvantageous in the competitive political environment.

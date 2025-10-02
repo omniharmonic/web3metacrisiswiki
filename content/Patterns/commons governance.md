@@ -1,3 +1,9 @@
+---
+aliases:
+  - "commons-governance"
+  - "Commons-Governance"
+---
+
 # Commons Governance
 
 ## Definition and Theoretical Foundations

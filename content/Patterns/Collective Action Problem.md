@@ -1,3 +1,11 @@
+---
+aliases:
+  - "collective action problem"
+  - "collective-action-problem"
+  - "Collective-Action-Problem"
+  - "collective -action -problem"
+---
+
 # Collective Action Problem
 
 ## Definition and Theoretical Foundations

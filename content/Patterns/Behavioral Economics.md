@@ -1,3 +1,11 @@
+---
+aliases:
+  - "behavioral economics"
+  - "behavioral-economics"
+  - "Behavioral-Economics"
+  - "behavioral -economics"
+---
+
 # Behavioral Economics
 
 ## Definition and Theoretical Foundations

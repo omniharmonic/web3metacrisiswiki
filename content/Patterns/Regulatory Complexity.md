@@ -1,3 +1,11 @@
+---
+aliases:
+  - "regulatory complexity"
+  - "regulatory-complexity"
+  - "Regulatory-Complexity"
+  - "regulatory -complexity"
+---
+
 # Regulatory Complexity
 
 Regulatory complexity represents the exponential growth in regulatory requirements, creating barriers to compliance that favor large corporations and enable [[regulatory capture]]. This pattern exemplifies how well-intentioned regulatory responses can create unintended consequences that undermine their original purpose.

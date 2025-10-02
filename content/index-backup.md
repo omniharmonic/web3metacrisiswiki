@@ -1,5 +1,7 @@
 ---
 title: "Web3 Meta-Crisis Wiki"
+aliases:
+  - "Index-backup"
 ---
 
 # Web3 Meta-Crisis Wiki

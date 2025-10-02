@@ -1,3 +1,8 @@
+---
+aliases:
+  - "transparency"
+---
+
 # Transparency
 
 ## Definition and Democratic Significance

@@ -1,3 +1,9 @@
+---
+aliases:
+  - "smart-contracts"
+  - "Smart-Contracts"
+---
+
 # Smart Contracts
 
 ## Definition and Theoretical Foundations

@@ -1,3 +1,9 @@
+---
+aliases:
+  - "negative-externalities"
+  - "Negative-Externalities"
+---
+
 # Negative Externalities
 
 ## Definition and Theoretical Foundations

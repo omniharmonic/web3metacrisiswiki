@@ -1,3 +1,11 @@
+---
+aliases:
+  - "regenerative agriculture and soil carbon markets"
+  - "regenerative-agriculture-and-soil-carbon-markets"
+  - "Regenerative-Agriculture-And-Soil-Carbon-Markets"
+  - "regenerative -agriculture and -soil -carbon -markets"
+---
+
 # Regenerative Agriculture and Soil Carbon Markets
 
 ## Definition and Environmental Significance

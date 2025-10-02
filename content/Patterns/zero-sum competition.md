@@ -1,3 +1,9 @@
+---
+aliases:
+  - "zero-sum-competition"
+  - "Zero-sum-Competition"
+---
+
 # Zero-Sum Competition
 
 ## Definition and Theoretical Foundations

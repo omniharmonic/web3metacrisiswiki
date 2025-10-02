@@ -1,3 +1,11 @@
+---
+aliases:
+  - "private key management"
+  - "private-key-management"
+  - "Private-Key-Management"
+  - "private -key -management"
+---
+
 # Private Key Management
 
 ## Definition

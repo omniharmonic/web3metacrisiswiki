@@ -1,3 +1,9 @@
+---
+aliases:
+  - "multi-polar-traps"
+  - "Multi-polar-Traps"
+---
+
 # Multi-Polar Traps
 
 ## Definition and Theoretical Foundations

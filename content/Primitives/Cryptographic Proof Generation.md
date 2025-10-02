@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cryptographic proof generation"
+  - "cryptographic-proof-generation"
+  - "Cryptographic-Proof-Generation"
+  - "cryptographic -proof -generation"
+---
+
 # Cryptographic Proof Generation
 
 ## Definition

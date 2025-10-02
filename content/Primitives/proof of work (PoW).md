@@ -1,3 +1,11 @@
+---
+aliases:
+  - "proof of work (pow)"
+  - "proof-of-work-(pow)"
+  - "Proof-Of-Work-(Pow)"
+  - "proof of work (-po-w)"
+---
+
 
 ## Definition
 

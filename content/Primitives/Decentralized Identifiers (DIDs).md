@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized identifiers (dids)"
+  - "decentralized-identifiers-(dids)"
+  - "Decentralized-Identifiers-(Dids)"
+  - "decentralized -identifiers (-d-i-ds)"
+---
+
 ## Definition
 
 **Decentralized Identifiers (DIDs)** are a new type of identifier that enables verifiable, self-sovereign digital identity. DIDs are designed to be independent of any centralized registry, identity provider, or certificate authority, giving users complete control over their digital identity and personal data.

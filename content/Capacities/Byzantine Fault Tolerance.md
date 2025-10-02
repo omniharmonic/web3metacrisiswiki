@@ -1,3 +1,11 @@
+---
+aliases:
+  - "byzantine fault tolerance"
+  - "byzantine-fault-tolerance"
+  - "Byzantine-Fault-Tolerance"
+  - "byzantine -fault -tolerance"
+---
+
 # Byzantine Fault Tolerance
 
 ## Definition

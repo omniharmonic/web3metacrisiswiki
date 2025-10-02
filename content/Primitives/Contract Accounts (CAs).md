@@ -1,3 +1,11 @@
+---
+aliases:
+  - "contract accounts (cas)"
+  - "contract-accounts-(cas)"
+  - "Contract-Accounts-(Cas)"
+  - "contract -accounts (-c-as)"
+---
+
 # Contract Accounts (CAs)
 
 ## Definition

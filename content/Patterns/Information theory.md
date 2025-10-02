@@ -1,3 +1,10 @@
+---
+aliases:
+  - "information theory"
+  - "information-theory"
+  - "Information-Theory"
+---
+
 # Information Theory
 
 ## Definition and Theoretical Foundations

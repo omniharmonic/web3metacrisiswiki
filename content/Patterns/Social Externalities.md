@@ -1,3 +1,11 @@
+---
+aliases:
+  - "social externalities"
+  - "social-externalities"
+  - "Social-Externalities"
+  - "social -externalities"
+---
+
 # Social Externalities
 
 ## Definition and Theoretical Foundations

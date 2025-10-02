@@ -1,3 +1,11 @@
+---
+aliases:
+  - "holographic consensus"
+  - "holographic-consensus"
+  - "Holographic-Consensus"
+  - "holographic -consensus"
+---
+
 # Holographic Consensus
 
 ## Definition and Theoretical Foundations

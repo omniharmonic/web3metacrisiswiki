@@ -1,3 +1,8 @@
+---
+aliases:
+  - "reliability"
+---
+
 # Reliability
 
 ## Definition and Operational Significance

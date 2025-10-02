@@ -1,3 +1,10 @@
+---
+aliases:
+  - "optimistic rollups"
+  - "optimistic-rollups"
+  - "Optimistic-Rollups"
+---
+
 
 ## Definition
 

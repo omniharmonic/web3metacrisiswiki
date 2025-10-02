@@ -1,3 +1,11 @@
+---
+aliases:
+  - "goodhart's law"
+  - "goodhart's-law"
+  - "Goodhart's-Law"
+  - "goodhart's -law"
+---
+
 # Goodhart's Law
 
 ## Definition and Theoretical Foundations

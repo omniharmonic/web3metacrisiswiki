@@ -1,3 +1,8 @@
+---
+aliases:
+  - "gas"
+---
+
 
 ## Definition
 

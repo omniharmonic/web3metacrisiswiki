@@ -1,3 +1,8 @@
+---
+aliases:
+  - "vitality"
+---
+
 # Vitality
 
 ## Definition and Theoretical Foundations

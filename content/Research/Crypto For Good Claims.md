@@ -1,3 +1,11 @@
+---
+aliases:
+  - "crypto for good claims"
+  - "crypto-for-good-claims"
+  - "Crypto-For-Good-Claims"
+  - "crypto -for -good -claims"
+---
+
 # **A Systematic Assessment of "Crypto for Good": From Utopian Claims to Practical Realities**
 
 ## **Section 1: Introduction \- Deconstructing the "Crypto for Good" Narrative**

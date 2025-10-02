@@ -1,3 +1,11 @@
+---
+aliases:
+  - "institutional defense"
+  - "institutional-defense"
+  - "Institutional-Defense"
+  - "institutional -defense"
+---
+
 # Institutional Defense
 
 Institutional defense represents the systematic resistance of existing institutions to reforms that would reduce their power, influence, or resources. This pattern exemplifies how [[regulatory capture]] and [[misaligned incentives]] can create self-reinforcing systems that resist change even when change would benefit society.

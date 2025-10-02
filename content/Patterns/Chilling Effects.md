@@ -1,3 +1,11 @@
+---
+aliases:
+  - "chilling effects"
+  - "chilling-effects"
+  - "Chilling-Effects"
+  - "chilling -effects"
+---
+
 # Chilling Effects
 
 Chilling effects refer to the phenomenon where individuals and groups self-censor their speech, behavior, and activities due to fear of surveillance, retaliation, or negative consequences. This pattern represents a subtle but profound erosion of freedom, where the mere possibility of monitoring or punishment leads people to avoid exercising their rights.

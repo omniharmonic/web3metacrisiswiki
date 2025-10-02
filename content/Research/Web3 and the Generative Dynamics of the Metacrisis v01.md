@@ -1,3 +1,11 @@
+---
+aliases:
+  - "web3 and the generative dynamics of the metacrisis v01"
+  - "web3-and-the-generative-dynamics-of-the-metacrisis-v01"
+  - "Web3-And-The-Generative-Dynamics-Of-The-Metacrisis-V01"
+  - "web3 and the -generative -dynamics of the -metacrisis v01"
+---
+
 # A Comprehensive Analysis of Blockchain Technology's Potential for Addressing Systemic Civilizational Failures
 
 ## Abstract

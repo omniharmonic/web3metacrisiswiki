@@ -1,3 +1,8 @@
+---
+aliases:
+  - "arbitrage"
+---
+
 # Arbitrage
 
 ## Definition and Theoretical Foundations

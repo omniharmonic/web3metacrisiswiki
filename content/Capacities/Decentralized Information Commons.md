@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized information commons"
+  - "decentralized-information-commons"
+  - "Decentralized-Information-Commons"
+  - "decentralized -information -commons"
+---
+
 # Decentralized Information Commons
 
 ## Definition and Democratic Significance

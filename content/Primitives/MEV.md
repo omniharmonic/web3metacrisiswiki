@@ -1,3 +1,10 @@
+---
+aliases:
+  - "mev"
+  - "Mev"
+  - "m-e-v"
+---
+
 
 ## Definition
 

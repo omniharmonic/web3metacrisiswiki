@@ -1,3 +1,11 @@
+---
+aliases:
+  - "internalizing externalities"
+  - "internalizing-externalities"
+  - "Internalizing-Externalities"
+  - "internalizing -externalities"
+---
+
 # Internalizing Externalities
 
 Internalizing externalities refers to policy mechanisms and institutional arrangements that bring external costs and benefits into the decision-making calculus of economic actors, ensuring that the full social and environmental impacts of activities are reflected in their economic incentives and outcomes.

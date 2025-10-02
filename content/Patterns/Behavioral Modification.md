@@ -1,3 +1,11 @@
+---
+aliases:
+  - "behavioral modification"
+  - "behavioral-modification"
+  - "Behavioral-Modification"
+  - "behavioral -modification"
+---
+
 # Behavioral Modification
 
 Behavioral modification refers to systematic techniques and technologies designed to influence and change human behavior through environmental manipulation, incentive structures, and psychological triggers. In digital systems, this pattern manifests through algorithmic design that shapes user actions and decisions, often without explicit user awareness.

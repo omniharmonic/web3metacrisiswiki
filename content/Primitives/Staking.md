@@ -1,3 +1,8 @@
+---
+aliases:
+  - "staking"
+---
+
 # Staking
 
 ## Definition

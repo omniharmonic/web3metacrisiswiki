@@ -1,3 +1,11 @@
+---
+aliases:
+  - "erosion of democratic trust and legitimacy"
+  - "erosion-of-democratic-trust-and-legitimacy"
+  - "Erosion-Of-Democratic-Trust-And-Legitimacy"
+  - "erosion of -democratic -trust and -legitimacy"
+---
+
 # Erosion of Democratic Trust and Legitimacy
 
 The erosion of democratic trust and legitimacy refers to the decline in public confidence in democratic institutions, processes, and norms, which undermines the foundations of democratic governance and threatens the stability of democratic systems. This erosion manifests through decreased faith in electoral integrity, institutional effectiveness, and the democratic process itself.

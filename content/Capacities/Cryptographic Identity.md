@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cryptographic identity"
+  - "cryptographic-identity"
+  - "Cryptographic-Identity"
+  - "cryptographic -identity"
+---
+
 # Cryptographic Identity
 
 ## Definition and Philosophical Significance

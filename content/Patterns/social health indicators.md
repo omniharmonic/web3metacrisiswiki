@@ -1,3 +1,9 @@
+---
+aliases:
+  - "social-health-indicators"
+  - "Social-Health-Indicators"
+---
+
 # Social Health Indicators
 
 Social health indicators represent measurable metrics that assess the collective well-being, resilience, and flourishing of communities and societies. In the context of the [[meta-crisis]], these indicators become crucial for evaluating whether technological interventions—including Web3 systems—are contributing to or undermining human flourishing.

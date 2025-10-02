@@ -1,3 +1,11 @@
+---
+aliases:
+  - "sandboxed environment and security isolation"
+  - "sandboxed-environment-and-security-isolation"
+  - "Sandboxed-Environment-And-Security-Isolation"
+  - "sandboxed -environment and -security -isolation"
+---
+
 # Sandboxed Environment and Security Isolation
 
 ## Definition and Security Significance

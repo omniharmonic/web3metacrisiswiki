@@ -1,3 +1,11 @@
+---
+aliases:
+  - "ethereum virtual machine (evm)"
+  - "ethereum-virtual-machine-(evm)"
+  - "Ethereum-Virtual-Machine-(Evm)"
+  - "ethereum -virtual -machine (-e-v-m)"
+---
+
 
 ## Definition
 

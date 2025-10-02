@@ -1,3 +1,11 @@
+---
+aliases:
+  - "environmental markets"
+  - "environmental-markets"
+  - "Environmental-Markets"
+  - "environmental -markets"
+---
+
 # Environmental Markets
 
 ## Definition and Theoretical Foundations

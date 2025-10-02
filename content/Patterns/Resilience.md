@@ -1,3 +1,8 @@
+---
+aliases:
+  - "resilience"
+---
+
 # Resilience
 
 ## Definition and Systems Theory

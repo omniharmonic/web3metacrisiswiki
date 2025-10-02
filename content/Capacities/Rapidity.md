@@ -1,3 +1,8 @@
+---
+aliases:
+  - "rapidity"
+---
+
 # Rapidity
 
 ## Definition and Performance Significance

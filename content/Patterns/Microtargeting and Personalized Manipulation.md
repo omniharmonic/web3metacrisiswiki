@@ -1,3 +1,11 @@
+---
+aliases:
+  - "microtargeting and personalized manipulation"
+  - "microtargeting-and-personalized-manipulation"
+  - "Microtargeting-And-Personalized-Manipulation"
+  - "microtargeting and -personalized -manipulation"
+---
+
 # Microtargeting and Personalized Manipulation
 
 Microtargeting and personalized manipulation involve the use of detailed personal data, behavioral analysis, and algorithmic systems to create highly specific and psychologically tailored content designed to influence individual behavior, decision-making, and beliefs. These techniques represent a sophisticated evolution of propaganda and advertising that leverages digital surveillance and artificial intelligence.

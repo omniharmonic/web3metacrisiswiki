@@ -1,3 +1,11 @@
+---
+aliases:
+  - "blockchain oracles"
+  - "blockchain-oracles"
+  - "Blockchain-Oracles"
+  - "blockchain -oracles"
+---
+
 # Blockchain Oracles / Decentralized Oracle Networks (DONs)
 
 ## Definition

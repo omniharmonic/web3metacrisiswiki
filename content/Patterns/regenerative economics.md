@@ -1,3 +1,9 @@
+---
+aliases:
+  - "regenerative-economics"
+  - "Regenerative-Economics"
+---
+
 # Regenerative Economics
 
 ## Definition and Theoretical Foundations

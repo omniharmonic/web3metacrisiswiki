@@ -1,3 +1,11 @@
+---
+aliases:
+  - "biodiversity and ecosystem service tokens"
+  - "biodiversity-and-ecosystem-service-tokens"
+  - "Biodiversity-And-Ecosystem-Service-Tokens"
+  - "biodiversity and -ecosystem -service -tokens"
+---
+
 # Biodiversity and Ecosystem Service Tokens
 
 ## Definition

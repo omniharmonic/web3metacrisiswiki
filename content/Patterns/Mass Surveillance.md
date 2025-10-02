@@ -1,3 +1,11 @@
+---
+aliases:
+  - "mass surveillance"
+  - "mass-surveillance"
+  - "Mass-Surveillance"
+  - "mass -surveillance"
+---
+
 # Mass Surveillance
 
 ## Definition and Theoretical Foundations

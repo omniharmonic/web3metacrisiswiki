@@ -1,3 +1,9 @@
+---
+aliases:
+  - "polycentric-governance"
+  - "Polycentric-Governance"
+---
+
 # Polycentric Governance
 
 Polycentric governance represents a framework for organizing collective decision-making across multiple overlapping jurisdictions and decision-making levels, enabling more resilient and adaptive governance systems. In the context of the [[meta-crisis]], polycentric governance can address [[regulatory capture]] and [[misaligned incentives]] by creating multiple overlapping governance systems that prevent capture by any single entity.

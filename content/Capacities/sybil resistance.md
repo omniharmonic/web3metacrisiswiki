@@ -1,3 +1,9 @@
+---
+aliases:
+  - "sybil-resistance"
+  - "Sybil-Resistance"
+---
+
 # Sybil Resistance
 
 ## Definition and Security Significance
