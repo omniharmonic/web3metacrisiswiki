@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>8-ce-ch8-two-attractor-threshold-part1 | Web3 Solutions for Civilizational Coordination</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Web3 Meta-Crisis Wiki"/><meta property="og:title" content="8-ce-ch8-two-attractor-threshold-part1 | Web3 Solutions for Civilizational Coordination"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="8-ce-ch8-two-attractor-threshold-part1 | Web3 Solutions for Civilizational Coordination"/><meta name="twitter:description" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta property="og:description" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta property="og:image:alt" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta property="twitter:domain" content="omniharmonic.github.io/web3metacrisiswiki"/><meta property="og:url" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1"/><meta property="twitter:url" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1"/><link rel="icon" href="../../../static/icon.png"/><meta name="description" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta name="generator" content="Quartz"/><link href="../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL1VzZXJzL2JlbmphbWlubGlmZS9pQ2xvdWQgRHJpdmUgKEFyY2hpdmUpL0RvY3VtZW50cy9XZWIzIGFuZCBHZW5lcmF0aXZlIER5bmFtaWNzIG9mIHRoZSBNZXRhY3Jpc2lzL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTs7QUFJRjtFQUNFO0VBQ0E7RUFDQSIsInNvdXJjZXNDb250ZW50IjpbIi5leHBhbmQtYnV0dG9uIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbG9hdDogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuNHJlbTtcbiAgbWFyZ2luOiAwLjNyZW07XG4gIHJpZ2h0OiAwOyAvLyBOT1RFOiByaWdodCB3aWxsIGJlIHNldCBpbiBtZXJtYWlkLmlubGluZS50c1xuICBjb2xvcjogdmFyKC0tZ3JheSk7XG4gIGJvcmRlci1jb2xvcjogdmFyKC0tZGFyayk7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgYm9yZGVyOiAxcHggc29saWQ7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgb3BhY2l0eTogMDtcbiAgdHJhbnNpdGlvbjogMC4ycztcblxuICAmID4gc3ZnIHtcbiAgICBmaWxsOiB2YXIoLS1saWdodCk7XG4gICAgZmlsdGVyOiBjb250cmFzdCgwLjMpO1xuICB9XG5cbiAgJjpob3ZlciB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1jb2xvcjogdmFyKC0tc2Vjb25kYXJ5KTtcbiAgfVxuXG4gICY6Zm9jdXMge1xuICAgIG91dGxpbmU6IDA7XG4gIH1cbn1cblxucHJlIHtcbiAgJjpob3ZlciA+IC5leHBhbmQtYnV0dG9uIHtcbiAgICBvcGFjaXR5OiAxO1xuICAgIHRyYW5zaXRpb246IDAuMnM7XG4gIH1cbn1cblxuI21lcm1haWQtY29udGFpbmVyIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBjb250YWluOiBsYXlvdXQ7XG4gIHotaW5kZXg6IDk5OTtcbiAgbGVmdDogMDtcbiAgdG9wOiAwO1xuICB3aWR0aDogMTAwdnc7XG4gIGhlaWdodDogMTAwdmg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGRpc3BsYXk6IG5vbmU7XG4gIGJhY2tkcm9wLWZpbHRlcjogYmx1cig0cHgpO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuNSk7XG5cbiAgJi5hY3RpdmUge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgfVxuXG4gICYgPiAjbWVybWFpZC1zcGFjZSB7XG4gICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDUwJTtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgaGVpZ2h0OiA4MHZoO1xuICAgIHdpZHRoOiA4MHZ3O1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG5cbiAgICAmID4gLm1lcm1haWQtY29udGVudCB7XG4gICAgICBwYWRkaW5nOiAycmVtO1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://omniharmonic.github.io/web3metacrisiswiki/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1-og-image.webp"/><meta property="og:image:url" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1-og-image.webp"/><meta name="twitter:image" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../../..">Web3 Meta-Crisis Wiki</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-267"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-267" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Research/">Research</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Research/yasmine-manuscript-0623/">yasmine manuscript 0623</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Research/yasmine-manuscript-0623/CRI_md/">CRI_md</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>8 ce ch8 two attractor threshold part1</a></div></nav><h1 class="article-title">8-ce-ch8-two-attractor-threshold-part1</h1><p show-comma="true" class="content-meta"><time datetime="2025-10-02T17:14:49.697Z">Oct 02, 2025</time><span>25 min read</span></p></div></div><article class="popover-hint"><p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<h1 id="ch-8-two-attractors-chaos-or-oppressionunderline">[Ch 8: Two Attractors: Chaos or Oppression]{.underline}<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ch-8-two-attractors-chaos-or-oppressionunderline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>There are government departments, IGOs, militaries, non-profits,
+corporations and other institutions whose stated purpose is to prevent
+and mitigate risks in each of the above categories. New risks are being
+met with new methods of management, including valuable efforts in
+conservation, disarmament and AI governance. However, many of the
+individual risks discussed above are still trending in the wrong
+direction, and the metacrisis as a whole is mostly unaddressed. Even
+more concerning are the ways responses to individual risks are actually
+displacing harm elsewhere and accelerating the metacrisis as a whole.
+This is a major topic of future chapters. Since the underlying causes of
+the risks are not being adequately addressed, strategies to address
+particular threats end up exacerbating the overall situation, and
+attempts at problem solving often cause more problems.</p>
+<p>The current world system is not suited to address the increasing number
+of highly consequential threats, the speed at which we are approaching
+them, and the overall complexity of the situation as a whole. Therefore,
+the primary concern of this book is that civilization may be incapable
+of</p>
+<p>preventing global catastrophes, or to do so will centralize power and
+control in an oppressive and dystopian fashion^1^.</p>
+<p>The first outcome is one probable future for a world beset by
+metacrisis: an attractor drawing civilization towards chaos and
+breakdown. It would result from the mismanagement of the risk categories
+discussed above and the systematic overwhelm of institutions tasked with
+safety and sustainability. The pull towards chaos is inextricably linked
+with its counterpart: a corresponding attractor moving towards the
+consolidation of unchecked power and centralized surveillance and
+control. When catastrophes become more likely, drastic responses also
+begin to appear more reasonable. Hierarchical command and control can be
+made to seem tolerable and justifiable when it promises safety and
+security against risks such as terrorism, war, environmental crises,
+economic breakdown, or deadly pandemics. Each step towards chaos will be
+met with an authoritarian impulse. But the opposite is also true.
+Centralization and control will generate resistance and rebellion,
+increasing chaos. Movement towards one attractor will tend to involve
+counter responses towards the other.</p>
+<p>These two states are being referred to as “attractors” — drawing
+metaphorical inspiration from the science of complex systems^2^. This is
+a way of talking about and modeling topographically---like a 3D map of a
+landscape---all the possible states that a system can assume, and the
+likelihood of it being in any given state in that landscape in the
+future. Hard to achieve states are modeled as “mountains,” easy to
+achieve ones as basins or “valleys.” Some states are much more likely to
+be occupied than others in the future---these appear as deep basins of
+attraction in the topography, drawing the future into their direction.</p>
+<p>^1^ We have discussed this elsewhere “Teetering Between Oppression and
+Chaos.” <em>The Consilience Project</em>, August 3, 2022, .</p>
+<p>For an aligned discussion showing the perennial tension between
+autocratic and republican forms of governance, Deudney, D. H. (2007).
+<em>Bounding Power: Republican Security Theory from the Polis to the Global
+Village</em>. Princeton University Press.</p>
+<p>^2^ For a formal introduction to Chaotic Attractor Theory see, Strogatz,
+S. (2014). *Nonlinear dynamics and chaos: with applications to physics,
+biology, chemistry, and engineering. *Westview Press.</p>
+<p>For a popular written introduction to the field, see Gleick, J. (1996).
+*Chaos. *Vintage. And Mitchell, M. (2009). *Complexity: A Guided Tour.
+*Oxford University Press, USA.</p>
+<p><img src="../../../786732088df00c7b676a99e628c79b7362e8a952.jpg" alt="image"/>{width=“11.876388888888888in”
+height=“8.09375in”}</p>
+<p>There are fascinating efforts in complex systems theory and
+computational social science to mathematically formalize how social
+systems move between attractor states^3^. For our purposes, however,
+these terms are being used as first principles. They help us discipline
+our imagination about possible futures and bring into language holistic
+intuitions about the (in)stability and probable trajectories of the
+current world system.</p>
+<h2 id="the-allure-of-oppressionunderline">[The Allure of Oppression]{.underline}<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-allure-of-oppressionunderline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>In a highly uncertain, rapidly changing, chaotic environment,
+hierarchical control can have competitive advantages over democratic
+methods of choice-making. In these contexts, systems of political power
+— such as legal institutions, corporations, militaries, intelligence
+agencies, IGOs, NGOs, etc. — are partially shaped by their need to
+secure power, stabilize social order, defend against outside threats,
+and prevent runaway catastrophes. Throughout history it has</p>
+<p>^3^ See the work of Peter Turchin, e.g., Turchin, P., &amp; Nefedov, S. A.
+(2009). <em>Secular Cycles</em>. Princeton University Press.</p>
+<p>As well as Sabin Roman, e.g., Sabin, R., Palmer, E. (2019). *The Growth
+and Decline of the Western Roman Empire: Quantifying the Dynamics of
+Army Size, Territory,and Coinage. *Cliodynamics 10: 76—98.</p>
+<p>been commonplace for citizen rights and political participation to prove
+secondary to these other basic concerns when a society finds itself in
+the midst of chaos^4^.</p>
+<p>There are significant strategic tradeoffs between autocratic and
+democratic decision making^5^. Voting and deliberation, for example, can
+be slow and wander into gridlock. But a single decision maker needs only
+trust their own judgment and can respond quickly and decisively. They
+can also plan on longer time horizons. Term limits in a democracy serve
+as a check on the consolidation of power, but they also pressure
+politicians to prioritize policy decisions relevant to the time frame of
+re-election. Furthermore, this means elected officials are able to
+dismantle the work of those who preceded them. A life-long emperor with
+a dynasty or a succession plan, however, can execute a strategy spanning
+several generations.</p>
+<p>Concentrated systems of power allow for more efficient and coherent
+decision making, but they also risk grave abuses of power. Concentrated
+power is alluring for more reasons than just its strategic benefits, and
+it tends to attract people into positions of leadership who are willing
+to abuse it (see the section below on “Why Absolute Power Corrupts
+Absolutely”). Distributed systems of power, on the other hand, are based
+on checks and balances: where someone has power, there is a check on its
+concentration, and therefore, a limit on its potential abuse.</p>
+<p>^4^ Cheek, N. N., Reutskaja, E., &amp; Schwartz, B. (2022). *Balancing the
+Freedom—Security Trade-Off During Crises and Disasters. *Perspectives
+on Psychological Science, 17(4), 1024-1049.</p>
+<p>Brown, H. (2013). *America: Choosing Security Over Liberty Since 1798.
+*Foreignpolicy.</p>
+<p>^5^ Autocracy and democracy are concepts, which seek to represent highly
+divergent realities. For example, while the US is used here as an
+example of a democracy, research has shown that changes in public
+opinion has little effect on US regulation. The majority of public
+policy is reflective of coordinated activity by wealthy special
+interests groups. Gilens, M., &amp; Page, B. I. (2014). *Testing Theories of
+American Politics: Elites, Interest Groups, and Average Citizens.
+*Perspectives on Politics, 12(3), 564—581.</p>
+<p>For other theoretical reviews, surveys, and critical perspectives in in
+democratic theory, see</p>
+<p>Wolin, Sheldon S. (2016). *Fugitive Democracy: And Other Essays. *Edited
+by Nicholas Xenos. Princeton University Press.</p>
+<p>Wolin, Sheldon S. (2008). *Democracy Incorporated. *Princeton: Princeton
+University Press.</p>
+<p>Landemore, Hélène. (2020). *Open Democracy: Reinventing Democracy for
+the 21st Century. *Princeton: Princeton University Press.</p>
+<p>Habermas, Jürgen. (1994). <em>Three Normative Models of Democracy</em>.
+Constellations 1(1): 1-10.</p>
+<p>Marcuse, Herbert. (1964). <em>One-Dimensional Man: Studies in the Ideology
+of Advanced Industrial Society.</em></p>
+<p>New York: Routledge.</p>
+<p>Arendt, Hannah. (1963). *On Revolution. *Viking Press, New York.</p>
+<p>Keenan, Alan. (2003). <em>Democracy in Question: Democratic Openness in a
+Time of Political Closure.</em></p>
+<p>Stanford, California: Stanford University Press.</p>
+<p>However, each check on power is also a constraint on decision making,
+which can slow collective action and pose the risk of indecision and
+incoherence.</p>
+<p>Many of these and other trade offs were well known, and often accounted
+for, by the designers of modern democracies. This is why, for example,
+militaries are hierarchical, and there is a commander-in-chief who makes
+executive decisions during war. Democracy was, in part, conceived of as
+the best way to make collective choices <em>in times of peace^6^</em>. In
+conditions of war and emergency, civil liberties are often suspended
+even in the most open of societies^7^. This is yet another factor
+pulling us towards oppression: as the Metacrisis deepens into a state of
+continuous war and emergency, the assumed peace-time basis for
+democratic life erodes.</p>
+<p>It must be acknowledged that democracies have outcompeted autocracies at
+different points throughout history. There are several strategic
+advantages to free and open political participation (in addition to
+their ethical value). By incentivizing the distributed intelligence of
+the people through civic engagement and entrepreneurship, democratic
+social forms can create a type of *collective intelligence *which is not
+strictly limited to an isolated political class. Open societies can be
+major hubs for technological and cultural innovation and are often able
+to attract the best talent from around the world. These and other
+factors have tipped the scales in favor of participatory governance in
+the past.</p>
+<p>But the world is changing, and shifting conditions may now be favoring
+autocratic response, even in areas where democracy was previously
+preferred. For example, consider the recent responses of the Chinese
+Communist Party (CCP) to the disruptive effects of social media and
+other digital technologies. Initial indicators suggest that, due to the
+different approaches to regulation and technology policy, social media
+in China resulted in increased coherence of their national government
+and popular support, rather than the increased polarization and public
+discontent that took place in many western countries^8^.</p>
+<p>^6^ This is clear in the tripartite model of the US government, for
+example, where the President is also the commander in chief of the
+military.</p>
+<p>^7^ Cheek, N. N., Reutskaja, E., &amp; Schwartz, B. (2022). Balancing the
+Freedom—Security Trade-Off During Crises and Disasters. Perspectives on
+Psychological Science, 17(4), 1024-1049.</p>
+<p>^8^ This is talked about in the Consilience Papers, see…</p>
+<p>[The Case of Social Media]{.underline}</p>
+<p>Open societies (particularly the US, and to some extent the EU) have
+struggled to adapt to the effect social media had on public discourse.
+For instance, in the US, it has been shown that people who share
+political content on social media are demonstrably worse at estimating
+the beliefs of others in different political parties. Social media has
+been shown to increase “perception gaps,” measurable distances of how
+far people’s beliefs are from social reality.^9^ This is one factor that
+increases political polarization and fragments the public sphere into
+groups that believe and act as if they live in totally different
+realities.</p>
+<p>These platforms don’t support nuanced conversations capable of
+representing and integrating multiple opposing viewpoints — one of the
+central promises and values of democracy. News feeds and other features
+of user experience are intentionally designed by machine learning and
+software engineers to maximize user engagement on the platform, increase
+ad-revenue, and accomplish other company goals. However, the content
+which is most likely to get engagement (likes, shares, and comments) is
+often also what is most effective at hijacking our emotions, like
+extreme and divisive political content. The most engaging posts on
+political issues are often takedowns and the most cynical possible
+interpretations of the other party’s behavior. This carves the
+population into warring tribes, where the most politically engaged and
+influential citizens are also the most extreme and reactionary. A
+vicious cycle ensues: a more radicalized support base elects a more
+radicalized representative class who must appeal to their base in more
+extreme ways and so on. This is a downward spiral, accelerating
+democratic dysfunction, and driving legislative grid-lock, ineffective
+policy, and political violence.</p>
+<p>Democracy cannot persist in a world where the more aggressive and
+divisive a citizen is, the louder their microphone. This is not
+reducible to a simple issue of free speech. Rather, it is an example of
+how democracies must adapt to novel technologies that fundamentally
+disrupt our politics and culture. Addressing this challenge is an
+existential necessity for open societies. The degradation of public
+discourse has resulted in a fractured public unable to agree on the
+realities of all of the most consequential issues facing humanity. Will
+AGI save, enslave, or kill</p>
+<p>^9^ Yudkin, D., Hawkins, S., Dixon, T. (2019). *The Perception Gap: How
+False Impressions are Pulling Americans Apart. *Hidden Tribes, More in
+Common. ; Christian S.B. Overgaard. (2024). <em>Perceiving Affective
+Polarization in the United States</em>. Social Media <em>+ Society 10</em>(1).</p>
+<p>us all? How should we respond to the unspeakable violence taking place
+in Ukraine and the Middle East? Are ecological issues like climate
+change existential emergencies or completely overblown? If we are to
+respond to environmental risks, should we do so by rapidly accelerating
+technological advancement to create abundant fusion energy and become an
+interplanetary species, or by simplifying our lives, lowering
+consumption, and slowing down economic growth? Our answers to these
+questions are of existential importance for the future of civilization.</p>
+<p>However, it can seem impossible to even engage in these conversations
+without ending up in bitter conflict. Neither side may be willing to
+consider an alternative perspective, or worse, is certain that they are
+correct, and that the other side’s answer will get us all killed.</p>
+<p>Contrast this with the CCP, who has enforced powerful regulations on
+their social media and other digital technology companies in ways that
+immediately increased national coherence and competitive advantage. For
+example, the CCP has banned most forms of content which are not
+educational or patriotic in nature. Children and teenagers using social
+media are shown science experiments and examples of Chinese
+technological and industrial advancement. Youth have limited hours of
+access to social media, with designated “opening and closing hours.”
+Cell phone usage is not allowed in school. When using online platforms,
+there is strict identity verification, including the use of facial
+recognition software, and individuals are discouraged from posting
+content anonymously. To prevent radicalization, disenfranchisement, and
+dysfunction, military personnel are issued party approved phones that
+are registered with their commanding unit and tightly monitored and
+controlled.</p>
+<p>These are highly strategic responses to the novel challenges posed by
+emerging technologies of social influence. A population subject to these
+policies is less polarized and addicted to their devices, and more
+educated, patriotic, and ideologically coherent, with longer attention
+spans, less emotional reactivity, and generally greater productivity.
+Furthermore, many Chinese citizens come to expect their government to
+regulate their technology companies in these ways, and may even have a
+sense of national pride surrounding it. However, these interventions
+would generally be seen as unacceptable in most liberal democracies, in
+part because they come at the expense of civil liberties and individual
+freedoms and pose the risk of power abuse^10^. Such</p>
+<p>^10^ However, proofs of Social Media corporations in western democracies
+moderating content for political purposes, such as the Twitter Files,
+and more generally shaping public opinion through large-scale behavior
+control, demonstrate that risks to individual freedoms and power abuse
+are present in also the liberal approach to technology regulation. Both
+the Chinese and western approach involve public behavior modification by
+centralized powers. With the onset of these technologies and the scale
+of the associated corporate power, autocratic risk is now present from
+both governmental and corporate sides.</p>
+<p>powerful regulations depend on the necessary components of monitoring
+and enforcement, which often slide into invasive, totalizing systems of
+surveillance and control, and the violent punishment of dissident
+voices.</p>
+<h2 id="the-technocratic-thresholdunderline">[The Technocratic Threshold]{.underline}<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-technocratic-thresholdunderline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Similar to the risks discussed in the preceding chapters, the age-old
+tension between democracy and autocracy — between distributing power
+and concentrating it — has taken on a new form in today’s environment
+of high-technology. A hierarchically managed, technologically advanced
+state has access to massive amounts of personalized data to monitor
+their population, including digital interactions, biometrics, and
+real-time geolocation. Online platforms and commonplace smart-devices
+such as phones, watches, televisions, vehicles, and at-home assistants
+(e.g., Alexa) are continuously collecting intimate and invasive
+information on the entire population’s behavior: what time we go to
+sleep and wake up, which side of the bed we sleep on, where we go when
+we leave the house, how we act on the car ride to work (when we think
+we’re alone), what we watch and listen to when we get home, who we
+communicate with throughout the day, and what our biological signatures
+are throughout all of those activities. This data is then sold and
+exchanged between companies to train ever-more sophisticated models
+upon: a transnational, trans-organizational, techno-oligopoly whose
+infrastructure allows for the near omniscient awareness of civilian
+behavior. The currently highest order global infrastructure is what has
+been called the planetary computational stack, which now encircles the
+Earth in a lattice of communicative silicon, facilitating the emergence
+of the so-called Internet of Things.</p>
+<p>Humanity is currently witnessing the real time enclosure of the planet
+in a web of data and sensor networks that enable digitally mediated
+agents---artificial and human---to be integrated into vast cybernetic
+control structures.</p>
+<p>As mentioned in the preceding chapters, new tech always enables new
+forms of social organization. The written word, for example, allowed
+humans to maintain detailed systems of records and accounts required for
+complex bureaucracies — enabling large-scale, city-states. The printing
+press disseminated the means of sharing knowledge (e.g,. books) and
+opened up the realm of public discourse to a wider class — driving
+Europe out of feudalism into modernity.</p>
+<p>Emerging technologies are causing changes to civilization which are at
+least as radical as these past innovations. There is a natural appeal to
+integrating these technologies into new methods of governance.
+Satellites and sensor technology, for example, can perform real-time
+monitoring on everything from pollution streams to human trafficking.
+Each innovation opens up new possibilities for preventing catastrophes
+and pursuing prosperity. However, humanity’s track record of wielding
+power without corruption and abuse does not bode well for safe
+stewardship of exponential technological powers. Optimism for innovation
+must be bound by the precedents of the misuse and misapplication of
+power (see the following section).</p>
+<p>For better and for worse, technologies are extensions of human capacity
+which allow us to overcome our natural, corporeal limits. In the past,
+there were limits to autocratic rule. Limits which are now being
+overcome. It was not possible to monitor everyone’s behavior before
+widely distributed sensor technology and ubiquitous personal smart
+devices. Without advances in machine learning, it would have been
+impossible to process that amount of information. Now, in conjunction
+with a fully integrated social credit system — where each citizen is
+scored based on their alignment with the mandates of the ruling class —
+misbehavior can be automatically and immediately identified and punished
+with artificially intelligent policing.</p>
+<p>Humans may soon be crossing a <em><strong>technocratic threshold</strong></em>, entering a
+world of omniscient surveillance and omnipotent enforcement. This is a
+world run by all-knowing, all-powerful authoritarian technocrats whose
+tireless pursuits for predictive precision, control, resource
+extraction, and power accumulation are hidden behind a veil of virtuous
+promises. Near unlimited force will be unleashed in the name of justice,
+but done so in a way that undermines the possibility of anything truly
+worthy of the name. Most importantly, this is a world where “resistance
+is futile”---where the asymmetric power is so great that all prior means
+used to overthrow authoritarian rule are rendered obsolete. Thus no
+feasible “way out” can be imagined.</p>
+<p>This world may not be one filled with overt punishment and violence. New
+technologies also enable nuanced and subtle means of propaganda and
+social control. AI recommendation systems like those used by Youtube or
+TikTok, for example, have profound capabilities in predicting and
+influencing the behavior of billions of users. In market contexts, these
+technologies enable customized behavior modification which can be used
+to achieve company goals, e.g., to increase returns to shareholders by
+maximizing the user’s engagement on site,</p>
+<p>increasing their purchases and even shaping their political preferences.
+As mentioned above, these capabilities can easily be repurposed to serve
+the will of a state.</p>
+<p>*Generative AI *(e.g., chat-GPT, gemini, mid-journey) is another major
+development in social influence technology. Platforms employing AI
+recommendation systems like Instagram and Youtube were designed to
+<em>curate human generated content</em>, such as articles or advertisements,
+that best captured the attention of the user. Generative AI is not
+limited to simply curating content, it can create it. With personal data
+harvesting and AI driven generation of text, images, videos, and even
+virtual environments, there exists the deeply concerning potential for a
+massive system of social influence utilizing artificially generated
+content personalized to the preferences (and susceptibilities) of each
+individual citizen optimized to serve the goals of the technocratic
+class.</p>
+<p>With innovations in sensors, robotics, brain-computer interfaces,
+augmented reality, digital currencies, and AI there is now the very real
+possibility of a type of authoritarianism which was once the subject of
+science fiction. Such a system of government could look radically
+different from those of the past including forms of persuasion and
+influence which appear as consent. Moreover, the creation of an
+authoritarian government may not require a violent coup d’état. It could
+emerge gradually and begin with policies that initially seem like
+reasonable steps towards safety. However, given new technological
+capabilities, the passive acceptance of increasing centralized control
+poses the risk of an inescapable, runaway consolidation of power.</p>
+<p>[Why Absolute Power Corrupts Absolutely]{.underline}</p>
+<p>Given the threats to all of life posed by the risks mentioned in the
+preceding chapters, the consolidations of power and enforcement
+described above can be made to appear necessary. Yet anytime an entity
+(such as a person or institution) is granted greater power, it must
+hinge on their legitimacy, trustworthiness, and genuine epistemic
+authority. Trustworthy systems of power depend upon rigorous checks and
+balances where the potential for consolidation and abuse are limited by
+design. However, to place a check on power requires a force of
+comparable stature, and the asymmetric power gained via certain advanced
+technologies may undermine the possibilities for check and balances.</p>
+<p>Those groups building and using technologies like AI become radically
+more powerful as they have increasing access to data and compute. It is
+effectively impossible for a startup to collect the data and build the
+underwater data centers and cloud computing infrastructure needed to
+train models at the scale of Google, Amazon, or Microsoft, for example.
+When AI infrastructure operating at this scale is integrated into
+defense and intelligence systems, and given access to classified
+information and weapons technologies, a relatively small group of people
+begins to accumulate power so great that it could become incredibly
+difficult to check.</p>
+<p>An autocratic leader willing to employ these technologies to protect
+their power would be vastly more difficult to overthrow than at any
+prior point in history. In an age of conventional weaponry, it was much
+easier (though still quite difficult) for a population to upend a
+corrupt government. When intelligent systems can employ satellites and
+smartphones to listen to all public conversations, track location in
+real time, and employ drone swarms for assassination, popular revolt and
+revolution becomes nearly impossible.</p>
+<p>Even when power systems are designed with checks and balances, they
+often erode. There will always be more people who desire power than
+there will be available positions of power. Those in such positions tend
+to be highly motivated to maintain them and will use all of their
+available resources to do so. If anyone is able to gain power by
+sacrificing certain value commitments (for example, being deceptive,
+manipulative, or violent), everyone else seeking power is pressured to
+act similarly, driving leaders to sacrifice their morality for strategic
+practicality. Those most skilled in these power games are rarely the
+wisest and most just stewards of power. In those unlikely scenarios
+where leaders are genuinely ethical and trustworthy, they are still
+forced to contend with everyone else who is willing to use malevolent
+means to take their position.</p>
+<p>This discussion demonstrates the importance of questions about how to
+create trustworthy, enduring systems of power — which are able to
+employ advanced technology while resisting the forces of corruption and
+decay. This is an essential challenge related to all efforts towards a
+third attractor.</p>
+<h2 id="movement-and-variation-between-attractorsunderline">[Movement and Variation Between Attractors]{.underline}<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#movement-and-variation-between-attractorsunderline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Even without power systems becoming more trustworthy, centralization
+will be put forth as a response to increasing risks. The application of
+advanced technologies (digital, biological, surveillance, and memetic)
+to prevent anything outside real-time centralized regulation will be
+used to cut off variation in human behavior to optimize for prediction
+and control. This could stop cascading catastrophes in the short term,
+but it could also be the result of the politically opportunistic class
+capitalizing on engineered or over-exaggerated crises in order to
+consolidate power. Both paths can lead to control structures that
+drastically foreclose on ethically desirable futures. Worst case
+scenario is one of dystopian global authoritarian use of exponential
+technologies of social control made subject to corruption and perpetual,
+inescapable misuse.</p>
+<p>Many variations exist across the two attractors of chaos and oppression.
+For example, rather than a single, global autocracy, there may be
+several authoritarian systems which arise in response to increasing
+catastrophes. In some instances, these hierarchical control structures
+may not even be states but corporate technocracies whose consolidated
+power and capital grant increasing control over the population.
+Similarly, there may not be a single global catastrophe or extinction
+event but an increase in larger, more frequent and consequential local
+catastrophes.</p>
+<p>There is also likely to be ongoing oscillation between attractors,
+rather than total global lock-in for one or the other. It is perhaps
+more accurate to think of these attractors as two sides of the same
+coin. Their coevolution is, to some extent, the dominant attractor. As
+powerful technologies decentralize and the planetary situation becomes
+more dire, there will be increasing surveillance and regulatory
+centralization. In turn, each step towards authoritarian control will be
+matched with self-organizing guerrilla resistance which may drive local
+or global catastrophes as a result. It is likely that the future is
+defined by more severe catastrophes and more dystopic responses, a world
+of diminished freedoms and an increasingly scorched earth.</p>
+<p>*<strong>Each</strong> <strong>attractor</strong> <strong>reinforces</strong> <strong>the</strong> <strong>other,</strong> <strong>and</strong>
+<strong>advanced</strong> <strong>technologies</strong> <strong>drive</strong> <strong>both</strong> <strong>in</strong> <strong>parallel.</strong>
+***On the one hand, emerging tech decentralizes power. Innovations in
+AI, synthetic biology, and drones would have once required the budgets
+of the richest nation states and militaries in the world. Now they are
+being widely distributed, increasing the capability of non-state actors
+to disrupt the agendas of powerful nations and corporations. On the
+other hand, these technologies also orient towards increasing
+centralization — for example, due to economies of scale, network
+effects, and the benefits of increasing data and information processing.
+They</p>
+<p>allow for larger scale, more complex authoritarian structures than ever
+before by overcoming past limiting factors in behavioral monitoring,
+data processing, speed and fidelity of communications, and mechanisms of
+policy enforcement. The proliferation of technology makes it more
+difficult both to contain decentralized power and to maintain
+appropriate checks and balances on consolidated power.</p>
+<p>Oscillations between chaos and oppression are already present around the
+world and causes of harm on both human and ecological terms. Even if the
+extremes of these attractors are dampened, a world of growing
+catastrophes and increasingly invasive surveillance and control is still
+unacceptable. These outcomes warrant large scale transformations of
+world system dynamics and coordinated effort to reimagine and realize
+alternative paths towards a sustainable and humane civilization.</p>
+<h1 id="beyond-the-global-risk-thresholdunderline">[Beyond the Global Risk Threshold]{.underline}<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#beyond-the-global-risk-thresholdunderline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Humanity must address the deeper causes underlying the proliferation of
+global catastrophic risks and the threat of dystopian oppression.
+Several of these — *generative dynamics of the metacrisis *— were
+mentioned throughout this chapter, such as the strategic benefits of
+hierarchical control and violence, the competitive pressures
+accelerating technology development, and the economic growth obligations
+driving ecological overshoot.</p>
+<p>These and other generative dynamics of risk, violence, and civilization
+decay have been prevalent throughout history. It is only recently that
+they have been technologically empowered at this scale such that they
+are causes of global catastrophic and existential risks, and are
+imminently self-terminating for the species as a whole. <em><strong>This
+signifies the crossing of a threshold, where civilization</strong>’<strong>s new
+found existential power brings with it unprecedented planetary</strong>
+<strong>responsibility</strong> <strong>and</strong> <strong>the</strong> <strong>need</strong> <strong>for</strong> <strong>a</strong> <strong>profound</strong>
+<strong>structural</strong> <strong>change</strong> <strong>to</strong> <strong>its</strong> <strong>basic</strong> <strong>modes of
+operating.</strong></em></p>
+<p>A critical factor moving us beyond this threshold is the state of
+technology and its unique capabilities, unprecedented power, rapid speed
+of development, and widespread distribution. Industrial technology can
+scale extraction and pollution to the point of an uninhabitable earth in
+a way impossible without it. Nuclear, biological, and autonomous weapons
+turn total war from locally catastrophic to civilization ruining.
+Technologies like AI and synthetic biology will widely distribute the
+ability to cause global catastrophic risks either by intentional attack
+or unintended consequence. Lastly, the dissemination of new technologies
+pushes the world system towards ubiquitous surveillance and the
+possibility of totalizing dystopian control.</p>
+<p>To successfully cross this threshold, the world system requires more
+than incremental improvement in existing techniques of crisis
+management. Incremental responses, characteristic of standard
+regulation, will be unable to match the exponential speeds of ecological
+destruction and technological advancement. This is a fundamental
+asymmetry — the speed, scope, and</p>
+<p>complexity of the risk landscape dwarfs all current regulation and
+response capacities — which must be addressed without succumbing to the
+allure of technocratic reaction.</p>
+<p>Humanity will need to categorically address the many shadows of its
+history, including its tendencies towards violent competition with
+out-groups, its exploitation of marginalized classes within in-groups,
+and its extractive economic relationship to the earth. This situation
+requires that we also fundamentally reimagine our relationship to
+technology. More powerful innovations cannot be safely born from market
+and military races. Rapid advancement and distribution can no longer be
+seen as the mark of progress. If we are to become a wise species, truly
+capable of wielding these god-like powers, there must be a transition
+and transformation into a culture of technological foresight,
+responsibility, and restraint.</p>
+<p>To prevent global catastrophes while maintaining important human
+freedoms, civilization will require restructuring in recognition of the
+generative dynamics underlying the metacrisis. These are the subject of
+the following chapters. An understanding of deeper structural causes of
+risk, violence, and collapse will serve us in navigating the dark night
+of the metacrisis and the uncharted frontier of the future. Greater
+clarity will also help in imagining alternative paths to a sustainable
+civilization where the relationships between humanity, technology, and
+life align, in perpetuity.</p>
+<p>Part 2: Generative Dynamics</p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-258" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#ch-8-two-attractors-chaos-or-oppressionunderline" data-for="ch-8-two-attractors-chaos-or-oppressionunderline">[Ch 8: Two Attractors: Chaos or Oppression]{.underline}</a></li><li class="depth-1"><a href="#the-allure-of-oppressionunderline" data-for="the-allure-of-oppressionunderline">[The Allure of Oppression]{.underline}</a></li><li class="depth-1"><a href="#the-technocratic-thresholdunderline" data-for="the-technocratic-thresholdunderline">[The Technocratic Threshold]{.underline}</a></li><li class="depth-1"><a href="#movement-and-variation-between-attractorsunderline" data-for="movement-and-variation-between-attractorsunderline">[Movement and Variation Between Attractors]{.underline}</a></li><li class="depth-0"><a href="#beyond-the-global-risk-thresholdunderline" data-for="beyond-the-global-risk-thresholdunderline">[Beyond the Global Risk Threshold]{.underline}</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../../../postscript.js" type="module"></script></html>
