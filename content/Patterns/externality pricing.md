@@ -1,3 +1,9 @@
+---
+aliases:
+  - "externality-pricing"
+  - "Externality-Pricing"
+---
+
 # Externality Pricing
 
 ## Definition and Theoretical Foundations

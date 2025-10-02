@@ -1,3 +1,11 @@
+---
+aliases:
+  - "call transcript"
+  - "call-transcript"
+  - "Call-Transcript"
+  - "call -transcript"
+---
+
 0:01 - Kevin Owocki
 Are you working outside also?
 

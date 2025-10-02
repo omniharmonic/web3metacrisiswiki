@@ -1,3 +1,11 @@
+---
+aliases:
+  - "transparent recommendation systems"
+  - "transparent-recommendation-systems"
+  - "Transparent-Recommendation-Systems"
+  - "transparent -recommendation -systems"
+---
+
 # Transparent Recommendation Systems
 
 ## Definition

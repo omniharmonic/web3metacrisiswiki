@@ -1,3 +1,11 @@
+---
+aliases:
+  - "artificial intelligence and machine learning"
+  - "artificial-intelligence-and-machine-learning"
+  - "Artificial-Intelligence-And-Machine-Learning"
+  - "artificial -intelligence and -machine -learning"
+---
+
 # Artificial Intelligence and Machine Learning
 
 Artificial intelligence and machine learning represent technologies that enable computers to perform tasks typically requiring human intelligence, including pattern recognition, decision-making, and predictive modeling. These technologies have become central to many contemporary social and economic systems, creating both opportunities for advancement and risks for manipulation and control.

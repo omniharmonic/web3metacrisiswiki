@@ -1,3 +1,11 @@
+---
+aliases:
+  - "complementary currencies"
+  - "complementary-currencies"
+  - "Complementary-Currencies"
+  - "complementary -currencies"
+---
+
 # Complementary Currencies
 
 ## Definition and Economic Significance

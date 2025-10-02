@@ -1,3 +1,11 @@
+---
+aliases:
+  - "quasi-turing-completeness and gas metering"
+  - "quasi-turing-completeness-and-gas-metering"
+  - "Quasi-turing-completeness-And-Gas-Metering"
+  - "quasi--turing--completeness and -gas -metering"
+---
+
 # Quasi-Turing-Completeness and Gas Metering
 
 ## Definition and Computational Significance

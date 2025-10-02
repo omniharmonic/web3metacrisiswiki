@@ -1,3 +1,9 @@
+---
+aliases:
+  - "distributed-governance"
+  - "Distributed-Governance"
+---
+
 # Distributed Governance
 
 Distributed governance refers to decision-making systems that distribute authority, responsibility, and participation across multiple actors rather than concentrating power in centralized institutions. This approach aims to create more resilient, responsive, and legitimate governance by involving diverse stakeholders in collective decision-making processes.

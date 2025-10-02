@@ -1,3 +1,8 @@
+---
+aliases:
+  - "slashing"
+---
+
 # Slashing
 
 ## Definition

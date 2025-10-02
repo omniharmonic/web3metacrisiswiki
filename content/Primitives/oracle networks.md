@@ -1,3 +1,9 @@
+---
+aliases:
+  - "oracle-networks"
+  - "Oracle-Networks"
+---
+
 
 ## Definition
 

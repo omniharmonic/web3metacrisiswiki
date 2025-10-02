@@ -1,3 +1,11 @@
+---
+aliases:
+  - "erc-721 standard (nfts)"
+  - "erc-721-standard-(nfts)"
+  - "Erc-721-Standard-(Nfts)"
+  - "e-r-c-721 -standard (-n-f-ts)"
+---
+
 
 ## Definition
 

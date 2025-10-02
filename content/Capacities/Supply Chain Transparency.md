@@ -1,3 +1,11 @@
+---
+aliases:
+  - "supply chain transparency"
+  - "supply-chain-transparency"
+  - "Supply-Chain-Transparency"
+  - "supply -chain -transparency"
+---
+
 # Supply Chain Transparency
 
 ## Definition and Accountability Significance

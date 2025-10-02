@@ -1,3 +1,11 @@
+---
+aliases:
+  - "environmental externalities"
+  - "environmental-externalities"
+  - "Environmental-Externalities"
+  - "environmental -externalities"
+---
+
 # Environmental Externalities
 
 Environmental externalities are the environmental costs and benefits of economic activities that are not reflected in market prices, leading to market failures where the true environmental impact of production and consumption is not accounted for in economic decision-making. These externalities represent a fundamental disconnect between private costs and social costs in environmental terms.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized content distribution networks"
+  - "decentralized-content-distribution-networks"
+  - "Decentralized-Content-Distribution-Networks"
+  - "decentralized -content -distribution -networks"
+---
+
 # Decentralized Content Distribution Networks
 
 ## Definition and Infrastructural Significance

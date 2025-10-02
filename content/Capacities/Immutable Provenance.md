@@ -1,3 +1,11 @@
+---
+aliases:
+  - "immutable provenance"
+  - "immutable-provenance"
+  - "Immutable-Provenance"
+  - "immutable -provenance"
+---
+
 # Immutable Provenance
 
 ## Definition and Epistemological Significance

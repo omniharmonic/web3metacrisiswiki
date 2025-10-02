@@ -1,3 +1,11 @@
+---
+aliases:
+  - "vitality, resilience, choice"
+  - "vitality,-resilience,-choice"
+  - "Vitality,-Resilience,-Choice"
+  - "vitality, -resilience, -choice"
+---
+
 
 ## Definition
 

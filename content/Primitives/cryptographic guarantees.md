@@ -1,3 +1,9 @@
+---
+aliases:
+  - "cryptographic-guarantees"
+  - "Cryptographic-Guarantees"
+---
+
 # Cryptographic Guarantees
 
 ## Definition

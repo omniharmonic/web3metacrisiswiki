@@ -1,3 +1,8 @@
+---
+aliases:
+  - "prospectus"
+---
+
 ## **An Assessment of the "Crypto for Good" Space**
 
 This project is designed as a definitive, critical assessment of the entire "crypto for good" landscape. Its primary purpose is to filter the signal from the noise, providing a clear guide for builders, investors, and foundations.

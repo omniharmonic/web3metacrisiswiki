@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Provenance"
+---
+
 # Provenance
 
 ## Definition and Theoretical Foundations

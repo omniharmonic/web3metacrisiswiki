@@ -1,3 +1,11 @@
+---
+aliases:
+  - "hyperinflation protection"
+  - "hyperinflation-protection"
+  - "Hyperinflation-Protection"
+  - "hyperinflation -protection"
+---
+
 # Hyperinflation Protection
 
 ## Definition and Economic Significance

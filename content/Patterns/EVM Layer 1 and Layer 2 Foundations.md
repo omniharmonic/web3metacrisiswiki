@@ -1,3 +1,11 @@
+---
+aliases:
+  - "evm layer 1 and layer 2 foundations"
+  - "evm-layer-1-and-layer-2-foundations"
+  - "Evm-Layer-1-And-Layer-2-Foundations"
+  - "e-v-m -layer 1 and -layer 2 -foundations"
+---
+
 # EVM Layer 1 and Layer 2 Foundations
 
 EVM Layer 1 and Layer 2 foundations refer to the technical infrastructure and economic models that enable the Ethereum Virtual Machine ecosystem to function as a platform for decentralized applications, smart contracts, and new forms of economic coordination. This infrastructure represents a foundational technology for implementing alternative governance and economic systems.

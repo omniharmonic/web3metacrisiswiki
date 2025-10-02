@@ -1,3 +1,11 @@
+---
+aliases:
+  - "price discovery"
+  - "price-discovery"
+  - "Price-Discovery"
+  - "price -discovery"
+---
+
 # Price Discovery
 
 ## Definition and Theoretical Foundations

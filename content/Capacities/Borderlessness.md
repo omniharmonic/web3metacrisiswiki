@@ -1,3 +1,8 @@
+---
+aliases:
+  - "borderlessness"
+---
+
 # Borderlessness
 
 ## Definition

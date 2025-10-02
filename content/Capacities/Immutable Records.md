@@ -1,3 +1,11 @@
+---
+aliases:
+  - "immutable records"
+  - "immutable-records"
+  - "Immutable-Records"
+  - "immutable -records"
+---
+
 # Immutable Records
 
 ## Definition and Institutional Significance

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "surveillance capitalism"
+  - "surveillance-capitalism"
+  - "Surveillance-Capitalism"
+  - "surveillance -capitalism"
+---
+
 # Surveillance Capitalism
 
 ## Definition and Theoretical Foundations

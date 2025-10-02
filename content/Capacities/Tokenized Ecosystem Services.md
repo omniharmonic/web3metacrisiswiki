@@ -1,3 +1,11 @@
+---
+aliases:
+  - "tokenized ecosystem services"
+  - "tokenized-ecosystem-services"
+  - "Tokenized-Ecosystem-Services"
+  - "tokenized -ecosystem -services"
+---
+
 # Tokenized Ecosystem Services
 
 ## Definition and Ecological Significance

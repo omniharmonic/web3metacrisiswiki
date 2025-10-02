@@ -1,3 +1,11 @@
+---
+aliases:
+  - "selective disclosure"
+  - "selective-disclosure"
+  - "Selective-Disclosure"
+  - "selective -disclosure"
+---
+
 # Selective Disclosure
 
 Selective disclosure represents a cryptographic capability that allows individuals to prove specific attributes or claims about themselves without revealing the underlying data or additional private information. This technology enables privacy-preserving verification systems that can satisfy institutional requirements for identity verification while maintaining individual privacy and control over personal data.

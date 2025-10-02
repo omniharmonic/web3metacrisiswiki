@@ -1,3 +1,11 @@
+---
+aliases:
+  - "identity verification"
+  - "identity-verification"
+  - "Identity-Verification"
+  - "identity -verification"
+---
+
 # Identity Verification
 
 ## Definition and Theoretical Foundations

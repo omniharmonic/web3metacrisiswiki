@@ -1,3 +1,11 @@
+---
+aliases:
+  - "governance tokens"
+  - "governance-tokens"
+  - "Governance-Tokens"
+  - "governance -tokens"
+---
+
 # Governance Tokens
 
 ## Definition

@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Decentralization"
+---
+
 
 ---
 title: decentralization

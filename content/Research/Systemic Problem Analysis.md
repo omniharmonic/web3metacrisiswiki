@@ -1,3 +1,11 @@
+---
+aliases:
+  - "systemic problem analysis"
+  - "systemic-problem-analysis"
+  - "Systemic-Problem-Analysis"
+  - "systemic -problem -analysis"
+---
+
 # **An Analysis of Systemic Failures and the Criteria for a Life-Affirming Civilization**
 
 ## **Introduction: The Meta-Crisis as the Defining Context of the 21st Century**

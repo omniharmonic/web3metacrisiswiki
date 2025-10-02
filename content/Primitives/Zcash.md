@@ -1,3 +1,8 @@
+---
+aliases:
+  - "zcash"
+---
+
 # Zcash
 
 ## Definition

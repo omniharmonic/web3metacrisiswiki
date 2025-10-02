@@ -1,3 +1,11 @@
+---
+aliases:
+  - "free rider problem"
+  - "free-rider-problem"
+  - "Free-Rider-Problem"
+  - "free -rider -problem"
+---
+
 # Free Rider Problem
 
 ## Definition and Theoretical Foundations

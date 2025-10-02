@@ -1,3 +1,11 @@
+---
+aliases:
+  - "community-verified impact assessment"
+  - "community-verified-impact-assessment"
+  - "Community-verified-Impact-Assessment"
+  - "community--verified -impact -assessment"
+---
+
 # Community-Verified Impact Assessment
 
 ## Definition and Epistemological Significance

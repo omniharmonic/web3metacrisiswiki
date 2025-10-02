@@ -1,3 +1,9 @@
+---
+aliases:
+  - "epistemic-commons"
+  - "Epistemic-Commons"
+---
+
 # Epistemic Commons
 
 Epistemic commons refers to shared knowledge resources, institutions, and practices that enable collective learning, understanding, and knowledge creation. These commons encompass the social infrastructure necessary for generating, validating, preserving, and transmitting knowledge across communities and generations.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "third attractor"
+  - "third-attractor"
+  - "Third-Attractor"
+  - "third -attractor"
+---
+
 # Third Attractor
 
 ## Definition and Theoretical Foundations

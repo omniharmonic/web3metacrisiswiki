@@ -1,3 +1,9 @@
+---
+aliases:
+  - "ecosystem-services"
+  - "Ecosystem-Services"
+---
+
 # Ecosystem Services
 
 ## Definition and Theoretical Foundations

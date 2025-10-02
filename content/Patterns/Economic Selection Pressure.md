@@ -1,3 +1,11 @@
+---
+aliases:
+  - "economic selection pressure"
+  - "economic-selection-pressure"
+  - "Economic-Selection-Pressure"
+  - "economic -selection -pressure"
+---
+
 # Economic Selection Pressure
 
 Economic selection pressure refers to the systematic forces within economic systems that favor certain behaviors, practices, and organizational forms while discouraging others based on their competitive advantage, profitability, or survival value. These pressures shape the evolution of economic institutions, business models, and social practices by rewarding those that perform better according to market criteria.

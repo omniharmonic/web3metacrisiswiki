@@ -1,3 +1,9 @@
+---
+aliases:
+  - "filter-bubbles"
+  - "Filter-Bubbles"
+---
+
 # Filter Bubbles
 
 Filter bubbles are algorithmic information filtering systems that selectively present information to users based on their past behavior, preferences, and demographic characteristics, creating personalized but isolated information environments that can limit exposure to diverse perspectives and contribute to social polarization.

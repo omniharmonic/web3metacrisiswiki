@@ -1,3 +1,9 @@
+---
+aliases:
+  - "decentralized-identity"
+  - "Decentralized-Identity"
+---
+
 # Decentralized Identity
 
 ## Definition

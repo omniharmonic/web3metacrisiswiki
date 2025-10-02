@@ -1,3 +1,11 @@
+---
+aliases:
+  - "defensive accelerationism"
+  - "defensive-accelerationism"
+  - "Defensive-Accelerationism"
+  - "defensive -accelerationism"
+---
+
 # Defensive Accelerationism
 
 ## Definition and Theoretical Foundations

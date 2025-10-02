@@ -1,3 +1,11 @@
+---
+aliases:
+  - "liquidity pools"
+  - "liquidity-pools"
+  - "Liquidity-Pools"
+  - "liquidity -pools"
+---
+
 
 ## Definition
 

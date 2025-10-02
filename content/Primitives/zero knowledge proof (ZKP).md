@@ -1,3 +1,11 @@
+---
+aliases:
+  - "zero knowledge proof (zkp)"
+  - "zero-knowledge-proof-(zkp)"
+  - "Zero-Knowledge-Proof-(Zkp)"
+  - "zero knowledge proof (-z-k-p)"
+---
+
 
 ## Definition
 

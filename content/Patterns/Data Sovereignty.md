@@ -1,3 +1,11 @@
+---
+aliases:
+  - "data sovereignty"
+  - "data-sovereignty"
+  - "Data-Sovereignty"
+  - "data -sovereignty"
+---
+
 # Data Sovereignty
 
 Data sovereignty refers to the concept that individuals, communities, and nations should have authority and control over the data that pertains to them, including the right to determine how that data is collected, stored, processed, and shared. This principle challenges the current paradigm where data is often controlled by large corporations or centralized authorities rather than those who generate it.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "fractional ownership"
+  - "fractional-ownership"
+  - "Fractional-Ownership"
+  - "fractional -ownership"
+---
+
 # Fractional Ownership
 
 ## Definition and Economic Significance

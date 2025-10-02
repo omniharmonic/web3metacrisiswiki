@@ -1,3 +1,8 @@
+---
+aliases:
+  - "tokenomics"
+---
+
 # Tokenomics
 
 ## Definition and Theoretical Foundations

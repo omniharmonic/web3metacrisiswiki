@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized finance (defi)"
+  - "decentralized-finance-(defi)"
+  - "Decentralized-Finance-(Defi)"
+  - "decentralized -finance (-de-fi)"
+---
+
 # Decentralized Finance (DeFi)
 
 ## Definition and Economic Significance

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "transparent algorithms"
+  - "transparent-algorithms"
+  - "Transparent-Algorithms"
+  - "transparent -algorithms"
+---
+
 # Transparent Algorithms
 
 ## Definition and Epistemic Significance

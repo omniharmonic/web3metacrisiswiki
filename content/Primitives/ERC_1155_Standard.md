@@ -1,3 +1,10 @@
+---
+aliases:
+  - "erc_1155_standard"
+  - "Erc_1155_standard"
+  - "e-r-c_1155_-standard"
+---
+
 # ERC-1155 Multi-Token Standard
 
 ## Definition

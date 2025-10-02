@@ -1,3 +1,11 @@
+---
+aliases:
+  - "end-to-end encrypted communication"
+  - "end-to-end-encrypted-communication"
+  - "End-to-end-Encrypted-Communication"
+  - "end-to--end -encrypted -communication"
+---
+
 # End-to-End Encrypted Communication
 
 ## Definition

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "alternative value systems"
+  - "alternative-value-systems"
+  - "Alternative-Value-Systems"
+  - "alternative -value -systems"
+---
+
 # Alternative Value Systems
 
 ## Definition and Theoretical Foundations

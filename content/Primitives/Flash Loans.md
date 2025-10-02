@@ -1,3 +1,11 @@
+---
+aliases:
+  - "flash loans"
+  - "flash-loans"
+  - "Flash-Loans"
+  - "flash -loans"
+---
+
 
 ## Definition
 

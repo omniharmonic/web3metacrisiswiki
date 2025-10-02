@@ -1,3 +1,11 @@
+---
+aliases:
+  - "anonymous networks"
+  - "anonymous-networks"
+  - "Anonymous-Networks"
+  - "anonymous -networks"
+---
+
 # Anonymous Networks
 
 Anonymous networks are communication and transaction systems designed to protect user identity and activity from surveillance and tracking. These networks employ various cryptographic and routing techniques to obscure the relationship between users and their online activities.

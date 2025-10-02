@@ -1,3 +1,9 @@
+---
+aliases:
+  - "confirmation-bias"
+  - "Confirmation-Bias"
+---
+
 # Confirmation Bias
 
 ## Definition and Theoretical Foundations

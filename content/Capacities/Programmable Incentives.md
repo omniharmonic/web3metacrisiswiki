@@ -1,3 +1,11 @@
+---
+aliases:
+  - "programmable incentives"
+  - "programmable-incentives"
+  - "Programmable-Incentives"
+  - "programmable -incentives"
+---
+
 # Programmable Incentives
 
 ## Definition and Economic Significance

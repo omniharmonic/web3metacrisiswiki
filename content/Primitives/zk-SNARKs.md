@@ -1,3 +1,10 @@
+---
+aliases:
+  - "zk-snarks"
+  - "Zk-snarks"
+  - "zk--s-n-a-r-ks"
+---
+
 # zk-SNARKs
 
 ## Definition

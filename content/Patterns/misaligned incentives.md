@@ -1,3 +1,9 @@
+---
+aliases:
+  - "misaligned-incentives"
+  - "Misaligned-Incentives"
+---
+
 # Misaligned Incentives
 
 ## Definition and Theoretical Foundations

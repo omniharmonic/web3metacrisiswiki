@@ -1,3 +1,11 @@
+---
+aliases:
+  - "common impact data standard"
+  - "common-impact-data-standard"
+  - "Common-Impact-Data-Standard"
+  - "common -impact -data -standard"
+---
+
 # Common Impact Data Standard
 
 ## Definition

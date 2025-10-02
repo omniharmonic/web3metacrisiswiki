@@ -1,3 +1,11 @@
+---
+aliases:
+  - "account models"
+  - "account-models"
+  - "Account-Models"
+  - "account -models"
+---
+
 
 # Account Models
 

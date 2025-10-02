@@ -1,3 +1,8 @@
+---
+aliases:
+  - "programmability"
+---
+
 # Programmability
 
 ## Definition and Conceptual Significance

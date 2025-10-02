@@ -1,3 +1,9 @@
+---
+aliases:
+  - "ecological-health"
+  - "Ecological-Health"
+---
+
 # Ecological Health
 
 Ecological health refers to the condition and functionality of ecosystems in their capacity to maintain biodiversity, resilience, and sustainable provision of ecosystem services. This concept encompasses the complex interactions between living organisms and their environment, emphasizing systemic well-being rather than just the absence of environmental damage.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "nash equilibrium"
+  - "nash-equilibrium"
+  - "Nash-Equilibrium"
+  - "nash -equilibrium"
+---
+
 
 # Nash Equilibrium
 

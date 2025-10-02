@@ -1,3 +1,11 @@
+---
+aliases:
+  - "privacy-preserving infrastructure"
+  - "privacy-preserving-infrastructure"
+  - "Privacy-preserving-Infrastructure"
+  - "privacy--preserving -infrastructure"
+---
+
 # Privacy-Preserving Infrastructure
 
 ## Definition and Architectural Significance

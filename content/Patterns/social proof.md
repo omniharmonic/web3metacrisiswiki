@@ -1,3 +1,9 @@
+---
+aliases:
+  - "social-proof"
+  - "Social-Proof"
+---
+
 # Social Proof
 
 ## Definition

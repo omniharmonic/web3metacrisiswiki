@@ -1,3 +1,9 @@
+---
+aliases:
+  - "economic-centralization"
+  - "Economic-Centralization"
+---
+
 # Economic Centralization
 
 ## Definition and Theoretical Foundations

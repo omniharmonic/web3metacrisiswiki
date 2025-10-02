@@ -1,3 +1,8 @@
+---
+aliases:
+  - "aave"
+---
+
 # Aave
 
 Aave is a decentralized lending protocol that enables users to supply and borrow cryptocurrencies without intermediaries. Built on Ethereum and other blockchains, Aave operates through smart contracts that automatically manage lending markets, interest rates, and collateral requirements.

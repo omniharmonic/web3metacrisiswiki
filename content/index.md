@@ -1,5 +1,7 @@
 ---
 title: ""
+aliases:
+  - "Index"
 ---
 
 # Web3 and the Generative Dynamics of the Metacrisis

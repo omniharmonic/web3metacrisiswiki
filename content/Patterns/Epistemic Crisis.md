@@ -1,3 +1,11 @@
+---
+aliases:
+  - "epistemic crisis"
+  - "epistemic-crisis"
+  - "Epistemic-Crisis"
+  - "epistemic -crisis"
+---
+
 # Epistemic Crisis
 
 ## Definition and Theoretical Foundations

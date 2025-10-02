@@ -1,3 +1,11 @@
+---
+aliases:
+  - "mechanism design"
+  - "mechanism-design"
+  - "Mechanism-Design"
+  - "mechanism -design"
+---
+
 
 # Mechanism Design
 

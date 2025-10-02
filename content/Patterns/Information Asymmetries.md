@@ -1,3 +1,11 @@
+---
+aliases:
+  - "information asymmetries"
+  - "information-asymmetries"
+  - "Information-Asymmetries"
+  - "information -asymmetries"
+---
+
 # Information Asymmetries
 
 ## Definition and Theoretical Foundations

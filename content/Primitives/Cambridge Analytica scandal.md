@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cambridge analytica scandal"
+  - "cambridge-analytica-scandal"
+  - "Cambridge-Analytica-Scandal"
+  - "cambridge -analytica scandal"
+---
+
 # Cambridge Analytica Scandal
 
 ## Definition

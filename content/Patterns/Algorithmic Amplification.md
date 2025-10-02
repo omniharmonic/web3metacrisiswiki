@@ -1,3 +1,11 @@
+---
+aliases:
+  - "algorithmic amplification"
+  - "algorithmic-amplification"
+  - "Algorithmic-Amplification"
+  - "algorithmic -amplification"
+---
+
 # Algorithmic Amplification
 
 ## Definition and Theoretical Foundations

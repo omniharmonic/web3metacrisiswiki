@@ -1,3 +1,11 @@
+---
+aliases:
+  - "scalable generation"
+  - "scalable-generation"
+  - "Scalable-Generation"
+  - "scalable -generation"
+---
+
 # Scalable Generation
 
 ## Definition

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "incentive mechanisms"
+  - "incentive-mechanisms"
+  - "Incentive-Mechanisms"
+  - "incentive -mechanisms"
+---
+
 # Incentive Mechanisms
 
 ## Definition and Theoretical Foundations

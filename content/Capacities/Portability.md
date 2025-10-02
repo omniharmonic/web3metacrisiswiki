@@ -1,3 +1,8 @@
+---
+aliases:
+  - "portability"
+---
+
 # Portability
 
 ## Definition and User Sovereignty Significance

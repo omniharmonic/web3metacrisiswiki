@@ -1,3 +1,9 @@
+---
+aliases:
+  - "front-running"
+  - "Front-Running"
+---
+
 
 ## Definition
 

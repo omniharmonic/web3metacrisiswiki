@@ -1,3 +1,9 @@
+---
+aliases:
+  - "consensus-mechanisms"
+  - "Consensus-Mechanisms"
+---
+
 # Consensus Mechanisms
 
 ## Definition and Theoretical Foundations

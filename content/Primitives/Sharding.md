@@ -1,3 +1,8 @@
+---
+aliases:
+  - "sharding"
+---
+
 # Sharding
 
 ## Definition

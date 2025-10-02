@@ -1,3 +1,8 @@
+---
+aliases:
+  - "phishing"
+---
+
 # Phishing
 
 ## Definition and Theoretical Foundations

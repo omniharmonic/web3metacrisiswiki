@@ -1,3 +1,11 @@
+---
+aliases:
+  - "authoritarian technology"
+  - "authoritarian-technology"
+  - "Authoritarian-Technology"
+  - "authoritarian -technology"
+---
+
 # Authoritarian Technology
 
 Authoritarian technology refers to technological systems designed to enhance centralized control, surveillance, and social management while limiting individual autonomy, privacy, and democratic participation. These technologies enable new forms of social control that operate through both direct coercion and subtle behavioral modification.

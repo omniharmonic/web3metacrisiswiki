@@ -1,3 +1,11 @@
+---
+aliases:
+  - "bot networks and coordinated inauthentic behavior"
+  - "bot-networks-and-coordinated-inauthentic-behavior"
+  - "Bot-Networks-And-Coordinated-Inauthentic-Behavior"
+  - "bot -networks and -coordinated -inauthentic -behavior"
+---
+
 # Bot Networks and Coordinated Inauthentic Behavior
 
 Bot networks and coordinated inauthentic behavior involve the use of automated accounts, coordinated human actors, and deceptive practices to manipulate public discourse, spread misinformation, and influence social and political outcomes at scale. These networks exploit the design of digital platforms to amplify particular messages and create false impressions of grassroots support or opposition.

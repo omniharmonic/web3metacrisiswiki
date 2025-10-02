@@ -1,3 +1,9 @@
+---
+aliases:
+  - "self-sovereign-identity"
+  - "Self-sovereign-Identity"
+---
+
 # Self-Sovereign Identity
 
 Self-sovereign identity represents a paradigm shift from centralized identity management to individual control over personal data and identity attributes. In the context of the [[meta-crisis]], self-sovereign identity systems can address [[Mass Surveillance]] and enable [[technological sovereignty]] while preserving [[privacy preservation]] and [[censorship resistance]].

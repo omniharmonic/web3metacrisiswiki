@@ -1,3 +1,11 @@
+---
+aliases:
+  - "lp tokens"
+  - "lp-tokens"
+  - "Lp-Tokens"
+  - "l-p -tokens"
+---
+
 
 ## Definition
 

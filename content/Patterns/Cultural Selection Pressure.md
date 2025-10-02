@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cultural selection pressure"
+  - "cultural-selection-pressure"
+  - "Cultural-Selection-Pressure"
+  - "cultural -selection -pressure"
+---
+
 # Cultural Selection Pressure
 
 Cultural selection pressure refers to the social and environmental forces that influence which cultural practices, beliefs, values, and behaviors persist, spread, or disappear within and across human communities. These pressures operate through various mechanisms that reward or punish different cultural traits, leading to cultural evolution over time.

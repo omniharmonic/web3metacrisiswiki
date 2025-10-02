@@ -1,3 +1,9 @@
+---
+aliases:
+  - "oracle-problem"
+  - "Oracle-Problem"
+---
+
 # Oracle Problem
 
 ## Definition and Theoretical Foundations

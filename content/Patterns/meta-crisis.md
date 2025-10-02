@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Meta-crisis"
+---
+
 
 ---
 title: meta-crisis

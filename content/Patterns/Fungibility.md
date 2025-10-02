@@ -1,3 +1,8 @@
+---
+aliases:
+  - "fungibility"
+---
+
 # Fungibility
 
 ## Definition and Theoretical Foundations

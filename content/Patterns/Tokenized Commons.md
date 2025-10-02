@@ -1,3 +1,11 @@
+---
+aliases:
+  - "tokenized commons"
+  - "tokenized-commons"
+  - "Tokenized-Commons"
+  - "tokenized -commons"
+---
+
 # Tokenized Commons
 
 ## Definition

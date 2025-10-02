@@ -1,3 +1,11 @@
+---
+aliases:
+  - "towards an open civics"
+  - "towards-an-open-civics"
+  - "Towards-An-Open-Civics"
+  - "towards -an -open -c-ivics"
+---
+
 Towards an Open Civics 
 CIVIC INFRASTRUCTURES AS ENABLING CONDITIONS FOR A VITAL RESILIENT, AND PARTICIPATORY CIVILIZATION
 

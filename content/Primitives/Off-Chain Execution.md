@@ -1,3 +1,11 @@
+---
+aliases:
+  - "off-chain execution"
+  - "off-chain-execution"
+  - "Off-chain-Execution"
+  - "off--chain -execution"
+---
+
 # Off-Chain Execution
 
 ## Definition

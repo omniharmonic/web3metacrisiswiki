@@ -1,3 +1,11 @@
+---
+aliases:
+  - "prisoner's dilemma"
+  - "prisoner's-dilemma"
+  - "Prisoner's-Dilemma"
+  - "prisoner's -dilemma"
+---
+
 
 # Prisoner's Dilemma
 

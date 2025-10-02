@@ -1,3 +1,9 @@
+---
+aliases:
+  - "regulatory-capture"
+  - "Regulatory-Capture"
+---
+
 # Regulatory Capture
 
 ## Definition and Theoretical Foundations

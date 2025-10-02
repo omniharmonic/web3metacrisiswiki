@@ -1,3 +1,11 @@
+---
+aliases:
+  - "decentralized data indexing"
+  - "decentralized-data-indexing"
+  - "Decentralized-Data-Indexing"
+  - "decentralized -data -indexing"
+---
+
 # Decentralized Data Indexing Protocols
 
 ## Definition

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "beyond narrow optimization"
+  - "beyond-narrow-optimization"
+  - "Beyond-Narrow-Optimization"
+  - "beyond -narrow -optimization"
+---
+
 Beyond Narrow Optimization 
 
 Reimagining Capital in the Networked Age

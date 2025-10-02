@@ -1,3 +1,11 @@
+---
+aliases:
+  - "conviction voting"
+  - "conviction-voting"
+  - "Conviction-Voting"
+  - "conviction -voting"
+---
+
 # Conviction Voting
 
 ## Definition and Theoretical Foundations

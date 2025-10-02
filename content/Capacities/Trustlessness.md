@@ -1,3 +1,8 @@
+---
+aliases:
+  - "trustlessness"
+---
+
 # Trustlessness
 
 ## Definition and Theoretical Framework

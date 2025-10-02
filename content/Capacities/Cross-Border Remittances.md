@@ -1,3 +1,11 @@
+---
+aliases:
+  - "cross-border remittances"
+  - "cross-border-remittances"
+  - "Cross-border-Remittances"
+  - "cross--border -remittances"
+---
+
 # Cross-Border Remittances
 
 ## Definition and Economic Significance

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "rug pulls"
+  - "rug-pulls"
+  - "Rug-Pulls"
+  - "rug -pulls"
+---
+
 # Rug Pulls
 
 Rug pulls represent a form of exit scam prevalent in cryptocurrency and decentralized finance (DeFi) ecosystems where project creators suddenly abandon their project and withdraw invested funds, leaving investors with worthless tokens. This pattern exemplifies how the permissionless nature of blockchain systems, while enabling innovation, also creates opportunities for sophisticated financial fraud that can undermine trust in legitimate decentralized projects.

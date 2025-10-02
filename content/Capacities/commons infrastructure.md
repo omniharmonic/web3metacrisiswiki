@@ -1,3 +1,9 @@
+---
+aliases:
+  - "commons-infrastructure"
+  - "Commons-Infrastructure"
+---
+
 # Commons Infrastructure
 
 ## Definition

@@ -1,3 +1,11 @@
+---
+aliases:
+  - "quadratic voting"
+  - "quadratic-voting"
+  - "Quadratic-Voting"
+  - "quadratic -voting"
+---
+
 
 # Quadratic Voting
 

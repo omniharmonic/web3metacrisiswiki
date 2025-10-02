@@ -1,3 +1,9 @@
+---
+aliases:
+  - "civic-renaissance"
+  - "Civic-Renaissance"
+---
+
 # Civic Renaissance
 
 Civic renaissance refers to the renewal and revitalization of civic engagement, democratic participation, and public institutions. This pattern involves the emergence of new forms of collective action, community organizing, and democratic innovation that strengthen the relationship between citizens and their communities.

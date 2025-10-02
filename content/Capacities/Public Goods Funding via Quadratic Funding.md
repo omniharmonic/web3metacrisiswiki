@@ -1,3 +1,11 @@
+---
+aliases:
+  - "public goods funding via quadratic funding"
+  - "public-goods-funding-via-quadratic-funding"
+  - "Public-Goods-Funding-Via-Quadratic-Funding"
+  - "public -goods -funding via -quadratic -funding"
+---
+
 # Public Goods Funding via Quadratic Funding
 
 ## Definition and Allocative Significance
