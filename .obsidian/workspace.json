@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Capacities/Improved Democratic Governance via DAOs.md",
+                "file": "content/Patterns/decentralization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Improved Democratic Governance via DAOs"
+              "title": "decentralization"
             }
           },
           {
@@ -207,29 +207,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "b7e38e14ebdeafd7",
+  "active": "babbcfb92a7a239f",
   "lastOpenFiles": [
-    "public/index-og-image.webp",
-    "public/index-backup-og-image.webp",
-    "public/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v04-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/7-near-final-ce-ch7-violent-conflict-0324-part1-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/5-latest-ce-ch5-nat-disaster-0525-part1-(1)-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/4-ce-ch4-hum-syst-0324-part1-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/3-ce-ch3-eco-overshoot-0324-part1-(1)-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/2-ce-ch2-risk-land-intro-0324-part1-og-image.webp",
-    "public/Research/yasmine-manuscript-0623/CRI_md/1-ce-manifesto-ch1-0425.docx-og-image.webp",
-    "public/index.html",
-    "public/index-backup.html",
-    "public/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v04.html",
-    "public/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1.html",
-    "public/Research/yasmine-manuscript-0623/CRI_md/7-near-final-ce-ch7-violent-conflict-0324-part1.html",
-    "public/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT.html",
-    "public/Research/yasmine-manuscript-0623/CRI_md/5-latest-ce-ch5-nat-disaster-0525-part1-(1).html",
-    "public/Research/yasmine-manuscript-0623/CRI_md/4-ce-ch4-hum-syst-0324-part1.html",
-    "public/Research/yasmine-manuscript-0623/CRI_md/3-ce-ch3-eco-overshoot-0324-part1-(1).html",
-    "public/Research/yasmine-manuscript-0623/CRI_md/2-ce-ch2-risk-land-intro-0324-part1.html",
+    "docs/index-og-image.webp",
+    "docs/index-backup-og-image.webp",
+    "docs/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v04-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/7-near-final-ce-ch7-violent-conflict-0324-part1-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/5-latest-ce-ch5-nat-disaster-0525-part1-(1)-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/4-ce-ch4-hum-syst-0324-part1-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/3-ce-ch3-eco-overshoot-0324-part1-(1)-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/2-ce-ch2-risk-land-intro-0324-part1-og-image.webp",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/1-ce-manifesto-ch1-0425.docx-og-image.webp",
+    "docs/index.html",
+    "docs/index-backup.html",
+    "docs/Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v04.html",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1.html",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/7-near-final-ce-ch7-violent-conflict-0324-part1.html",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT.html",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/5-latest-ce-ch5-nat-disaster-0525-part1-(1).html",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/4-ce-ch4-hum-syst-0324-part1.html",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/3-ce-ch3-eco-overshoot-0324-part1-(1).html",
+    "docs/Research/yasmine-manuscript-0623/CRI_md/2-ce-ch2-risk-land-intro-0324-part1.html",
+    "content/Patterns/meta-crisis.md",
+    "content/Web3 and the Generative Dynamics of the Metacrisis v04.md",
+    "Smart Contracts.md",
+    "Ethereum Virtual Machine.md",
+    "Decentralized Autonomous Organizations.md",
+    "content/Capacities/Improved Democratic Governance via DAOs.md",
     "content/Research/yasmine-manuscript-0623/CRI_md/8-ce-ch8-two-attractor-threshold-part1.md",
     "content/Research/yasmine-manuscript-0623/CRI_md/7-near-final-ce-ch7-violent-conflict-0324-part1.md",
     "content/Research/yasmine-manuscript-0623/CRI_md/6-Chapter  6_ Advanced Tech_ZAK_DRAFT.md",
@@ -246,14 +252,8 @@
     "content/Research/yasmine-manuscript-0623/CRI_rtf/3-ce-ch3-eco-overshoot-0324-part1 (1).md",
     "content/Research/yasmine-manuscript-0623/CRI_rtf/2-ce-ch2-risk-land-intro-0324-part1.md",
     "content/Research/yasmine-manuscript-0623/CRI_rtf/1-ce-manifesto-ch1-0425.docx.md",
-    "content/Web3 and the Generative Dynamics of the Metacrisis v04.md",
     "content/Research/Web3 and the Generative Dynamics of the Metacrisis v03.md",
     "content/Web3 and the Generative Dynamics of the Metacrisis v03 copy.md",
-    "content/Research/Towards An Open CIvics.md",
-    "content/Research/Beyond Narrow Optimization.md",
-    "content/Research/Web3 and the Generative Dynamics of the Metacrisis v02.md",
-    "content/Web3 and the Generative Dynamics of the Metacrisis v03.md",
-    "content/Patterns/Liquid Democracy.md",
-    "content/Patterns/Conviction Voting.md"
+    "content/Research/Towards An Open CIvics.md"
   ]
 }
