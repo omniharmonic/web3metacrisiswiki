@@ -1,6 +1,4 @@
 
-# Meta-crisis
-
 ## Definition and Theoretical Framework
 
 The **meta-crisis** represents a systemic failure of civilizational coordination capacity where the very institutional structures designed to solve collective problems have become the primary generators of existential risk. This concept, developed by theorists including Daniel Schmachtenberger and Jordan Hall, describes not merely a collection of individual crises but a fundamental breakdown in humanity's ability to create coherent responses to complex, interconnected challenges that operate across multiple scales and time horizons.
