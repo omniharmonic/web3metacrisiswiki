@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 aliases:
   - "Index"
 ---
@@ -42,7 +42,7 @@ Web3 technical building blocks and protocols:
 
 **Core Infrastructure:**
 - **[[Ethereum Virtual Machine (EVM)]]** - Core execution environment
-- **[[content/Primitives/smart contracts]]** - Programmable logic layer
+- **[[smart contracts]]** - Programmable logic layer
 - **[[Account Models]]** - User interaction foundation
 - **[[Composability]]** - Interoperability and modularity
 
@@ -198,8 +198,8 @@ The analysis presents a framework of three potential civilizational trajectories
 ### Web3 as Technological Substrate
 The primary document systematically evaluates Web3 technologies as potential technological substrates for addressing the meta-crisis through:
 
-- **[[Cryptographic Guarantees]]** - Mathematical rather than institutional foundations for trust
-- **[[Decentralization]]** - Distribution of critical functions across networks of participants
+- **[[cryptographic guarantees]]** - Mathematical rather than institutional foundations for trust
+- **[[decentralization]]** - Distribution of critical functions across networks of participants
 - **[[Programmable Incentives]]** - Economic mechanisms that reward prosocial behavior and punish harmful actions
 - **[[Immutable Records]]** - Tamper-proof documentation enabling accountability and transparency
 - **[[Composability]]** - Interoperability enabling different systems to interact and build upon each other
@@ -213,7 +213,7 @@ The primary document systematically evaluates Web3 technologies as potential tec
 - **Coordination**: [[multi-polar traps]], [[Composability]], [[decentralization]]
 
 ### By Solution Approach
-- **Technical**: [[content/Primitives/smart contracts]], [[Ethereum Virtual Machine (EVM)]], [[scalability trilemma]]
+- **Technical**: [[smart contracts]], [[Ethereum Virtual Machine (EVM)]], [[scalability trilemma]]
 - **Economic**: [[tokenization]], [[automated market makers (AMMs)]], [[ERC-20 Standard]]
 - **Social**: [[Decentralized Autonomous Organizations (DAOs)]], [[distributed consensus]], [[censorship resistance]]
 - **Governance**: [[Vitality, Resilience, Choice]], [[Third Attractor]], [[meta-crisis]]
@@ -269,8 +269,8 @@ The comprehensive evaluation reveals that Web3 technologies offer legitimate sol
 
 ### Fundamental Technical Limitations
 The majority of proposed applications suffer from critical constraints:
-- **[[Oracle Problem]]** - Inability to verify real-world data without trusted intermediaries
-- **[[Scalability Trilemma]]** - Trade-offs between security, decentralization, and performance
+- **[[oracle problem]]** - Inability to verify real-world data without trusted intermediaries
+- **[[scalability trilemma]]** - Trade-offs between security, decentralization, and performance
 - **Governance plutocracy** - Token-based systems devolving into wealth-based control rather than democratic participation
 
 ### Strategic Implementation Framework
