@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Web3 Meta-Crisis Wiki | Web3 Solutions for Civilizational Coordination</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Web3 Meta-Crisis Wiki"/><meta property="og:title" content="Web3 Meta-Crisis Wiki | Web3 Solutions for Civilizational Coordination"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Web3 Meta-Crisis Wiki | Web3 Solutions for Civilizational Coordination"/><meta name="twitter:description" content="Web3 Meta-Crisis Wiki A comprehensive knowledge base for Web3 solutions to civilizational coordination challenges 🌟 Overview This wiki provides a comprehensive mapping of entities, concepts, and relationships within the Web3 and meta-crisis domain."/><meta property="og:description" content="Web3 Meta-Crisis Wiki A comprehensive knowledge base for Web3 solutions to civilizational coordination challenges 🌟 Overview This wiki provides a comprehensive mapping of entities, concepts, and relationships within the Web3 and meta-crisis domain."/><meta property="og:image:alt" content="Web3 Meta-Crisis Wiki A comprehensive knowledge base for Web3 solutions to civilizational coordination challenges 🌟 Overview This wiki provides a comprehensive mapping of entities, concepts, and relationships within the Web3 and meta-crisis domain."/><meta property="twitter:domain" content="omniharmonic.github.io/web3metacrisiswiki"/><meta property="og:url" content="https://omniharmonic.github.io/web3metacrisiswiki/index-backup"/><meta property="twitter:url" content="https://omniharmonic.github.io/web3metacrisiswiki/index-backup"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="Web3 Meta-Crisis Wiki A comprehensive knowledge base for Web3 solutions to civilizational coordination challenges 🌟 Overview This wiki provides a comprehensive mapping of entities, concepts, and relationships within the Web3 and meta-crisis domain."/><meta name="generator" content="Quartz"/><link href="./index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL1VzZXJzL2JlbmphbWlubGlmZS9pQ2xvdWQgRHJpdmUgKEFyY2hpdmUpL0RvY3VtZW50cy9XZWIzIGFuZCBHZW5lcmF0aXZlIER5bmFtaWNzIG9mIHRoZSBNZXRhY3Jpc2lzL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTs7QUFJRjtFQUNFO0VBQ0E7RUFDQSIsInNvdXJjZXNDb250ZW50IjpbIi5leHBhbmQtYnV0dG9uIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbG9hdDogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuNHJlbTtcbiAgbWFyZ2luOiAwLjNyZW07XG4gIHJpZ2h0OiAwOyAvLyBOT1RFOiByaWdodCB3aWxsIGJlIHNldCBpbiBtZXJtYWlkLmlubGluZS50c1xuICBjb2xvcjogdmFyKC0tZ3JheSk7XG4gIGJvcmRlci1jb2xvcjogdmFyKC0tZGFyayk7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgYm9yZGVyOiAxcHggc29saWQ7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgb3BhY2l0eTogMDtcbiAgdHJhbnNpdGlvbjogMC4ycztcblxuICAmID4gc3ZnIHtcbiAgICBmaWxsOiB2YXIoLS1saWdodCk7XG4gICAgZmlsdGVyOiBjb250cmFzdCgwLjMpO1xuICB9XG5cbiAgJjpob3ZlciB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1jb2xvcjogdmFyKC0tc2Vjb25kYXJ5KTtcbiAgfVxuXG4gICY6Zm9jdXMge1xuICAgIG91dGxpbmU6IDA7XG4gIH1cbn1cblxucHJlIHtcbiAgJjpob3ZlciA+IC5leHBhbmQtYnV0dG9uIHtcbiAgICBvcGFjaXR5OiAxO1xuICAgIHRyYW5zaXRpb246IDAuMnM7XG4gIH1cbn1cblxuI21lcm1haWQtY29udGFpbmVyIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBjb250YWluOiBsYXlvdXQ7XG4gIHotaW5kZXg6IDk5OTtcbiAgbGVmdDogMDtcbiAgdG9wOiAwO1xuICB3aWR0aDogMTAwdnc7XG4gIGhlaWdodDogMTAwdmg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGRpc3BsYXk6IG5vbmU7XG4gIGJhY2tkcm9wLWZpbHRlcjogYmx1cig0cHgpO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuNSk7XG5cbiAgJi5hY3RpdmUge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgfVxuXG4gICYgPiAjbWVybWFpZC1zcGFjZSB7XG4gICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDUwJTtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgaGVpZ2h0OiA4MHZoO1xuICAgIHdpZHRoOiA4MHZ3O1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG5cbiAgICAmID4gLm1lcm1haWQtY29udGVudCB7XG4gICAgICBwYWRkaW5nOiAycmVtO1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="./prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("./static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://omniharmonic.github.io/web3metacrisiswiki/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://omniharmonic.github.io/web3metacrisiswiki/index-backup-og-image.webp"/><meta property="og:image:url" content="https://omniharmonic.github.io/web3metacrisiswiki/index-backup-og-image.webp"/><meta name="twitter:image" content="https://omniharmonic.github.io/web3metacrisiswiki/index-backup-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="index-backup"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href=".">Web3 Meta-Crisis Wiki</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-269"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-269" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="./">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Web3 Meta Crisis Wiki</a></div></nav><h1 class="article-title">Web3 Meta-Crisis Wiki</h1><p show-comma="true" class="content-meta"><time datetime="2025-10-01T02:15:03.000Z">Sep 30, 2025</time><span>7 min read</span></p></div></div><article class="popover-hint"><h1 id="web3-meta-crisis-wiki">Web3 Meta-Crisis Wiki<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#web3-meta-crisis-wiki" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<blockquote>
+<p>A comprehensive knowledge base for Web3 solutions to civilizational coordination challenges</p>
+</blockquote>
+<h2 id="-overview">🌟 Overview<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-overview" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>This wiki provides a comprehensive mapping of entities, concepts, and relationships within the Web3 and meta-crisis domain. It serves as a knowledge base for understanding how Web3 technologies can address civilizational coordination failures and enable the emergence of a life-affirming civilization.</p>
+<h2 id="-directory-structure">📁 Directory Structure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-directory-structure" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="-research">📚 Research<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-research" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Core research concepts and systemic problems:</p>
+<ul>
+<li><a href="./Patterns/meta-crisis" class="internal" data-slug="Patterns/meta-crisis">meta-crisis</a> - The fundamental civilizational dysfunction</li>
+<li><a href="./Patterns/Third-Attractor" class="internal alias" data-slug="Patterns/Third-Attractor">Third Attractor</a> - The desired future state</li>
+<li><a href="./Patterns/Vitality,-Resilience,-Choice" class="internal alias" data-slug="Patterns/Vitality,-Resilience,-Choice">Vitality, Resilience, Choice</a> - Core design principles</li>
+<li><a href="./Patterns/regulatory-capture" class="internal alias" data-slug="Patterns/regulatory-capture">regulatory capture</a> - Systemic corruption in governance</li>
+<li><a href="./Patterns/misaligned-incentives" class="internal alias" data-slug="Patterns/misaligned-incentives">misaligned incentives</a> - Generator function of meta-crisis</li>
+<li><a href="./Patterns/multi-polar-traps" class="internal alias" data-slug="Patterns/multi-polar-traps">multi-polar traps</a> - Game-theoretic failure modes</li>
+<li><a href="./Patterns/oracle-problem" class="internal alias" data-slug="Patterns/oracle-problem">oracle problem</a> - Blockchain’s fundamental limitation</li>
+<li><a href="./Patterns/scalability-trilemma" class="internal alias" data-slug="Patterns/scalability-trilemma">scalability trilemma</a> - Core blockchain trade-offs</li>
+</ul>
+<h3 id="-primitives">🔧 Primitives<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-primitives" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Web3 technical building blocks and protocols:</p>
+<p><strong>Core Infrastructure:</strong></p>
+<ul>
+<li><a href="./Primitives/Ethereum-Virtual-Machine-(EVM)" class="internal alias" data-slug="Primitives/Ethereum-Virtual-Machine-(EVM)">Ethereum Virtual Machine (EVM)</a> - Core execution environment</li>
+<li><a href="./content/Primitives/smart-contracts" class="internal alias" data-slug="content/Primitives/smart-contracts">smart contracts</a> - Programmable logic layer</li>
+<li><a href="./Primitives/Account-Models" class="internal alias" data-slug="Primitives/Account-Models">Account Models</a> - User interaction foundation</li>
+<li><a href="./Primitives/Composability" class="internal" data-slug="Primitives/Composability">Composability</a> - Interoperability and modularity</li>
+</ul>
+<p><strong>Consensus &amp; Security:</strong></p>
+<ul>
+<li><a href="./Primitives/proof-of-work-(PoW)" class="internal alias" data-slug="Primitives/proof-of-work-(PoW)">proof of work (PoW)</a> - Original consensus mechanism</li>
+<li><a href="./Primitives/Proof-of-Stake-(PoS)" class="internal alias" data-slug="Primitives/Proof-of-Stake-(PoS)">Proof of Stake (PoS)</a> - Economic consensus mechanism</li>
+<li><a href="./Primitives/Staking" class="internal" data-slug="Primitives/Staking">Staking</a> - Token locking for security</li>
+<li><a href="./Primitives/Slashing" class="internal" data-slug="Primitives/Slashing">Slashing</a> - Penalty mechanism for misbehavior</li>
+</ul>
+<p><strong>Token Standards:</strong></p>
+<ul>
+<li><a href="./Primitives/ERC-20-Standard" class="internal alias" data-slug="Primitives/ERC-20-Standard">ERC-20 Standard</a> - Fungible token standard</li>
+<li><a href="./Primitives/ERC-721-Standard-(NFTs)" class="internal alias" data-slug="Primitives/ERC-721-Standard-(NFTs)">ERC-721 Standard (NFTs)</a> - Non-fungible token standard</li>
+<li><a href="./Primitives/ERC_1155_Standard" class="internal" data-slug="Primitives/ERC_1155_Standard">ERC_1155_Standard</a> - Multi-token standard</li>
+</ul>
+<p><strong>DeFi Primitives:</strong></p>
+<ul>
+<li><a href="./Primitives/automated-market-makers-(AMMs)" class="internal alias" data-slug="Primitives/automated-market-makers-(AMMs)">automated market makers (AMMs)</a> - Decentralized trading mechanisms</li>
+<li><a href="./Primitives/Liquidity-Pools" class="internal alias" data-slug="Primitives/Liquidity-Pools">Liquidity Pools</a> - Token reserve contracts</li>
+<li><a href="./Primitives/Liquidity-Providers-(LPs)" class="internal alias" data-slug="Primitives/Liquidity-Providers-(LPs)">Liquidity Providers (LPs)</a> - Pool participants</li>
+<li><a href="./Primitives/LP-Tokens" class="internal alias" data-slug="Primitives/LP-Tokens">LP Tokens</a> - Pool ownership receipts</li>
+<li><a href="./Primitives/Constant-Product-Formula" class="internal alias" data-slug="Primitives/Constant-Product-Formula">Constant Product Formula</a> - AMM pricing mechanism</li>
+<li><a href="./Primitives/decentralized-lending-protocols" class="internal alias" data-slug="Primitives/decentralized-lending-protocols">decentralized lending protocols</a> - Autonomous money markets</li>
+<li><a href="./Primitives/Flash-Loans" class="internal alias" data-slug="Primitives/Flash-Loans">Flash Loans</a> - Uncollateralized loans</li>
+<li><a href="./Primitives/yield-farming" class="internal alias" data-slug="Primitives/yield-farming">yield farming</a> - Liquidity mining strategies</li>
+</ul>
+<p><strong>Scaling Solutions:</strong></p>
+<ul>
+<li><a href="./Layer_2_Rollups" class="internal" data-slug="Layer_2_Rollups">Layer_2_Rollups</a> - Optimistic and ZK rollups</li>
+<li><a href="./Primitives/State-Channels" class="internal alias" data-slug="Primitives/State-Channels">State Channels</a> - Off-chain transaction channels</li>
+<li><a href="./Primitives/Sidechains" class="internal" data-slug="Primitives/Sidechains">Sidechains</a> - Independent connected chains</li>
+<li><a href="./Primitives/Sharding" class="internal" data-slug="Primitives/Sharding">Sharding</a> - Horizontal scaling approach</li>
+</ul>
+<p><strong>Data &amp; Infrastructure:</strong></p>
+<ul>
+<li><a href="./Primitives/Blockchain-Oracles" class="internal alias" data-slug="Primitives/Blockchain-Oracles">Blockchain Oracles</a> - Off-chain data bridges</li>
+<li><a href="./Primitives/decentralized-storage-networks" class="internal alias" data-slug="Primitives/decentralized-storage-networks">decentralized storage networks</a> - Distributed data storage</li>
+<li><a href="./Primitives/Decentralized-Data-Indexing" class="internal alias" data-slug="Primitives/Decentralized-Data-Indexing">Decentralized Data Indexing</a> - Blockchain data organization</li>
+<li><a href="./Primitives/Decentralized-Identifiers-(DIDs)" class="internal alias" data-slug="Primitives/Decentralized-Identifiers-(DIDs)">Decentralized Identifiers (DIDs)</a> - Self-sovereign identity</li>
+</ul>
+<p><strong>Advanced Features:</strong></p>
+<ul>
+<li><a href="./Primitives/zero-knowledge-proof-(ZKP)" class="internal alias" data-slug="Primitives/zero-knowledge-proof-(ZKP)">zero knowledge proof (ZKP)</a> - Privacy-preserving verification</li>
+<li><a href="./Primitives/MEV" class="internal" data-slug="Primitives/MEV">MEV</a> - Maximal Extractable Value</li>
+<li><a href="./Primitives/front-running" class="internal alias" data-slug="Primitives/front-running">front running</a> - MEV extraction technique</li>
+<li><a href="./Primitives/sandwich-attacks" class="internal alias" data-slug="Primitives/sandwich-attacks">sandwich attacks</a> - Advanced MEV technique</li>
+<li><a href="./Primitives/Gas" class="internal" data-slug="Primitives/Gas">Gas</a> - Computational resource metering</li>
+<li><a href="./Primitives/Impermanent-Loss" class="internal alias" data-slug="Primitives/Impermanent-Loss">Impermanent Loss</a> - AMM participation risk</li>
+<li><a href="./Primitives/Real-World-Assets-(RWAs)" class="internal alias" data-slug="Primitives/Real-World-Assets-(RWAs)">Real-World Assets (RWAs)</a> - Tokenized traditional assets</li>
+<li><a href="./Primitives/Gitcoin" class="internal" data-slug="Primitives/Gitcoin">Gitcoin</a> - Public goods funding platform</li>
+</ul>
+<h3 id="-patterns">🎯 Patterns<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-patterns" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Recurring patterns, mechanisms, and systemic dynamics:</p>
+<p><strong>Core Patterns:</strong></p>
+<ul>
+<li><a href="./Patterns/tokenization" class="internal" data-slug="Patterns/tokenization">tokenization</a> - Asset representation and value creation</li>
+<li><a href="./Patterns/decentralization" class="internal" data-slug="Patterns/decentralization">decentralization</a> - Distributed control and governance</li>
+<li><a href="./Patterns/Public-Goods-Funding" class="internal alias" data-slug="Patterns/Public-Goods-Funding">Public Goods Funding</a> - Anti-plutocratic funding mechanisms</li>
+<li><a href="./Patterns/Quadratic-Funding" class="internal alias" data-slug="Patterns/Quadratic-Funding">Quadratic Funding</a> - Preference intensity voting</li>
+<li><a href="./Patterns/Quadratic-Voting" class="internal alias" data-slug="Patterns/Quadratic-Voting">Quadratic Voting</a> - Preference intensity expression</li>
+<li><a href="./Patterns/Conviction-Voting" class="internal alias" data-slug="Patterns/Conviction-Voting">Conviction Voting</a> - Time-based voting with conviction</li>
+<li><a href="./Patterns/Holographic-Consensus" class="internal alias" data-slug="Patterns/Holographic-Consensus">Holographic Consensus</a> - Prediction market-based filtering</li>
+</ul>
+<p><strong>Systemic Problems:</strong></p>
+<ul>
+<li><a href="./Patterns/meta-crisis" class="internal" data-slug="Patterns/meta-crisis">meta-crisis</a> - Civilizational coordination failure</li>
+<li><a href="./Patterns/Third-Attractor" class="internal alias" data-slug="Patterns/Third-Attractor">Third Attractor</a> - Life-affirming future state</li>
+<li><a href="./Patterns/regulatory-capture" class="internal alias" data-slug="Patterns/regulatory-capture">regulatory capture</a> - Public interest subversion</li>
+<li><a href="./Patterns/misaligned-incentives" class="internal alias" data-slug="Patterns/misaligned-incentives">misaligned incentives</a> - Individual vs collective rationality</li>
+<li><a href="./Patterns/multi-polar-traps" class="internal alias" data-slug="Patterns/multi-polar-traps">multi-polar traps</a> - Game-theoretic failure modes</li>
+<li><a href="./Patterns/epistemic-collapse" class="internal alias" data-slug="Patterns/epistemic-collapse">epistemic collapse</a> - Synthetic reality erosion</li>
+<li><a href="./Patterns/Mass-Surveillance" class="internal alias" data-slug="Patterns/Mass-Surveillance">Mass Surveillance</a> - Digital authoritarianism</li>
+<li><a href="./Patterns/economic-centralization" class="internal alias" data-slug="Patterns/economic-centralization">economic centralization</a> - Wealth and power concentration</li>
+</ul>
+<p><strong>Coordination Challenges:</strong></p>
+<ul>
+<li><a href="./Patterns/Collective-Action-Problem" class="internal alias" data-slug="Patterns/Collective-Action-Problem">Collective Action Problem</a> - Group coordination failures</li>
+<li><a href="./Patterns/Coordination-Problem" class="internal alias" data-slug="Patterns/Coordination-Problem">Coordination Problem</a> - Strategic interaction challenges</li>
+<li><a href="./Patterns/Free-Rider-Problem" class="internal alias" data-slug="Patterns/Free-Rider-Problem">Free Rider Problem</a> - Benefit without contribution</li>
+<li><a href="./Patterns/oracle-problem" class="internal alias" data-slug="Patterns/oracle-problem">oracle problem</a> - Off-chain data access limitation</li>
+<li><a href="./Patterns/scalability-trilemma" class="internal alias" data-slug="Patterns/scalability-trilemma">scalability trilemma</a> - Blockchain design trade-offs</li>
+</ul>
+<p><strong>Governance Models:</strong></p>
+<ul>
+<li><a href="./Patterns/governance-mechanisms" class="internal alias" data-slug="Patterns/governance-mechanisms">governance mechanisms</a> - DAO voting mechanisms</li>
+<li><a href="./Patterns/Liquid-Democracy" class="internal alias" data-slug="Patterns/Liquid-Democracy">Liquid Democracy</a> - Dynamic delegation system</li>
+<li><a href="./Patterns/Futarchy" class="internal" data-slug="Patterns/Futarchy">Futarchy</a> - Prediction market governance</li>
+<li><a href="./Patterns/Prediction-Markets" class="internal alias" data-slug="Patterns/Prediction-Markets">Prediction Markets</a> - Information aggregation mechanism</li>
+</ul>
+<p><strong>Economic Patterns:</strong></p>
+<ul>
+<li><a href="./Patterns/Tokenomics" class="internal" data-slug="Patterns/Tokenomics">Tokenomics</a> - Token economic design</li>
+<li><a href="./Patterns/Mechanism-Design" class="internal alias" data-slug="Patterns/Mechanism-Design">Mechanism Design</a> - Incentive-compatible systems</li>
+<li><a href="./Patterns/Game-Theory" class="internal alias" data-slug="Patterns/Game-Theory">Game Theory</a> - Strategic interaction analysis</li>
+<li><a href="./Patterns/Nash-Equilibrium" class="internal alias" data-slug="Patterns/Nash-Equilibrium">Nash Equilibrium</a> - Strategic stability concept</li>
+<li><a href="./Patterns/Prisoner's-Dilemma" class="internal alias" data-slug="Patterns/Prisoner's-Dilemma">Prisoner’s Dilemma</a> - Cooperation challenges</li>
+</ul>
+<p><strong>Design Principles:</strong></p>
+<ul>
+<li><a href="./Patterns/Vitality" class="internal" data-slug="Patterns/Vitality">Vitality</a> - Holistic well-being and quality of life</li>
+<li><a href="./Patterns/Resilience" class="internal" data-slug="Patterns/Resilience">Resilience</a> - Anti-fragile adaptive systems</li>
+<li><a href="./Patterns/Choice" class="internal" data-slug="Patterns/Choice">Choice</a> - Sovereign agency and participation</li>
+<li><a href="./Patterns/Vitality,-Resilience,-Choice" class="internal alias" data-slug="Patterns/Vitality,-Resilience,-Choice">Vitality, Resilience, Choice</a> - Core design framework</li>
+</ul>
+<p><strong>Social Patterns:</strong></p>
+<ul>
+<li><a href="./Patterns/Social-Graphs" class="internal alias" data-slug="Patterns/Social-Graphs">Social Graphs</a> - User-owned social connections</li>
+<li><a href="./Patterns/tokenization" class="internal" data-slug="Patterns/tokenization">tokenization</a> - Asset representation mechanisms</li>
+</ul>
+<h3 id="-capacities">💪 Capacities<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-capacities" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Core capabilities and affordances of Web3 systems:</p>
+<p><strong>Fundamental Capacities:</strong></p>
+<ul>
+<li><a href="./Capacities/distributed-consensus" class="internal alias" data-slug="Capacities/distributed-consensus">distributed consensus</a> - Coordination without central authority</li>
+<li><a href="./Capacities/Privacy-Preservation" class="internal alias" data-slug="Capacities/Privacy-Preservation">Privacy Preservation</a> - Confidentiality and user control</li>
+<li><a href="./Capacities/censorship-resistance" class="internal alias" data-slug="Capacities/censorship-resistance">censorship resistance</a> - Freedom from centralized control</li>
+<li><a href="./Capacities/Transparency" class="internal" data-slug="Capacities/Transparency">Transparency</a> - Publicly verifiable operations</li>
+<li><a href="./Capacities/Immutability" class="internal" data-slug="Capacities/Immutability">Immutability</a> - Unalterable record keeping</li>
+<li><a href="./Capacities/Programmability" class="internal" data-slug="Capacities/Programmability">Programmability</a> - Automated logic execution</li>
+</ul>
+<p><strong>Economic Capacities:</strong></p>
+<ul>
+<li><a href="./Capacities/Trustlessness" class="internal" data-slug="Capacities/Trustlessness">Trustlessness</a> - Secure operation without trusted intermediaries</li>
+<li><a href="./Capacities/Permissionlessness" class="internal" data-slug="Capacities/Permissionlessness">Permissionlessness</a> - Open access without approval</li>
+<li><a href="./Capacities/Auditability" class="internal" data-slug="Capacities/Auditability">Auditability</a> - Transparent and verifiable records</li>
+<li><a href="./Capacities/Borderlessness" class="internal" data-slug="Capacities/Borderlessness">Borderlessness</a> - Cross-jurisdictional operation</li>
+</ul>
+<p><strong>Operational Capacities:</strong></p>
+<ul>
+<li><a href="./Capacities/Rapidity" class="internal" data-slug="Capacities/Rapidity">Rapidity</a> - High-speed transaction execution</li>
+<li><a href="./Capacities/Automation" class="internal" data-slug="Capacities/Automation">Automation</a> - Autonomous process execution</li>
+<li><a href="./Capacities/Portability" class="internal" data-slug="Capacities/Portability">Portability</a> - Cross-platform asset and data movement</li>
+<li><a href="./Capacities/Reliability" class="internal" data-slug="Capacities/Reliability">Reliability</a> - Consistent and predictable operation</li>
+</ul>
+<h2 id="-key-documents">📖 Key Documents<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-key-documents" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="foundational-research">Foundational Research<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#foundational-research" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v01" class="internal alias" data-slug="Web3-and-the-Generative-Dynamics-of-the-Metacrisis-v01">Web3 and the Generative Dynamics of the Metacrisis v01</a> - Comprehensive analysis of Web3’s role in addressing systemic problems</li>
+<li><a href="./Research/Systemic-Problem-Analysis" class="internal alias" data-slug="Research/Systemic-Problem-Analysis">Systemic Problem Analysis</a> - Detailed analysis of five core systemic failures</li>
+<li><a href="./Research/Web3-Primitives" class="internal alias" data-slug="Research/Web3-Primitives">Web3 Primitives</a> - Complete taxonomy of Web3 building blocks</li>
+<li><a href="./Research/Web3-Affordances--and--Potentials" class="internal alias" data-slug="Research/Web3-Affordances--and--Potentials">Web3 Affordances &amp; Potentials</a> - Analysis of Web3 capabilities and limitations</li>
+</ul>
+<h3 id="assessment-and-analysis">Assessment and Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#assessment-and-analysis" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./Research/Crypto-For-Good-Claims" class="internal alias" data-slug="Research/Crypto-For-Good-Claims">Crypto For Good Claims</a> - Critical assessment of social impact claims</li>
+<li><a href="./Research/Prospectus" class="internal" data-slug="Research/Prospectus">Prospectus</a> - Framework for addressing civilizational challenges</li>
+<li><a href="./Call-Transcript" class="internal alias" data-slug="Call-Transcript">Call Transcript</a> - Discussion of meta-crisis dynamics and solutions</li>
+<li><a href="./Call-Summary" class="internal alias" data-slug="Call-Summary">Call Summary</a> - Summary of key insights and action items</li>
+</ul>
+<h2 id="-core-concepts">🧠 Core Concepts<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-core-concepts" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="the-meta-crisis">The Meta-Crisis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-meta-crisis" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The meta-crisis represents a profound failure of civilizational coordination and adaptation, characterized by self-reinforcing feedback loops that accelerate existential risks while eroding our collective capacity to respond. It manifests through five interconnected systemic problems:</p>
+<ol>
+<li><a href="./Patterns/regulatory-capture" class="internal alias" data-slug="Patterns/regulatory-capture">regulatory capture</a> - Public agencies co-opted by private interests</li>
+<li><a href="./Patterns/misaligned-incentives" class="internal alias" data-slug="Patterns/misaligned-incentives">misaligned incentives</a> - Individual rationality leading to collective irrationality</li>
+<li><a href="./Patterns/epistemic-collapse" class="internal alias" data-slug="Patterns/epistemic-collapse">epistemic collapse</a> - Erosion of shared reality through synthetic content</li>
+<li><a href="./Patterns/Mass-Surveillance" class="internal alias" data-slug="Patterns/Mass-Surveillance">Mass Surveillance</a> - Architecture of digital authoritarianism</li>
+<li><a href="./Patterns/economic-centralization" class="internal alias" data-slug="Patterns/economic-centralization">economic centralization</a> - Recursive accumulation of wealth and power</li>
+</ol>
+<h3 id="the-third-attractor">The Third Attractor<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-third-attractor" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The Third Attractor represents a narrow path forward that avoids both civilizational collapse (Chaos Attractor) and techno-fascist consolidation (Authoritarian Attractor). It is characterized by:</p>
+<ul>
+<li><strong>Agent-centric self-organization</strong> - Individuals and communities have meaningful agency</li>
+<li><strong>Distributed coordination</strong> - Polycentric governance structures</li>
+<li><strong>Life-affirming civilization</strong> - Systems designed to enhance rather than extract from life</li>
+</ul>
+<h3 id="design-principles">Design Principles<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#design-principles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The Third Attractor is guided by three foundational principles:</p>
+<ul>
+<li><a href="./Patterns/Vitality" class="internal" data-slug="Patterns/Vitality">Vitality</a> - Holistic well-being and quality of life</li>
+<li><a href="./Patterns/Resilience" class="internal" data-slug="Patterns/Resilience">Resilience</a> - Anti-fragile systems that can adapt to shock</li>
+<li><a href="./Patterns/Choice" class="internal" data-slug="Patterns/Choice">Choice</a> - Sovereign agency and meaningful participation</li>
+</ul>
+<h3 id="web3-as-design-space">Web3 as Design Space<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#web3-as-design-space" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Web3 technologies offer unique affordances for the Third Attractor:</p>
+<ul>
+<li><strong>Coordination without capture</strong> - <a href="./Capacities/distributed-consensus" class="internal alias" data-slug="Capacities/distributed-consensus">distributed consensus</a> mechanisms</li>
+<li><strong>Privacy-preserving verification</strong> - <a href="./Primitives/zero-knowledge-proof-(ZKP)" class="internal alias" data-slug="Primitives/zero-knowledge-proof-(ZKP)">zero knowledge proof (ZKP)</a></li>
+<li><strong>Programmable incentives</strong> - <a href="./content/Primitives/smart-contracts" class="internal alias" data-slug="content/Primitives/smart-contracts">smart contracts</a> encoding prosocial logic</li>
+<li><strong>Decentralized governance</strong> - <a href="./Primitives/Decentralized-Autonomous-Organizations-(DAOs)" class="internal alias" data-slug="Primitives/Decentralized-Autonomous-Organizations-(DAOs)">Decentralized Autonomous Organizations (DAOs)</a> and distributed decision-making</li>
+</ul>
+<h2 id="-statistics">📊 Statistics<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-statistics" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Total Files</strong>: 99 markdown files</li>
+<li><strong>Research Documents</strong>: 8 files</li>
+<li><strong>Primitives</strong>: 35 files</li>
+<li><strong>Patterns</strong>: 35 files</li>
+<li><strong>Capacities</strong>: 14 files</li>
+<li><strong>Cross-References</strong>: 1000+ wiki-links</li>
+<li><strong>Lines of Content</strong>: 20,000+ lines</li>
+</ul>
+<h2 id="-usage">🎯 Usage<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-usage" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>This wiki is designed to be:</p>
+<ul>
+<li><strong>Comprehensive</strong> - Covering all major concepts and relationships</li>
+<li><strong>Interconnected</strong> - Rich cross-references between related concepts</li>
+<li><strong>Accessible</strong> - Clear definitions and explanations</li>
+<li><strong>Actionable</strong> - Practical insights for implementation</li>
+</ul>
+<p>Each entity page includes:</p>
+<ul>
+<li><strong>Definition</strong> - Clear, concise explanation</li>
+<li><strong>Core Properties</strong> - Key characteristics and mechanisms</li>
+<li><strong>Beneficial Potentials</strong> - Positive applications and outcomes</li>
+<li><strong>Detrimental Potentials</strong> - Risks, limitations, and negative consequences</li>
+<li><strong>References</strong> - Links to related concepts and source documents</li>
+<li><strong>Related Concepts</strong> - Cross-references to other relevant entities</li>
+</ul>
+<h2 id="-key-insights">💡 Key Insights<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-key-insights" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="the-meta-crisis-as-generator-function">The Meta-Crisis as Generator Function<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-meta-crisis-as-generator-function" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The meta-crisis is not a collection of separate problems but a unified systemic dysfunction rooted in rivalrous, zero-sum worldviews encoded into our primary coordinating institutions. The five systemic problems are interconnected manifestations of this deeper dysfunction.</p>
+<h3 id="web3-as-enabler-of-third-attractor">Web3 as Enabler of Third Attractor<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#web3-as-enabler-of-third-attractor" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Web3 technologies offer unique affordances for addressing the meta-crisis, particularly through their ability to enable coordination without capture, preserve privacy while enabling verification, and encode prosocial rather than extractive logic into economic systems.</p>
+<h3 id="the-importance-of-design-principles">The Importance of Design Principles<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-importance-of-design-principles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The principles of <a href="./Patterns/Vitality" class="internal" data-slug="Patterns/Vitality">Vitality</a>, <a href="./Patterns/Resilience" class="internal" data-slug="Patterns/Resilience">Resilience</a>, and <a href="./Patterns/Choice" class="internal" data-slug="Patterns/Choice">Choice</a> provide a comprehensive framework for evaluating whether interventions contribute to a fundamentally more adaptive, equitable, and life-affirming world or merely patch failing systems.</p>
+<h3 id="the-role-of-composability">The Role of Composability<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-role-of-composability" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="./Primitives/Composability" class="internal" data-slug="Primitives/Composability">Composability</a> is not just a technical feature but a fundamental design principle that enables rapid innovation, network effects, and the emergence of new capabilities through the combination of existing primitives.</p>
+<hr/>
+<p>This wiki serves as a comprehensive knowledge base for understanding the intersection of Web3 technologies and the meta-crisis, providing both theoretical frameworks and practical insights for building a more life-affirming civilization.</p>
+<p><em>Last updated: January 2025</em></p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-260" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#web3-meta-crisis-wiki" data-for="web3-meta-crisis-wiki">Web3 Meta-Crisis Wiki</a></li><li class="depth-1"><a href="#-overview" data-for="-overview">🌟 Overview</a></li><li class="depth-1"><a href="#-directory-structure" data-for="-directory-structure">📁 Directory Structure</a></li><li class="depth-2"><a href="#-research" data-for="-research">📚 Research</a></li><li class="depth-2"><a href="#-primitives" data-for="-primitives">🔧 Primitives</a></li><li class="depth-2"><a href="#-patterns" data-for="-patterns">🎯 Patterns</a></li><li class="depth-2"><a href="#-capacities" data-for="-capacities">💪 Capacities</a></li><li class="depth-1"><a href="#-key-documents" data-for="-key-documents">📖 Key Documents</a></li><li class="depth-2"><a href="#foundational-research" data-for="foundational-research">Foundational Research</a></li><li class="depth-2"><a href="#assessment-and-analysis" data-for="assessment-and-analysis">Assessment and Analysis</a></li><li class="depth-1"><a href="#-core-concepts" data-for="-core-concepts">🧠 Core Concepts</a></li><li class="depth-2"><a href="#the-meta-crisis" data-for="the-meta-crisis">The Meta-Crisis</a></li><li class="depth-2"><a href="#the-third-attractor" data-for="the-third-attractor">The Third Attractor</a></li><li class="depth-2"><a href="#design-principles" data-for="design-principles">Design Principles</a></li><li class="depth-2"><a href="#web3-as-design-space" data-for="web3-as-design-space">Web3 as Design Space</a></li><li class="depth-1"><a href="#-statistics" data-for="-statistics">📊 Statistics</a></li><li class="depth-1"><a href="#-usage" data-for="-usage">🎯 Usage</a></li><li class="depth-1"><a href="#-key-insights" data-for="-key-insights">💡 Key Insights</a></li><li class="depth-2"><a href="#the-meta-crisis-as-generator-function" data-for="the-meta-crisis-as-generator-function">The Meta-Crisis as Generator Function</a></li><li class="depth-2"><a href="#web3-as-enabler-of-third-attractor" data-for="web3-as-enabler-of-third-attractor">Web3 as Enabler of Third Attractor</a></li><li class="depth-2"><a href="#the-importance-of-design-principles" data-for="the-importance-of-design-principles">The Importance of Design Principles</a></li><li class="depth-2"><a href="#the-role-of-composability" data-for="the-role-of-composability">The Role of Composability</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="./postscript.js" type="module"></script></html>

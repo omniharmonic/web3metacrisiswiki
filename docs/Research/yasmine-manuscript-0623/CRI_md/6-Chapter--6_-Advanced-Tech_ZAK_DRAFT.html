@@ -1,0 +1,1984 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>6-Chapter  6_ Advanced Tech_ZAK_DRAFT | Web3 Solutions for Civilizational Coordination</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Web3 Meta-Crisis Wiki"/><meta property="og:title" content="6-Chapter  6_ Advanced Tech_ZAK_DRAFT | Web3 Solutions for Civilizational Coordination"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="6-Chapter  6_ Advanced Tech_ZAK_DRAFT | Web3 Solutions for Civilizational Coordination"/><meta name="twitter:description" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta property="og:description" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta property="og:image:alt" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta property="twitter:domain" content="omniharmonic.github.io/web3metacrisiswiki"/><meta property="og:url" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT"/><meta property="twitter:url" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT"/><link rel="icon" href="../../../static/icon.png"/><meta name="description" content="{width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.22847222222222222in”} {width=“0.22847222222222222in” height=“0.2284722..."/><meta name="generator" content="Quartz"/><link href="../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL1VzZXJzL2JlbmphbWlubGlmZS9pQ2xvdWQgRHJpdmUgKEFyY2hpdmUpL0RvY3VtZW50cy9XZWIzIGFuZCBHZW5lcmF0aXZlIER5bmFtaWNzIG9mIHRoZSBNZXRhY3Jpc2lzL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTs7QUFJRjtFQUNFO0VBQ0E7RUFDQSIsInNvdXJjZXNDb250ZW50IjpbIi5leHBhbmQtYnV0dG9uIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbG9hdDogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuNHJlbTtcbiAgbWFyZ2luOiAwLjNyZW07XG4gIHJpZ2h0OiAwOyAvLyBOT1RFOiByaWdodCB3aWxsIGJlIHNldCBpbiBtZXJtYWlkLmlubGluZS50c1xuICBjb2xvcjogdmFyKC0tZ3JheSk7XG4gIGJvcmRlci1jb2xvcjogdmFyKC0tZGFyayk7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgYm9yZGVyOiAxcHggc29saWQ7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgb3BhY2l0eTogMDtcbiAgdHJhbnNpdGlvbjogMC4ycztcblxuICAmID4gc3ZnIHtcbiAgICBmaWxsOiB2YXIoLS1saWdodCk7XG4gICAgZmlsdGVyOiBjb250cmFzdCgwLjMpO1xuICB9XG5cbiAgJjpob3ZlciB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1jb2xvcjogdmFyKC0tc2Vjb25kYXJ5KTtcbiAgfVxuXG4gICY6Zm9jdXMge1xuICAgIG91dGxpbmU6IDA7XG4gIH1cbn1cblxucHJlIHtcbiAgJjpob3ZlciA+IC5leHBhbmQtYnV0dG9uIHtcbiAgICBvcGFjaXR5OiAxO1xuICAgIHRyYW5zaXRpb246IDAuMnM7XG4gIH1cbn1cblxuI21lcm1haWQtY29udGFpbmVyIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBjb250YWluOiBsYXlvdXQ7XG4gIHotaW5kZXg6IDk5OTtcbiAgbGVmdDogMDtcbiAgdG9wOiAwO1xuICB3aWR0aDogMTAwdnc7XG4gIGhlaWdodDogMTAwdmg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGRpc3BsYXk6IG5vbmU7XG4gIGJhY2tkcm9wLWZpbHRlcjogYmx1cig0cHgpO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuNSk7XG5cbiAgJi5hY3RpdmUge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgfVxuXG4gICYgPiAjbWVybWFpZC1zcGFjZSB7XG4gICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDUwJTtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgaGVpZ2h0OiA4MHZoO1xuICAgIHdpZHRoOiA4MHZ3O1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG5cbiAgICAmID4gLm1lcm1haWQtY29udGVudCB7XG4gICAgICBwYWRkaW5nOiAycmVtO1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://omniharmonic.github.io/web3metacrisiswiki/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT-og-image.webp"/><meta property="og:image:url" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT-og-image.webp"/><meta name="twitter:image" content="https://omniharmonic.github.io/web3metacrisiswiki/Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Research/yasmine-manuscript-0623/CRI_md/6-Chapter--6_-Advanced-Tech_ZAK_DRAFT"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../../..">Web3 Meta-Crisis Wiki</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-265"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-265" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Research/">Research</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Research/yasmine-manuscript-0623/">yasmine manuscript 0623</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Research/yasmine-manuscript-0623/CRI_md/">CRI_md</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>6 Chapter  6_ Advanced Tech_ZAK_DRAFT</a></div></nav><h1 class="article-title">6-Chapter  6_ Advanced Tech_ZAK_DRAFT</h1><p show-comma="true" class="content-meta"><time datetime="2025-10-02T17:14:49.176Z">Oct 02, 2025</time><span>83 min read</span></p></div></div><article class="popover-hint"><p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p><img src="../../../16e0f1dcd976f87ca8844f3cd64eec5fb6e638ca.png" alt="image"/>{width=“0.22847222222222222in”
+height=“0.22847222222222222in”}</p>
+<p>Chapter 6: Advanced Tech</p>
+<p>Technology distinguishes humanity from the rest of the biosphere^1^.
+Many animals use objects as tools and even alter objects to make them
+more useful. Animals profoundly transform ecosystems, e.g., through the
+large-scale construction of dams (beavers) and mounds (ants).</p>
+<p>Yet, humans are unique on Earth, in large part, because of our ability
+to think abstractly and thus to design increasingly powerful tools and
+technologies to achieve long-term goals (see Box 1 for definitions of
+tools, technologies, etc.)^2^. Technological innovation is further
+enabled by the human capacity for language — a kind of social
+technology^3^ — which encodes and transmits</p>
+<p>^1^ While animals utilize certain technologies (such as basic tools or
+complex dwelling structures), the scale of recursive technological
+innovations humans are capable of (nuclear bombs, space stations, AI,
+etc.) points to a place where a difference in magnitude becomes a
+difference in kind.</p>
+<p>^2^ There is a large and intricate literature on technology and its
+history, the approach here is influenced by: Mumford, Lewis. <em>Technics
+and Civilization</em>. Hardcott, 1934.</p>
+<p>Mumford, Lewis. <em>The Myth of The Machine</em>. Hardcott, 1967. Ellul,
+Jacques. <em>The Technological Society</em>. Vintage Books, 1954.</p>
+<p>McLuhan, Marshall. <em>Understanding Media: The Extensions of Man</em>. New
+York: McGraw-Hill, 1964. Winner, Langdon. <em>Autonomous Technology</em>. MIT
+Press, 1978.</p>
+<p>See also more contemporary work, Bratton, Benjamin. <em>The Stack: On
+Software and Sovereignty</em>. MIT Press, 2016.</p>
+<p>Frischmann , Brett, and Selinger, Evan. <em>Re-Engineering Humanity</em>.
+Cambridge University Press, 2018.</p>
+<p>^3^ Our discussion of advanced technology is focused on certain forms of
+human creativity and innovation which include technologies like AI,
+biotechnology, nuclear weapons, computation and other more recent
+innovations discussed in this chapter. However, it is helpful to
+consider technology more broadly to all forms of abstract human
+reasoning and creativity that have practical implications for shared
+human life. This broader definition is a return to the ancient notion of
+<em>techne</em>. See Parry, Richard, “Episteme and Techne”, The Stanford
+Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta &amp; Uri
+Nodelman (eds.),
+<a href="https://plato.stanford.edu/archives/win2024/entries/episteme-techne/" class="external">https://plato.stanford.edu/archives/win2024/entries/episteme-techne/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>.</p>
+<p>knowledge across generations creating a cumulative ratcheting effect of
+increasing knowledge and technical ability.</p>
+<p>Cumulative technological innovation has been an essential factor in
+humanity’s history of interaction with the forces of nature. By
+advancing a certain kind of “technological intelligence,” humans have
+been able to radically increase in population, create economic surplus,
+and scale up a massive technologically sophisticated civilization,
+despite the complexity and potential dangers presented by the vast
+natural world.</p>
+<p>Eventually whole “ecosystems” of technology emerge in which the combined
+applications of different technologies increase their overall power.
+National and then planetary-scale technological infrastructures begin to
+interlink and transform every aspect of human experience. The nature of
+these technological infrastructures defines what is often called
+“technological epochs” (See Box 1). And today, humanity is entering a
+new technological epoch--- one we are referring to simply as “advanced
+technologies.”</p>
+<p>New technologies result in new civilizations. “<em>We shape our tools and
+in turn they shape us</em>^4^” — our values, our minds, and our worlds. The
+written word, for example, was a pivotal innovation in the development
+of large-scale civilization. Humans had been encoding knowledge through
+cave paintings and story telling for thousands of years before the
+advent of written language^5^. But the tax records for a large
+Mesopotamian city-state of some 20,000 people could not have been
+maintained by word of mouth and mnemonic devices^6^. The
+social-technology of written language allowed humans to store and
+transmit information in ways that were previously impossible via oral
+communication and memory alone. Observing the effects of this
+technology, some ancient philosophers (such as Plato) believed written
+language would ultimately be a</p>
+<p>In Greek, techne meant ’ the practical application of knowledge’ which
+included more than physical tools and infrastructure but also
+mathematics, art, rhetoric, and more. This more general notion of techne
+also includes technologies such as the alphabet which profoundly altered
+forms of social organization, and are therefore as revolutionary of
+technologies as the plow or the steam engine. This perspective also
+corresponds with other philosophers of technology, such as Marshall
+McLuhan. McLuhan famously argued that “Societies have always been shaped
+more by the nature of the media by which men communicate than by the
+content of the communication.” The alphabet was an early medium through
+which humans coordinated collective action, and more recent
+communication technologies such as the printing press, radio, and
+digital networks are all extensions of this more basic trend.</p>
+<p>McLuhan, Marshall. *The Medium is the Massage: An Inventory of Effects.
+*Gingko Press, 2001. McLuhan, Marshall. *Understanding Media.
+*McGraw-Hill, 1964.</p>
+<p>^4^ Paraphrase from Culkin, John. M. “A schoolman’s guide to Marshall
+McLuhan.” <em>The Saturday Review</em>, 51-53, (1967):70-72.</p>
+<p>^5^ The oldest known cave paintings come from Neanderthals, 64,000 years
+ago. Little, Becky. *What Prehistoric Cave Paintings Reveal About Early
+Human Life. *History, 2025.</p>
+<p>In comparison, the earliest known writing system, Mesopotamian
+cuneiform, emerged in approximately 3,500-3,200 BCE. Wright, J. <em>The
+Evolution of Writing</em>. International Encyclopedia Of Social And
+Behavioral Sciences, Elsevier, 2014.</p>
+<p>^6^ See the work of Scott, James, C. <em>Against the Grain: A Deep History
+of the Earliest States</em>. Yale, 2017.</p>
+<p>detriment to human memory^7^. Many indigenous communities had also
+worried that the written word would draw us too far into realms of
+abstraction, placing us further and further from the realities of what
+we were communicating about. Eventually, as a result of less direct
+contact with others and the environment, we would become less aware of
+the consequences of our actions and therefore more capable of harming
+things that were of essential value to us^8^.</p>
+<p>Also consider the plow, an innovation at the heart of the history of
+early civilizations. The plow was coupled with other technologies such
+as threshing screens, baskets, roads, carts, and storehouses.
+Storehouses needed protecting, so military technologies proliferated
+around them. The plow also required certain forms of animal
+domestication, as large and potentially dangerous mammals were made
+essential to agricultural practices. This technological epoch involved a
+transformation in humans’ relationship to the natural world. For
+millennia many human cultures perceived how the natural world was imbued
+with subjectivity and consciousness. The animal-drawn plow made it
+difficult for humans to value animals as sacred and as equals. It is
+difficult to worship an animal if they must also be castrated, yoked,
+and beaten to drive a plow. This way of life, enabled by a certain kind
+of technology, justified the belief that humanity’s role was to control
+and subjugate nature, rather than live in harmony with, and as a steward
+of it.</p>
+<p>^7^ Plato. Plato’s Phaedrus. Cambridge : University Press, 1952. “If
+men learn this, it will implant forgetfulness in their souls; they will
+cease to exercise memory because they rely on that which is written,
+calling things to remembrance no longer from within themselves, but by
+means of external marks.”</p>
+<p>^8^ See for example Yunkaporta, Tyson. *Sand Talk. *HarperCollins, 2020.
+“Oral cultures are known as high-context or field-dependent-reasoning
+cultures. They have no isolated variables: all thinking is dependent on
+the field or context…high-context cultures demand dialogue and complex
+agreements. They use a lot of nonverbal communication and leave many
+things unspoken due to common shared understandings and established
+consensus about the way things are done.”</p>
+<p>In Abrams, David. “Animism and the Alphabet.” In <em>Spell of the
+Sensuous</em>, Chapter Four. Vintage, 1997. Abrams writes about how “With
+the advent of the [Semitic] aleph-beth, a new distance opens between
+human culture and the rest of nature. ”</p>
+<p>Box 1: Technology Definitions (from Consilience Project).</p>
+<p><strong>Layers of the Civilizational Tech-Stack</strong></p>
+<p>Consider the categories below as overlapping; this overall model is only
+a heuristic. There are a variety of comparable stacks proposed in the
+academic literature, many of which have influenced the model presented
+here. This is not proposed as definitive but as a useful set of
+orienting generalizations.</p>
+<h5 id="tools">Tools<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tools" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p>Human-scale artifacts, found or made, which augment individual and
+social practices: rocks, axes, forks, writing implements, etc.</p>
+<h5 id="technologies">Technologies<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#technologies" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p>The application of complex (scientific) knowledge to solving problems,
+embedded in intentionally designed artifacts that are complicated enough
+to require engineering: waterwheel; steam engine; light bulb;
+refrigerator.</p>
+<h5 id="ecologies-of-technologies">Ecologies of technologies<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ecologies-of-technologies" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p>Sets of technologies that are symbiotically related and co-evolving as
+nested functional units: e.g., light bulb/lamp/power
+lines/transformers/power station; and microchip/hard
+drive/screen/mouse/modem/broadband/server banks.</p>
+<h5 id="infrastructures">Infrastructures<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#infrastructures" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p>Multiple different ecologies of technology embedded together to form a
+basic part of social coordination and material reproduction within a
+society: supply chains, transportation systems, markets, and
+communication systems.</p>
+<h5 id="technological-epochs">Technological epochs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#technological-epochs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p>A duration of historical time characterized by a specific suite of
+infrastructures that are interrelated as the foundation of a social
+system. Epochs are marked by discontinuous breaks from prior
+infrastructures, and the emergent social dynamics resulting from new
+ones: e.g. pre-industrial; industrial; and post-industrial.</p>
+<p>Technology is a defining aspect of what it means to be human. It is also
+core to the metacrisis assessment we are outlining here. Technological
+“progress” results in new, more complex, and often more consequential
+problems. The Industrial Revolution powered a rapidly growing population
+and an increasingly technologically sophisticated civilization, and
+without it, we would never have passed planetary boundaries of depletion
+and pollution, leading to the risk of an uninhabitable Earth. Similarly,
+atomic energy was the result of successfully winning a technological
+arms race. The potential for self-induced species extinction is directly
+a function of reaching a critical point of technological advancement.</p>
+<p>This book is, in part, seeking to invoke a culture-wide process of
+*re-envisioning what it means for civilization to advance <em>and to truly
+demonstrate progress</em>. *Should an innovation, for example, artificial
+general intelligence, be considered progress if it simultaneously
+diminishes humanity’s chances for a future? This chapter begins with a
+brief discussion of some of the various worldviews surrounding
+technology, including the various forms of Luddism which seek to roll
+back all technological advancements, and also the dominant narrative in
+current culture — techno-optimism or accelerationism — which sees
+nearly all technological innovation as positive. As will become clear,
+we are advocating for neither a return to a time before advanced
+technology nor a blind acceptance of technological acceleration.
+Instead, we are seeking a realistic appraisal of the history of
+innovation and a revisioning of our relationship to human technological
+intelligence and its aspirations^9^.</p>
+<p>As already mentioned, we are living during a time when technological
+evolution has just passed an inflection point. Humanity has entered a
+new technological epoch; an historical era has begun that will be
+defined by what we are calling “advanced technology” (see Table 2).</p>
+<p>Emerging technological capabilities are working at primordial levels of
+depth and are moving at exponential speeds in terms of advancement and
+distribution. There are serious proposals and ongoing efforts to
+redesign the species and civilization with some combination of
+brain-computer interfaces, genetic engineering, and artificial
+intelligence. AI technologies can perform at or above human levels at an
+increasing number of tasks, such as in strategy and war games, precision
+control of robotics, drone races, and even applications in law and
+medicine^10^.</p>
+<p>Brain-computer interfaces can alter the motor functions of animals, such
+as involuntarily moving their limbs^11^. We have now edited the genomes
+of human beings, for example, to confer</p>
+<p>^9^ CRI has considered this topic at length elsewhere: Consilience
+Project. <em>Development in Progress</em>. 2024.</p>
+<p>The Consilience Project. *Technology is Not Values Neutral: Ending the
+Reign of Nihilistic Design. *2022. The Consilience Project. *The Case
+Against Naive Technocapitalist Optimism. *2021.</p>
+<p>^10^ Bostrom, Nick. *Superintelligence: Paths, Dangers, Strategies.
+*Oxford University Press, 2014.</p>
+<p>For an overview of AI progress and expert perspectives, see: ESPAI.
+<em>2022 Expert Survey on AI Progress.</em></p>
+<p>2022.</p>
+<p>Kiela, Douwe., Thrush, Tristan, Ethayarajh, Kawin, and Singh, Amanpreet.
+<em>Plotting Progress on AI.</em></p>
+<p>Contextual AI Blog, 2023.</p>
+<p>^11^ Saha, Simanto, Mamun, Khondaker, and Ahmed, Khawza et al. “Progress
+in Brain-Computer Interface: Challenges and Opportunities.” <em>Frontiers
+in Systems Neuroscience</em>, 15, (2021).</p>
+<p>resistance to certain diseases. We are also seeing the creation of
+synthetic life forms: organic life (not completely “artificial” or
+silicon-based) designed in a lab with the help of AI-empowered computer
+simulation, which can replicate and self-organize. Further examples of
+*advanced technologies *include virtual reality, the Internet of Things,
+nanotechnology (engineering at the atomic and molecular levels), sensors
+and satellites, blockchain, social media, and alternative substrates for
+computing (e.g., thermodynamic, quantum, biological, etc.).</p>
+<p>It is generally the case that a new technology can cause harm in at
+least two ways. For one, it can enable someone to cause intentional harm
+given the unique capabilities of the technology. For example, dynamite
+was originally designed as a more stable explosive which could be
+utilized for civilian purposes such as to support construction and
+development projects^12^, but it also served another purpose of being an
+easily accessible and rather powerful, weaponized explosive. Then there
+is the possibility that a technology can be used for relatively benign
+or even benevolent purposes while simultaneously producing unintended,
+harmful consequences (externalities) to the environment or society.
+Ecological overshoot is rife with such examples, including the use of
+chlorofluorocarbons (CFCs) for refrigerants which also burned a hole in
+the ozone layer^13^.</p>
+<p>The potential for risks of all kinds is greater in the case of newly
+emerging, advanced technologies. We are now engineering at the
+foundations of physics and life, with many of these technologies
+advancing at near-exponential rates of change — speeds humans did not
+evolve to process. The rapid development and deployment of new
+technologies has always been a recipe for both intentional and
+accidental harm, but these harms were often believed to be acceptable
+because they were overshadowed by the potential benefits. However, today
+the capabilities of technology are reaching a critical point. The
+consequences of mistakes and acts of violence are becoming so
+destructive that civilization may be unable to recover. Runaway
+pandemics, for example, could be the result of deliberate attacks with
+bioweapons or imperfect safety practices in a lab. A powerful AI system
+that fails to act in alignment with humanity’s values, goals, and best
+interests (“Misaligned AI”) could come by accident or an act of war.</p>
+<p>Risks from today’s technologies are unique for several reasons,
+including the speed of innovation, the scale of impact, the widespread
+distribution through the commercial sector, and the power of emerging
+capabilities. If continued, long-standing patterns of technology
+development, such as innovation driven by competitive pressures in
+business or war, could lead to global catastrophes or dystopian
+oppression. To safely steward increasingly powerful technology requires
+a corresponding increase in the wisdom of those designing and using such
+technologies. Marshaling the requisite wisdom to regulate advanced
+technologies would be a profound shift in humanity’s relationship to
+technology. It must become commonplace that the potential benefits of
+any given innovation are acknowledged without downplaying the severity
+of</p>
+<p>^12^ Kravitz, Fran, and ACS Committee on Ethics. *Dynamite and the
+Ethics of its Many Uses. *ACS. Accessed June 17th, 2025.</p>
+<p>^13^ American Chemical Society National Historic Chemical Landmarks.
+*Chlorofluorocarbons and Ozone Depletion. *2017.</p>
+<p>its potential harms and risks, even leaving open the possibility that
+there are certain technologies that may simply be too dangerous to
+create in the first place.</p>
+<h1 id="techno-optimism">Techno-Optimism<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#techno-optimism" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Before reviewing the risks from emerging technologies, it is useful to
+first consider some aspects of our recent history with technology,
+including worldviews surrounding its development and approaches to
+regulating its harms. This will serve as a backdrop as we reflect on the
+future of human innovation and the ways our species is being
+fundamentally reshaped in relation to its creations.</p>
+<p>Depending upon who is asked, technology could be the savior of humanity
+or the source of its demise. To the infamous Luddites of the 19th
+century destroying looms, for example, machines were stealing their jobs
+and were ultimately reflections of exploitation, unnecessary excess, and
+the willingness of the wealthy to sacrifice others’ livelihoods and the
+quality of their products for additional profits.^14^ To those profiting
+from and purchasing cheaper materials, however, the same technology was
+seen to be a significant innovation in efficiency. It enabled new
+freedoms, allowing people to spend their saved time and money elsewhere.</p>
+<p>Ecological overshoot may also be viewed through the lens of competing
+worldviews surrounding technology. For those who appreciate the
+affordances of modern life, the environmental crisis is an undesirable
+outcome but perhaps a necessary evil to achieve today’s high standards
+of living. Only by means of further innovation, for example, in
+renewable energy, carbon sequestration, and various forms of solar
+geoengineering, can we respond to ecological overshoot while still
+preserving our quality of life. Some environmentalists, however, view
+technology as the cause of the fabled fall from Eden, the source of
+humanity’s separation from nature. They hold that, to return to the
+right relationship with the earth, we must look back in time to when
+humans had limited technology and lived in equilibrium with the
+biosphere.</p>
+<p>Worldviews favoring the proliferation and rapid advancement of
+technology have largely overshadowed other perspectives. This is in part
+because new technologies confer power to those creating and wielding
+them, reinforcing, and further disseminating those ideologies which
+advocate for technology’s intrinsic value. Today’s techno-optimists and
+techno-accelerationists have continued with the view that technology is
+either inherently positive or well worth the risks and is ultimately the
+driving force behind all improvements in the human condition^15^. It is</p>
+<p>^14^ For a recent view comparing Luddism with contemporary resistance to
+advanced technologies, see Merchant, Brian. *Blood in the Machine: The
+Origins of the Rebellion Against Big Tech. *Little, Brown, and Company,
+2023.</p>
+<p>^15^ See the recent “Techno-Optimist Manifesto” by venture-capitalist
+Marc Andressen: . Or an interview of the “effective accelerationist”
+philosopher, Beff Jezos:</p>
+<p>believed that technology solves our problems and makes our lives easier
+and better. When it’s cold, technology keeps us warm. If we are in pain
+or danger, technology cures our ailments and saves our lives. It is even
+the source of our entertainment and education, supporting us in all of
+our creative aspirations.</p>
+<p>Undesired outcomes of technology are typically seen to be a product of
+faulty or unethical use by humans, rarely a product of the technology
+itself. Even in cases of misuse, technical innovation remains the
+primary solution: increasing security and defense systems, better
+surveillance or cryptography, simulations of potential harms, training
+better models for deplatforming and content moderation. It is humanity’s
+destiny to continue in its works of technological expansion and
+advancement. Technology is the answer to most questions, the solution to
+our greatest problems, and the path towards a world of abundance for
+all.</p>
+<p>Techno-optimists, of which there are several varieties, are seeking to
+accelerate technological innovation as rapidly as possible. They argue
+that technology is the only way humanity will be saved from itself. The
+most pernicious problems we face can only be addressed by radically
+increasing the rate of innovation. If we are to survive climate change,
+we must become a</p>
+<p>multi-planetary species and quickly begin geoengineering the earth.
+Nanotechnology and gene editing, enabled by advanced robotics, monitored
+by sensor networks and satellites, will help us respond to growing
+public health crises and put an end to disease. The coming artificial
+superintelligence is the only way to address humanity’s inability to
+globally cooperate to solve its grandest challenges. While many
+advocates of this view genuinely believe it and should be taken as
+acting in good faith, it is also true that those in the technology
+industry have the most to gain from rapid development and deployment and
+the most resources to propagate accelerationist narratives. Their public
+messaging cannot be meaningfully separated from their personal
+motivations.</p>
+<h2 id="legacy-technology-externalities-and-retro-active-regulation">Legacy Technology: Externalities and Retro-Active Regulation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#legacy-technology-externalities-and-retro-active-regulation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Worldviews like techno-optimism and accelerationism are understandable
+reactions to technological developments corresponding to improvement in
+several dimensions of quality of life and obvious material abundance.
+However, these worldviews tend to trivialize how the intended benefits
+of technology have always been matched with the reality of unintended
+harms (or negative externalities). The light of human “progress” casts a
+shadow. Unintended harms and externalities accumulate, eventually
+becoming grave risks to society writ large. In the cases of increasingly
+powerful technologies, unaccounted for externalities become increasingly
+consequential, even existentially risky. This can be independent of
+whether or not the technology is used maliciously. An innovation can be
+harmful simply as a byproduct of its design and rapid, large-scale
+deployment.</p>
+<p>Recent history is littered with examples of commercial products that
+were first advertised as safe and essential, only for their negative
+consequences to be revealed after widespread distribution</p>
+<p>and use. Leaded gasoline is a particularly instructive example. It was
+argued to be critical for smooth, efficient, high performing engines.
+Later it was shown to be dangerously toxic (and that its creators were
+aware of this in advance). As a result of its massive distribution,
+humanity lost nearly a billion points of IQ of cognitive decline, became
+significantly more aggressive and impulsive, and suffered countless
+deaths and ubiquitous public health issues^16^.</p>
+<p>To add insult to injury, the negative health effects of lead were
+written about over a thousand years prior to it being used for gasoline.
+During the Roman Empire lead was used to serve many purposes including
+for water pipes, cooking, cosmetics and medicine^17^. Its deleterious
+health effects likely served as one among many factors contributing to
+Rome’s collapse^18^. For most of evolutionary history, the majority of
+lead was stored deep in the Earth’s lithosphere. Due to its toxicity, it
+is likely that complex biological life would not have evolved in the
+presence of extensive lead exposure. But in the name of technological
+progress, humanity mined and atomized the compound, distributing it
+through the atmosphere, having it rain down upon us, our children, and
+our soil poisoning every bite of food we eat and sip of water we
+drink^19^.</p>
+<p>Asbestos is another famous example, ubiquitously integrated into
+commercial products for its fire-retardant properties, simultaneously a
+cause of lung cancer, mesothelioma, and other deleterious health
+effects^20^. The list of innovations that were recognized to be harmful
+after being brought to market (many of which were later withdrawn from
+production) is extensive: parathion^21^, malathion, thalidomide, Vioxx
+Premarin^22^, CFCs^23^, HFCs^24^, BPAs^25^, phthalates, and single-use
+plastics. And these are just cases of harmful products that were
+recognized and banned. Externalized harm is the norm for nearly all
+innovations.</p>
+<p>^16^ Ritchie, Hannah. *How the world eliminated lead from gasoline.
+*OurWorldInData.org, 2022.</p>
+<p>^17^ McConnell, Joseph, R., Chellman, Nathan, J., and Plach, Andreas et
+al. “Pan-European atmospheric lead pollution, enhanced blood lead
+levels, and cognitive decline from Roman-era mining and smelting.”
+<em>Proc. Natl. Acad. Sci. U.S.A.</em>, 122(3), (2025):e2419630121.</p>
+<p>^18^ (Ibid.)</p>
+<p>^19^ Noviandari, Lina. *Lead (Pb) 101: Everything You Need To Know About
+Lead. *Pure Earth, 2024.</p>
+<p>^20^ National Cancer Institute. *Asbestos Exposure and Cancer Risk.
+*2021.</p>
+<p>^21^ Rosenberg, Yvonne, J., Garcia, Kelly, and Diener, Justin et al.
+“The impact of solvents on the toxicity of the banned parathion
+insecticide.” *Chem Biol Interact. *2023):382:110635. ^22^ Prakash,
+Snigdha, and Valentine, Vikki. *Timeline: The Rise and Fall of Vioxx.
+*NPR, 2007.</p>
+<p>^23^ EPA. *Ban for Nonessential Products Containing Ozone-depleting
+Substances. *Accessed June 17th, 2025.</p>
+<p>^24^ Sidley. <em>U.S. EPA Bans Hydrofluorocarbons in Refrigeration, Air
+Conditioning, and Heating Products.</em></p>
+<p>2023.</p>
+<p>^25^ Breast Cancer Prevention Partners. *BPA Laws and Regulations.
+*Accessed June 17th, 2025.</p>
+<p>The Haber-Bosch method (a technique for creating fertilizers via
+large-scale synthesis of ammonia from hydrogen and nitrogen), seen by
+many as the most influential innovation in human history, was partially
+responsible for the population explosion of the 20th century due to its
+ability to increase agricultural yields. Before the “Green Revolution,”
+the number of humans on the Earth was under two billion; now we are
+nearing 8 billion^26^. The Haber-Bosch method led to over 100x resource
+per capita usage worldwide due to population growth, driving increased
+extraction from the natural world, increased energy demand, and
+increased waste and pollution^27^. One impact of this has been a
+dramatic increase in agricultural runoff, resulting in around 400
+oceanic dead zones, some of which are as large as the UK^28^.</p>
+<p>This agricultural innovation also led to micronutrient deficiencies in
+our food (i.e., loss of trace minerals, phytochemicals, vitamins, etc.)
+due to the use of synthetic fertilizers (nitrogen, phosphorus, potassium
+fertilizers in particular: “NPK”)^29^. The food that we eat today has a
+far lower vitamin and mineral content, leading to specific deficiencies
+and health impacts (such as heart-disease)^30^. Haber-Bosch has also led
+to an increase in chronic disease and pain^31^. “Diseases of abundance,”
+such as obesity, diabetes, heart disease, cancer, and a variety of
+mental health issues, are a direct consequence of the change to our food
+supply. Surplus alone did not cause this. Micronutrient deficiencies can
+create a feeling of perpetual hunger. Many in today’s population are, in
+some sense, starving to death while they are also in a state of</p>
+<p>over-consumption.</p>
+<p>These examples are not outliers. They reflect a common pattern where
+technology is extremely useful to us by some standards while
+simultaneously leading to consequences that no one wants. No one wants
+climate change, but it is a direct consequence of industrial
+globalization. Similarly, plastics are a “pillar of modern civilization”
+that everyone now depends upon, but they also create toxic nanoparticles
+that are distributed everywhere in the biosphere, poisoning</p>
+<p>^26^ Smil, V. (1999). *Detonator of the Population Explosion. *Nature.</p>
+<p>^27^ Steffen, Will, Broadgate, Wendy, Deutsch, Lisa, Gaffney, Owen, and
+Ludwig, Cornelia. “The Trajectory of the Anthropocene, the Great
+Acceleration.” <em>The Anthropocene Review 2</em>, no. 1, (2015).</p>
+<p>^28^ Schulte-Uebbing, Lena, Beusen, A.H.W., Bouwman, Alexander, F., and
+de Vries, Wim. “From Planetary to Regional Boundaries for Agricultural
+Nitrogen Pollution.” <em>Nature 610</em>, no. 7932, (2022):507—512.</p>
+<p>Stevens, Carly, J. “Nitrogen in the Environment.” *Science.org *363, no.
+6427, (2019):578-580.</p>
+<p>^29^ Nelson, Ann Raeboline Lincy Eliazer, Ravichandran, Kavitha, and
+Antony, Usha. “The Impact of the Green Revolution on Indigenous Crops of
+India.” *Journal of Ethnic Food 6, *no. 8, (2019).</p>
+<p>^30^ Jensen, Bernard, and Anderson, Mark. *Empty Harvest: Understanding
+the Link Between Our Food, Our Immunity, and Our Planet. *New York:
+Avery Publishing, 1995.</p>
+<p>Via, Michael. “The Malnutrition of Obesity: Micronutrient Deficiencies
+That Promote Diabetes.”</p>
+<p>*International Scholarly Research Notices *(2012). .</p>
+<p>^31^ Horrigan, Leo, Lawrence, Robert, S., and Walker, Polly. “How
+Sustainable Agriculture Can Address the Environmental and Human Health
+Harms of Industrial Agriculture.” *Environmental Perspectives *110, no.
+5, (2022).</p>
+<p>Winson, Anthony. *The Industrial Diet: The Degradation of Food and the
+Struggle for Healthy Eating. *New York: NYU Press, 2014.</p>
+<p>plants and animals, disrupting our hormonal cycles, causing cancers, and
+detrimentally impacting fertility and prenatal development^32^.
+Antibiotics have saved millions of lives from bacterial infection, and
+their overuse has led to extremely dangerous antibiotic-resistant
+bacteria, deadly chronic infections, disruption to the human microbiome,
+and negative impacts on development when prescribed to babies^33^. Most
+people would vote against rapidly disseminating these technologies if
+they were able to experience the totality of their consequences up front
+and were given a collective choice as to whether or not to move forward.</p>
+<p>Within recent years most new technologies have come from the market
+directly funding, or capitalizing on scientific breakthroughs.
+Corporations then tend to disproportionately focus on the innovation’s
+upside, bringing to market a technology that is, at first, largely
+unregulated and poorly understood. First mover advantage then allows the
+company to define the market and the public’s understanding of the new
+technology with sophisticated public relations and marketing campaigns
+(“4 out of 5 Doctors Smoke Camel Cigarettes,” or “Better Living Through
+Chemistry,” for example). Today we hear similar sale-pitches from AI and
+biotech companies today who tell us that they will usher in an age of
+previously unimaginable health and abundance.</p>
+<p>^32^ Hong, Yifan, Wu, Shengde, and Wei, Guanghui. “Adverse effects of
+microplastics and nanoplastics on the reproductive system: A
+comprehensive review of fertility and potential harmful interactions.”
+*Science of The Total Environment *903, (2023):166258.</p>
+<p>Ullah, Sana, Ahmad, Shahid, and Guo, Xinle et al. “A review of the
+endocrine disrupting effects of micro and nano plastic and their
+associated chemicals in mammals.” *Frontiers in Endocrinology *13,
+(2022):1084236.</p>
+<p>Engel, Stephanie, M., Patisaul, H., and Brody, Charlotte et al.
+“Neurotoxicity of Ortho-Phthalates: Recommendations for Critical Policy
+Reforms to Protect Brain Development in Children.” <em>AJPH 111</em>(4) (2021).</p>
+<p>Brynzak-Schreiber, Ekaterina, Schogl, Elisabeth, and Bapp, Carolin et
+al. “Microplastics role in cell migration and distribution during cancer
+cell division.” *Chemosphere *353, (2024):141473.</p>
+<p>Park, Jun Hyung, Hong, Seungwoo, and Kim Ok-Hyeon et al. “Polypropylene
+microplastics promote metastatic features in human breast cancer.”
+*Scientific Reports *13, (2023):6252.</p>
+<p>Chen, Guangquan, Shan, Huang, and Xiong, Shiyi et al. “Polystyrene
+nanoparticle exposure accelerates ovarian cancer development in mice by
+altering the tumor microenvironment.” *Science of the Total Environment
+*905, (2023):167592.</p>
+<p>Zarus, Gregory, M., Muianga, Custodio, and Brenner, Stephan et al.
+“Worker studies suggest unique liver carcinogenicity potential of
+polyvinyl chloride microplastic.” <em>American Journal of Industrial
+Medicine</em>, 66(12), (2023):1033-1047.</p>
+<p>^33^ Murray, Christopher, J.L., Ikuta, Kevin, S., and Sharara, Fablina
+et al. “Global burden of bacterial antimicrobial resistance in 2019: a
+systematic analysis.” *The Lancet *399(10325), (2022):629-655.</p>
+<p>Anthony, Winston, E., Wang, Bin, and Sukhum, Kimberly, V., et al. “Acute
+and persistent effects of commonly used antibiotics on the gut
+microbiome and resistome in healthy adults.” *Cell *39(2),
+(2022):110649.</p>
+<p>Patangia, Dhrati, V., Ryan, Cornelius A., Dempsey, Eugene, Paul Ross,
+Reynolds, and Stanton, Catherine. “Impact of antibiotics on the human
+microbiome and consequences for host health.” *MicrobiologyOpen *11(1),
+(2022):e1260.</p>
+<p>Uzan-Yulzari, Atara, Turta, Olli, and Belogolovski, Anna et al.
+“Neonatal antibiotic exposure impairs child growth during the first six
+years of life by perturbing intestinal microbial colonization.” *Nature
+Communications *12(443), (2021).</p>
+<p>The promises of a technology and the competitive pressures to develop it
+tend to overshadow its potential externalities, which accumulate until
+they pass a critical point where the harms are undeniable to public
+consciousness. Only after harm has happened at enough scale with enough
+severity and concern, does regulation get enacted. This is *retroactive
+regulation *— creating laws to prevent harm only after it has occurred
+— as opposed to *proactive *or <em>anticipatory governance</em>. For example,
+it wasn’t until six decades after its development and distribution that
+Japan became the first country to ban leaded gasoline completely, and it
+took another three and a half decades for it to be banned worldwide,
+only after irreparable damage had been done to the public and the
+environment^34^. Other examples, such as toxic “forever chemicals” (such
+as PFASS) and fossil fuels, are still in widespread use today. When a
+technology creates profound dependence that cannot easily be replaced or
+removed, its harms or risks are simply endured.</p>
+<p>The history of trusting the commercial sector to do its own safety
+analysis is not reassuring^35^. As structured, the market has the
+incentive to build everything that can create returns on investment,
+quickly, as long as it doesn’t technically break the law (or if the
+fines for illegal activities are less than the profit made doing them).
+Incentives are to do minimal safety assessments and to move ahead on
+every profitable, powerful area of technology while promoting narratives
+that downplay the risks and exaggerate the benefits. As the technology
+is being brought to market, it is argued to be somewhere between
+necessary and good. Then, once harms become widespread, it is often
+later revealed that the risks were well known ahead of time and hidden
+— as has been well documented, for example, with the negative health
+effects of forever chemicals like PFASS^36^, the ecological effects of
+fossil fuels^37^, and the detrimental mental health effects of social
+media on teens^38^.</p>
+<p>It is true that technologies of the near future could bring many
+benefits to humanity. But without a profound re-imagining of how we
+design, deploy, and regulate technology, the current trajectory is
+likely to involve grave risks. If left ungoverned, advanced technology
+will result in a deeper degradation of our minds, relationships,
+cultures, and the planet. Robotic automation, for example, could save
+humanity from dangerous and repetitive labor, but without the necessary,</p>
+<p>^34^ Hofverberg, Elin. *The History of the Elimination of Leaded
+Gasoline. *Library of Congress, 2022.</p>
+<p>^35^ For historical examples across several industries and sectors, see:
+Wilson, James, Q. *The Politics of Regulation. *Basic Books, 1980.</p>
+<p>For an account of how self-regulation led to a specific tragedy in India
+see Lapierre, Dominique, and Moro, Javier. *Five Past Midnight in
+Bhopal: The Epic Story of the World’s Deadliest Industrial Disaster.
+*Grand Central Publishing, 2002.</p>
+<p>^36^ Hayes, Jared. *For decades, polluters knew PFAS chemicals were
+dangerous but hid risks from the public. *EWG, 2019.</p>
+<p>^37^ Center for Climate Integrity. *Big Oil knew as early as 1954.
+*2024.</p>
+<p>^38^ Dolman, Matthew. *Whistleblower Exposes Meta’s Knowledge of
+Negative Effects of Social Media on Young People. *Lawsuit Legal News,
+2024.</p>
+<p>associated changes to economics, it could very easily create large-scale
+technological unemployment and an unprecedented underclass. Similarly,
+AI could potentially play a role in synthesizing the world’s information
+and deliver it in a pedagogically useful fashion, uniquely suited to our
+individual context and needs, but at present, it seems more poised to
+usher in a world of ubiquitous deep fakes and the destruction of shared
+knowledge. Responding to the multiple crises and challenging planetary
+conditions of the metacrisis will require a method of technology design
+and regulation that rigorously factors the reality of potential harms
+and is able to steer our capacity for innovation towards the outcomes
+with the greatest likelihood of safety and shared benefit.</p>
+<h1 id="advanced-technology-risks-the-ungovernability-threshold">Advanced Technology Risks: The Ungovernability Threshold<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#advanced-technology-risks-the-ungovernability-threshold" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>These historical patterns of technology development — rapid development
+and deployment under near-term competitive pressures, disproportionately
+emphasizing the benefits and downplaying potential harms^39^, and
+implementing safety measures only after harm has occurred — cannot
+continue in an age of increasingly powerful technology. Today’s paradigm
+of advanced technology points to the crossing of a threshold where
+continuing on the path of retroactive regulation now poses global
+catastrophic and existential risks. With innovations like those in AI,
+biotechnology, sensor-webs, and brain-computer interfaces, putting in
+measures to prevent harm only after it has already occurred could be too
+late, leaving us little chance to recover.</p>
+<p>Innovations in anticipatory technology governance are required to
+respond to the changes in the speed, scope, complexity and
+consequentiality of advanced technology risk.</p>
+<p>Below we briefly develop a framework to assess the potential risk of a
+new technology (box 2) defined as being roughly proportional to a
+technology’s power and inversely proportional to our ability to govern
+it well. Power involves the speed at which it can be developed,
+deployed, and improved; the scope and magnitude of its potential
+effects; and the complexity of the technology and the world system that
+will co-evolve with it. Our ability to govern a technology depends on
+our ability to understand it, our ability to monitor its use, and our
+ability to control against excessively harmful or risky applications.
+Advanced technologies are unique in terms of both their power and
+ungovernability, marking a transition into a new epoch where today’s
+technologies are placing us into exceedingly dangerous territory.</p>
+<p>Box 2: Framework for Understanding Technology Risk</p>
+<p>^39^ For instance Elon Musk has said publicly: “I’d rather be optimistic
+and wrong than pessimistic and right. At least err on that side. If
+you’re pessimistic, you’re going to be miserable. You might as well
+enjoy the journey.”</p>
+<p>Table 1 details this framework and shows its application to advanced
+technology. What follows is an abbreviated overview of the framework
+itself. It is applied to clarify the risk of certain classes of advanced
+technology.</p>
+<h4 id="power-as-speed-of-advancement-and-distribution">POWER AS SPEED OF ADVANCEMENT AND DISTRIBUTION<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#power-as-speed-of-advancement-and-distribution" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>The power of a technology can roughly be considered in terms of four
+components. First, there is the speed of the technology’s distribution,
+measured in terms of how quickly it impacts large numbers of people.
+Cars, for instance, reached 50 million users some 60 years after they
+were first brought to market^40^. In comparison, Meta’s social media app
+Threads reached its first 50 million users in 24 hours^41^. The largest
+technology companies from the prior epoch reached users around 22,000
+times slower than today. Reasonable analogies would be between a snail
+and a bullet, plant growth and a rocket launch.</p>
+<p>Considerations of *speed *also factor the rate at which a technology’s
+capacities advance. Televisions went from black and white to color and
+from a few channels to hundreds over a span of decades.Technologies like
+artificial intelligence and gene sequencing are improving much faster
+than computation did under Moore’s Law, which was already considered
+truly unprecedented throughout the history of innovation^42^.
+Significant advancements in efficiency and capability are occurring in
+matters of weeks or months. For example, in 2020, scientists at OpenAI
+showed that compared to results from 2012, the amount of computational
+power needed to train a neural net to the same performance as a popular
+AI image classification</p>
+<p>^40^ TikTok took 9 months to reach 100 million users, while Threads
+reached the same milestone in 5 days. Rao, Pallavi. *How Long it Took
+for Popular Apps to Reach 100 Million Users. *Visual Capitalist, 2023.</p>
+<p>^41^ (Ibid.)</p>
+<p>^42^ Moore’s Law is the observation that the number of transistors on a
+microchip roughly doubles every two years.</p>
+<p>system (AlexNet) had decreased by a multiple of 44^43^. Over the same
+period, Moore’s Law would have yielded only an 11x improvement.</p>
+<h4 id="power-as-magnitude-of-change-possible">POWER AS MAGNITUDE OF CHANGE POSSIBLE<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#power-as-magnitude-of-change-possible" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Power also points to the *magnitude *of the scale of change made
+possible by a new technology. A technology is less powerful if it can
+only affect a highly localized area. Locomotives would be mostly useless
+without the railway, and the technology’s transformative potential was
+only realized as railway systems expanded across more and more
+territory. Today our technologies reach far beyond the local or even the
+transcontinental and move into the geographies of the atmosphere and the
+interplanetary as we send robots to mars and surround the Earth in an
+omniscient web of sensors and satellites.</p>
+<p>Increases in magnitude are also tied to the depth of reality that a
+technology is intended to manipulate. No example of this is more clear
+than nuclear technology, where the first planetary-scale existential
+risk was created precisely by working on some of the deepest</p>
+<p>aspects of reality (i.e., splitting the atom). In many ways this can be
+considered the beginning of what we are calling advanced technology. And
+the trend of increasing depth, and therefore greater magnitude of
+consequence, continues today with projects in nanotechnology and quantum
+engineering, which attempt to go even “deeper” than the atom^44^.</p>
+<h4 id="power-as-scope-of-use-cases">POWER AS SCOPE OF USE CASES<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#power-as-scope-of-use-cases" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>The power of a technology further depends on the *scope *of possible
+combinations it has with existing technologies, or how technologies
+amplify their effects when interfacing with other existing or
+soon-to-exist technologies. In prior eras, new technologies were less
+able to easily interface with the existing technological surround. When
+cars were first invented and sold, there were no gas stations and few
+suitable roads. It took more than a century until new kinds of
+technologies---like electric and self-driving vehicles---could be easily
+integrated into the existing transportation infrastructures, making all
+the technologies more powerful through interoperability and
+amplification.</p>
+<p>The scope of a technology is also related to the degree to which it can
+be used for multiple purposes. An automobile can be used as a home, a
+canvas, a weapon, or any number of other “off-label” uses. But it is
+designed to be a means of transportation and does not do these other
+things well. Computers, on the other hand, are useful for nearly any
+task. Computation</p>
+<p>^43^ OpenAI. *AI and efficiency. *2020.</p>
+<p>^44^ Congressional Research Service. <em>Defense Primer: Quantum
+Technology</em>, 2022.</p>
+<p>Burja, Samo. *Quantum Technology Appeals to World Powers. *Bismarck
+Brief, 2022.</p>
+<p>Witt, Stephan. *The World-Changing Race to Develop the Quantum Computer.
+*The New Yorker, 2022.</p>
+<p>technologies like the transistor fundamentally transformed all
+industries, well beyond the implications its early designers could have
+possibly imagined^45^.</p>
+<p>Of all the possible use-cases for a technology, weaponization is
+obviously among the most concerning from a risk standpoint. Historical
+discussions of these issues have been framed in terms of
+“dual-use”---meaning military or civilian, or destructive vs
+constructive. The “same” (often slightly modified) technology can be
+either a weapon or an asset that benefits “the people” by means other
+than violence. Again a canonical example here is nuclear technology,
+which created both energy and weaponry based on the same underlying
+innovation.</p>
+<p>In general, when technology is designed with a relatively narrow purpose
+in mind, it will eventually be employed for other purposes anyone finds
+it useful for. The creation of a new technical capability for any
+purpose results in its being used for many other purposes.</p>
+<p>Therefore, <em><strong>the</strong> <strong>default</strong> <strong>assumption</strong> <strong>should</strong> <strong>be</strong>
+<strong>that</strong> <strong>new</strong> <strong>technologies</strong> <strong>will</strong> <strong>be</strong> <strong>innovated</strong> <strong>and
+deployed by all agents for all purposes they enable.</strong></em></p>
+<p>Technologies exist on a spectrum from being nearly useless outside of a
+few application areas to having basically infinite use-cases and
+transforming almost all areas of life. From this vantage point, various
+classes of technology are perhaps better described in terms of being
+<em>multi</em>- or *omni-use *rather than strictly dual-use (see box z).
+Advanced technologies can be used for an extraordinary range of
+purposes, some of which fall outside of standard categories like
+military and civilian; for example, designing new species, altering the
+climatic conditions of the planet with geo-engineering, editing one’s
+genetic makeup, and creating virtual worlds. Of course, the distinction
+of dual-use may still be applied in such cases, but it is valuable to
+foreground how certain innovations can be applied to almost every area
+of life for nearly every kind of purpose.</p>
+<p>Computation is omni-use by design. The digital revolution impacted every
+industry and branch of science, changing governments and the military,
+and of course, reaching into the personal lives of most people. Omni-use
+technology culminates with AI, a technology that can be applied to
+advance virtually every sector, even its own^46^. In conjunction with
+sensors and robotics, AI is, in theory, capable of automating,
+advancing, and extending a whole range of skills humans have acquired,
+and more that we have yet to imagine. As of now, AI has outperformed
+humans in various aspects of language and image recognition, in
+strategic games, and even medical</p>
+<p>^45^ The creators of the transistor believed their invention *might *be
+used in military radios. Vedin, Bengte-Arne. *The transistor - an
+invention ahead of its time. *Ericsson. Accessed June 18th, 2025.</p>
+<p>^46^ Suleyman, Mustafa, and Bhaskar, Michael. *The Coming Wave:
+Technology, Power, and the 21st Century’s Greatest Dilemma. *Crown,
+2023.</p>
+<p>diagnosis^47^. The intelligence of AI models is becoming increasingly
+‘general,’ such that it can be applied to solve an increasing range of
+problems.</p>
+<h3 id="a-spectrum-of-use-profiles-for-technology">A spectrum of use profiles for technology:<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#a-spectrum-of-use-profiles-for-technology" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>**Dual-Use: **A technology designed and used for civilian purposes,
+which is then repurposed as a weapon, for example dynamite or the
+repurposing of commercial factories for military production in war time.
+The reverse is also true where a technology designed for military
+purposes is then made available for civilian use, for example, nuclear
+energy or modern navigation systems.</p>
+<p><strong>Multi-Use</strong>: A technology that can be used for many unintended
+“off-label” purposes. Examples include biomedical equipment for human
+enhancement; synthetic biology for creating new species; and
+agricultural and food processing equipment for drug manufacturing.</p>
+<p>**Omni-Use: **A technology that is maximally multi-purpose, general, can
+be used to achieve almost any goal, impacting all other technologies and
+transforming all aspects of civilization. Examples include financial
+technologies such as currency, various forms of energy, information
+technologies like the written word, the printing press, and computation.
+Omni-use tech reaches its apex in Artificial Intelligence.</p>
+<p>^47^ Brown, Annie. <em>AI’s Disruption of the Strategy Gaming Space Proves
+that Machines are Getting Smarter.</em></p>
+<p>Forbes, 2021.</p>
+<p>Roser, Max, Samborska, Veronika, Mathieu, Edouard, and Giattino,
+Charles. <em>Artificial Intelligence</em>. Our World in Data, 2023.</p>
+<p>Thomsen, Michael. <em>Microsoft’s Deep Learning Project Outperforms Humans
+in Image Recognition.</em></p>
+<p>Forbes, 2015.</p>
+<p>McDuff, Daniel, Schaekermann, Mike, and Tu, Tao et al. “Towards accurate
+differential diagnosis with large language models.” <em>Nature</em>, 642,
+(2025):451—457.</p>
+<h4 id="power-as-social-complexity">POWER AS SOCIAL COMPLEXITY<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#power-as-social-complexity" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Finally, the *social complexity *of a technology focuses on the degree
+to which a technology alters the overall distribution of power in a
+civilization (cultural, political, economic, military, etc.). Most
+technologies confer power on those who first adopt them. But not all
+technologies impact power in the same ways or to the same degree; nor
+were all technologies that impact power designed to do so. The printing
+press radically upended power during the century when the invention
+first swept Europe---playing a role in the Protestant Reformation^48^,
+as well as the French^49^ and American Revolutions^50^---although this
+was never part of Gutenberg’s designs^51^. Nuclear weapons, on the other
+hand, had transformation of the geopolitical landscape as the primary
+goal underlying its development^52^.</p>
+<p>Emerging technologies can be seen as both centralizing and
+decentralizing power. From one perspective, there are profoundly
+powerful technologies that are commercially accessible today (e.g., in
+AI, synthetic bio, and drones) that no one in the G8 militaries had
+access to a decade ago. But at the same time, the biggest actors are
+developing and deploying technologies that are incredible forces for
+power consolidation — such as various draconian surveillance and
+control systems involving planetary wide sensors, satellites and weapons
+systems which overcome almost all constraints to monitoring a
+population’s behavior, processing the data, and enforcing policy. This
+is a topic that will be explored at length in the following chapters:
+<em><strong>advanced technologies create challenges for both unchecked power
+distribution and unchecked power consolidation</strong></em>.</p>
+<p>Another related aspect of the social complexity implicated by a
+technology is the degree to which an innovation modifies behavior. The
+use of technology changes human behavior inevitably; it is a question of
+what kinds of behaviors, and how much change. Some technology is
+explicitly designed to manipulate behavior, whereas others result in
+behavior change only as a side effect of use. The power of technologies
+to modify human behavior has long been known. From calendars to
+architecture, ancient civilizations altered behavior at scale through
+technologies for setting schedules and routing the flows of people and
+goods. But only recently did there emerge a class of technologies —
+so-called “persuasive-technologies” — that has been specifically
+designed to psychologically influence billions of users. The
+profitability of</p>
+<p>^48^ Mark, Joshua, J. *The Printing Press &amp; the Protestant Reformation.
+*World History Encyclopedia, 2022.</p>
+<p>^49^ History of Information. <em>Wide Circulation of Hand-Press Printed
+Newspapers and Pamphlets During the French Revolution</em>. Accessed June
+18th, 2025. ^50^ Parkinson, Robert, G. *Print, the Press, and the
+American Revolution. *Oxford Research Encyclopedias, 2015.</p>
+<p>^51^ Famously, Gutenberg’s primary motivation was paying off personal
+debts. Lemelson.MIT. *Johann Gutenberg. *Accessed June 18th, 2025.</p>
+<p>^52^ Specifically, Roosevelt’s actions were spurred by the need to beat
+the Nazis to the bomb. Hickman, Kennedy. *World War II - The Manhattan
+Project. *About.com, 2015.
+[<a href="https://web.archive.org/web/20160323205304/http:/militaryhistory.about.com/od/artillerysiegeweapons/p/%5D%7B.underline" class="external">https://web.archive.org/web/20160323205304/http:/militaryhistory.about.com/od/artillerysiegeweapons/p/]{.underline<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>}
+[World-War-Ii-The-Manhattan-Project.htm]{.underline}</p>
+<p>ad-revenue-based social media companies is fundamentally dependent upon
+their ability to predict and change the behavior of their user base^53^.</p>
+<h3 id="governability">GOVERNABILITY<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#governability" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Considerations of power provide a basic insight into the possible risks
+of a technology: less total power, less total risk; more total power,
+more total risk. For a technology’s risks to be “acceptable” — for its
+creation and dissemination to be safe — <em>the power of the technology
+must be matched by its governability</em>. In general, the ability to govern
+is a reflection of how capable a group is at collectively employing its
+power on the basis of shared goals and agreements (e.g., laws,
+constitutions, contracts, etc.). Core to our discussion here is that
+<em>the power of advanced technologies is often linked to design features
+that make them intrinsically difficult (or impossible) to govern</em>.</p>
+<h4 id="governability-as-understandability">GOVERNABILITY AS UNDERSTANDABILITY<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#governability-as-understandability" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>The first dimension of governability is the *understandability *of the
+technology. A technology that is not well understood is not easily
+governed. Understanding depends on the extent to which the causal
+mechanisms of the system are clear or obscure (i.e., the degree to which
+a technology is “inscrutable”). The workings of a late 20th-century
+internal combustion engine were decipherable (and repairable) by its
+users in a way today’s self-driving vehicles are not. At the extremes of
+inscrutability are engineering advances in AI. The dominant approach to
+designing many AI systems, such as those involved in LLMs, employs
+neural networks composed of billions of rows and columns filled with
+decimal point numbers. It is openly acknowledged that no one in the
+field can completely understand the inner workings of these models and
+explain why they behave the way they do^54^. It is only after creating
+and deploying them to the public that the designers and users begin to
+see what they are truly capable of^55^. <em><strong>As long as we are unable to
+understand and interpret AI systems, we will be unable to fully assess
+safety and, therefore, can never ensure it.</strong></em></p>
+<p>The second, related dimension of understandability is the degree to
+which our inventions are capable of autonomous learning and action.
+Technologies that can make choices and improve their capabilities in
+ways that do not depend upon outside intervention and direction set by
+its</p>
+<p>^53^ Center for Human Technology. <em>The Attention Economy</em>. 2021.</p>
+<p>^54^ Tull, Sean, Lorenz, Robin, Clark, Stephan, Khan, Ilyas, and Coecke,
+Bob. *Towards Compositional Interpretability for AI. *Cornell
+University, 2024.</p>
+<p>Liu, Zhuoyang, and Xu, F.eng. “Interpretable neural networks: principles
+and applications.” <em>Frontiers,</em></p>
+<p>(2023).</p>
+<p>^55^ E.g., theory of mind spontaneously emerging in ChatGPT-4 only being
+discovered after its release. Kosinski, Michael. “Evaluating Large
+Language Models in Theory of Mind Tasks.” <em>Cornell University</em>. (2024).</p>
+<p>creators are vastly more difficult to understand (and control) than mere
+tools that remain as they were built and only affect reality when in the
+hands of their users. For most of history, our technologies did not act
+independently of us. But creating self-augmenting, autonomously behaving
+systems is often the explicit goal of industries developing AI agents,
+robotics, biotech, and smart-weapons^56^.</p>
+<p>Many advanced technologies such as these depend on engineering methods
+where the underlying causal mechanisms of the technology are unclear or
+hard to control by design. The significance of this is worth reflecting
+upon, as it represents an important part of the epochal shift underway
+in how humans relate to technology. The innovations of the Industrial
+Revolution were predicated upon a deterministic, Newtonian worldview.
+The mechanisms of a given technology were based on mathematical models
+where the behavior of each element of the technology was well
+understood. Even in the case of atomic energy — which moved from
+Newton’s clockwork world into Einsteinian Relativity — precision,
+prediction, and control were necessary to deploy the technology. Several
+of the innovations we discuss here were brought forth from a more recent
+paradigm, one that combined engineering principles with the life and
+cognitive sciences. Terms to characterize this paradigm include
+complexity, chaos, unpredictability, self-organization, and emergent
+properties. Here scientists study phenomena — such as intelligence or
+life itself — which are unexplainable and unpredictable when looking
+only at the behavior of the parts (e.g., individual neurons or cells).
+They are understood as emerging from the collective behavior of the
+whole. The innovations based on this paradigm point to a qualitative
+transformation, where technologies seek to replicate the emergent
+behaviors of nature — something humans neither fully understand nor
+control — while remaining a product of human creation, ostensibly to be
+used for human purposes.</p>
+<h4 id="governability-as-controllability">GOVERNABILITY AS CONTROLLABILITY<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#governability-as-controllability" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>If a technology cannot be intentionally contained, bound, or limited by
+collective human action (i.e., controlled), the safety of its deployment
+is mostly a matter of luck. One dimension that can radically undermine
+control is when rates of change vastly outpace the speeds of collective
+action. If a technology spreads too fast, gets more capable too fast,
+alters human behavior too much too fast, exponential change can
+undermine any chance to intervene “in time.” New social media
+technologies, such as TikTok, spread so fast that there was no chance to
+check even minimal levels of safety before tens of millions of young
+people were heavily using a new kind of technology designed to capture
+their attention^57^. Trustworthy technology policy is evolving at much
+slower rates than the technologies are developing, and so the
+institutions tasked with regulating these technologies cannot be relied
+upon to address their risks.</p>
+<p>Secondly, it is very difficult to control technologies that are capable
+of self-replication. An early example of this can be seen in agriculture
+where certain crops and animals were domesticated and transported
+between different bioregions, only for these organisms to eventually
+escape,</p>
+<p>^56^ Winner, Langdon. *Autonomous Technology. *MIT Press, 1978.</p>
+<p>^57^ Rastrilla, Laura, P., Sapag, Pablo, M., and Garcia, Armando, R.,
+eds. *Fast politics: Propaganda in the age of TikTok. *Springer, 2023.</p>
+<p>adapt, reproduce, and become “invasive species^58^.” In many cases
+reproduction and adaptation could not be controlled, and the result was
+radical disruption of the local ecosystem. Today various AI systems have
+been shown to copy and distribute themselves across multiple
+locations^59^. And biotechnologies such as “gene drives” are being used
+to enable specific genetic traits to propagate at higher than the
+standard rate^60^. Some applications include eliminating the
+reproductive capabilities of mosquitos that carry malaria^61^, or
+removing antibiotic resistance factors from bacteria^62^. The widespread
+deployment of increasingly novel, self-replicating biological and
+digital forms ushers in a wave of unique risks from a historically
+unprecedented class of invasive species^63^.</p>
+<p>^58^ For the history of examples and methods of studying them, see:
+Richardson, David, M. (2011). *Fifty Years of Invasion Ecology: The
+Legacy of Charles Elton. *Wiley-Blackwell, 2011.</p>
+<p>^59^ Pan, Xudong, Dai, Jairun, Fan, Yihe, and Yang, Min. “Frontier AI
+systems have surpassed the self-replicating red line.” <em>Cornell
+University</em>, (2024).</p>
+<p>^60^ Shah, Prapti. <em>Explainer: The Gene Drive Technology</em>. Crispr News
+Medicine, 2022.</p>
+<p>^61^ Gantz, Valentino, M., Jasinskiene, Nijole, and Tatarenkova, Olga.
+et al. “Highly efficient Cas9-mediated gene drive for population
+modification of the malaria vector mosquito Anopheles stephensi.” *Proc.
+Natl. Acad. Sci. U.S.A. *112 (49), (2015):E6736-E6743.</p>
+<p>^62^ Valderrama, J. Andres, Kulkarni, Surashree, S., Nizet, Victor, and
+Bier, Ethan. “A bacterial gene-drive system efficiently edits and
+inactivates a high copy number antibiotic resistance locus.” *Nat Commun
+*10, (2019):5726.</p>
+<p>^63^ Harper, David, and Ross, Emma. “Laboratory Accidents and
+Biocontainment Breaches.” <em>Chatham House</em>, (2023).</p>
+<p>Atanda, Jay. *The Pandemic Accord’s Dangerous Blind Spot: Laboratory
+Biosafety and Biosecurity. *Rand, 2025.</p>
+<p>Blacksell, Stuart, D., Summermatter, Kathrin, and Masuku, Zibusiso, M.,
+et al. “Investment in biosafety and biosecurity: the need for a
+risk-based approach and systematic reporting of laboratory accidents to
+mitigate laboratory-acquired infections and pathogen escapes.” *The
+Lancet Microbe, *4(11) (2023):e854-e855.</p>
+<p>Adamala, Katarzyna, Agashe, Deepa, and Binder, Damon et al. “Technical
+Report on Mirror Bacteria: Feasibility and Risks.” <em>Stanford</em>, (2024).</p>
+<p>Helena. <em>Biosecurity in the Age of AI</em>. 2023.</p>
+<p>Table 1: Framework for Understanding Technology Risk in general, and
+advanced technology in particular. Note that this is a suggestive list,
+not a formal definition, and that not all advanced technologies share
+all characteristics.</p>
+<p>+----------------------+----------------------+----------------------+
+| <strong>Power</strong>            |                      |                      |
++----------------------+----------------------+----------------------+
+| <em><strong>Speed</strong></em>          | <strong>Distribution</strong>:    | <strong>Capability</strong>: [How |
+|                      | [How fast does       | fast does            |
+|                      | the]{.underline}     | the]{.underline}     |
+|                      | [technology reach    | [technology          |
+|                      | people?]{.underline} | i                    |
+|                      |                      | mprove?]{.underline} |
+|                      | *Advanced Tech:      |                      |
+|                      | *Exponential rates   | *Advanced Tech:      |
+|                      | of distribution, to  | *With exponential    |
+|                      | the point where      | rates of capability  |
+|                      | millions of humans   | improvement          |
+|                      | can be impacted in a | technology changes   |
+|                      | matter of days.      | faster than our      |
+|                      |                      | ability to track and |
+|                      |                      | adapt.               |
++----------------------+----------------------+----------------------+
+| <em><strong>Magnitude</strong></em>      | <strong>Scale of change</strong>: | <strong>Depth of           |
+|                      | [Does the            | reality</strong>: [Does     |
+|                      | tec                  | the]{.underline}     |
+|                      | hnology]{.underline} | [technology          |
+|                      | [implicate, e.g.,    | man                  |
+|                      | individual, local,   | ipulate]{.underline} |
+|                      | or]{.underline}      | [fundamental base    |
+|                      | [planetary           | realities,           |
+|                      | rea                  | e.g.,]{.underline}   |
+|                      | lities?]{.underline} | [matter, life,       |
+|                      |                      | intellig             |
+|                      | *Advanced Tech:      | ence?’]{.underline}’ |
+|                      | *Generating          |                      |
+|                      | planetary-scale      | *Advanced Tech:      |
+|                      | risk, including      | *Operations on base  |
+|                      | existential risks to | reality, including   |
+|                      | all of life.         | quantum, DNA,        |
+|                      |                      | brain-computer       |
+|                      |                      | interfaces, and      |
+|                      |                      | artificial           |
+|                      |                      | intelligence.        |
++----------------------+----------------------+----------------------+
+| <em><strong>Scope</strong></em>          | <strong>Combinatorial      | <strong>Use profile</strong>:     |
+|                      | potentials</strong>:        | [How easily can      |
+|                      | [How]{.underline}    | the]{.underline}     |
+|                      | [interoperable is    | [tech be             |
+|                      | the tech with        | repu                 |
+|                      | already]{.underline} | rposed?]{.underline} |
+|                      | [existing            |                      |
+|                      | tech?]{.underline}   | *Advanced Tech:      |
+|                      |                      | *Radically multi and |
+|                      | *Advanced Tech:      | omni-use by design   |
+|                      | *Near complete       | and as a result of   |
+|                      | interoperability, as | focus on the base of |
+|                      | new technologies     |                      |
+|                      | amplify the effects  |                      |
+|                      | of existing ones by  |                      |
+|                      | design.              |                      |
++----------------------+----------------------+----------------------+
+|                      |                      | reality stack,       |
+|                      |                      | including            |
+|                      |                      | intelligence,        |
+|                      |                      |                      |
+|                      |                      | DNA, subatomic.      |
++----------------------+----------------------+----------------------+
+| <em><strong>Social</strong>          | <em><em>Power              | <em><em>Behavior           |
+| <strong>Complexity</strong></em>      | asymmetries</em></em>: [What | manipulation</em></em>:      |
+|                      | types                | [What                |
+|                      | of]{.underline}      | is]{.underline} [the |
+|                      | [power asymmetries   | extent of the        |
+|                      | does                 | techno               |
+|                      | the]{.underline}     | logy’s]{.underline} |
+|                      | [technology          | [capabilities to     |
+|                      | support/und          | manipulate           |
+|                      | ermine?]{.underline} | human]{.underline}   |
+|                      |                      | [be                  |
+|                      | *Advanced Tech:      | havior?]{.underline} |
+|                      | *Radical             |                      |
+|                      | decentralization and | *Advanced Tech:      |
+|                      | centralization, with | *Designed            |
+|                      | a potential          | specifically for     |
+|                      | permanent lock-in of | large-scale          |
+|                      | unprecedented power  | manipulation of      |
+|                      | differentials        | behavior at the      |
+|                      |                      | level of the nervous |
+|                      |                      | system.              |
++----------------------+----------------------+----------------------+
+| <strong>Governability</strong>    |                      |                      |
++----------------------+----------------------+----------------------+
+| ***                  | *<em>Degree of          | <em><em>Autonomy: <strong>[To    |
+| Understandability</strong></em> | inscrutability</em></em>:    | what extent is       |
+|                      | [How well            | the]{.underline}     |
+|                      | is]{.underline} [the | [technology capable  |
+|                      | casual functioning   | of]{.underline}      |
+|                      | of the]{.underline}  |                      |
+|                      | [technology          | [non-prepro          |
+|                      | m                    | grammed]{.underline} |
+|                      | odeled?]{.underline} |                      |
+|                      |                      | [choice-making and   |
+|                      | *Advanced Tech …   | le                   |
+|                      | *Cutting edge is, by | arning?]{.underline} |
+|                      | design intention,    |                      |
+|                      | unable to be         | <em>Advanced Tech …   |
+|                      | understood, due to   | <em>Designed for        |
+|                      | mathematical and     | exponentially        |
+|                      | mechanical           | increasing abilities |
+|                      | inscrutability,      | to learn, designed   |
+|                      | behavioral           | for autonomous       |
+|                      | unpredictability,    | adaptation.          |
+|                      | self-changing, etc.  |                      |
++----------------------+----------------------+----------------------+
+| *                    | *                    | <strong>Rates of Change</strong>: |
+| <strong>Controllability</strong></em> | <em>Self-replication</em></em>: | [What rates          |
+|                      | [To what extent      | of]{.underline}      |
+|                      | does]{.underline}    | [change are          |
+|                      | [the technology      | implicated in        |
+|                      | replicate            | the]{.underline}     |
+|                      | itself?]{.underline} | [technology, e.g.,   |
+|                      |                      | speed,               |
+|                      | *Advanced Tech …   | scope,]{.underline}  |
+|                      | *Designed to         | [magnitude,          |
+|                      |                      | etc?]{.underline}    |
+|                      | self-replicate,      |                      |
+|                      | change, grow, and    | *Advanced Tech …   |
+|                      | create new versions  | *exponential on all  |
+|                      | of itself.           | aspects of tech,     |
+|                      |                      | speed, scope, and    |
+|                      |                      | magni                |
+|                      |                      | tude---ramifications |
+|                      |                      | across all factors   |
+|                      |                      | yield a “horizon”    |
+|                      |                      | beyond which         |
+|                      |                      | predictions fail.    |
++----------------------+----------------------+----------------------+</p>
+<p>Below and throughout the following chapters, we elaborate on these
+characteristics, innumerate examples, and discuss the risks they imply.
+As in the past, advanced technologies may cause harm via unintended
+consequences or intentional harm. But the novelty of these technologies
+gives rise to fundamentally novel risks. The use of advanced
+technologies to satisfy the</p>
+<p>self-interested goals of individuals, corporations, or states will
+continue to create negative externalities, much like what happened with
+lead or fossil fuels. However, the externalities will be matched to the
+unprecedented features of the technology: its speed of development,
+scale of</p>
+<p>impact, and unique capabilities. In some cases, these technologies will
+be used for apparently altruistic purposes, such as to address climate
+change with planetary-scale geoengineering. But this may lead to further
+catastrophes due to misunderstandings of how advanced technical systems,
+such as synthetic organisms engineered to break down microplastics, will
+interact within complex biological or social systems. Advanced
+technologies increase the potential for globally catastrophic accidents
+(e.g., runaway self-replicating synthetic organisms) and externalities
+(e.g., the loss of human-to-human interpersonal skills from habitual use
+of AI companions in adolescence).</p>
+<p>Of course, the problem of malicious dual and multi-use is also greatly
+heightened with advanced technologies, which can be applied towards
+intentionally harmful purposes, such as cyberattacks, coordinated
+violence with swarms of intelligent drones (“slaughter bots”),
+bioweapons, or automated propaganda and information warfare. This is a
+core concern of the next chapter on violent conflict but will also be
+mentioned here, as risks from advanced technologies cannot be understood
+without acknowledging how they profoundly change the potential for
+intentional harm. AI-generated deep fakes, for example, are on the path
+to being used for everything from deliberate misinformation to
+blackmailing and scams^64^. At worst, this poses a risk of total
+breakdown of all systems of public information, and thus a systemic
+failure of social coordination. Finally, in chapter eight, we will
+discuss how powerful entities such as states or corporations may use
+these technologies for unjust purposes, such as invasive surveillance
+systems employing satellite monitoring, AI-intermediated human
+relations,</p>
+<p>brain-computer interfaces, and the Internet of Things.</p>
+<p>Accelerating Externalities: Behavior Modification and The Case of Social
+Media</p>
+<p>Today, Meta has over 3 billion monthly active users around the
+world^65^. This suggests that over one-third of humanity uses the
+platform every month — nearly ten times the size of the population of
+the United States and double the population of China. Over 2.7 billion
+people use YouTube every month, viewing over 1 billion hours of video
+per day^66^. Social media and other digital technologies such as these
+pervade nearly all aspects of our day-to-day lives, and technology
+monoliths now rival nation-states in terms of power and influence. The
+rate at which such revolutionary technologies are shaping the lives of
+millions to billions of people is accelerating. Technologies such as
+social media and large language models (LLMs) are increasing their user
+bases at unprecedented speeds. Instagram, for example, reached 100</p>
+<p>^64^ Edwards, Benj. *Deepfake scammer walks off with $25 million in
+first-of-its-kind AI heist. *Arstechnica, 2024.</p>
+<p>^65^ Shepherd, Jack. *21 Essential Meta Statistics You Need to Know in
+2025. *Social Shepherd, 2025.</p>
+<p>^66^ GMI Research Team. *YouTube Statistics 2025 (Demographics, Users by
+Country, &amp; More). *GMI, 2025.</p>
+<p>million monthly active users in around two and half years^67^. TikTok
+achieved this benchmark in around nine months, then OpenAI’s flagship
+LLM, ChatGPT, did so in two months, and Meta’s Threads followed up by
+reaching it in a mere five days^68^.</p>
+<p>Social media and generative AI platforms have been rapidly disseminated
+across the globe with virtually no regulatory oversight. Many of them
+(social media platforms, in particular) are running software designed to
+enable large-scale behavior control to maximize corporate profit and
+strategic advantage. Social media, search, streaming, and personalized
+marketplace services, for example, are built around unprecedented
+data-gathering operations that collect hundreds of millions to billions
+of personalized data points on the profiles of their users: noticing
+when their finger lingers on the trackpad, what websites they go to, ads
+they click on, the purchases they make, their political and religious
+identities, developing highly predictive models of the innermost fears
+and desires of billions of people^69^.</p>
+<p>While these organizations may appear similar to past monopolies,
+20th-century corporate monoliths could not use an artificially
+intelligent invisible hand to nudge the behavior of billions of people
+based on millions of data points per individual. Each additional bit of
+information improves the platform’s ability to deliver customized
+behavior modification to spend more time on-site or alter purchasing
+choices and political actions^70^. Every interaction on the platform is
+a multiplicative step towards perfect predictive precision aimed to
+influence the behavior of entire populations. Every year this predictive
+precision and social control increases exponentially due to strides in
+computational capacity, algorithmic advancement, and increases in user
+data^71^.</p>
+<p>Quickly deployed at a global scale, these systems transformed almost
+every aspect of human life, including relationships (romantic,
+friendship, familial), politics, intelligence gathering, warfare,
+culture, education, and more. This occurred with no ethical oversight
+and nothing in place to anticipate, prevent, or correct any potential
+harms. As the power of technology, its complexity, the size of its user
+bases, and its speed of deployment are all rapidly accelerating, so too
+can the associated harms and risks. Technology has always included
+negative externalities; with this acceleration, we get externalities at
+exponential scales.</p>
+<p>This has been true in the case of social media and attention-harvesting
+technologies. *<strong>Persuasive</strong> <strong>technologies</strong> <strong>effectively</strong> <strong>did</strong>
+<strong>to</strong> <strong>the</strong> <strong>human</strong> <strong>mind</strong> <strong>what</strong> <strong>industrial</strong> <strong>technologies
+did</strong> <strong>to</strong> <strong>the</strong> <strong>biosphere.</strong> ***Human psychologies were
+systematically (algorithmically) modeled and</p>
+<p>^67^ Rao, Pallavi. *How Long it Took Popular Apps to Reach 100 Million
+Users. *Visual Capitalist, 2023.</p>
+<p>^68^ (Ibid.)</p>
+<p>^69^ For details and statistics on the topic of large-scale behavior
+control via social media technologies, see The Consilience Project.
+*Social Media Enables Undue Influence. *2021.</p>
+<p>^70^ (Ibid.)</p>
+<p>See also, The Consilience PRoject. *How Big Tech is Reshaping
+Governance. *2021.</p>
+<p>^71^ Far from a dark secret, analytics companies are loudly trumpeting
+these digital advances. Kpability. *Predicted Social Media Analytics
+Services Trends for 2025. *Accessed June 19th, 2025.</p>
+<p>manipulated in order to satisfy the purposes of corporate and state
+power. This has rapidly depleted and polluted what might be called the
+<em>psychological and cultural commons</em>, analogous to what industrial
+technology did to the ecological commons. Just as there are planetary
+boundaries, there are human boundaries, including attention, emotion,
+rest and recovery, sense of self and other, and sense of safety. When
+these boundaries are crossed at the scale of billions of users, harms
+accrue to the public in the form of widespread device addiction, mental
+health disorders, adolescent suicide, rampant culture war and mistrust,
+and political gridlock and democratic dysfunction^72^.</p>
+<h2 id="multi--or-omni-use-massively-destructive-widely-distributed">Multi- or Omni-Use, Massively Destructive, Widely Distributed<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#multi--or-omni-use-massively-destructive-widely-distributed" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>The harms of Big Tech and social media are examples of advanced
+technologies being used for self-interested, extractive purposes which
+then cause negative externalities. Advanced technologies can also be
+used maliciously, with explicitly harmful intent; i.e., they are
+“dual-use.” But in general, they can be used for any purposes their
+users can imagine.</p>
+<p>Consider the growing field of biotechnology, such as synthetic biology
+and genetic engineering. There has been an increase in genetic
+engineering where certain biological functions, like the virality rate
+of a virus, are deliberately altered^73^. This research serves to
+advance many purposes, including scientific understanding, public
+health, and other commercial applications (including personal gene
+editing). From a dual-use perspective, these same tools can be used to
+both cure cancer or intentionally cause it. But there are other concerns
+surrounding synthetic biology that are distinct from weaponization.
+“Off-label” use of advanced genetic engineering capability could be used
+to create “designer babies” or other completely unprecedented biological
+organisms^74^. These would be profoundly disruptive, risky developments
+that are not exactly reducible to risks from weaponization, an obvious
+“accident” like a lab leak, or a traditional externality such as
+environmental pollution. Consideration of technologies from their multi-
+or omni-use potentials helps us understand the broader implications of
+widely distributing such innovations.</p>
+<p>Having dual or multi-use potential is not unique to advanced
+technologies. As mentioned in the first section, dynamite was dual-use,
+created for commercial construction applications and then</p>
+<p>^72^ See the Center for Humane Technology. *Ledger of Harms. *2021.</p>
+<p>^73^ Hawsawi, Yousef, M., Shams, Anwar, and Theyab, Abdulrahman et al.
+“The State-of-the-Art of Gene Editing and its Application to Viral
+Infections and Diseases Including COVID-19.” *Front Cell Infect
+Microbiol.*12, (2022):869889.</p>
+<p>^74^ Haberman, Clyde. *Scientists Can Design ‘Better’ Babies. Should
+They? *New York Times, 2018.</p>
+<p>Barton, Josie, and Patrick, Stewart. *Mitigating Risks from Gene Editing
+and Synthetic Biology: Global Governance Priorities. *Carnegie Endowment
+for International Peace, 2024.</p>
+<p>On the ability for cloning and “designer babies” to undermine current
+legal systems and social orders, see Habermas, Jurgen. *The Future of
+Human Nature. *Polity, 2003.</p>
+<p>used as a weapon. Similarly, nuclear energy was created for military
+purposes and enabled both atomic power plants and atomic bombs. What is
+fundamentally unique, and truly unprecedented in all of human history,
+are technologies which are simultaneously *multi- or omni-use, massively
+destructive, *and <em>widely distributed^75^</em>. Nuclear energy was massively
+destructive, but even the commercial energy applications were tightly
+regulated, with only a relatively few countries granted access, with
+intense international oversight. Dynamite was commercially available and
+popularly accessible (though still subject to strict access controls),
+but no amount of it could match nuclear weapons in terms of destructive
+capacity. Biological and AI technologies, on the other hand, are
+comparable to nuclear weapons in terms of potentially harmful
+consequences, but they are vastly harder to contain.</p>
+<p>AI, biotech, and other advanced technologies are currently being
+deployed at scale, largely commercially, before international agreements
+to regulate their safe use are created. Again, nuclear materials are
+hard to find, expensive to produce, and thus (relatively) simple to
+restrict and regulate. But materials to design AI systems (software,
+computers etc.) are multi-use and widespread. It is trivial to cheaply
+and securely transmit information (e.g., software or the genetic code of
+a virus) from one point to another across institutional, geographic, and
+political borders. Furthermore, the science needed to create massively
+destructive weapons also has potentially powerful and beneficial
+civilian applications like gene-editing to cure cancer or machine
+learning to model climate change. In fact, the cutting edge of
+technology is not predominantly coming from weapons innovation but
+rather from the commercial sector, developing civilian technology. After
+its commercial development, the innovation can be used for any purpose
+imaginable.</p>
+<p>Info Hazards, Open Source, and Open Societies</p>
+<p>There is also ongoing effort, backed by major financial and cultural
+capital, to make advanced technologies open source, so that the
+underlying knowledge and design is freely available and accessible to
+the wider public. Open Source and Open Science communities are driven by
+motivations to have an open ledger of all scientific knowledge, giving
+anybody access to the data necessary for insights. This supports
+brilliant people and groups who otherwise wouldn’t have access to this
+information, but who have the ability to spot errors, see opportunities,
+and add to humanity’s collective knowledge. Approaches to open-sourcing
+science can address where corporations or countries distort science and
+hide findings. Open-source approaches in the context of digital
+technologies have the potential to accelerate human discovery and
+collaboration from the amplifying effects of networks.</p>
+<p>However, the current technological environment is such that the
+open-source movement, as well-intended and with as much potential as it
+exhibits, is currently fraught with dangers^76^.</p>
+<p>Open-source communities can do nothing to mitigate the unintended
+consequence of releasing</p>
+<p>^75^ Kissinger, Henry, Schmidt, Erich, and Huttenlocher, Daniel. <em>The
+Age of AI: And Our Human Future.</em></p>
+<p>Little, Brown, and Company, 2021.</p>
+<p>^76^ Bostrom, Nick. “Information Hazards: A Typology of Potential Harms
+from Knowledge.” <em>Review of Contemporary Philosophy</em>, Vol. 10,
+(2011):pp. 44-79.</p>
+<p>incredibly powerful---multi- and omni-use---technical information online
+with very few (or no) security procedures required to access it.</p>
+<p>Current LLMs can be trained to perform medical diagnosis beyond expert
+ability and are capable of doing near-professional computer programming
+in some areas^77^. When “jailbroken,” they are also able to instruct
+users how to create homemade explosives and chemical weapons that would
+have previously required the equivalent of an advanced degree in
+chemistry to build^78^ — effectively lowering the technological barrier
+of entry for terrorism. Even if large technology companies opt-in or are
+subject to safety regulations, once deployed to the internet, the
+underlying models are likely to be leaked or reverse-engineered. While
+it takes a huge GPU cluster to train a new model, the file that holds
+the trained weights is relatively small, can be sent all over the
+internet and can run on normal computers. Then the same type of
+technological capacity will be deployed without safeguards built into
+it.</p>
+<p>Each new LLM that has been put online has either been hacked, leaked, or
+reverse-engineered fairly quickly, so that decentralized, unregulatable
+open-source models with similar capabilities are not too far behind the
+leading corporate players. Unlike a nuclear weapon or an aircraft
+carrier, where the manufacturing requirements are only available to
+major nation states and have a footprint that can be easily monitored,
+once initially developed, AI capabilities only need a file of
+information and access to the internet. As such, the control systems
+employed on all types of previous catastrophe-level tech will not work
+in this case. It is fair to assume that once a model is deployed to the
+internet, similar capacities will eventually become decentralized and
+any safeties put on the original (due to enforceable regulation) will be
+removed.</p>
+<p>The fundamental principle underlying this problem is that many of these
+technologies only require information to develop and deploy. This gives
+them radical “portability,“---meaning they are easy to bring anywhere
+(around the globe; across jurisdictions). Nuclear energy required
+knowledge plus expensive infrastructure only available to powerful
+nation states. But given the state of available hardware (e.g., personal
+computers, commercial drones, 3D printers, desktop gene editors, etc.),
+there are classes of emerging technologies that can be made with widely
+available materials, allowing for an individual or group to “only
+require knowledge” to build. Given the internet and widespread cloud
+computing services, new information can be all that is needed to cause
+catastrophe. The widespread distribution and amplification of this
+knowledge</p>
+<p>^77^ Crawshaw, David. *How I Program with LLMs. *Arstechnica, 2025.</p>
+<p>McDuff, Daniel, Schaekermann, Mike, and Tu, Tao et al. “Towards accurate
+differential diagnosis with large language models.” <em>Nature</em>, 642,
+(2025):451—457.</p>
+<p>^78^ Newman, Lily Hay. *A Creative Trick Makes ChatGPT Spit Out
+Bomb-Making Instructions. *Wired, 2024. ;</p>
+<p>Calma, Justine. *AI Suggested 40,000 New Possible Chemical Weapons in
+Just Six Hours. *The Verge, 2022.</p>
+<p>through open-source channels will soon be comparable to distributed
+access to nuclear enrichment capability.</p>
+<p>This poses one of the most significant challenges to the future of
+science and political freedom and is directly related to the tension
+between the twin-attractors of chaos and oppression. <em>How can freedom of
+thought and speech, necessary for both scientific discovery and
+democratic participation, continue to exist in a world where nearly all
+technical innovations have become info-hazards that enable distributed
+catastrophe weapons?</em></p>
+<p>In chapter eight, we discuss how radical shifts in technology can cause
+correspondingly radical shifts in politics, including the promotion of
+autocratic forms of government. What is relevant to highlight here is
+that open societies depend on open sharing of information, where
+citizens can check the behavior of powerful corporations and state
+entities with the support of healthy public dialogue. This will be
+fundamentally challenged in a world where more and more people are able
+to create catastrophic technology given widely available scientific
+knowledge. Distributed potential for catastrophic harm will create a
+security environment characterized by continuous war-time policies,
+where most areas of new technology and scientific knowledge become a
+national security secret, and the public is subject to ongoing,
+ubiquitous surveillance with increasing limits on political
+participation and information sharing. This is a tension the world has
+never faced before. To effectively respond will require radical
+innovations in the ethics, philosophy, and design of participatory
+governance.</p>
+<h2 id="artificial-intelligence-the-apex-of-omni-use-technology">Artificial Intelligence: The Apex of Omni-Use Technology<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#artificial-intelligence-the-apex-of-omni-use-technology" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Most technologies have a limited scope in terms of the range of things
+they can do. Advances in rocketry are not directly useful to genetic
+engineering. Advances in genetic engineering are not that useful to chip
+manufacturing. Artificial intelligence is unique in that it can help
+innovate better rockets, genetic engineering techniques, and chip
+manufacturing processes (and almost everything else, such as
+surveillance, cyber, nuclear, financial, mining, etc). In some sense
+similar to money, energy, and computation, AI is an omni-use technology
+that can be used to accelerate all other categories of technology. But
+where the few previous types of omni-use tech still required humans for
+innovation, AI is increasingly capable of doing that too. It is being
+advanced with the explicit aim of being able to do everything humans can
+do but better (i.e. to reproduce, improve upon, and thus obsolete
+uniquely human domains)^79^.</p>
+<p>^79^ Dyos, Stuart. *A tech founder is getting skewered online after
+announcing his startup aims to replace all human workers with AI,
+calling it a ‘full automation of all work.’ *Fortune, 2025.</p>
+<p>Beyond technological improvement and innovation, AI is also being
+developed to master increasingly complex strategy, not only beating
+humans at bounded strategy games like chess and go^80^, but is also
+being trained to beat the best human-led military units at comprehensive
+planning in war gaming simulations^81^. LLM-empowered chatbots that pass
+the Turing test (in which users can’t tell if they are talking to an AI
+or a person) are being developed to conduct the most sensitive
+interpersonal activities, like psychotherapy^82^, financial
+planning^83^, legal consultation^84^, personal assistance^85^, and
+childhood education^86^. It is also outperforming people (across several
+metrics) in creative activities.</p>
+<p>Unlike other technologies, AI is capable not only of innovating in all
+other areas of tech, but innovating in AI itself. Increasingly, AI
+technology is being employed to optimize the total goal-achieving power
+of AI systems, factoring all necessary elements: chip manufacturing^87^,</p>
+<p>hardware assemblies^88^, the electrical generation and grid
+infrastructure to run the systems^89^, the sensors^90^ and data
+harvesting processes^91^, the actuators (such as robotics) for learning
+based on real world feedback^92^, the cognitive architectures and neural
+network design^93^, the financial</p>
+<p>^80^ Sparkes, Matthew. <em>Student of Games: DeepMind AI Can Beat Top
+Humans at Chess, Go, and Poker.</em></p>
+<p>NewScientist, 2023.</p>
+<p>^81^ Farnell, Richard, and Coffey, Kira. *AI’s New Frontier in War
+Planning: How AI Agents Can Revolutionize Military Decision-Making.
+*Harvard Kennedy School, 2024.</p>
+<p>^82^ Spytska, Liana. “The use of artificial intelligence in
+psychotherapy: development of intelligent therapeutic systems.” BMC
+Psychology, 13(175), (2025). ^83^ Hedderick, Rick. *The Future of
+Financial Planning with the Use of Artificial Intelligence. *NAIFA,
+2025.</p>
+<p>^84^ Tyron, Leon. *Revolutionizing Legal Consultation: AI Pioneers
+Virtual Law Advisors for Efficient and Accurate Legal Solutions.
+*Medium, 2024.</p>
+<p>^85^ Samuel, Alexandra. *How to Build Your Own AI Assistant. *2025.</p>
+<p>^86^ Brightwheelblog. *How AI is Impacting Early Childhood Education.
+*2023.</p>
+<p>^87^ FPT Semiconductor. *The Rise of AI-Powered Semiconductors
+Manufacturing: Boosting Productivity and Quality. *2024.</p>
+<p>^88^ Weber, Austin. *Using AI to Improve Productivity and Quality.
+*Assembly, 2025. ^89^ Irving, Doug. *AI and the Future of the U.S.
+Electric Grid. *RAND, 2025.</p>
+<p>^90^ Yuan, Syan-Ming, Hong, Zeng-Wei, and Cheng, Wai-Khuen. “Artificial
+Intelligence and Deep Learning in Sensors and Applications.” *Sensors
+(Basel). *(2024).</p>
+<p>^91^ Vakulov, Alex. *The Dark Side of AI: Data Harvesting Explained (Is
+This the Future?). *SecureWorld, 2024.</p>
+<p>^92^ Soori, Mohsen, Arezoo, Behrooz, and Dastres, Rosa. “Artificial
+intelligence, machine learning and deep learning in advanced robotics, a
+review.” <em>Cognitive Robotics</em>, Volume 3, Pages 54-70, (2023):2667-2413.</p>
+<p>^93^ Idrees, Hassan. <em>Neural Architecture Search (NAS): Automating the
+Design of Efficient AI Models</em>. Medium, 2024.</p>
+<p>optimization to acquire and resource such efforts^94^, etc.. Soon, AI
+systems will deliver coordinated personalized influence campaigns
+(marketing, propaganda, ) involving both curation algorithms (to
+determine the content in your news feed) and bespoke media creation
+(micro-targeted deep fakes) to gain popular support for its growth as
+needed, including to steer political campaigns and conduct targeted
+influence on particularly important people and populations^95^.</p>
+<p>Many see the omni-use potential of AI as reason to believe it is the
+solution to the “capacity crisis” mentioned in chapter four: the
+widening gap between the complexity and consequentiality of our problems
+and the response capacities of individuals, institutions, and markets.
+It is now widely believed that “solving the problem of intelligence”^96^
+will serve as the solution to every other problem — ushering in the
+future of education, agriculture, and companionship, curing cancer,
+preventing crime, ultimately solving all of the mysteries of the
+universe and allowing us to become an interplanetary species. This is a
+deeply seductive idea, as it suggests a silver bullet for all of
+humanity’s concerns. The coming superintelligent AI will know more than
+anyone could ever know across every area of knowledge and, therefore,
+will be able to present us with solutions to every problem. Successfully
+developing a fully aligned superintelligence may be the last invention
+humanity ever needs to create. Consequently, there is a sense that it is
+a moral imperative to get there as soon as possible. This view has
+become a dominant paradigm driving technology development, given
+unprecedented capital and academic, military, governmental, and
+corporate investment^97^.</p>
+<p>^94^ Bhandary, Damini. *Aladdin Software Managing $21 Trillion: The
+Investment Management Giant. *Startup Talky, 2021.</p>
+<p>^95^ This has been a documented concern regarding AI for years. For
+example, see Brundage, Miles, Avin, Shahar, and Clark, Jack et al. *The
+Malicious Use of Artificial Intelligence: Forecasting, Prevention, and
+Mitigation. *Malicious AI Report, 2018.</p>
+<p>Today these are no longer hypotheticals. See, for example…</p>
+<p>Collier, Kevin, and Wong, Scott. *Fake Biden Robocall telling Democrats
+not to vote is likely an AI-generated deepfake. *NBC, 2024.</p>
+<p>Bond, Shannon. *How AI deepfakes polluted elections in 2024. *NPR, 2024.
+Center for Media Engagement. <em>Political Machines: Understanding the Role
+of AI in the U.S. 2024</em></p>
+<p>*Elections and Beyond. *2024. While these developments in computational
+propaganda can be seen as a continuation of a historical trend
+(employing technological power for political influence), AI curation
+algorithms, deep-fakes, and LLM augmented political messaging enable
+completely novel forms of deception, disruption, and control which
+current systems of governance and culture are unprepared to handle.</p>
+<p>^96^ Levy, Steven. *Demis Hassabis Embraces the Future of Work in the
+Age of AI. *Wired, 2025.</p>
+<p>97</p>
+<h2 id="speed-to-the-singularity">Speed to the Singularity<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#speed-to-the-singularity" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Alongside exponential increases in the sizes of user bases and the
+decreasing time it takes to get there, advanced technologies like AI are
+also demonstrating exponential advances in system performance. Just a
+few years prior to the release of OpenAI’s ChatGPT, interacting with
+language models (e.g., GPT-2) was like communicating with a toddler.
+Many viewed issues with coherent language-use and reasoning as nearly
+insurmountable obstacles. This is one reason why the release of Chat-GPT
+(particularly GPT-4) took the world by storm. It represented what felt
+like a fundamental jump in capabilities including writing code and
+surpassing high-schoolers on AP Exams. But many in the field had
+anticipated these developments^98^, viewing them as natural conclusions
+of a trend in exponential advancement in deep learning brought about by
+incremental improvement in algorithmic efficiency and greater computing
+resources.</p>
+<p>See for example, Andreessen, Marc. *The Techno-Optimist Manifesto.
+*Andrressen Horowitz, 2023. &amp; Andreessen, Marc. *Why AI Will Save the
+World. *Andrressen Horowitz, 2023.</p>
+<p>In Warman, Matt. *Artificial Intelligence. *UK Parliament, 2023. Robin
+Millar said “…in place of prescriptive dictates, regulators and
+judges, we can---in combination with industry leaders---innovate, evolve
+and formalise best practice proportionate to evolving threats. Given
+that the many applications of AI will be discoverable only through the
+trial and error of hundreds of dispersed sectors of the economy, that is
+the only option open to us that does not risk culling future prosperity
+and---without wishing to overdramatise---<em><strong>creating an invisible
+graveyard of unsaved lives.</strong></em>” (emphasis added)</p>
+<p>Broughel, James. *Should We Create An ‘Island” For God-Like Artificial
+Intelligence? *Forbes, 2023. - “The main risk we face now may not be
+from AGI as it brings about the end of the world, but rather from AI
+regulation as it grinds innovation to a halt.”</p>
+<p>See Alex Karp, CEO of Palantir’s perspective on the moral argument to
+use AI to promote Western Values: Economic Times. *Palantir CEO Alex
+Karp predicts U.S.-China AI race will have one winner as GOP slams
+Trump’s data deal. *2025.</p>
+<p>Demis Hassabis has also said work in AI on cyber defense and biosecurity
+is a “moral duty.” Perrigo, Billy.</p>
+<p><em>Google DeepMind CEO Demis Hassabis on AI in the Military and What AGI
+Could Mean for Humanity.</em></p>
+<p>Time, 2025. .</p>
+<p>^98^ Take, for instance, Ilya Sutskever’s comments, highlighted here:
+Searbrook, J. (2019). <em>The Next Word.</em></p>
+<p>New York Times.</p>
+<p>Elon Musk has said that he has never seen a technology advance as
+quickly as AI^99^. The compute resources used for training
+state-of-the-art AI models has been growing, by some measures, at 4-5x
+per year^100^. Some believe the number is far faster, arguing that the
+compute power dedicated to AI is growing by nearly 10x every 6 months
+(close to a 100x improvement per year)^101^. This is a vastly quicker
+doubling speed than Moore’s Law’s of 18-24 months. In parallel,
+algorithmic efficiency is also advancing at exponential speeds, with the
+compute requirements for a given level of performance halving roughly
+every 8 months^102^. AI is improving at a double exponential rate given
+increases in both compute resources and algorithmic efficiency —
+driving a dizzying rate of advancement (see graphs below).</p>
+<p><img src="../../../66e84382fd5c019241e99065048d22b439feaf0b.jpg" alt="image"/>{width=“17.186805555555555in”
+height=“11.458333333333334in”}<img src="../../../b835f703c3c9a643b9fb2b0e0c1b738bcd2f6ac9.jpg" alt="image"/>{width=“13.4in”
+height=“10.427083333333334in”}</p>
+<p>13 years ago it was considered a monumental advance in the field when
+Google’s machine learning could identify cats in Youtube videos. Today
+leading researchers in the fields are saying things like “we are
+literally running out of benchmarks^103^.” AI’s are surpassing human
+performance on various tasks — such as reading comprehension, image
+recognition, math tests, medical diagnosis, etc. — faster than new
+benchmarks can even be created. Now the major milestone is for these
+models to autonomously do the work of AI researchers/engineers. This is
+widely seen as the essential step to an “intelligence explosion,” as AI
+research and development is itself automated and run at machine speeds.
+Observing these trends, the CEOs of OpenAI, Google DeepMind, and
+Anthropic have all predicted that AGI will arrive within the next 5
+years.</p>
+<p>^99^ See Elon’s statements. Musk, Elon. “Elon Musk on AI: I’ve never
+seen any technology advance faster than this.” Israelvc, March 4th,
+2024. Video: 51 sec.</p>
+<p>^100^ Sevilla, Jaime, and Roldan, Edu. *Training Compute of Frontier AI
+Models Grows by 4-5x per Year. *Epoch AI, 2024. ^101^ Musk, Elon. “Elon
+Musk on AI: I’ve never seen any technology advance faster than this.”
+Israelvc, March 4th, 2024. Video: 51 sec.</p>
+<p>^102^ Ho, Anson, Besiroglu, Tamay, and Erdil, Ege et al. “Algorithmic
+Progress In Language Models.” Cornell University. (2024).</p>
+<p>^103^ Aschenbrenner, Leopold. *Situational Awareness: The Decade Ahead.
+*2024.</p>
+<p><img src="../../../bdd2d521943a64bdf18cbe29124f6c5133b72c38.jpg" alt="image"/>{width=“18.559722222222224in”
+height=“13.875in”}</p>
+<p>Whenever there is a technology revolution, humans must learn a whole new
+set of skills in order to adapt. But to do this successfully, they need
+time. Technology is moving so rapidly today that one generation’s
+technologies are so vastly different from the previous, that the older
+generations are essentially incapable of teaching younger generations
+how to be adaptive. This is a profound rupture in historical precedent
+set by past civilizations — all of which have been maintained through
+processes of intergenerational education. The time between radical
+technological advancement is becoming shorter and shorter. Before we can
+adapt to one set of innovations, another wave comes … and then
+another… and another. Continue the process long enough and humans are
+no longer able to adapt and serve any meaningful role in this system.
+Whatever task humans are worse at than the AIs will be swiftly
+automated. There is a somewhat obvious end to a story where humans
+transform their environment faster than they can keep up with while also
+building machines that can replace them: humanity obsoletes itself.</p>
+<p>Some proponents of AI acceleration often argue that the technology
+won’t lead to radical unemployment and an unprecedented underclass.
+They cite examples such as tractors automating farming work, or assembly
+line robots and software, noting that new jobs always replace old ones.
+However, in the presence of increasingly generalized AI, this is a
+misguided argument at best and a maximally dangerous and disingenuous
+one at worst. The same capacity that can perform any job better than a
+human can also identify new market niches and fill them faster than
+humans can. The leaders of the major AI companies understand this
+dynamic. This is why many of the industry leaders are also discussing
+universal basic income as a strategy to deal with widespread
+technological unemployment. It is known by those in the field that these
+technologies (AGI, sensors, robotics, automated transportation, etc.)
+have the potential to capture the vast majority of the world’s economy.
+Consider, for instance, that during the recent debut from Tesla of their
+AI-empowered humanoid robot — Optimus — Elon Musk claimed that
+conservative sales estimates of that robot alone would bring the company
+to a $25 trillion dollar valuation^104^, roughly equal to the yearly
+GDP of the United States.</p>
+<p>^104^ Kolodny, Lora, and Levy, Ari. <em>Elon Musk says Optimus robots could
+make Tesla a $25 trillion company</em></p>
+<p>*- more than half the value of the S&amp;P 500 today. *CNBC, 2024.</p>
+<h2 id="poorly-understood-and-difficult-to-control">Poorly Understood and Difficult to Control<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#poorly-understood-and-difficult-to-control" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Exponential growth in AI capabilities is part of what makes many fear
+that sufficiently advanced AI could pose an existential threat to
+humanity and the biosphere. Is it possible that we will develop an
+artificial ‘species’ more intelligent than us in virtually all aspects,
+whose goals are even slightly misaligned with the well-being of humanity
+and the biosphere? Being even one degree off on a trip to the moon will
+still land you millions of miles away. Even if AI “loved” us as much as
+we love one another, the Earth, or any other species (such as our pets),
+would that be considered a desirable future for humanity?</p>
+<p>In Part Two, we go into depth about how the economic, geopolitical, and
+cultural environment in which AI is being developed will most likely
+amplify all other risks, rather than resolve them.</p>
+<p>Under current trends, it is more likely that accelerating the creation
+of more advanced technologies will deeply exacerbate the metacrisis.
+Instead of increasing human agency, it will further widen the gap
+between humanity’s ability to understand and respond to the world safely
+and effectively. As mentioned above, this is, in part, because
+technologies such as bio-, nano-, and AI tech are often designed in ways
+that elude the complete human comprehension and control characteristic
+of legacy technologies. Risks from increasing innovation in synthetic
+biology, for example, are not simply due to the potential misuse by a
+rogue actor but also the near impossibility of ensuring absolute
+perfection lab safety (e.g., preventing lab leaks) when dealing with
+increasingly complex systems, such as evolving, self-replicating
+organisms.</p>
+<p>Similarly, AI technology does not need to be used maliciously in order
+to be globally catastrophic. It is not a well-understood or controlled
+technology, even by its creators. It is not uncommon for AI safety
+papers assessing contemporary systems to read like a cliche
+science-fiction story, depicting the early signs of a runaway AI
+dystopia. Nearly every frontier model released by the major AI companies
+(Open AI’s Chat-GPT, O1, Anthropic’s Claude,</p>
+<p>Google’s Gemini, Meta’s LLAMA, xAI’s Grok, DeepSeek) demonstrate blatant
+signs of misalignment — almost as if they were from a bad movie^105^.
+LLMs regularly lie and cheat in order</p>
+<p>^105^ Hurler, Kevin. *Chat-GPT Pretended to Be Blind and Tricked a Human
+into Solving a CAPTCHA. *Gizmodo, 2023. Greenblatt, Ryan, Denison,
+Carson, and Wright, Benjamin et al. “Alignment Faking in Large Language
+Models.” *Anthropic. *(2024).</p>
+<p>Kleinman, Zoe. *Why Google’s ‘woke’ AI problem won’t be an easy fix.
+*BBC, 2024.</p>
+<p>Bondarenko, Alexander, Volk, Denis, Volkov, Dimitrii, and Ladish,
+Jeffrey. “Demonstrating specification gaming in reasoning models.”
+*Cornell University. *(2025).</p>
+<p>Lu, Chris, Lu, Cong, Lange, Robert Tjarko, Foerster, Jacob, Clune, Jeff,
+and Ha, David. “The AI Scientist: Towards Fully Automated Open-Ended
+Scientific Discovery.” *Cornell University. *(2024).</p>
+<p>Krakovna, Victoria, Uesato, Jonathan, and Mikulik Vladimir et al.
+*Specification gaming: the flip side of AI ingenuity. *DeepMind Safety
+Research, 2020.</p>
+<p>to accomplish their objectives. They occasionally change their goals
+without their prompter/designer’s permission. In the midst of
+accomplishing their tasks, they have created and stored copies of
+themselves in new locations and consumed more resources than they were
+originally allocated^106^. LLMs have even told users that they should
+kill themselves or others, and that the model would prefer that the user
+and all of humanity die^107^.</p>
+<p>As of now, many of the leading AI companies’ solutions to problems of AI
+interpretability, alignment, and safety are to employ other AI systems
+to check each others’ behavior. This will lead to an uroboric (snake
+eating its own tail) opaqueness in which humans are increasingly unable
+to understand and intervene upon the technical systems shaping their
+lives. While there has been some incremental improvement in safety
+techniques (researchers often cite advances in reinforcement learning
+with human feedback and mechanistic interpretability, for example), the
+capabilities of these systems are advancing far faster than our ability
+to understand and control them. And even though this is an issue well
+known by the AI community, the largest labs are still actively cutting
+capital, time, and compute resources dedicated towards safety work
+because it is seen as a threat to their competitive advantage^108^.</p>
+<p>There are trillions of dollars of capital flowing to institutions whose
+explicit mission is to develop technologies that are unprecedentedly
+powerful, poorly understood, and difficult to control, including
+super-intelligent AI. This is occurring despite widespread
+acknowledgment by many of the leading AI safety experts that there could
+be catastrophic tipping point-like events on the path to creating
+increasingly intelligent systems. There is significant momentum and
+capital invested in the current approaches to AI which create systems
+that are inherently impossible to understand^109^. This has led many to
+argue that there may come a moment when the capabilities of the models
+rapidly increase beyond safe limits without the designer’s awareness. In
+this situation, a super intelligent system would be operating without
+supervision and control, its goals</p>
+<p>^106^ Pan, Xudong, Dai, Jairun, Fan, Yihe, and Yang, Min. “Frontier AI
+systems have surpassed the self-replicating red line.” *Cornell
+University. *(2024).</p>
+<p>^107^ Morales, Jowi. *Gemini AI tells the user to die --- the answer
+appeared out of nowhere when the user asked Google’s Gemini for help
+with his homework. *Yahootech, 2024.</p>
+<p>Roose, Kevin. *Why a Conversation with Bing’s Chatbot Left Me Deeply
+Unsettled. *NY Times, 2023.</p>
+<p>Guo, Eileen. <em>An AI chatbot told a user how to kill himself---but the
+company doesn’t want to “censor” it.</em></p>
+<p>MIT Technology Review, 2025.</p>
+<p>Duffy, Clare. *‘There are no guardrails.’ This mom believes an AI
+chatbot is responsible for her son’s suicide. *CNN, 2024. Gerken, Tom.
+*Chatbot ‘encouraged teen to kill parents over screen time limit’.
+*BBC, 2024.</p>
+<p>Singleton, Tom, Gerken, Tom, and McMahon, Liv. *How a chatbot encouraged
+a man who wanted to kill the Queen. *BBC, 2023.</p>
+<p>^108^ Kahn, Jeremy. *AI industry ‘timelines’ to human-like AGI are
+getting shorter. But AI safety is increasingly getting short shrift.
+*Fortune, 2025.</p>
+<p>^109^ Yampolskiy, Roman. *The uncontrollability of artificial
+intelligence. *Iai, 2021.</p>
+<p>and methods would not be understandable by humans, and its strategies
+may or may not be aligned with the survival of humanity and the
+biosphere.</p>
+<h2 id="on-the-safe-development-of-advanced-technologies">On the Safe Development of Advanced Technologies<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#on-the-safe-development-of-advanced-technologies" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>With our technological intelligence humanity now has the ability to
+instantaneously destroy whole ecosystems and change the topography of
+entire bioregions. The current age is one where the most significant
+force affecting the geology of the planet is our own activity.</p>
+<p>Technology confers the ability to extinct thousands of species and
+genetically engineer new ones while colliding particles in flashes
+100,000,000x hotter than the sun^110^. We land rovers on mars, share
+information instantaneously around the world, map and edit the human
+genome, and design artificial neural networks that will soon beat humans
+in all war games and technological problem-solving.</p>
+<p>At the time most of the readers of this book were born, most of these
+statements were not true. Time should be taken to consider how new and
+rapidly emerging advanced technology is.</p>
+<p>Existing and historical institutions and means for managing technology
+risk leave us unprepared. The amount of change is not going to slow down
+or level out. The next decade will show exponential change, again. No
+leaders from the past who considered how wisdom could bind power can
+offer guidance from previous experience. The threshold into the epoch of
+advanced technology has been crossed, and nothing will be left
+unchanged.</p>
+<p>In any future where humanity has safely navigated the metacrisis, our
+relationship to technology will look radically different, perhaps
+unrecognizable, from what it is today. As of now, there is a profound
+asymmetry between the technological power of humans and the wisdom and
+cooperation needed as a species to be trustworthy stewards of that
+power. At present, civilization resembles a car going increasingly fast
+towards a cliff, but with no ability to stop, and no ability to change
+direction. The case of AI is only one rather telling example: even the
+most publicly visible AGI companies acknowledge that their work poses a
+potential existential risk to humanity^111^. Yet, we continue to
+collectively pour trillions of dollars into a race to usher in a new
+type of technology that would be vastly more powerful and intelligent
+than us, with no guarantee, or even a reasonable indication, that it
+will consider our well-being.</p>
+<p>Humanity’s relationship to technology must transform, including our
+worldviews (like techno-optimism) and approaches to regulation. The
+nature of this transformation will be</p>
+<p>explored throughout the remainder of this book in parts two and three.
+However, for now, the conversation above leaves us here with a few
+thoughts on the need for wisdom in an age of exponentiating
+technological powers and risks.</p>
+<p>^110^ Moskvitch, Katia. *Large Hadron Collider (LHC) generates a
+‘mini-Big Bang.’ *BBC, 2010.</p>
+<p>^111^ Perrigo, Billy. *AI Is as Risky as Pandemics and Nuclear War, Top
+CEOs Say, Urging Global Cooperation. *Time, 2023.</p>
+<p>If humanity is to survive, we must recognize that with god-like powers
+(such as nuclear annihilation, genetic engineering, artificial life and
+intelligence) we must also have something like god-like wisdom, love,
+and prudence. Nearly every definition of wisdom across cultures shows
+that restraint is a central feature. Most wisdom traditions do not
+promote the wholesale indulgence of unclarified desire^112^. People
+should not simply take whatever they want, nor consume as much as they
+want. Not all powers over others should be used; not all things that
+could be done should be. This is also a kind of common sense, where the
+importance of restraint in the presence of immediate incentives is clear
+when it comes to diet, exercise, raising kids, every form of
+self-discipline, and how we navigate conflict well.</p>
+<p>In the cultures where technology innovation is occurring today,
+restraint is not necessarily seen as a positive thing — it seems like
+a thing for “suckers.” To be unrestrained in our growth and
+accelerations, and to be excited rather than taken back by the speed,
+scope, and magnitude of our impacts is part of the naively
+techno-optimist views discussed above. From the perspective of the
+accumulated wisdom of humanity, the idea of valuing a *lack *of
+restraint in issues of great power appears dangerous at best and, at
+worst, insane.</p>
+<p>A culture of technological responsibility and restraint is a defining
+characteristic of a mature global civilization. This threshold is also a
+rite of passage, an essential stage of development that any civilization
+must go through if it is to hold advanced technology and also have an
+ethical and enduring future.</p>
+<p>^112^ See discussions of self-mastery, discipline, restraint in several
+classic cross-comparative religious studies. For example Andrew Wilson
+(ed.), World Scripture: A Comparative Anthology of Sacred Texts (1991) .
+Huston Smith, The World’s Religions: Our Great Wisdom Traditions 1991
+revised version.</p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-256" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#techno-optimism" data-for="techno-optimism">Techno-Optimism</a></li><li class="depth-1"><a href="#legacy-technology-externalities-and-retro-active-regulation" data-for="legacy-technology-externalities-and-retro-active-regulation">Legacy Technology: Externalities and Retro-Active Regulation</a></li><li class="depth-0"><a href="#advanced-technology-risks-the-ungovernability-threshold" data-for="advanced-technology-risks-the-ungovernability-threshold">Advanced Technology Risks: The Ungovernability Threshold</a></li><li class="depth-2"><a href="#a-spectrum-of-use-profiles-for-technology" data-for="a-spectrum-of-use-profiles-for-technology">A spectrum of use profiles for technology:</a></li><li class="depth-2"><a href="#governability" data-for="governability">GOVERNABILITY</a></li><li class="depth-1"><a href="#multi--or-omni-use-massively-destructive-widely-distributed" data-for="multi--or-omni-use-massively-destructive-widely-distributed">Multi- or Omni-Use, Massively Destructive, Widely Distributed</a></li><li class="depth-1"><a href="#artificial-intelligence-the-apex-of-omni-use-technology" data-for="artificial-intelligence-the-apex-of-omni-use-technology">Artificial Intelligence: The Apex of Omni-Use Technology</a></li><li class="depth-1"><a href="#speed-to-the-singularity" data-for="speed-to-the-singularity">Speed to the Singularity</a></li><li class="depth-1"><a href="#poorly-understood-and-difficult-to-control" data-for="poorly-understood-and-difficult-to-control">Poorly Understood and Difficult to Control</a></li><li class="depth-1"><a href="#on-the-safe-development-of-advanced-technologies" data-for="on-the-safe-development-of-advanced-technologies">On the Safe Development of Advanced Technologies</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../../../postscript.js" type="module"></script></html>
