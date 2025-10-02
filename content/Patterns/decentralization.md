@@ -1,4 +1,13 @@
 
+---
+title: decentralization
+aliases:
+  - Decentralization
+  - DECENTRALIZATION
+  - Patterns/Decentralization
+  - Patterns/decentralization
+---
+
 ## Definition and Political Theory
 
 **Decentralization** represents the distribution of control, decision-making authority, and resource allocation across multiple independent nodes, participants, or entities rather than concentrating these functions within singular hierarchical authorities. This concept extends far beyond technical system architecture to encompass fundamental questions about power distribution, democratic governance, and the organizational structures necessary for human coordination at scale.
