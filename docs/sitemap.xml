@@ -215,11 +215,20 @@
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Choice</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
   </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Circular-Economy</loc>
+    <lastmod>2025-10-03T03:15:39.023Z</lastmod>
+  </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Coase-Theorem</loc>
+    <lastmod>2025-10-03T03:13:44.250Z</lastmod>
+  </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Cognitive-Biases</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problem</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
+  </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problems</loc>
+    <lastmod>2025-10-03T03:19:38.575Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Intelligence</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
@@ -253,6 +262,9 @@
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/EVM-Layer-1-and-Layer-2-Foundations</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
+  </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Echo-Chambers</loc>
+    <lastmod>2025-10-03T03:08:02.002Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Ecological-Collapse</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
@@ -341,6 +353,9 @@
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Nash-Equilibrium</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
   </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Natural-Capital-Accounting</loc>
+    <lastmod>2025-10-03T03:17:20.547Z</lastmod>
+  </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Network-Nations</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
   </url><url>
@@ -388,6 +403,9 @@
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Complexity</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
+  </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Compliance</loc>
+    <lastmod>2025-10-03T03:09:49.598Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Resilience</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
@@ -439,6 +457,9 @@
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Tragedy-of-the-Commons</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
+  </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Transaction-Costs</loc>
+    <lastmod>2025-10-03T03:12:06.439Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Vitality,-Resilience,-Choice</loc>
     <lastmod>2025-10-02T20:34:12.000Z</lastmod>
@@ -549,7 +570,7 @@
     <lastmod>2025-10-02T20:34:12.000Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</loc>
-    <lastmod>2025-10-03T00:47:00.479Z</lastmod>
+    <lastmod>2025-10-03T00:51:02.000Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/zero-sum-competition</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
@@ -609,7 +630,7 @@
     <lastmod>2025-10-02T20:34:12.000Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</loc>
-    <lastmod>2025-10-03T00:47:00.479Z</lastmod>
+    <lastmod>2025-10-03T00:51:02.000Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Data-Indexing</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
@@ -682,6 +703,9 @@
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/MEV</loc>
     <lastmod>2025-10-02T20:34:12.000Z</lastmod>
+  </url><url>
+    <loc>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-Signature</loc>
+    <lastmod>2025-10-03T03:05:58.840Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-signature-accounts</loc>
     <lastmod>2025-10-02T20:34:12.000Z</lastmod>
@@ -780,7 +804,7 @@
     <lastmod>2025-10-02T20:34:12.000Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/smart-contracts</loc>
-    <lastmod>2025-10-03T00:41:46.000Z</lastmod>
+    <lastmod>2025-10-03T00:51:02.000Z</lastmod>
   </url><url>
     <loc>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/transaction-processing</loc>
     <lastmod>2025-10-03T00:41:46.000Z</lastmod>
