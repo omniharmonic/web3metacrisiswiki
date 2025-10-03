@@ -1,7 +1,5 @@
 ---
 title: "Tokenization"
-aliases:
-  - "Tokenization"
 ---
 
 

@@ -60,13 +60,6 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
       yield* emitRedirect(ctx, aliasTargetSlug, ogSlug)
     }
   }
-
-  // automatically add case-variant redirects to make wikilinks case-insensitive
-  for (const variant of generateCaseVariants(ogSlug)) {
-    if (variant !== ogSlug) {
-      yield* emitRedirect(ctx, variant, ogSlug)
-    }
-  }
 }
 
 export const AliasRedirects: QuartzEmitterPlugin = () => ({

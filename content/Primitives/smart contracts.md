@@ -1,8 +1,5 @@
 ---
 title: "Smart Contracts"
-aliases:
-  - "smart-contracts"
-  - "Smart-Contracts"
 ---
 
 # Smart Contracts
