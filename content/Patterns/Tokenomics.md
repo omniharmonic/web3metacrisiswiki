@@ -19,7 +19,7 @@ However, the practical implementation of tokenomics faces complex challenges inc
 
 Tokenomics implements programmable monetary policy through algorithmic control of token supply that attempts to balance inflation incentives for participation with deflationary pressures to maintain token value. This represents what economists term "endogenous money" where the money supply adjusts automatically based on network conditions rather than central bank discretion.
 
-The design of emission schedules involves complex trade-offs between providing sufficient rewards to incentivize early adoption and network security while avoiding hyperinflationary dynamics that could undermine token value and long-term sustainability. Bitcoin's deflationary model through halving cycles demonstrates one approach, while [[Ethereum]]'s transition to [[Proof of Stake]] with EIP-1559 fee burning represents a hybrid model that adjusts supply based on network usage.
+The design of emission schedules involves complex trade-offs between providing sufficient rewards to incentivize early adoption and network security while avoiding hyperinflationary dynamics that could undermine token value and long-term sustainability. Bitcoin's deflationary model through halving cycles demonstrates one approach, while [[Ethereum]]'s transition to [[Proof of Stake (PoS)]] with EIP-1559 fee burning represents a hybrid model that adjusts supply based on network usage.
 
 However, the effectiveness of algorithmic monetary policy remains largely untested at scale, particularly during periods of economic stress or changing adoption patterns. The rigid nature of smart contract-based monetary rules may prove less adaptive than human central bank discretion in responding to unforeseen economic shocks or systemic risks.
 
@@ -35,7 +35,7 @@ Yet empirical analysis reveals that even "fair launch" tokens often exhibit sign
 
 Effective tokenomics requires creating genuine utility demand for tokens beyond speculative trading through integration into protocol functionality, governance rights, and value capture mechanisms. This involves what economists term "derived demand" where token demand emerges from the utility of underlying services rather than expectations of price appreciation.
 
-[[Governance token]]s represent experiments in tokenizing decision-making rights over protocol parameters, treasury allocation, and strategic direction. However, most governance tokens exhibit low participation rates and concentration of voting power among large holders, suggesting that tokenized governance faces similar challenges to traditional democratic participation.
+[[Governance Tokens]]s represent experiments in tokenizing decision-making rights over protocol parameters, treasury allocation, and strategic direction. However, most governance tokens exhibit low participation rates and concentration of voting power among large holders, suggesting that tokenized governance faces similar challenges to traditional democratic participation.
 
 Revenue-sharing mechanisms that distribute protocol fees or revenues to token holders attempt to create investment-like utility for tokens, but face regulatory challenges as such mechanisms may classify tokens as securities under traditional financial law. The development of alternative value accrual mechanisms including token burning, staking rewards, and utility requirements represents ongoing experimentation in sustainable tokenomics design.
 
@@ -43,7 +43,7 @@ Revenue-sharing mechanisms that distribute protocol fees or revenues to token ho
 
 ### Proof-of-Stake and Slashing Mechanisms
 
-Tokenomics enables novel forms of economic security through [[Proof of Stake]] consensus mechanisms that replace energy-intensive computation with economic stake as the basis for network security. This approach creates what researchers term "cryptoeconomic security" where the cost of attacking the network scales with the economic value secured, theoretically enabling security guarantees that improve with network adoption.
+Tokenomics enables novel forms of economic security through [[Proof of Stake (PoS)]] consensus mechanisms that replace energy-intensive computation with economic stake as the basis for network security. This approach creates what researchers term "cryptoeconomic security" where the cost of attacking the network scales with the economic value secured, theoretically enabling security guarantees that improve with network adoption.
 
 [[Slashing]] mechanisms implement programmable penalties for validator misbehavior including double-signing, unavailability, or protocol violations. These penalties create what game theorists call "commitment devices" that make honest behavior incentive-compatible by ensuring that the cost of malicious behavior exceeds potential benefits.
 
@@ -102,12 +102,12 @@ The evolution toward more sophisticated tokenomics that prioritize utility creat
 [[Mechanism Design]] - Theoretical foundation for incentive-compatible system design
 [[Vitality]] - Organizing principle for tokenomics that enhance life-supporting capacity
 [[Choice]] - Individual and collective agency in tokenized governance systems
-[[Decentralized Autonomous Organizations]] - Organizational forms implementing tokenomics
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational forms implementing tokenomics
 [[Quadratic Funding]] - Democratic resource allocation using tokenized preferences
 [[Conviction Voting]] - Time-weighted governance mechanisms for committed decision-making
-[[Proof of Stake]] - Consensus mechanism securing networks through economic incentives
+[[Proof of Stake (PoS)]] - Consensus mechanism securing networks through economic incentives
 [[Slashing]] - Cryptoeconomic penalty mechanisms for deterring malicious behavior
 [[Public Goods Funding]] - Addressing systematic under-provision through tokenized coordination
 [[Governance Tokens]] - Digital assets representing decision-making rights in protocols
 [[Economic Security]] - Security models based on cryptoeconomic rather than computational proof
-[[Regulatory Capture]] - Risk of tokenized governance being dominated by special interests
+[[regulatory capture]] - Risk of tokenized governance being dominated by special interests

@@ -82,7 +82,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Decentralized Identity]]
+### [[decentralized identity]]
 - **Decentralized Identity Systems**: Decentralized identity systems in decentralized systems
 - **User Control**: User control over decentralized identity systems
 - **Transparency**: Transparent decentralized identity processes

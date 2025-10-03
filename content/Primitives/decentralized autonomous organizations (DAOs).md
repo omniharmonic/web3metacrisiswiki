@@ -1,9 +1,14 @@
 ---
+title: "Decentralized Autonomous Organizations (DAOs)"
 aliases:
   - "decentralized autonomous organizations (daos)"
   - "decentralized-autonomous-organizations-(daos)"
   - "Decentralized-Autonomous-Organizations-(Daos)"
   - "decentralized -autonomous -organizations (-d-a-os)"
+  - "DAO"
+  - "DAOs"
+  - "decentralized autonomous organizations"
+  - "Decentralized Autonomous Organizations"
 ---
 
 
@@ -164,7 +169,7 @@ aliases:
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Technical foundation
+- [[smart contracts]] - Technical foundation
 - [[Governance Tokens]] - Voting mechanism
 - [[Treasury_Management]] - Financial governance
 - [[Decentralized_Governance]] - Organizational structure

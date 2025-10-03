@@ -56,7 +56,7 @@ Research reveals systematic patterns including the promotion of extreme content 
 
 ### Self-Sovereign Identity and Data Ownership
 
-Web3 technologies attempt to address surveillance capitalism through [[Self-Sovereign Identity]] systems that enable individuals to maintain control over their digital identities and personal data without depending on centralized platforms that extract and monetize user information. These systems implement what computer scientist David Chaum calls "privacy by design" where cryptographic protocols prevent data extraction rather than relying on policy restrictions that may be changed or circumvented.
+Web3 technologies attempt to address surveillance capitalism through [[self-sovereign identity]] systems that enable individuals to maintain control over their digital identities and personal data without depending on centralized platforms that extract and monetize user information. These systems implement what computer scientist David Chaum calls "privacy by design" where cryptographic protocols prevent data extraction rather than relying on policy restrictions that may be changed or circumvented.
 
 [[Zero-Knowledge Proofs]] enable what privacy researcher Helen Nissenbaum calls "contextual integrity" where individuals can prove credentials, memberships, or qualifications without revealing the personal information that surveillance capitalism platforms extract and correlate across contexts. This potentially addresses the traditional trade-off between verification for trust and privacy for autonomy.
 
@@ -74,7 +74,7 @@ Yet decentralized alternatives face persistent challenges with user experience c
 
 Web3 economic models attempt to address surveillance capitalism through [[Tokenomics]] systems that reward user contributions rather than extracting free labor, potentially implementing what economist Elinor Ostrom calls "commons governance" where communities collectively manage digital resources rather than allowing private appropriation.
 
-[[Decentralized Autonomous Organizations]] represent experiments in what organizational theorist Henry Mintzberg calls "adhocracy" where platform governance emerges from user communities rather than corporate shareholders, potentially enabling what political scientist Elinor Ostrom calls "polycentricity" in digital platform governance.
+[[Decentralized Autonomous Organizations (DAOs)]] represent experiments in what organizational theorist Henry Mintzberg calls "adhocracy" where platform governance emerges from user communities rather than corporate shareholders, potentially enabling what political scientist Elinor Ostrom calls "polycentricity" in digital platform governance.
 
 However, empirical analysis of token-based systems reveals persistent challenges with speculation that may overwhelm productive use cases, governance token concentration that recreates rather than solves platform power issues, and the technical complexity barriers that limit meaningful participation in supposedly democratic governance mechanisms.
 
@@ -92,7 +92,7 @@ Research on blockchain adoption patterns reveals systematic biases toward partic
 
 The dominance of surveillance capitalism platforms reflects what economist Brian Arthur calls "increasing returns" where early adoption advantages compound over time, creating barriers to alternative platform adoption that cannot be overcome through superior technology alone. Users face what economists call "switching costs" including social network effects, data portability limitations, and learned interface behaviors that favor incumbent platforms.
 
-Web3 alternatives face [[Coordination Problems]] where the benefits of decentralized platforms depend on achieving sufficient user adoption while individual users face incentives to remain with established platforms that offer immediate access to larger networks and better user experiences.
+Web3 alternatives face [[Coordination Problem]] where the benefits of decentralized platforms depend on achieving sufficient user adoption while individual users face incentives to remain with established platforms that offer immediate access to larger networks and better user experiences.
 
 The challenge is compounded by what technology researcher danah boyd calls "social steganography" where young users develop sophisticated strategies for managing privacy within surveillance capitalism platforms rather than migrating to alternatives that may isolate them from peer networks and cultural participation.
 
@@ -121,13 +121,13 @@ The transformation of surveillance capitalism depends on building broad-based co
 [[Data Extractivism]] - Economic model based on extracting value from personal data
 [[Behavioral Modification]] - Technological influence on human behavior through environmental design
 [[Epistemic Inequality]] - Unequal access to knowledge and information shaped by algorithmic systems
-[[Self-Sovereign Identity]] - Identity systems that resist data extraction and surveillance
+[[self-sovereign identity]] - Identity systems that resist data extraction and surveillance
 [[Zero-Knowledge Proofs]] - Cryptographic technologies that enable verification without data revelation
 [[Decentralized Social Networks]] - Communication platforms that operate without centralized data collection
 [[Privacy by Design]] - Technological architecture that prevents rather than restricts surveillance
 [[Algorithmic Amplification]] - Technological systems that shape attention and information exposure
 [[Network Effects]] - Economic dynamics that concentrate platform power and user dependency
-[[Regulatory Capture]] - Political process where regulated industries influence regulatory policy
+[[regulatory capture]] - Political process where regulated industries influence regulatory policy
 [[Digital Commons]] - Shared digital resources managed collectively rather than extracted privately
-[[Technological Sovereignty]] - Community control over technological infrastructure and governance
+[[technological sovereignty]] - Community control over technological infrastructure and governance
 [[Democratic Innovation]] - Governance experiments that could constrain surveillance capitalism power

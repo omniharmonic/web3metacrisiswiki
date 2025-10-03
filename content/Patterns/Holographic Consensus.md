@@ -10,11 +10,11 @@ aliases:
 
 ## Definition and Theoretical Foundations
 
-**Holographic Consensus** represents a sophisticated governance mechanism designed to address the attention economy challenges that plague large-scale [[Decentralized Autonomous Organizations]] by implementing [[Prediction Markets]] as filtering mechanisms for proposal evaluation and vote prioritization. Developed by DAOstack researchers including Matan Field and Adam Levi, this system attempts to solve what political scientist Anthony Downs identified as "rational ignorance" in democratic participation where the costs of becoming informed about governance decisions exceed individual benefits from participation.
+**Holographic Consensus** represents a sophisticated governance mechanism designed to address the attention economy challenges that plague large-scale [[Decentralized Autonomous Organizations (DAOs)]] by implementing [[Prediction Markets]] as filtering mechanisms for proposal evaluation and vote prioritization. Developed by DAOstack researchers including Matan Field and Adam Levi, this system attempts to solve what political scientist Anthony Downs identified as "rational ignorance" in democratic participation where the costs of becoming informed about governance decisions exceed individual benefits from participation.
 
 The theoretical significance of holographic consensus extends beyond technical governance innovation to encompass fundamental questions about scalable democracy, attention management, and the integration of market mechanisms with democratic decision-making. The "holographic" metaphor suggests that like optical holograms where each part contains information about the whole, small groups of attentive participants can effectively represent the preferences of larger communities through properly designed market mechanisms.
 
-In Web3 contexts, holographic consensus represents a critical innovation for addressing the governance participation crisis that affects most [[Decentralized Autonomous Organizations]] where voter turnout often falls below 5% while the complexity of technical decisions exceeds most participants' expertise or available time. The mechanism potentially enables what economists call "efficient delegation" where attention and expertise are allocated optimally through market signals rather than formal delegation structures.
+In Web3 contexts, holographic consensus represents a critical innovation for addressing the governance participation crisis that affects most [[Decentralized Autonomous Organizations (DAOs)]] where voter turnout often falls below 5% while the complexity of technical decisions exceeds most participants' expertise or available time. The mechanism potentially enables what economists call "efficient delegation" where attention and expertise are allocated optimally through market signals rather than formal delegation structures.
 
 ## Attention Economy Theory and Information Filtering
 
@@ -56,9 +56,9 @@ The pseudonymous nature of blockchain governance further complicates the effecti
 
 ### Smart Contract Automation and Market Mechanics
 
-Web3 implementations of holographic consensus leverage [[Smart Contracts]] to automate complex prediction market calculations, quorum adjustments, and proposal filtering while ensuring transparency and verifiability of all governance processes. The programmable nature of blockchain systems enables sophisticated market mechanics including dynamic boosting formulas, automatic quorum reduction based on market signals, and integrated execution of successful proposals.
+Web3 implementations of holographic consensus leverage [[smart contracts]] to automate complex prediction market calculations, quorum adjustments, and proposal filtering while ensuring transparency and verifiability of all governance processes. The programmable nature of blockchain systems enables sophisticated market mechanics including dynamic boosting formulas, automatic quorum reduction based on market signals, and integrated execution of successful proposals.
 
-[[Ethereum Virtual Machine]] implementations must carefully manage gas costs for continuous market operations while ensuring that prediction market participation and governance voting remain economically viable for community participation. The immutable nature of smart contracts requires careful design of upgrade mechanisms that can adapt market parameters and governance rules based on community learning and changing circumstances.
+[[Ethereum Virtual Machine (EVM)]] implementations must carefully manage gas costs for continuous market operations while ensuring that prediction market participation and governance voting remain economically viable for community participation. The immutable nature of smart contracts requires careful design of upgrade mechanisms that can adapt market parameters and governance rules based on community learning and changing circumstances.
 
 Advanced implementations integrate prediction markets with [[Conviction Voting]] and other temporal governance mechanisms, creating hybrid systems that combine market-based attention filtering with time-weighted preference expression to potentially improve both participation quality and democratic legitimacy.
 
@@ -109,11 +109,11 @@ The maturation of holographic consensus depends on solving fundamental challenge
 ## Related Concepts
 
 [[Prediction Markets]] - Core mechanism for information aggregation and attention filtering in holographic consensus
-[[Decentralized Autonomous Organizations]] - Organizational structures that face scalability challenges addressed by holographic consensus
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that face scalability challenges addressed by holographic consensus
 [[Attention Economy]] - Economic framework for understanding cognitive resource allocation in information-rich environments
 [[Rational Ignorance]] - Public choice theory explaining why democratic participation may be systematically uninformed
 [[Market Design]] - Economic framework for creating efficient and fair market institutions including prediction markets
-[[Smart Contracts]] - Technical infrastructure enabling automated prediction market and governance operations
+[[smart contracts]] - Technical infrastructure enabling automated prediction market and governance operations
 [[Governance Tokens]] - Voting rights mechanisms that may integrate with holographic consensus systems
 [[Conviction Voting]] - Time-weighted governance mechanism that may complement market-based attention filtering
 [[Quadratic Voting]] - Alternative preference aggregation mechanism for addressing governance participation challenges

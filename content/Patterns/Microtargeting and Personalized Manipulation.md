@@ -45,7 +45,7 @@ Decentralized technologies offer potential solutions including user-controlled d
 ## Related Concepts
 
 - [[Behavioral Analytics and Psychological Profiling]]
-- [[Filter Bubbles]]
+- [[filter bubbles]]
 - [[Social Engineering Attacks]]
 - [[Behavioral Modification]]
 - [[Data Sovereignty]]

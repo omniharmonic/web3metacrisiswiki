@@ -155,7 +155,7 @@ interface YieldFarmingStrategy {
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Automated execution**: Self-executing yield farming strategies
 - **Conditional logic**: Automated risk management
 - **Integration**: Seamless interaction with other protocols
@@ -177,11 +177,11 @@ interface YieldFarmingStrategy {
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [DeFi Pulse](https://defipulse.com/), [DeFi Llama](https://defillama.com/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[decentralized lending protocols]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[decentralized lending protocols]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[decentralized lending protocols]] - Autonomous money markets
 - [[Composability]] - Ability of components to work together
 - [[Liquidity_Provision]] - Providing liquidity to protocols

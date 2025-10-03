@@ -1,4 +1,5 @@
 ---
+title: "Tokenization"
 aliases:
   - "Tokenization"
 ---
@@ -54,7 +55,7 @@ Furthermore, the pseudonymous nature of many token markets makes traditional mar
 
 Most tokenized assets likely constitute securities under traditional regulatory frameworks, subjecting them to registration requirements, disclosure obligations, and investor protection rules that were designed for traditional financial instruments. The global and permissionless nature of blockchain networks creates complex jurisdictional questions about which regulatory frameworks apply to token issuers, platforms, and investors.
 
-The lack of clear regulatory guidance has created a regulatory arbitrage environment where token projects migrate between jurisdictions seeking favorable treatment, while regulatory uncertainty discourages institutional participation and legitimate innovation. Recent enforcement actions by securities regulators have clarified that many tokens previously marketed as "utility tokens" are likely unregistered securities, creating significant compliance challen[[content/Primitives/smart contracts]]rojects.
+The lack of clear regulatory guidance has created a regulatory arbitrage environment where token projects migrate between jurisdictions seeking favorable treatment, while regulatory uncertainty discourages institutional participation and legitimate innovation. Recent enforcement actions by securities regulators have clarified that many tokens previously marketed as "utility tokens" are likely unregistered securities, creating significant compliance challen[[smart contracts]]rojects.
 
 ### Property Rights and Legal Enforcement
 

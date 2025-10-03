@@ -39,7 +39,7 @@ Decentralized technologies offer potential alternatives to centralized recommend
 ## Related Concepts
 
 - [[Algorithmic Amplification]]
-- [[Filter Bubbles]]
+- [[filter bubbles]]
 - [[Behavioral Modification]]
 - [[Engagement Optimization]]
 - [[Artificial Intelligence and Machine Learning]]

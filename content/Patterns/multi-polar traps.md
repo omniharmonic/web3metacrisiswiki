@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of multi-polar traps extends beyond individual decision-making to encompass what systems theorist Donella Meadows calls "structural traps" where system architecture itself creates persistent incentives for destructive behavior regardless of participants' intentions or awareness. Unlike simple [[Prisoner's Dilemma]] scenarios where cooperation becomes possible through repeated interaction, multi-polar traps involve ongoing competitive dynamics where unilateral cooperation creates immediate disadvantage while collective cooperation requires coordination mechanisms that exceed most actors' organizational capacity.
 
-In Web3 contexts, multi-polar traps represent both the fundamental coordination problem that blockchain systems attempt to solve through [[Consensus Mechanisms]] and [[Mechanism Design]], and a persistent vulnerability where competitive dynamics in mining, governance, and ecosystem development may recreate traditional coordination failures despite technological solutions designed to enable trustless cooperation.
+In Web3 contexts, multi-polar traps represent both the fundamental coordination problem that blockchain systems attempt to solve through [[consensus mechanisms]] and [[Mechanism Design]], and a persistent vulnerability where competitive dynamics in mining, governance, and ecosystem development may recreate traditional coordination failures despite technological solutions designed to enable trustless cooperation.
 
 ## Game-Theoretic Structure and Mathematical Analysis
 
@@ -85,7 +85,7 @@ What economist William Nordhaus calls "climate club" proposals attempt to addres
 
 ### Consensus Mechanisms and Cooperative Security
 
-[[Consensus Mechanisms]] represent sophisticated solutions to multi-polar traps in distributed computing where network participants must coordinate on shared state despite competitive incentives and potential adversarial behavior. [[Proof of Stake]] mechanisms implement what economist Leonid Hurwicz calls "incentive compatibility" by making honest participation individually rational while making coordinated attacks prohibitively expensive.
+[[consensus mechanisms]] represent sophisticated solutions to multi-polar traps in distributed computing where network participants must coordinate on shared state despite competitive incentives and potential adversarial behavior. [[Proof of Stake (PoS)]] mechanisms implement what economist Leonid Hurwicz calls "incentive compatibility" by making honest participation individually rational while making coordinated attacks prohibitively expensive.
 
 [[Slashing]] mechanisms create credible punishment for malicious behavior while [[Validator]] rotation prevents concentration of control that could enable coordination attacks. This demonstrates how cryptoeconomic design can transform competitive zero-sum environments into cooperative positive-sum coordination where individual success depends on collective network health.
 
@@ -147,25 +147,25 @@ The resolution of contemporary multi-polar traps including climate change, techn
 
 ## Related Concepts
 
-[[Misaligned Incentives]] - Broader category of systemic dysfunction where individual and collective rationality diverge
+[[misaligned incentives]] - Broader category of systemic dysfunction where individual and collective rationality diverge
 [[Game Theory]] - Mathematical framework for analyzing strategic interactions and competitive dynamics
 [[Nash Equilibrium]] - Solution concept that describes stable but potentially suboptimal outcomes in strategic games
 [[Prisoner's Dilemma]] - Classic model of cooperation problems that multi-polar traps generalize to competitive environments
-[[Collective Action Problems]] - Coordination challenges where individual rational behavior undermines collective welfare
+[[Collective Action Problem]] - Coordination challenges where individual rational behavior undermines collective welfare
 [[Free Rider Problem]] - Specific coordination failure where individuals benefit without contributing costs
 [[Tragedy of the Commons]] - Classic example of resource depletion through competitive overuse
 [[Arms Race]] - Escalation dynamics where defensive preparations create security dilemmas
 [[Mechanism Design]] - Applied game theory for creating institutions that solve coordination problems
-[[Consensus Mechanisms]] - Cryptoeconomic solutions to coordination problems in distributed computing
+[[consensus mechanisms]] - Cryptoeconomic solutions to coordination problems in distributed computing
 [[Quadratic Funding]] - Democratic mechanism for public goods funding that addresses coordination failures
-[[Proof of Stake]] - Blockchain consensus mechanism that aligns individual incentives with network security
+[[Proof of Stake (PoS)]] - Blockchain consensus mechanism that aligns individual incentives with network security
 [[Sybil Attacks]] - Gaming vulnerability in coordination mechanisms through identity multiplication
-[[Regulatory Capture]] - Political manifestation where concentrated interests capture regulatory agencies
-[[Economic Centralization]] - Systemic outcome where competitive advantages accumulate through winner-take-all dynamics
-[[Environmental Economics]] - Field addressing coordination failures in environmental resource management
+[[regulatory capture]] - Political manifestation where concentrated interests capture regulatory agencies
+[[economic centralization]] - Systemic outcome where competitive advantages accumulate through winner-take-all dynamics
+[[environmental economics]] - Field addressing coordination failures in environmental resource management
 [[Behavioral Economics]] - Research on psychological factors that influence strategic decision-making
-[[Meta-crisis]] - Civilizational syndrome where multiple coordination failures create systemic dysfunction
+[[meta-crisis]] - Civilizational syndrome where multiple coordination failures create systemic dysfunction
 [[Vitality, Resilience, Choice]] - Framework for evaluating solutions to coordination problems
-[[Commons Governance]] - Institutional approaches to managing shared resources without competitive depletion
-[[Decentralized Autonomous Organizations]] - Organizational experiments in programmable coordination mechanisms
-[[Smart Contracts]] - Programmable agreements that can encode cooperative rather than competitive logic
+[[commons governance]] - Institutional approaches to managing shared resources without competitive depletion
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational experiments in programmable coordination mechanisms
+[[smart contracts]] - Programmable agreements that can encode cooperative rather than competitive logic

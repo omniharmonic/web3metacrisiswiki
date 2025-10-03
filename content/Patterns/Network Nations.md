@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of network nations extends beyond technological experimentation to encompass fundamental questions about the nature of political legitimacy, the relationship between sovereignty and territory, and the conditions under which alternative governance structures can emerge and sustain themselves in a world dominated by established nation-states. The concept draws from Benedict Anderson's analysis of "imagined communities," James C. Scott's critique of "seeing like a state," and Manuel Castells' work on "the network society" to propose that digital technologies enable new forms of collective identity and governance.
 
-In Web3 contexts, network nations represent both a practical exploration of [[Decentralized Autonomous Organizations]] at civilizational scale and a theoretical framework for understanding how blockchain technologies might enable what political theorist James C. Scott calls "anarchist sensibilities" through voluntary coordination rather than hierarchical control. However, the viability of network nations depends critically on solving challenges related to legal recognition, territorial jurisdiction, and the provision of collective goods that have traditionally required state capacity.
+In Web3 contexts, network nations represent both a practical exploration of [[Decentralized Autonomous Organizations (DAOs)]] at civilizational scale and a theoretical framework for understanding how blockchain technologies might enable what political theorist James C. Scott calls "anarchist sensibilities" through voluntary coordination rather than hierarchical control. However, the viability of network nations depends critically on solving challenges related to legal recognition, territorial jurisdiction, and the provision of collective goods that have traditionally required state capacity.
 
 ## Sovereignty Theory and Post-Territorial Governance
 
@@ -28,7 +28,7 @@ However, the transition from territorial to network-based sovereignty faces fund
 
 ### Digital Citizenship and Voluntary Association
 
-Network nations implement what political theorist Yael Tamir calls "liberal nationalism" through technological rather than territorial mechanisms, enabling communities to form around shared values and interests rather than geographical proximity or historical accident. [[Self-Sovereign Identity]] systems potentially enable what Benedict Anderson calls "imagined communities" to develop institutional capacity for collective action without requiring territorial control.
+Network nations implement what political theorist Yael Tamir calls "liberal nationalism" through technological rather than territorial mechanisms, enabling communities to form around shared values and interests rather than geographical proximity or historical accident. [[self-sovereign identity]] systems potentially enable what Benedict Anderson calls "imagined communities" to develop institutional capacity for collective action without requiring territorial control.
 
 The concept of digital citizenship extends political theorist T.H. Marshall's analysis of citizenship rights into digital domains where civil, political, and social rights are implemented through cryptographic protocols rather than state institutions. This potentially enables what economist Albert Hirschman calls "voice" rather than "exit" by creating alternatives to territorial governance without requiring physical migration.
 
@@ -46,7 +46,7 @@ Analysis of platform governance reveals patterns of what political scientist Ste
 
 ### Blockchain-Based Experiments and DAO Governance
 
-[[Decentralized Autonomous Organizations]] represent the most systematic attempts to implement network nation principles through blockchain technology, enabling global communities to coordinate economic activity, collective decision-making, and resource allocation without territorial jurisdiction or centralized control. Projects including MakerDAO, Compound, and Uniswap demonstrate the potential for algorithmic governance systems to manage complex economic relationships across thousands of participants.
+[[Decentralized Autonomous Organizations (DAOs)]] represent the most systematic attempts to implement network nation principles through blockchain technology, enabling global communities to coordinate economic activity, collective decision-making, and resource allocation without territorial jurisdiction or centralized control. Projects including MakerDAO, Compound, and Uniswap demonstrate the potential for algorithmic governance systems to manage complex economic relationships across thousands of participants.
 
 However, empirical analysis of DAO governance reveals persistent challenges including low participation rates, governance token concentration, and the technical complexity barriers that may exclude ordinary participants from meaningful governance engagement. The pseudonymous nature of blockchain interactions complicates traditional accountability mechanisms while the global distribution of participants creates legal ambiguities about jurisdiction and enforcement.
 
@@ -58,7 +58,7 @@ The 2022 collapse of Terra Luna and the ongoing governance challenges in major D
 
 Web3 implementations of network nations leverage [[Zero-Knowledge Proofs]] and [[Verifiable Credentials]] to enable what computer scientist David Chaum calls "privacy-preserving identity" where participants can prove membership, reputation, and qualifications without revealing sensitive personal information that could be used for surveillance or discrimination by hostile actors.
 
-[[Self-Sovereign Identity]] systems potentially enable what political theorist Benedict Anderson calls "imagined communities" to form around shared values rather than geographical proximity while maintaining the privacy protections necessary for meaningful autonomy in digital environments. These systems implement what legal scholar Julie Cohen calls "semantic discontinuity" where identity information cannot be aggregated across contexts without explicit consent.
+[[self-sovereign identity]] systems potentially enable what political theorist Benedict Anderson calls "imagined communities" to form around shared values rather than geographical proximity while maintaining the privacy protections necessary for meaningful autonomy in digital environments. These systems implement what legal scholar Julie Cohen calls "semantic discontinuity" where identity information cannot be aggregated across contexts without explicit consent.
 
 However, the technical complexity of cryptographic identity systems creates barriers to adoption while the pseudonymous nature of blockchain interactions complicates traditional mechanisms for building trust, reputation, and social capital that are essential for effective governance and collective action.
 
@@ -66,7 +66,7 @@ However, the technical complexity of cryptographic identity systems creates barr
 
 Network nations experiment with novel economic mechanisms including [[Quadratic Funding]] for public goods provision, [[Prediction Markets]] for information aggregation, and [[Tokenomics]] designs that attempt to align individual incentives with collective welfare through programmable economic incentives rather than traditional taxation and redistribution systems.
 
-[[Decentralized Finance]] protocols demonstrate the potential for algorithmic economic coordination across global participant networks without requiring central banking or monetary policy institutions. These systems implement what economist Friedrich Hayek calls "spontaneous order" through market mechanisms that can potentially allocate resources more efficiently than centralized planning.
+[[Decentralized Finance (DeFi)]] protocols demonstrate the potential for algorithmic economic coordination across global participant networks without requiring central banking or monetary policy institutions. These systems implement what economist Friedrich Hayek calls "spontaneous order" through market mechanisms that can potentially allocate resources more efficiently than centralized planning.
 
 Yet the volatility of cryptocurrency markets, the concentration of wealth among early adopters, and the technical complexity of meaningful participation in DeFi protocols suggest that purely market-based coordination may reproduce or amplify existing inequalities while excluding those who lack the technical sophistication or financial resources for effective participation.
 
@@ -117,17 +117,17 @@ The maturation of network nation experiments depends on solving fundamental chal
 ## Related Concepts
 
 [[Network States]] - Balaji Srinivasan's framework for territorially-recognized network nations
-[[Decentralized Autonomous Organizations]] - Organizational structures that implement network nation governance principles
-[[Self-Sovereign Identity]] - Identity systems that enable network citizenship without territorial dependency
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that implement network nation governance principles
+[[self-sovereign identity]] - Identity systems that enable network citizenship without territorial dependency
 [[Digital Sovereignty]] - Political authority exercised through technological rather than territorial control
 [[Post-National Governance]] - Political frameworks that transcend territorial boundaries
 [[Platform Governance]] - Governance systems implemented through digital platforms and algorithmic rules
 [[Cryptographic Democracy]] - Democratic participation enabled through privacy-preserving cryptographic protocols
 [[Voluntary Association]] - Political organization based on consent rather than territorial control
 [[Imagined Communities]] - Benedict Anderson's framework for understanding non-territorial collective identity
-[[Polycentric Governance]] - Distributed authority structures that network nations may implement
+[[polycentric governance]] - Distributed authority structures that network nations may implement
 [[Liquid Democracy]] - Governance mechanisms that network nations may use for democratic participation
 [[Quadratic Voting]] - Preference aggregation mechanisms for network nation decision-making
 [[Zero-Knowledge Proofs]] - Privacy-preserving technologies essential for network nation identity systems
-[[Decentralized Finance]] - Economic coordination systems that network nations may implement
+[[Decentralized Finance (DeFi)]] - Economic coordination systems that network nations may implement
 [[Global Governance]] - International coordination challenges that network nations attempt to address

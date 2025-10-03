@@ -82,7 +82,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Optimistic Rollups]]
+### [[Optimistic rollups]]
 - **Decentralized Optimistic Rollups**: Optimistic rollups in decentralized systems
 - **User Control**: User control over optimistic rollups
 - **Transparency**: Transparent optimistic rollup processes

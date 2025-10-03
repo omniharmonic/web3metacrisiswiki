@@ -82,7 +82,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Social Proof]]
+### [[social proof]]
 - **Decentralized Social Proof**: Social proof in decentralized systems
 - **User Control**: User control over social proof
 - **Transparency**: Transparent social proof processes
@@ -184,8 +184,8 @@ aliases:
 ## Related Concepts
 
 - [[Bot Networks and Coordinated Inauthentic Behavior]]
-- [[Content Recommendation Systems]]
-- [[Filter Bubbles]]
+- [[content recommendation systems]]
+- [[filter bubbles]]
 - [[Engagement Optimization]]
 - [[Behavioral Analytics and Psychological Profiling]]
 - [[Community Governance]]

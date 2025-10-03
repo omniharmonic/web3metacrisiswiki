@@ -44,9 +44,9 @@ However, the global and pseudonymous nature of blockchain communities may actual
 
 ### Network Security and Validator Participation
 
-Blockchain security represents a classic public good where network integrity benefits all users while security provision costs are borne by validators, miners, or node operators. [[Proof of Stake]] mechanisms attempt to solve this through economic incentives that make security provision individually profitable, but face challenges with concentration of stake and the "nothing at stake" problem where validators face insufficient costs for supporting multiple competing chains.
+Blockchain security represents a classic public good where network integrity benefits all users while security provision costs are borne by validators, miners, or node operators. [[Proof of Stake (PoS)]] mechanisms attempt to solve this through economic incentives that make security provision individually profitable, but face challenges with concentration of stake and the "nothing at stake" problem where validators face insufficient costs for supporting multiple competing chains.
 
-The transition from [[Proof of Work]] to [[Proof of Stake]] in major networks like Ethereum illustrates both the potential and limitations of cryptoeconomic solutions to free rider problems. While PoS reduces energy costs and potentially democratizes participation, it may also increase concentration of validation power among large stake holders who can offer staking services to smaller participants.
+The transition from [[proof of work (PoW)]] to [[Proof of Stake (PoS)]] in major networks like Ethereum illustrates both the potential and limitations of cryptoeconomic solutions to free rider problems. While PoS reduces energy costs and potentially democratizes participation, it may also increase concentration of validation power among large stake holders who can offer staking services to smaller participants.
 
 ## Web3 Solutions and Cryptoeconomic Mechanisms
 
@@ -60,7 +60,7 @@ Empirical analysis of platforms like [[Gitcoin]] demonstrates both the potential
 
 [[Tokenomics]] mechanisms attempt to solve free rider problems by creating excludable benefits (governance rights, fee discounts, revenue sharing) for contributors while maintaining non-excludable benefits (protocol functionality, network effects) for all users. This approach tries to internalize positive externalities by giving contributors claims on future value creation.
 
-[[Governance token]]s represent experiments in aligning individual incentives with collective welfare by providing decision-making rights proportional to stake or contribution. However, empirical analysis reveals persistent challenges with low participation rates, governance token concentration, and the difficulty of measuring complex contributions through simple token allocation mechanisms.
+[[Governance Tokens]]s represent experiments in aligning individual incentives with collective welfare by providing decision-making rights proportional to stake or contribution. However, empirical analysis reveals persistent challenges with low participation rates, governance token concentration, and the difficulty of measuring complex contributions through simple token allocation mechanisms.
 
 ### Reputation Systems and Social Coordination
 
@@ -111,5 +111,5 @@ The resolution of free rider problems in contemporary challenges including open-
 [[Gitcoin]] - Leading platform implementing quadratic funding mechanisms for public goods
 [[Externalities]] - Economic concept explaining how individual actions affect collective welfare
 [[Social Capital]] - Network relationships and norms that can support voluntary cooperation
-[[Commons Governance]] - Institutional arrangements for managing shared resources without free riding
+[[commons governance]] - Institutional arrangements for managing shared resources without free riding
 [[Reputation Systems]] - Social mechanisms for encouraging contribution and deterring free riding

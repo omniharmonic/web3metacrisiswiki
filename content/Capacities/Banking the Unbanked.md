@@ -18,7 +18,7 @@ aliases:
 - **Mobile-First Design**: Financial services accessible through mobile devices
 - **Low-Cost Infrastructure**: Reducing barriers to financial service access
 - **[[Cross-Border Remittances]]**: Global financial access without traditional banking
-- **[[Self-Sovereign Identity]]**: Enabling financial services without traditional identification
+- **[[self-sovereign identity]]**: Enabling financial services without traditional identification
 
 ## Technical Mechanisms
 
@@ -37,11 +37,11 @@ aliases:
 - **Tokenized Assets**: Digital representation of traditional assets
 
 ### Identity and Verification
-- **[[Self-Sovereign Identity]]**: Self-sovereign identity systems
+- **[[self-sovereign identity]]**: Self-sovereign identity systems
 - **[[Biometric Identification and Facial Recognition]]**: Fingerprint and facial recognition
 - **[[Community-Based Reputation and Verification]]**: Peer-based identity verification
 - **Document Scanning**: Digital capture of identity documents
-- **[[Zero Knowledge Proof (ZKP)]]**: Verification without revealing personal data
+- **[[zero knowledge proof (ZKP)]]**: Verification without revealing personal data
 
 ## Beneficial Potentials
 

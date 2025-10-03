@@ -26,11 +26,11 @@ The meta-crisis operates through what complexity scientist Donella Meadows terms
 
 ### Institutional Legitimacy Crisis and Democratic Backsliding
 
-The meta-crisis manifests through systematic erosion of institutional legitimacy as traditional governance structures prove incapable of addressing challenges that exceed their design parameters. [[Regulatory Capture]] by special interests, the influence of money in politics, and the short-term incentive structures of electoral democracy create what political scientist Steven Levitsky terms "competitive authoritarianism" where formal democratic processes mask oligarchic control.
+The meta-crisis manifests through systematic erosion of institutional legitimacy as traditional governance structures prove incapable of addressing challenges that exceed their design parameters. [[regulatory capture]] by special interests, the influence of money in politics, and the short-term incentive structures of electoral democracy create what political scientist Steven Levitsky terms "competitive authoritarianism" where formal democratic processes mask oligarchic control.
 
 The phenomenon of "post-truth politics" and the systematic erosion of shared epistemic foundations through [[Mass Surveillance]], [[Algorithmic Amplification]], and [[Microtargeting and Personalized Manipulation]] creates what philosopher Jason Stanley calls "political epistemology" where truth claims become subordinated to power dynamics rather than evidence-based reasoning.
 
-This institutional crisis is compounded by what economist Thomas Piketty documents as increasing [[Economic Centralization]] where wealth concentration enables political capture while technological surveillance capabilities provide unprecedented tools for social control. The result is what political theorist Sheldon Wolin terms "managed democracy" where formal democratic institutions persist while substantive democratic control over major decisions disappears.
+This institutional crisis is compounded by what economist Thomas Piketty documents as increasing [[economic centralization]] where wealth concentration enables political capture while technological surveillance capabilities provide unprecedented tools for social control. The result is what political theorist Sheldon Wolin terms "managed democracy" where formal democratic institutions persist while substantive democratic control over major decisions disappears.
 
 ### Ecological Overshoot and Planetary Boundaries
 
@@ -72,7 +72,7 @@ Contemporary examples include China's social credit system, the expansion of pre
 
 The [[Third Attractor]] represents evolutionary pathways toward what complexity scientist Stuart Kauffman calls "the adjacent possible"—organizational forms that transcend zero-sum competition through distributed coordination mechanisms that align individual and collective welfare. This involves what economist Elinor Ostrom documents as "polycentric governance" combined with technological capabilities for global coordination without centralized control.
 
-The technical foundations include [[Decentralization]], [[Cryptographic Identity]], and [[Programmable Incentives]] that enable what political theorist James C. Scott calls "metis"—local knowledge and adaptive capacity—to operate at global scale through network coordination rather than hierarchical control. This pathway requires fundamental transformation of economic institutions toward what economist Kate Raworth terms "doughnut economics" that recognizes planetary boundaries and social foundations.
+The technical foundations include [[decentralization]], [[Cryptographic Identity]], and [[Programmable Incentives]] that enable what political theorist James C. Scott calls "metis"—local knowledge and adaptive capacity—to operate at global scale through network coordination rather than hierarchical control. This pathway requires fundamental transformation of economic institutions toward what economist Kate Raworth terms "doughnut economics" that recognizes planetary boundaries and social foundations.
 
 ## Related Concepts
 
@@ -80,11 +80,11 @@ The technical foundations include [[Decentralization]], [[Cryptographic Identity
 [[Vitality]] - Design principle for systems that enhance rather than degrade life-supporting capacity
 [[Resilience]] - Capacity for adaptation and recovery essential for navigating systemic transformation
 [[Choice]] - Individual and collective agency required for conscious evolution beyond competitive dynamics
-[[Regulatory Capture]] - Institutional failure mechanism where public agencies serve private interests
-[[Multi-polar Traps]] - Game-theoretic situations where competitive dynamics prevent beneficial cooperation
-[[Economic Centralization]] - Wealth concentration that enables political capture and democratic erosion
+[[regulatory capture]] - Institutional failure mechanism where public agencies serve private interests
+[[multi-polar traps]] - Game-theoretic situations where competitive dynamics prevent beneficial cooperation
+[[economic centralization]] - Wealth concentration that enables political capture and democratic erosion
 [[Mass Surveillance]] - Technological infrastructure for authoritarian social control
 [[Algorithmic Amplification]] - Systematic manipulation of information flows for behavioral control
 [[Ecological Overshoot]] - Systematic violation of planetary boundaries through extractive growth models
-[[Polycentric Governance]] - Distributed authority structures that transcend nation-state limitations
-[[Commons Governance]] - Institutional arrangements for managing shared resources sustainably
+[[polycentric governance]] - Distributed authority structures that transcend nation-state limitations
+[[commons governance]] - Institutional arrangements for managing shared resources sustainably

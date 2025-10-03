@@ -151,18 +151,18 @@ The resolution of major contemporary externalities including climate change, soc
 [[Public Goods]] - Shared resources that suffer from under-provision due to free rider problems
 [[Tragedy of the Commons]] - Specific form of negative externality involving overuse of shared resources
 [[Market Failure]] - Economic situations where private markets fail to achieve socially optimal outcomes
-[[Environmental Economics]] - Field addressing market failures in environmental resource allocation
+[[environmental economics]] - Field addressing market failures in environmental resource allocation
 [[Social Cost of Carbon]] - Estimated economic damage from one additional ton of carbon dioxide emissions
 [[Carbon Pricing]] - Policy mechanisms for internalizing climate externalities in economic decision-making
 [[Cap and Trade]] - Market-based approach to environmental regulation using tradable emission permits
 [[Coase Theorem]] - Economic theory about externality resolution through property rights and bargaining
 [[Transaction Costs]] - Economic costs of negotiating and enforcing agreements including externality internalization
-[[Collective Action Problems]] - Coordination challenges in addressing shared problems including externalities
+[[Collective Action Problem]] - Coordination challenges in addressing shared problems including externalities
 [[Free Rider Problem]] - Tendency to benefit from public goods without contributing to their provision
-[[Regulatory Capture]] - Political process where regulated industries influence regulatory agencies
+[[regulatory capture]] - Political process where regulated industries influence regulatory agencies
 [[Carbon Credits]] - Tradable certificates representing verified emissions reductions or carbon sequestration
 [[Environmental Justice]] - Movement addressing disproportionate environmental burdens on marginalized communities
-[[Regenerative Economics]] - Economic approaches that align financial success with ecological restoration
+[[regenerative economics]] - Economic approaches that align financial success with ecological restoration
 [[Social Impact Bonds]] - Financial instruments linking investor returns to measurable social outcomes
 [[Natural Capital Accounting]] - Economic valuation of ecosystem services and environmental assets
 [[Green New Deal]] - Policy framework combining climate action with economic justice and job creation

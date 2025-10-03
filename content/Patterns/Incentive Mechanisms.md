@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of incentive mechanisms extends beyond simple reward systems to encompass fundamental questions about institutional design, social cooperation, and the conditions under which decentralized individual decisions can be aligned with collective objectives including environmental protection, democratic governance, and [[Public Goods]] provision. What economist Leonid Hurwicz calls "incentive compatibility" becomes the central challenge: designing systems where truth-telling and cooperative behavior represent the best individual strategies rather than requiring altruistic sacrifice of self-interest.
 
-In Web3 contexts, incentive mechanisms represent both an opportunity for creating novel coordination systems through [[Tokenomics]], [[Smart Contracts]], and [[Cryptographic]] verification that could address persistent [[Collective Action Problems]], and a challenge where the technical complexity and economic dynamics may create new forms of manipulation, inequality, and system gaming that reproduce rather than solve traditional coordination failures through technological rather than institutional means.
+In Web3 contexts, incentive mechanisms represent both an opportunity for creating novel coordination systems through [[Tokenomics]], [[smart contracts]], and [[Cryptographic]] verification that could address persistent [[Collective Action Problem]], and a challenge where the technical complexity and economic dynamics may create new forms of manipulation, inequality, and system gaming that reproduce rather than solve traditional coordination failures through technological rather than institutional means.
 
 ## Economic Theory and Mechanism Design Foundations
 
@@ -46,11 +46,11 @@ Social preferences including fairness, reciprocity, and inequality aversion syst
 
 ### Smart Contract Automation and Programmable Incentives
 
-[[Smart Contracts]] enable what computer scientist Nick Szabo calls "programmable money" where incentive mechanisms can be automated through deterministic code execution that eliminates discretionary interpretation and reduces opportunities for corruption or bias in incentive distribution. This potentially addresses what political scientist Steven Levitsky calls "competitive authoritarianism" where formal rules exist but are selectively enforced.
+[[smart contracts]] enable what computer scientist Nick Szabo calls "programmable money" where incentive mechanisms can be automated through deterministic code execution that eliminates discretionary interpretation and reduces opportunities for corruption or bias in incentive distribution. This potentially addresses what political scientist Steven Levitsky calls "competitive authoritarianism" where formal rules exist but are selectively enforced.
 
 Automated incentive systems can implement complex reward structures including performance-based compensation, milestone achievements, and contribution tracking that operate transparently and verifiably while reducing administrative costs and delays that characterize traditional incentive programs in bureaucratic institutions.
 
-However, smart contract automation faces limitations with [[Oracle Problem]] challenges where real-world behavior verification requires trusted external information sources, the rigidity of automated systems that may not adapt appropriately to unforeseen circumstances, and the technical complexity that may exclude ordinary participants from meaningful engagement with incentive mechanism design.
+However, smart contract automation faces limitations with [[oracle problem]] challenges where real-world behavior verification requires trusted external information sources, the rigidity of automated systems that may not adapt appropriately to unforeseen circumstances, and the technical complexity that may exclude ordinary participants from meaningful engagement with incentive mechanism design.
 
 ### Tokenomics and Economic Mechanism Design
 
@@ -130,7 +130,7 @@ Incentive mechanism design requires normative choices about objectives, fairness
 
 ## Strategic Assessment and Future Directions
 
-Incentive mechanisms represent essential tools for social coordination that could address real challenges including [[Free Rider Problems]], environmental degradation, and democratic participation deficits while facing persistent limitations with technical complexity, inequality reproduction, and the potential for sophisticated manipulation that requires ongoing institutional innovation.
+Incentive mechanisms represent essential tools for social coordination that could address real challenges including [[Free Rider Problem]], environmental degradation, and democratic participation deficits while facing persistent limitations with technical complexity, inequality reproduction, and the potential for sophisticated manipulation that requires ongoing institutional innovation.
 
 The effectiveness of Web3 incentive mechanisms likely depends on hybrid approaches that combine technological capabilities with traditional democratic institutions, community organizing, and regulatory frameworks that can provide meaningful accountability for algorithmic coordination systems while preserving experimental innovation.
 
@@ -146,15 +146,15 @@ The maturation of incentive mechanism design depends on interdisciplinary collab
 [[Behavioral Economics]] - Field integrating psychological insights about decision-making with economic analysis
 [[Public Choice Theory]] - Economic analysis of political processes and governmental decision-making
 [[Collective Action Problem]] - Coordination challenges where individual rationality conflicts with collective welfare
-[[Smart Contracts]] - Automated agreements that can implement incentive mechanisms without intermediaries
+[[smart contracts]] - Automated agreements that can implement incentive mechanisms without intermediaries
 [[Tokenomics]] - Economic design of cryptocurrency systems that implement novel incentive structures
 [[Quadratic Voting]] - Democratic mechanism that enables preference intensity expression while preventing plutocracy
 [[Quadratic Funding]] - Public goods funding mechanism that amplifies community preferences
 [[Conviction Voting]] - Governance mechanism that rewards long-term commitment over short-term preferences
 [[Holographic Consensus]] - Scalable democratic participation through economic incentive structures
 [[Regenerative Finance]] - Financial mechanisms that reward ecological and social restoration
-[[Commons Governance]] - Management systems for shared resources that align individual and collective interests
+[[commons governance]] - Management systems for shared resources that align individual and collective interests
 [[Reputation Systems]] - Mechanisms for tracking and rewarding past behavior to influence future incentives
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that enable privacy-preserving incentive verification
-[[Oracle Problem]] - Challenge of obtaining reliable external information for automated incentive systems
+[[oracle problem]] - Challenge of obtaining reliable external information for automated incentive systems
 [[MEV]] - Blockchain phenomenon where sophisticated actors extract value through strategic transaction ordering

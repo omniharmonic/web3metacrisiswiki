@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of price discovery extends beyond simple valuation to encompass fundamental questions about information efficiency, market structure, and the conditions under which prices can effectively coordinate economic activity among millions of participants with diverse information, preferences, and objectives. What economist Eugene Fama calls the "efficient market hypothesis" depends critically on effective price discovery to ensure that asset prices reflect all available information, while what economist Sanford Grossman calls the "fundamental theorem of asset pricing" demonstrates how price discovery enables markets to achieve optimal resource allocation.
 
-In Web3 contexts, price discovery represents both an opportunity for creating more efficient and transparent markets through [[Automated Market Makers]], [[Oracle Networks]], and [[Decentralized Exchanges]] that could reduce manipulation and improve information incorporation, and a challenge where technical complexity, [[MEV]] extraction, and new forms of market manipulation may distort price signals while concentrating market-making profits among sophisticated algorithmic traders.
+In Web3 contexts, price discovery represents both an opportunity for creating more efficient and transparent markets through [[automated market makers (AMMs)]], [[oracle networks]], and [[decentralized exchanges]] that could reduce manipulation and improve information incorporation, and a challenge where technical complexity, [[MEV]] extraction, and new forms of market manipulation may distort price signals while concentrating market-making profits among sophisticated algorithmic traders.
 
 ## Economic Theory and Information Dynamics
 
@@ -54,7 +54,7 @@ The interaction between algorithmic trading and human psychology creates new dyn
 
 ### Automated Market Makers and Algorithmic Pricing
 
-[[Automated Market Makers]] represent fundamental innovations in price discovery mechanisms by replacing traditional order books with algorithmic pricing based on mathematical formulas including constant product, constant sum, and hybrid functions that determine prices based on liquidity pool composition. This implements what economist John Nash calls "mechanism design" principles through smart contract automation.
+[[automated market makers (AMMs)]] represent fundamental innovations in price discovery mechanisms by replacing traditional order books with algorithmic pricing based on mathematical formulas including constant product, constant sum, and hybrid functions that determine prices based on liquidity pool composition. This implements what economist John Nash calls "mechanism design" principles through smart contract automation.
 
 AMM pricing functions create continuous liquidity and price discovery without requiring traditional market makers or order matching, potentially enabling price discovery for assets with limited trading volume while creating new categories of [[Arbitrage]] opportunities when AMM prices diverge from external market prices.
 
@@ -62,11 +62,11 @@ However, AMM systems face challenges with [[Impermanent Loss]], slippage, and th
 
 ### Oracle Networks and External Price Integration
 
-[[Oracle Networks]] including Chainlink, Band Protocol, and Tellor create price discovery infrastructure by aggregating price data from multiple external sources and delivering tamper-resistant price feeds to smart contracts that depend on accurate pricing for automated execution. This addresses what computer scientist Leslie Lamport calls the "Byzantine Generals Problem" in distributed price aggregation.
+[[oracle networks]] including Chainlink, Band Protocol, and Tellor create price discovery infrastructure by aggregating price data from multiple external sources and delivering tamper-resistant price feeds to smart contracts that depend on accurate pricing for automated execution. This addresses what computer scientist Leslie Lamport calls the "Byzantine Generals Problem" in distributed price aggregation.
 
 Decentralized oracle systems potentially improve price discovery by reducing single points of failure and manipulation while enabling smart contracts to access real-world price information that enables complex financial applications including derivatives, lending, and synthetic assets.
 
-Yet oracle systems face persistent challenges with the [[Oracle Problem]] where external data sources may be manipulated or compromised while oracle networks must balance decentralization, security, and cost efficiency in ways that may create new vulnerabilities or centralization risks.
+Yet oracle systems face persistent challenges with the [[oracle problem]] where external data sources may be manipulated or compromised while oracle networks must balance decentralization, security, and cost efficiency in ways that may create new vulnerabilities or centralization risks.
 
 ### Cross-Chain Price Discovery and Interoperability
 
@@ -80,7 +80,7 @@ The emergence of multi-chain ecosystems creates what network theorist Albert-Lá
 
 ### Decentralized Exchange Evolution
 
-[[Decentralized Exchanges]] including Uniswap, Curve, and Balancer demonstrate different approaches to price discovery through varying AMM algorithms optimized for different asset types and trading patterns. Constant product formulas work well for volatile asset pairs, while stable swap curves optimize for assets with similar values, creating specialized price discovery mechanisms for different market segments.
+[[decentralized exchanges]] including Uniswap, Curve, and Balancer demonstrate different approaches to price discovery through varying AMM algorithms optimized for different asset types and trading patterns. Constant product formulas work well for volatile asset pairs, while stable swap curves optimize for assets with similar values, creating specialized price discovery mechanisms for different market segments.
 
 The evolution from simple AMMs to concentrated liquidity systems including Uniswap V3 enables more capital-efficient price discovery by allowing liquidity providers to specify price ranges, potentially improving price accuracy while reducing capital requirements for market making.
 
@@ -108,7 +108,7 @@ However, governance token markets may be subject to what economist Glen Weyl cal
 
 Price discovery depends on equal access to information and fair trading conditions, but sophisticated actors may possess superior information, faster execution capabilities, or larger capital reserves that enable them to extract value from price discovery processes while distorting price signals for other market participants.
 
-[[Front-Running]] and [[MEV]] extraction demonstrate how technical advantages in transaction ordering and execution can enable sophisticated actors to profit from price discovery inefficiencies while imposing costs on ordinary users who provide the information and liquidity that enable price discovery.
+[[front running]] and [[MEV]] extraction demonstrate how technical advantages in transaction ordering and execution can enable sophisticated actors to profit from price discovery inefficiencies while imposing costs on ordinary users who provide the information and liquidity that enable price discovery.
 
 The complexity of DeFi protocols and cross-chain interactions creates what legal scholar Frank Pasquale calls "black box" effects where price discovery occurs through automated systems that may be difficult for ordinary users to understand or verify, potentially enabling manipulation through technical complexity rather than obvious fraud.
 
@@ -124,7 +124,7 @@ The network effects that create winner-take-all dynamics in traditional markets 
 
 Smart contract vulnerabilities, oracle failures, and blockchain network congestion can disrupt price discovery mechanisms in ways that may be difficult to predict or hedge against, potentially creating sudden price dislocations that affect not only individual protocols but entire market segments that depend on interconnected price feeds.
 
-[[Flash Loan]] attacks and oracle manipulation demonstrate how the technical infrastructure that enables automated price discovery can also be exploited to create false price signals that trigger automated liquidations and other consequences while extracting value from users who depend on accurate pricing.
+[[Flash Loans]] attacks and oracle manipulation demonstrate how the technical infrastructure that enables automated price discovery can also be exploited to create false price signals that trigger automated liquidations and other consequences while extracting value from users who depend on accurate pricing.
 
 The rapid pace of technical innovation in Web3 creates what economist Nassim Taleb calls "antifragility" challenges where systems may become more vulnerable to novel attack vectors and failure modes that have not been anticipated by designers or risk management systems.
 
@@ -159,11 +159,11 @@ The maturation of Web3 price discovery systems depends on addressing technical r
 ## Related Concepts
 
 [[Market Making]] - Trading strategies that provide liquidity and facilitate price discovery through continuous bid-ask spreads
-[[Automated Market Makers]] - Algorithmic systems that provide liquidity and price discovery through mathematical formulas
-[[Oracle Networks]] - Decentralized systems that provide external price data to blockchain applications and smart contracts
+[[automated market makers (AMMs)]] - Algorithmic systems that provide liquidity and price discovery through mathematical formulas
+[[oracle networks]] - Decentralized systems that provide external price data to blockchain applications and smart contracts
 [[Arbitrage]] - Trading strategy that exploits price differences across markets to improve price discovery and market efficiency
 [[Liquidity Pools]] - Capital aggregation mechanisms that enable automated market making and price discovery
-[[Decentralized Exchanges]] - Trading platforms that enable peer-to-peer price discovery without centralized intermediaries
+[[decentralized exchanges]] - Trading platforms that enable peer-to-peer price discovery without centralized intermediaries
 [[Cross-Chain Integration]] - Technical infrastructure that enables price discovery and trading across multiple blockchain networks
 [[MEV]] - Maximal Extractable Value that includes opportunities to extract value from price discovery processes
 [[Flash Loans]] - DeFi primitives that enable capital-efficient arbitrage and price discovery strategies
@@ -172,6 +172,6 @@ The maturation of Web3 price discovery systems depends on addressing technical r
 [[Price Oracles]] - Systems that provide reliable price data for smart contracts and automated financial applications
 [[Market Efficiency]] - Economic concept measuring how quickly and accurately prices incorporate all available information
 [[Information Asymmetry]] - Market condition where some participants have superior information affecting price discovery
-[[Front-Running]] - Trading strategy that exploits advance knowledge of pending transactions to extract value
+[[front running]] - Trading strategy that exploits advance knowledge of pending transactions to extract value
 [[Slippage]] - Price impact effect that occurs during large trades and affects price discovery accuracy
 [[Impermanent Loss]] - Opportunity cost faced by liquidity providers in automated market making systems

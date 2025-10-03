@@ -139,7 +139,7 @@ interface LendingProtocol {
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Automated execution**: Self-executing lending operations
 - **Conditional logic**: Automated risk management
 - **Integration**: Seamless interaction with other protocols
@@ -177,11 +177,11 @@ interface LendingProtocol {
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [DeFi Pulse](https://defipulse.com/), [DeFi Llama](https://defillama.com/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[tokenization]] - Digital representation of assets and value

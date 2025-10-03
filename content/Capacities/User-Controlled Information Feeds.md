@@ -116,8 +116,8 @@ Innovation opportunities include developing new interface paradigms that make co
 ## Related Concepts
 
 - [[Transparent Recommendation Systems]]
-- [[Content Recommendation Systems]]
-- [[Filter Bubbles]]
+- [[content recommendation systems]]
+- [[filter bubbles]]
 - [[Epistemic Crisis]]
 - [[Data Sovereignty]]
 - [[Community Governance]]

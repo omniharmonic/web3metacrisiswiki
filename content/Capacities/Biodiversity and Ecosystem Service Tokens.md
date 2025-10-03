@@ -14,7 +14,7 @@ aliases:
 
 ## Core Concepts
 
-- **[[Ecosystem Services]]**: Natural benefits provided by ecosystems to humans
+- **[[ecosystem services]]**: Natural benefits provided by ecosystems to humans
 - **Biodiversity Conservation**: Protection and restoration of biological diversity
 - **[[Environmental Markets]]**: Economic mechanisms for environmental protection
 - **[[Tokenized Ecosystem Services]]**: Digital representation of natural assets
@@ -33,7 +33,7 @@ aliases:
 - **Satellite Monitoring**: Remote sensing for ecosystem health assessment
 - **IoT Sensors**: Internet of Things devices for real-time environmental monitoring
 - **[[Blockchain Oracles]]**: External data feeds for environmental metrics
-- **[[content/Primitives/smart contracts]]**: Automated verification of conservation activities
+- **[[smart contracts]]**: Automated verification of conservation activities
 - **[[Cryptographic Proof Generation]]**: Verification of environmental claims
 
 ### Market Mechanisms

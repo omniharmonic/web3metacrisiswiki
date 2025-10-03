@@ -191,7 +191,7 @@ contract ERC20 {
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Technical foundation
+- [[smart contracts]] - Technical foundation
 - [[tokenization]] - Core mechanism
 - [[Decentralized Finance (DeFi)]] - Primary application
 - [[Governance Tokens]] - Use case

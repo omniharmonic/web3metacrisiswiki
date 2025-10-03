@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of identity verification extends beyond simple authentication to encompass fundamental questions about surveillance, privacy, social inclusion, and the power dynamics that determine who can participate in economic and social systems. What legal scholar Julie Cohen calls "boundary management" becomes central to understanding how identity verification systems shape social relationships by determining who belongs, who is excluded, and under what conditions people can access essential resources and opportunities.
 
-In Web3 contexts, identity verification represents both an opportunity for [[Self-Sovereign Identity]] systems that could reduce dependence on centralized authorities while preserving privacy, and a challenge where technological complexity, regulatory compliance requirements, and the digital divide may create new forms of exclusion while reproducing existing inequalities through apparently neutral technical mechanisms that embed particular assumptions about legitimate identity and appropriate verification methods.
+In Web3 contexts, identity verification represents both an opportunity for [[self-sovereign identity]] systems that could reduce dependence on centralized authorities while preserving privacy, and a challenge where technological complexity, regulatory compliance requirements, and the digital divide may create new forms of exclusion while reproducing existing inequalities through apparently neutral technical mechanisms that embed particular assumptions about legitimate identity and appropriate verification methods.
 
 ## Historical Development and Institutional Evolution
 
@@ -56,9 +56,9 @@ The integration of identity verification with artificial intelligence and machin
 
 ### Self-Sovereign Identity and Cryptographic Verification
 
-[[Self-Sovereign Identity]] systems attempt to address identity verification challenges through cryptographic protocols that enable individuals to control their own identity credentials while proving specific attributes without revealing unnecessary personal information. This implements what computer scientist Christopher Allen calls "user agency" where individuals can selectively disclose identity information appropriate to specific contexts while maintaining privacy about irrelevant details.
+[[self-sovereign identity]] systems attempt to address identity verification challenges through cryptographic protocols that enable individuals to control their own identity credentials while proving specific attributes without revealing unnecessary personal information. This implements what computer scientist Christopher Allen calls "user agency" where individuals can selectively disclose identity information appropriate to specific contexts while maintaining privacy about irrelevant details.
 
-[[Decentralized Identifiers]] (DIDs) enable identity verification without dependence on centralized authorities through cryptographic key management that allows individuals to prove control over their identity while enabling verification by third parties without requiring centralized databases or identity providers that could be compromised or captured.
+[[Decentralized Identifiers (DIDs)]] (DIDs) enable identity verification without dependence on centralized authorities through cryptographic key management that allows individuals to prove control over their identity while enabling verification by third parties without requiring centralized databases or identity providers that could be compromised or captured.
 
 [[Verifiable Credentials]] systems enable cryptographic proof of specific attributes including age, education, or professional qualifications without revealing comprehensive personal information, potentially addressing what privacy scholar Helen Nissenbaum calls "contextual integrity" challenges where verification requirements often exceed the information actually needed for specific decisions.
 
@@ -142,8 +142,8 @@ The long-term impact of decentralized identity systems depends on addressing fun
 
 ## Related Concepts
 
-[[Self-Sovereign Identity]] - Identity model where individuals control their personal data and credentials
-[[Decentralized Identifiers]] - Cryptographic identifiers that enable decentralized identity verification
+[[self-sovereign identity]] - Identity model where individuals control their personal data and credentials
+[[Decentralized Identifiers (DIDs)]] - Cryptographic identifiers that enable decentralized identity verification
 [[Verifiable Credentials]] - Cryptographically signed digital credentials that can be independently verified
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that enable verification without revealing sensitive information
 [[Digital Identity]] - Electronic representation of identity information and attributes

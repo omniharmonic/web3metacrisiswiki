@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of governance mechanisms extends beyond simple organizational management to encompass fundamental questions about legitimacy, accountability, and the conditions under which authority can be exercised effectively while preserving individual autonomy and collective welfare. What political scientist Robert Dahl calls "democratic theory" and what economist Elinor Ostrom calls "institutional analysis" provide complementary frameworks for understanding how governance mechanisms can serve human flourishing rather than merely maintaining order through coercion.
 
-In Web3 contexts, governance mechanisms represent both an opportunity for creating more transparent, participatory, and resistant-to-capture coordination systems through [[Smart Contracts]], [[DAOs]], and cryptoeconomic incentives, and a fundamental challenge where technological complexity and global scale may exceed human capacity for meaningful democratic participation while requiring new approaches to legitimacy and accountability that traditional governance theory may not adequately address.
+In Web3 contexts, governance mechanisms represent both an opportunity for creating more transparent, participatory, and resistant-to-capture coordination systems through [[smart contracts]], [[DAOs]], and cryptoeconomic incentives, and a fundamental challenge where technological complexity and global scale may exceed human capacity for meaningful democratic participation while requiring new approaches to legitimacy and accountability that traditional governance theory may not adequately address.
 
 ## Political Theory and Institutional Analysis
 
@@ -261,19 +261,19 @@ Yet market governance faces systematic failures including what economist Joseph 
 [[Bureaucratic Administration]] - Weberian model of hierarchical governance through formal rules and expertise
 [[Representative Democracy]] - Electoral systems for combining popular sovereignty with practical governance
 [[Market Mechanisms]] - Price-based coordination systems for resource allocation and information aggregation
-[[Polycentric Governance]] - Multi-level governance systems with distributed authority
-[[Commons Governance]] - Institutional frameworks for managing shared resources democratically
-[[Decentralized Autonomous Organizations]] - Blockchain-based governance mechanisms using smart contracts
-[[Smart Contracts]] - Programmable agreements that can automate governance decisions
-[[Consensus Mechanisms]] - Technical protocols for distributed decision-making in blockchain networks
+[[polycentric governance]] - Multi-level governance systems with distributed authority
+[[commons governance]] - Institutional frameworks for managing shared resources democratically
+[[Decentralized Autonomous Organizations (DAOs)]] - Blockchain-based governance mechanisms using smart contracts
+[[smart contracts]] - Programmable agreements that can automate governance decisions
+[[consensus mechanisms]] - Technical protocols for distributed decision-making in blockchain networks
 [[Quadratic Voting]] - Democratic innovation for expressing preference intensity while preventing plutocracy
 [[Conviction Voting]] - Time-weighted governance that rewards sustained community commitment
 [[Liquid Democracy]] - Hybrid system combining direct and representative democracy through delegated voting
 [[Futarchy]] - Governance mechanism using prediction markets for policy evaluation
 [[Mechanism Design]] - Economic theory for creating institutions that achieve desired outcomes
 [[Principal-Agent Theory]] - Framework for understanding delegation and accountability in governance
-[[Collective Action Problems]] - Coordination challenges that governance mechanisms attempt to solve
-[[Regulatory Capture]] - Process where regulated industries influence regulatory agencies
+[[Collective Action Problem]] - Coordination challenges that governance mechanisms attempt to solve
+[[regulatory capture]] - Process where regulated industries influence regulatory agencies
 [[Democratic Legitimacy]] - Sources of political authority in democratic systems
 [[Constitutional Design]] - Institutional frameworks for limiting and structuring governmental power
 [[Federalism]] - Multi-level governance systems with distributed sovereignty

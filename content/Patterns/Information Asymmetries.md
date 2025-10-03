@@ -64,9 +64,9 @@ Climate change policy exemplifies how information asymmetries enable systematic 
 
 ### Blockchain Transparency and Verifiable Computation
 
-[[Blockchain]] technologies attempt to address information asymmetries through cryptographic transparency where transaction histories, smart contract code, and governance decisions become publicly verifiable rather than dependent on trusted intermediaries who may have incentives to manipulate or conceal information.
+[[blockchain]] technologies attempt to address information asymmetries through cryptographic transparency where transaction histories, smart contract code, and governance decisions become publicly verifiable rather than dependent on trusted intermediaries who may have incentives to manipulate or conceal information.
 
-[[Smart Contracts]] enable what computer scientist Nick Szabo calls "verifiable computation" where agreement execution occurs through deterministic code rather than discretionary interpretation by potentially biased intermediaries, theoretically reducing information asymmetries about contract terms and enforcement while enabling automated verification of compliance.
+[[smart contracts]] enable what computer scientist Nick Szabo calls "verifiable computation" where agreement execution occurs through deterministic code rather than discretionary interpretation by potentially biased intermediaries, theoretically reducing information asymmetries about contract terms and enforcement while enabling automated verification of compliance.
 
 However, the technical complexity of blockchain systems may create new categories of information asymmetry where technically sophisticated actors can understand and manipulate systems that appear transparent but remain opaque to ordinary users who lack programming knowledge or blockchain analysis capabilities.
 
@@ -128,7 +128,7 @@ The transformation of information systems depends on addressing underlying econo
 [[Adverse Selection]] - Systematic bias toward lower-quality options that results from information asymmetries
 [[Moral Hazard]] - Risk-taking behavior that emerges when information asymmetries limit accountability
 [[Signaling Theory]] - Economic framework explaining how actors communicate information in asymmetric environments
-[[Regulatory Capture]] - Political process where regulated industries use information advantages to influence policy
+[[regulatory capture]] - Political process where regulated industries use information advantages to influence policy
 [[Surveillance Capitalism]] - Economic system that exploits information asymmetries for behavioral modification and value extraction
 [[Algorithmic Transparency]] - Technical approaches to making automated decision-making systems more comprehensible
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that enable verification without information disclosure
@@ -137,5 +137,5 @@ The transformation of information systems depends on addressing underlying econo
 [[Digital Divide]] - Inequalities in technology access that may amplify information asymmetries
 [[Cultural Capital]] - Social advantages that influence capacity for navigating complex information systems
 [[Network Effects]] - Dynamics where system value increases with adoption, potentially recreating information advantages
-[[Oracle Problem]] - Challenge of obtaining reliable external information for blockchain systems
+[[oracle problem]] - Challenge of obtaining reliable external information for blockchain systems
 [[Epistemic Injustice]] - Systematic disadvantages in knowledge production and credibility assessment

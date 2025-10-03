@@ -60,7 +60,7 @@ However, blockchain networks also exhibit significant centralization vulnerabili
 - **[[Interoperability]]**: Systems that can work together
 - **Innovation**: New combinations of existing components
 - **Adaptation**: Systems that can evolve over time
-- **[[content/Primitives/smart contracts]]**: Programmable components for complex systems
+- **[[smart contracts]]**: Programmable components for complex systems
 
 ## Beneficial Potentials
 
@@ -126,7 +126,7 @@ However, community-based resilience may also enable insularity, exclusion, and r
 
 [[Vitality]] - Complementary capacity for generative growth and adaptation
 [[Choice]] - Agency preservation that enables resilient response to challenges
-[[Decentralization]] - Distributed architectures that eliminate single points of failure
+[[decentralization]] - Distributed architectures that eliminate single points of failure
 [[Composability]] - Modular system design enabling evolutionary adaptation
 [[Trustlessness]] - Technical foundations for resilient coordination without central authorities
 [[Polycentric_Governance]] - Institutional architectures for resilient decision-making

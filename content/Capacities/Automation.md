@@ -19,7 +19,7 @@ aliases:
 
 ## Technical Mechanisms
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **[[Automation]]**: Self-executing code without human intervention
 - **Conditional Logic**: If-then statements that trigger actions
 - **State Changes**: Automatic updates to system state

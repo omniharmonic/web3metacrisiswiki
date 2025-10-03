@@ -115,7 +115,7 @@ Research priorities include developing more accessible interfaces for non-techni
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]]
+- [[smart contracts]]
 - [[Immutability]]
 - [[Auditability]]
 - [[Transparency]]

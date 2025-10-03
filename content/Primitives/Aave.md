@@ -37,5 +37,5 @@ Aave's smart contract system manages user deposits, loan origination, interest c
 - [[Flash Loans]]
 - [[Governance Tokens]]
 - [[Liquidity Pools]]
-- [[content/Primitives/smart contracts]]
+- [[smart contracts]]
 - [[DeFi]]

@@ -50,7 +50,7 @@ The challenge is compounded by what information theorist Thomas Cover calls "ent
 
 ### Consensus Mechanisms and External Dependencies
 
-Blockchain consensus mechanisms solve what computer scientist Maurice Herlihy calls "the consensus problem" for internal computational states but cannot extend consensus to external data sources that operate under different trust models and verification mechanisms. [[Proof of Work]] and [[Proof of Stake]] create economic incentives for honest behavior within the blockchain system but cannot directly incentivize accurate reporting of external information.
+Blockchain consensus mechanisms solve what computer scientist Maurice Herlihy calls "the consensus problem" for internal computational states but cannot extend consensus to external data sources that operate under different trust models and verification mechanisms. [[proof of work (PoW)]] and [[Proof of Stake (PoS)]] create economic incentives for honest behavior within the blockchain system but cannot directly incentivize accurate reporting of external information.
 
 The integration of external data creates what computer scientist Barbara Liskov calls "Byzantine failure" vulnerabilities where oracle providers can behave arbitrarily or maliciously without detection through internal consensus mechanisms. This requires what cryptographer Silvio Micali calls "additional trust assumptions" that may undermine the security properties that make blockchain systems valuable.
 
@@ -76,7 +76,7 @@ What computer scientist Andy Clark calls "symbol grounding" problems arise where
 
 ### Identity Verification and Credential Systems
 
-[[Self-Sovereign Identity]] systems face oracle problems in verifying claims about education, employment, legal status, and other credentials that must be validated by external authorities. [[Verifiable Credentials]] can ensure cryptographic integrity of credential presentation while depending on trusted issuers for factual accuracy.
+[[self-sovereign identity]] systems face oracle problems in verifying claims about education, employment, legal status, and other credentials that must be validated by external authorities. [[Verifiable Credentials]] can ensure cryptographic integrity of credential presentation while depending on trusted issuers for factual accuracy.
 
 The challenge is compounded by what legal scholar Julie Cohen calls "privacy paradox" where identity verification requires revealing information to authorities while privacy preservation requires limiting information disclosure, creating trade-offs between verification accuracy and personal autonomy.
 
@@ -254,21 +254,21 @@ The maturation of oracle systems requires addressing fundamental tensions betwee
 
 ## Related Concepts
 
-[[Smart Contracts]] - Programmable agreements that require external data for execution conditions
+[[smart contracts]] - Programmable agreements that require external data for execution conditions
 [[DeFi]] - Decentralized finance protocols that depend on price feeds and external market data
 [[Supply Chain Transparency]] - Blockchain applications requiring verification of physical goods and processes
-[[Self-Sovereign Identity]] - Identity systems that must verify external credentials and attestations
+[[self-sovereign identity]] - Identity systems that must verify external credentials and attestations
 [[Verifiable Credentials]] - Cryptographic credentials that depend on trusted issuers for factual accuracy
 [[Zero-Knowledge Proofs]] - Cryptographic techniques for proving data properties without revealing data
-[[Consensus Mechanisms]] - Blockchain protocols that cannot extend verification to external data sources
+[[consensus mechanisms]] - Blockchain protocols that cannot extend verification to external data sources
 [[Chainlink]] - Decentralized oracle network attempting to solve external data provision
 [[Flash Loan Attacks]] - DeFi exploits that manipulate oracle price feeds for profit
 [[Sybil Attacks]] - Identity manipulation attacks relevant to oracle network security
 [[Byzantine Fault Tolerance]] - Distributed computing property that oracle networks attempt to achieve
 [[Mechanism Design]] - Economic framework for creating truth-telling incentives in oracle systems
-[[Information Theory]] - Mathematical foundation for understanding data verification limitations
+[[Information theory]] - Mathematical foundation for understanding data verification limitations
 [[Cryptographic Hashing]] - Technical method for ensuring data integrity during transmission
-[[Proof of Stake]] - Consensus mechanism that inspires oracle staking and slashing mechanisms
+[[Proof of Stake (PoS)]] - Consensus mechanism that inspires oracle staking and slashing mechanisms
 [[Multi-Signature]] - Cryptographic technique for requiring multiple oracle confirmations
 [[Reputation Systems]] - Social coordination mechanisms for tracking oracle provider performance
 [[Data Provenance]] - Tracking data sources and transformations in oracle systems

@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of global state extends beyond technical coordination to encompass fundamental questions about decentralized consensus, economic coordination, and the conditions under which distributed systems can achieve reliable computation and value transfer despite the presence of adversarial actors and network failures. What computer scientist Nancy Lynch calls "distributed computing" becomes practically implementable through cryptographic consensus mechanisms that enable what economist Friedrich Hayek calls "spontaneous order" in digital systems.
 
-In Web3 contexts, global state represents both the foundational infrastructure that enables [[Decentralized Finance]], [[Smart Contracts]], and [[Cross-Chain Integration]] through shared computational reality, and a fundamental limitation where state growth, consensus overhead, and coordination complexity may constrain scalability while creating new forms of systemic risk through interconnected dependencies that span multiple blockchain networks and applications.
+In Web3 contexts, global state represents both the foundational infrastructure that enables [[Decentralized Finance (DeFi)]], [[smart contracts]], and [[Cross-Chain Integration]] through shared computational reality, and a fundamental limitation where state growth, consensus overhead, and coordination complexity may constrain scalability while creating new forms of systemic risk through interconnected dependencies that span multiple blockchain networks and applications.
 
 ## Computer Science Foundations and Distributed Systems Theory
 
@@ -54,7 +54,7 @@ The cryptographic properties enable what security researcher Matthew Green calls
 
 ### Ethereum Virtual Machine and Programmable State
 
-The Ethereum Virtual Machine implements global state as a programmable computer where [[Smart Contracts]] can modify shared state through deterministic computation while maintaining consistency across thousands of nodes worldwide. This creates what computer scientist Nick Szabo calls "smart property" where programmable assets can interact according to predetermined rules without requiring external enforcement.
+The Ethereum Virtual Machine implements global state as a programmable computer where [[smart contracts]] can modify shared state through deterministic computation while maintaining consistency across thousands of nodes worldwide. This creates what computer scientist Nick Szabo calls "smart property" where programmable assets can interact according to predetermined rules without requiring external enforcement.
 
 [[Gas]] mechanisms create economic incentives for computational efficiency while preventing denial-of-service attacks that could compromise global state integrity through resource exhaustion. This implements what economist Ronald Coase calls "transaction cost" pricing for distributed computation while enabling what computer scientist Hal Finney calls "reusable proofs of work."
 
@@ -64,7 +64,7 @@ However, the Ethereum model faces scalability constraints where global state gro
 
 [[State Channels]] and layer 2 solutions attempt to address global state limitations by moving computation off-chain while maintaining cryptographic guarantees about state validity through what computer scientist Joseph Poon calls "payment channels" that enable rapid micropayments without requiring global consensus for every transaction.
 
-[[Optimistic Rollups]] and [[ZK-Rollups]] create hierarchical state architectures where layer 2 systems maintain local state while periodically committing state updates to layer 1 systems that provide ultimate security guarantees. This implements what computer scientist Hal Finney calls "federated sidechains" concepts through cryptographic rather than trust-based mechanisms.
+[[Optimistic rollups]] and [[zk-Rollups]] create hierarchical state architectures where layer 2 systems maintain local state while periodically committing state updates to layer 1 systems that provide ultimate security guarantees. This implements what computer scientist Hal Finney calls "federated sidechains" concepts through cryptographic rather than trust-based mechanisms.
 
 Yet layer 2 solutions create new categories of complexity including liquidity fragmentation, cross-layer communication overhead, and security assumptions that may differ from the underlying layer 1 global state, potentially creating what economist Hyman Minsky calls "financial fragility" through interconnected dependencies.
 
@@ -90,7 +90,7 @@ However, network effects may also create what economist Joseph Farrell calls "ex
 
 Global state infrastructure represents what economist Paul Samuelson calls "public goods" where network security, state maintenance, and consensus participation create benefits that are available to all users regardless of their contribution to network maintenance.
 
-[[Proof of Stake]] mechanisms attempt to address what economist Mancur Olson calls "collective action problems" by creating economic incentives for network participation while imposing costs on malicious behavior through slashing and reputation mechanisms.
+[[Proof of Stake (PoS)]] mechanisms attempt to address what economist Mancur Olson calls "collective action problems" by creating economic incentives for network participation while imposing costs on malicious behavior through slashing and reputation mechanisms.
 
 Yet the global nature of blockchain networks creates what economist Elinor Ostrom calls "common pool resource" challenges where individual users may benefit from network security while having insufficient incentives to contribute to network maintenance through validation, governance participation, or development funding.
 
@@ -106,7 +106,7 @@ However, the combination of global state with monetary systems creates new categ
 
 ### Decentralized Finance and Composability
 
-[[Decentralized Finance]] applications leverage global state to create what computer scientist Nick Szabo calls "smart contracts" that can interact with each other through shared state, enabling what DeFi practitioners call "money legos" where different financial protocols can compose to create complex financial instruments.
+[[Decentralized Finance (DeFi)]] applications leverage global state to create what computer scientist Nick Szabo calls "smart contracts" that can interact with each other through shared state, enabling what DeFi practitioners call "money legos" where different financial protocols can compose to create complex financial instruments.
 
 Global state enables [[Atomic Transactions]] where complex multi-step financial operations either complete entirely or fail completely, preventing partial execution that could create inconsistent financial state while enabling sophisticated financial coordination without trusted intermediaries.
 
@@ -122,7 +122,7 @@ However, cross-chain global state faces fundamental challenges with security ass
 
 ### Governance and Collective Decision-Making
 
-[[Decentralized Autonomous Organizations]] use global state to implement governance mechanisms where token holders can participate in collective decision-making through on-chain voting systems that maintain transparent records of governance participation and proposal outcomes.
+[[Decentralized Autonomous Organizations (DAOs)]] use global state to implement governance mechanisms where token holders can participate in collective decision-making through on-chain voting systems that maintain transparent records of governance participation and proposal outcomes.
 
 Global state enables what political scientist Robert Dahl calls "democratic accountability" through permanent records of governance decisions, voting patterns, and proposal outcomes that can be audited by community members while preventing retroactive manipulation of governance history.
 
@@ -142,7 +142,7 @@ State pruning and rent mechanisms attempt to address growth problems but face ch
 
 Global state consensus requires substantial computational and energy resources that scale with network size and transaction volume, creating what economist Nicholas Georgescu-Roegen calls "entropy law" constraints where consensus overhead may grow faster than the economic value created by global state coordination.
 
-[[Proof of Work]] consensus mechanisms require significant energy expenditure that has drawn criticism for environmental impact while [[Proof of Stake]] mechanisms require substantial token lockup that may create liquidity constraints and governance concentration risks.
+[[proof of work (PoW)]] consensus mechanisms require significant energy expenditure that has drawn criticism for environmental impact while [[Proof of Stake (PoS)]] mechanisms require substantial token lockup that may create liquidity constraints and governance concentration risks.
 
 The energy and capital requirements for maintaining global state consensus may create what economist Thomas Malthus calls "limits to growth" where the costs of consensus exceed the benefits from coordination, potentially requiring fundamental architectural changes to maintain economic sustainability.
 
@@ -166,14 +166,14 @@ The maturation of global state infrastructure depends on addressing fundamental 
 
 ## Related Concepts
 
-[[Blockchain]] - Technical infrastructure that implements global state through distributed consensus mechanisms
-[[Consensus Mechanisms]] - Protocols that enable distributed nodes to agree on global state updates
-[[Smart Contracts]] - Programmable agreements that modify global state through deterministic computation
+[[blockchain]] - Technical infrastructure that implements global state through distributed consensus mechanisms
+[[consensus mechanisms]] - Protocols that enable distributed nodes to agree on global state updates
+[[smart contracts]] - Programmable agreements that modify global state through deterministic computation
 [[State Channels]] - Off-chain systems that enable rapid state updates while maintaining global state security
 [[Sharding]] - Technical approach to scaling global state through parallel processing across multiple chains
 [[Cross-Chain Integration]] - Protocols that enable global state coordination across different blockchain networks
-[[Decentralized Finance]] - Financial applications that leverage global state for trustless financial coordination
-[[Proof of Stake]] - Consensus mechanism that secures global state through economic incentives and penalties
+[[Decentralized Finance (DeFi)]] - Financial applications that leverage global state for trustless financial coordination
+[[Proof of Stake (PoS)]] - Consensus mechanism that secures global state through economic incentives and penalties
 [[Gas]] - Economic mechanism for pricing computational resources in global state systems
 [[Merkle Trees]] - Cryptographic data structures that enable efficient global state verification
 [[Byzantine Fault Tolerance]] - Technical property that enables global state consensus despite adversarial participants

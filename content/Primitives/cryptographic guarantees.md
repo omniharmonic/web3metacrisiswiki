@@ -82,7 +82,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Cryptographic Guarantees]]
+### [[cryptographic guarantees]]
 - **Decentralized Cryptographic Guarantees**: Cryptographic guarantees in decentralized systems
 - **User Control**: User control over cryptographic guarantees
 - **Transparency**: Transparent cryptographic guarantee processes

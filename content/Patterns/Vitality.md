@@ -59,7 +59,7 @@ The success of platforms like [[Gitcoin]] in funding open-source software develo
 
 ### Decentralized Autonomous Organizations and Participatory Governance
 
-[[Decentralized Autonomous Organizations]] (DAOs) enable experiments in collective governance that could potentially enhance community vitality through more participatory and transparent decision-making processes. Successful examples include conservation DAOs that enable global communities to collectively fund and govern biodiversity protection initiatives, and mutual aid networks that provide economic security through peer-to-peer support systems.
+[[Decentralized Autonomous Organizations (DAOs)]] (DAOs) enable experiments in collective governance that could potentially enhance community vitality through more participatory and transparent decision-making processes. Successful examples include conservation DAOs that enable global communities to collectively fund and govern biodiversity protection initiatives, and mutual aid networks that provide economic security through peer-to-peer support systems.
 
 The technical capability to implement programmable governance mechanisms including [[Conviction Voting]], which weights voting power by time commitment to proposals, and reputation systems that reward contributions to community welfare offer pathways for governance systems that prioritize long-term vitality over short-term extraction.
 
@@ -103,11 +103,11 @@ Future developments likely require more sophisticated integration of individual,
 
 [[Choice]] - Individual and collective agency that enables self-directed vitality
 [[Resilience]] - System robustness that preserves vitality during disruption and stress
-[[Regenerative Economics]] - Economic models that enhance rather than degrade life-supporting capacity
+[[regenerative economics]] - Economic models that enhance rather than degrade life-supporting capacity
 [[Public Goods Funding]] - Mechanisms for supporting commons-based vitality enhancement
 [[Quadratic Funding]] - Democratic resource allocation for community vitality projects
-[[Decentralized Autonomous Organizations]] - Governance experiments for collective vitality enhancement
+[[Decentralized Autonomous Organizations (DAOs)]] - Governance experiments for collective vitality enhancement
 [[Ecological Economics]] - Economic frameworks that recognize natural capital and ecosystem services
 [[Positive Psychology]] - Scientific study of human flourishing and eudaimonic well-being
 [[Social Capital]] - Network relationships that enable collective action for community vitality
-[[Commons Governance]] - Institutional arrangements for managing shared resources sustainably
+[[commons governance]] - Institutional arrangements for managing shared resources sustainably

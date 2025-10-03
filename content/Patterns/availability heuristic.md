@@ -68,7 +68,7 @@ The phenomenon reflects what network scientist Duncan Watts calls "influencer ef
 
 ### Governance and Democratic Participation
 
-[[Decentralized Autonomous Organizations]] face availability bias in governance where the most recent proposals, dramatic community conflicts, and vocal participants may receive disproportionate attention compared to systematic analysis of long-term trends and silent majority preferences.
+[[Decentralized Autonomous Organizations (DAOs)]] face availability bias in governance where the most recent proposals, dramatic community conflicts, and vocal participants may receive disproportionate attention compared to systematic analysis of long-term trends and silent majority preferences.
 
 Governance token voting patterns may reflect availability bias where recent events, prominent community members' opinions, and emotionally charged issues drive participation while technical governance decisions and long-term strategic planning receive less engagement despite potentially greater importance for protocol success.
 
@@ -165,7 +165,7 @@ The effectiveness of bias mitigation depends on understanding availability heuri
 ## Related Concepts
 
 [[Cognitive Biases]] - Systematic patterns of deviation from rationality in judgment and decision-making
-[[Confirmation Bias]] - Tendency to search for and favor information that confirms existing beliefs
+[[confirmation bias]] - Tendency to search for and favor information that confirms existing beliefs
 [[System 1 and System 2 Thinking]] - Dual-process theory distinguishing fast automatic and slow deliberate thinking
 [[Representativeness Heuristic]] - Judging probability by similarity to mental prototypes
 [[Anchoring Bias]] - Over-reliance on first piece of information encountered when making decisions
@@ -174,7 +174,7 @@ The effectiveness of bias mitigation depends on understanding availability heuri
 [[Media Effects]] - Influence of mass media content on audience attitudes and behavior
 [[Information Cascades]] - Phenomenon where people follow the behavior of others while ignoring private information
 [[Echo Chambers]] - Environments where people encounter only information that reinforces existing beliefs
-[[Filter Bubbles]] - Algorithmic isolation where users receive personalized content that limits exposure to diverse information
+[[filter bubbles]] - Algorithmic isolation where users receive personalized content that limits exposure to diverse information
 [[Algorithmic Amplification]] - Process where algorithms systematically promote certain types of content over others
 [[Choice Architecture]] - Design of environments in which people make decisions to influence behavior
 [[Reputation Systems]] - Mechanisms for tracking and evaluating the credibility and reliability of information sources

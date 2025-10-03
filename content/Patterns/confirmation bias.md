@@ -68,7 +68,7 @@ Viral content patterns in Web3 demonstrate what communication scholar Everett Ro
 
 ### Governance and Community Decision-Making
 
-[[Decentralized Autonomous Organizations]] face confirmation bias in governance where active participants often share similar beliefs about protocol direction and technical approaches while dissenting voices may self-select out of governance participation rather than engaging in lengthy debates with predetermined outcomes.
+[[Decentralized Autonomous Organizations (DAOs)]] face confirmation bias in governance where active participants often share similar beliefs about protocol direction and technical approaches while dissenting voices may self-select out of governance participation rather than engaging in lengthy debates with predetermined outcomes.
 
 Proposal evaluation in DAOs may reflect what political scientist Irving Janis calls "groupthink" where desire for consensus and community harmony leads to systematic suppression of dissenting views while confirmation bias ensures that supporting evidence receives more attention than critical analysis.
 
@@ -183,9 +183,9 @@ The effectiveness of bias mitigation depends on understanding confirmation bias 
 ## Related Concepts
 
 [[Cognitive Biases]] - Systematic patterns of deviation from rationality in judgment and decision-making including confirmation bias
-[[Availability Heuristic]] - Tendency to judge probability by ease of recall, often interacting with confirmation bias
+[[availability heuristic]] - Tendency to judge probability by ease of recall, often interacting with confirmation bias
 [[Echo Chambers]] - Environments where people encounter only information that reinforces existing beliefs
-[[Filter Bubbles]] - Algorithmic personalization that limits exposure to diverse information and perspectives
+[[filter bubbles]] - Algorithmic personalization that limits exposure to diverse information and perspectives
 [[Motivated Reasoning]] - Goal-directed reasoning that seeks to reach desired conclusions rather than accurate ones
 [[Cognitive Dissonance]] - Psychological discomfort when confronted with contradictory information or beliefs
 [[Groupthink]] - Group decision-making process that prioritizes consensus over critical evaluation
@@ -194,7 +194,7 @@ The effectiveness of bias mitigation depends on understanding confirmation bias 
 [[Identity-Protective Cognition]] - Tendency to process information in ways that protect social identity and group membership
 [[Epistemic Bubbles]] - Information environments where other voices are absent
 [[Polarization]] - Process where groups become more extreme in their views through mutual reinforcement
-[[Social Proof]] - Psychological phenomenon where people assume others' actions reflect correct behavior
+[[social proof]] - Psychological phenomenon where people assume others' actions reflect correct behavior
 [[Algorithmic Amplification]] - Process where algorithms systematically promote certain types of content over others
 [[Adversarial Collaboration]] - Structured process where people with opposing views work together to evaluate evidence
 [[Red Team Exercises]] - Structured criticism designed to identify flaws and potential failures in plans or beliefs

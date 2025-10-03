@@ -11,11 +11,11 @@ aliases:
 
 ## Definition and Theoretical Foundations
 
-The **Prisoner's Dilemma** represents the paradigmatic example in [[Game Theory]] of how individual rational behavior can generate collectively irrational outcomes, illustrating fundamental tensions between self-interest and mutual benefit that appear throughout social, economic, and political life. Developed by mathematicians Merrill Flood and Melvin Dresher at RAND Corporation in 1950, and formalized by Albert Tucker, this game-theoretic model provides crucial insights into cooperation problems that are central to understanding [[Collective Action Problems]], [[Free Rider Problems]], and coordination challenges in decentralized systems.
+The **Prisoner's Dilemma** represents the paradigmatic example in [[Game Theory]] of how individual rational behavior can generate collectively irrational outcomes, illustrating fundamental tensions between self-interest and mutual benefit that appear throughout social, economic, and political life. Developed by mathematicians Merrill Flood and Melvin Dresher at RAND Corporation in 1950, and formalized by Albert Tucker, this game-theoretic model provides crucial insights into cooperation problems that are central to understanding [[Collective Action Problem]], [[Free Rider Problem]], and coordination challenges in decentralized systems.
 
 The theoretical significance extends far beyond the original scenario to encompass fundamental questions about trust, reciprocity, and the conditions under which cooperation can emerge and sustain itself in strategic environments. The dilemma appears at multiple scales from interpersonal relationships to international relations, making it essential for understanding everything from [[Public Goods Funding]] to climate cooperation and blockchain consensus mechanisms.
 
-In Web3 contexts, the prisoner's dilemma structure appears in numerous forms including validator behavior in [[Consensus Mechanisms]], participation in [[Decentralized Autonomous Organizations]], and contribution to open-source protocol development where individual defection (non-participation) may be rational while collective defection produces worse outcomes for everyone.
+In Web3 contexts, the prisoner's dilemma structure appears in numerous forms including validator behavior in [[consensus mechanisms]], participation in [[Decentralized Autonomous Organizations (DAOs)]], and contribution to open-source protocol development where individual defection (non-participation) may be rational while collective defection produces worse outcomes for everyone.
 
 ## Mathematical Structure and Strategic Analysis
 
@@ -55,7 +55,7 @@ The 2008 financial crisis illustrated how individually rational behavior by bank
 
 ### Web3 and Blockchain Coordination Challenges
 
-Blockchain systems exhibit prisoner's dilemma structures in multiple domains including validator behavior, governance participation, and public goods funding. [[Proof of Stake]] consensus mechanisms attempt to solve coordination problems by making honest validation individually rational through economic rewards while making coordinated attacks prohibitively expensive through [[Slashing]] penalties.
+Blockchain systems exhibit prisoner's dilemma structures in multiple domains including validator behavior, governance participation, and public goods funding. [[Proof of Stake (PoS)]] consensus mechanisms attempt to solve coordination problems by making honest validation individually rational through economic rewards while making coordinated attacks prohibitively expensive through [[Slashing]] penalties.
 
 However, empirical analysis reveals persistent coordination challenges including the "nothing at stake" problem where validators face insufficient costs for supporting multiple competing chains, concentration of stake among large holders who may coordinate attacks, and low participation rates in governance decisions where individual votes have minimal impact but collective abstention undermines democratic legitimacy.
 
@@ -73,7 +73,7 @@ Web3 systems attempt to implement reputation mechanisms through on-chain activit
 
 [[Mechanism Design]] theory provides tools for creating institutions that align individual incentives with collective welfare through carefully designed rules and payoff structures. In prisoner's dilemma contexts, this involves creating mechanisms that make cooperation individually rational through selective incentives, conditional cooperation mechanisms, or punishment systems that deter defection.
 
-Cryptoeconomic systems implement mechanism design through [[Smart Contracts]] that can automatically execute conditional cooperation strategies, punishment mechanisms, and reward systems based on verifiable on-chain behavior. However, the effectiveness of these mechanisms depends on solving fundamental challenges including Sybil resistance, preference revelation, and the measurement of complex social contributions through algorithmic systems.
+Cryptoeconomic systems implement mechanism design through [[smart contracts]] that can automatically execute conditional cooperation strategies, punishment mechanisms, and reward systems based on verifiable on-chain behavior. However, the effectiveness of these mechanisms depends on solving fundamental challenges including Sybil resistance, preference revelation, and the measurement of complex social contributions through algorithmic systems.
 
 ## Critical Limitations and Behavioral Challenges
 
@@ -103,11 +103,11 @@ Future developments likely require hybrid approaches that combine game-theoretic
 [[Nash Equilibrium]] - Solution concept that explains the stability of mutual defection outcomes
 [[Free Rider Problem]] - Specific application of prisoner's dilemma logic to public goods provision
 [[Collective Action Problem]] - Broader category of coordination challenges that includes prisoner's dilemmas
-[[Multi-polar Traps]] - Competitive dynamics that create prisoner's dilemma-like coordination failures
+[[multi-polar traps]] - Competitive dynamics that create prisoner's dilemma-like coordination failures
 [[Mechanism Design]] - Theoretical framework for creating institutions that solve cooperation problems
 [[Public Goods Funding]] - Application domain where prisoner's dilemma insights guide institutional design
-[[Consensus Mechanisms]] - Blockchain protocols that implement solutions to distributed coordination problems
-[[Proof of Stake]] - Economic consensus mechanism that aligns individual and collective incentives
+[[consensus mechanisms]] - Blockchain protocols that implement solutions to distributed coordination problems
+[[Proof of Stake (PoS)]] - Economic consensus mechanism that aligns individual and collective incentives
 [[Slashing]] - Punishment mechanism designed to deter defection in blockchain consensus
 [[Behavioral Economics]] - Field that studies deviations from rational choice in strategic environments
 [[Repeated Games]] - Game-theoretic analysis of how ongoing interaction can support cooperation

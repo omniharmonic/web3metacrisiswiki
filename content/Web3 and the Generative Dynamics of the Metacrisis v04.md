@@ -84,7 +84,7 @@ The Third Attractor framework provides a lens for evaluating whether specific in
 
 ### Web3 Technologies as Potential Technological Substrate
 
-Web3 technologies—encompassing [[blockchain]] networks, [[content/Primitives/smart contracts]], [[decentralized applications (dApps)]], [[cryptographic protocols]], and [[distributed governance]] mechanisms—have emerged as potential technological substrates for addressing the [[meta-crisis]] through novel coordination mechanisms that could enable movement toward the [[Third Attractor]]. The term "Web3" itself represents the third generation of internet architecture, following Web1's static information sharing and Web2's interactive but centralized platforms.
+Web3 technologies—encompassing [[blockchain]] networks, [[smart contracts]], [[decentralized applications (dApps)]], [[cryptographic protocols]], and [[distributed governance]] mechanisms—have emerged as potential technological substrates for addressing the [[meta-crisis]] through novel coordination mechanisms that could enable movement toward the [[Third Attractor]]. The term "Web3" itself represents the third generation of internet architecture, following Web1's static information sharing and Web2's interactive but centralized platforms.
 
 **Foundational Technological Paradigm Shift**
 
@@ -102,7 +102,7 @@ These cryptographic primitives collectively enable the creation of systems where
 
 The resilience properties of decentralized infrastructure stem from redundancy, geographic distribution, and economic incentives that align individual and collective interests. Unlike centralized systems where single points of failure can compromise entire networks, decentralized systems degrade gracefully and can continue operating even when significant portions are compromised or offline.
 
-**[[Programmable Incentives]]** enable the creation of economic mechanisms that reward prosocial behavior and punish harmful actions through automated [[content/Primitives/smart contracts]] and [[tokenization]]. [[content/Primitives/smart contracts]] can automatically execute agreements based on verifiable conditions, reducing the need for trusted intermediaries. [[tokenization]] systems can create economic incentives for desired behaviors, from contributing to public goods to maintaining network infrastructure.
+**[[Programmable Incentives]]** enable the creation of economic mechanisms that reward prosocial behavior and punish harmful actions through automated [[smart contracts]] and [[tokenization]]. [[smart contracts]] can automatically execute agreements based on verifiable conditions, reducing the need for trusted intermediaries. [[tokenization]] systems can create economic incentives for desired behaviors, from contributing to public goods to maintaining network infrastructure.
 
 These programmable incentive systems can potentially address the [[misaligned incentives]] that drive many components of the [[meta-crisis]]. By making prosocial behavior economically rational and harmful behavior economically costly, Web3 systems could help align individual incentives with collective welfare in ways that traditional institutions have struggled to achieve.
 
@@ -110,7 +110,7 @@ These programmable incentive systems can potentially address the [[misaligned in
 
 This immutability property has important implications for addressing problems like [[regulatory capture]] and corruption, where powerful actors may attempt to suppress or alter inconvenient records. Immutable records can preserve evidence of wrongdoing and enable accountability mechanisms that resist institutional capture.
 
-**[[Composability]] and [[Interoperability]]** enable different Web3 systems to interact and build upon each other, creating network effects and emergent capabilities that exceed the sum of individual components. [[content/Primitives/smart contracts]] can call other [[content/Primitives/smart contracts]], tokens can be used across multiple applications, and data can be shared between different protocols. This [[Composability]] enables rapid innovation and experimentation with new coordination mechanisms.
+**[[Composability]] and [[Interoperability]]** enable different Web3 systems to interact and build upon each other, creating network effects and emergent capabilities that exceed the sum of individual components. [[smart contracts]] can call other [[smart contracts]], tokens can be used across multiple applications, and data can be shared between different protocols. This [[Composability]] enables rapid innovation and experimentation with new coordination mechanisms.
 
 **Critical Limitations and Contested Claims**
 
@@ -354,7 +354,7 @@ This approach builds on successful models like Taiwan's vTaiwan digital democrac
 
 **Architecture 3: Citizen Assemblies with Cryptographic Random Selection**
 
-This architecture addresses fundamental limitations of traditional democratic participation by leveraging Web3 technologies to enable scalable, verifiable civic engagement. As documented in Glen Weyl and Audrey Tang's "Plurality" framework and demonstrated through Taiwan's vTaiwan process, [[cryptographic identity]] and [[immutability]] capacities make possible new forms of democratic participation that transcend geographical and institutional boundaries¹¹.
+This architecture addresses fundamental limitations of traditional democratic participation by leveraging Web3 technologies to enable scalable, verifiable civic engagement. As documented in Glen Weyl and Audrey Tang's "Plurality" framework and demonstrated through Taiwan's vTaiwan process, [[Cryptographic Identity]] and [[Immutability]] capacities make possible new forms of democratic participation that transcend geographical and institutional boundaries¹¹.
 
 **Sortition-Based Regulatory Participation**: Drawing from ancient Athenian democracy and modern innovations like Ireland's Citizens' Assembly, this approach would use cryptographically secure random selection to create representative samples of affected populations for regulatory decision-making. Unlike token-based governance that favors wealthy participants, sortition ensures equal participation opportunities regardless of economic status.
 
@@ -392,7 +392,7 @@ The proposed decentralized regulatory networks would integrate multiple Web3 pri
 
 **[[blockchain]] infrastructure**: Multiple blockchain networks would provide the foundational infrastructure for immutable record-keeping, smart contract execution, and cross-jurisdictional coordination. Interoperability protocols would enable communication between different blockchain networks while maintaining security and decentralization.
 
-**[[content/Primitives/smart contracts]] systems**: Advanced smart contract platforms would implement regulatory logic, automate compliance monitoring, and facilitate coordination between different system components. Formal verification techniques would ensure contract correctness and security.
+**[[smart contracts]] systems**: Advanced smart contract platforms would implement regulatory logic, automate compliance monitoring, and facilitate coordination between different system components. Formal verification techniques would ensure contract correctness and security.
 
 **[[decentralized storage networks]]**: IPFS and other distributed storage systems would provide censorship-resistant storage for regulatory documents, evidence, and historical records. Content addressing would ensure document integrity while distributed replication would prevent single points of failure.
 
@@ -550,7 +550,7 @@ Research by political scientists including Larry Bartels and Morris Fiorina docu
 
 **Revenue Model Transformation: From Data Extraction to Value Flow Optimization**
 
-A critical but underexamined aspect of misaligned incentives involves the revenue models that shape digital platforms and applications. Traditional Web2 platforms operate on attention-capture models that monetize user data through advertising, creating [[surveillance capitalism]] dynamics where user privacy and wellbeing are systematically subordinated to engagement optimization and data extraction. This model creates perverse incentives that drive [[epistemic collapse]], [[social fragmentation]], and [[psychological manipulation]] through algorithmic systems designed to maximize attention capture rather than user value.
+A critical but underexamined aspect of misaligned incentives involves the revenue models that shape digital platforms and applications. Traditional Web2 platforms operate on attention-capture models that monetize user data through advertising, creating [[Surveillance Capitalism]] dynamics where user privacy and wellbeing are systematically subordinated to engagement optimization and data extraction. This model creates perverse incentives that drive [[epistemic collapse]], [[social fragmentation]], and [[psychological manipulation]] through algorithmic systems designed to maximize attention capture rather than user value.
 
 As described in contemporary analysis of [[pluralistic capital allocation systems]], "The narrow optimization of contemporary capitalism—its relentless focus on financial returns—has generated unprecedented wealth alongside profound inequality and ecological devastation." Web2 platforms exemplify this narrow optimization by reducing diverse forms of user value to a single metric: engagement time that can be monetized through advertising revenue.
 
@@ -1020,11 +1020,11 @@ Privacy-preserving Web3 infrastructure may provide unique value in specific cont
 
 **Supplementary Privacy Enhancement**: Privacy-preserving technologies may be most effective when integrated with existing systems to enhance privacy rather than replacing entire communication and computing infrastructures.
 
-### 1.5 [[Economic Centralization]]: The Enclosure of the Modern Commons
+### 1.5 [[economic centralization]]: The Enclosure of the Modern Commons
 
 #### Comprehensive Problem Definition and Theoretical Framework
 
-[[Economic centralization]] represents the self-reinforcing, systemic process by which wealth, market power, and decision-making authority become increasingly concentrated in a small number of corporate and financial entities. This is not a temporary market condition but a structural feature of modern capitalism, driven by powerful dynamics that ensure capital begets more capital through recursive accumulation. This concentration creates a positive feedback loop where existing wealth generates returns that are reinvested to produce even greater returns, leading to exponential growth for asset holders while wages for labor stagnate.
+[[economic centralization]] represents the self-reinforcing, systemic process by which wealth, market power, and decision-making authority become increasingly concentrated in a small number of corporate and financial entities. This is not a temporary market condition but a structural feature of modern capitalism, driven by powerful dynamics that ensure capital begets more capital through recursive accumulation. This concentration creates a positive feedback loop where existing wealth generates returns that are reinvested to produce even greater returns, leading to exponential growth for asset holders while wages for labor stagnate.
 
 Within CRI's civilizational analysis framework, economic centralization represents a critical failure across all three structural layers. At the infrastructure level, it manifests through monopolistic control over essential resources and technologies. At the social structures level, it undermines democratic institutions through regulatory capture and political influence. At the superstructure level, it generates cultural narratives that justify extreme inequality as natural and inevitable. As CRI researchers note, this concentration of power creates systemic fragility where "the complexity and consequentiality of our problems and the response capacities of individuals, institutions, and markets" are dangerously misaligned (CRI, 2024).
 
@@ -1046,9 +1046,9 @@ Several key factors accelerate the process of concentration, creating what econo
 
 Extreme economic centralization functions as a primary driver of other systemic failures within the [[meta-crisis]], creating cascading effects across multiple domains:
 
-**Amplification of [[Regulatory Capture]]**: Concentrated economic power translates directly into concentrated political influence. The immense resources of centralized corporations and financial institutions fuel lobbying efforts, campaign contributions, and revolving door employment that enable systematic capture of regulatory agencies. This concentration makes democratic governance increasingly responsive to narrow economic interests rather than broader public welfare.
+**Amplification of [[regulatory capture]]**: Concentrated economic power translates directly into concentrated political influence. The immense resources of centralized corporations and financial institutions fuel lobbying efforts, campaign contributions, and revolving door employment that enable systematic capture of regulatory agencies. This concentration makes democratic governance increasingly responsive to narrow economic interests rather than broader public welfare.
 
-**Entrenchment of [[Misaligned Incentives]]**: Economic centralization exacerbates misaligned incentives by rewarding short-term profit maximization and cost externalization. Large corporations with monopolistic market positions can impose external costs on society while capturing benefits for shareholders, knowing that their market power protects them from competitive pressure to internalize these costs.
+**Entrenchment of [[misaligned incentives]]**: Economic centralization exacerbates misaligned incentives by rewarding short-term profit maximization and cost externalization. Large corporations with monopolistic market positions can impose external costs on society while capturing benefits for shareholders, knowing that their market power protects them from competitive pressure to internalize these costs.
 
 **Systemic Fragility and Brittleness**: Highly concentrated economic systems create single points of failure that endanger entire networks. The 2008 financial crisis demonstrated how "too-big-to-fail" institutions can impose massive costs on society when their concentrated risk positions collapse. Similarly, concentrated supply chains controlled by few key players prove extremely vulnerable to disruption, as seen during the COVID-19 pandemic.
 
@@ -1126,7 +1126,7 @@ Web3 technologies enable a fundamental transformation in the economic models tha
 
 **The Web2 Extraction Economy and Its Systemic Failures**
 
-Traditional Web2 platforms operate on economic models that monetize user attention and personal data through advertising revenue, creating what Shoshana Zuboff terms "[[surveillance capitalism]]"—a system where human experience is converted into behavioral data for predictive products sold to third-party advertisers. This model creates profound [[misaligned incentives]] where platform success depends on maximizing user engagement and data collection rather than providing genuine value or supporting user wellbeing.
+Traditional Web2 platforms operate on economic models that monetize user attention and personal data through advertising revenue, creating what Shoshana Zuboff terms "[[Surveillance Capitalism]]"—a system where human experience is converted into behavioral data for predictive products sold to third-party advertisers. This model creates profound [[misaligned incentives]] where platform success depends on maximizing user engagement and data collection rather than providing genuine value or supporting user wellbeing.
 
 These extraction-based revenue models directly contribute to [[epistemic collapse]] by optimizing for engagement metrics that favor emotionally provocative, divisive, or sensational content over accurate information. The economic incentive to maximize time-on-platform and advertising impressions systematically rewards content that generates strong emotional responses, creating algorithmic amplification of misinformation, polarization, and addictive behavioral patterns.
 
@@ -1134,15 +1134,15 @@ The concentration of these extraction-based revenue models within a small number
 
 **Web3 Value Flow Models and Incentive Realignment**
 
-Web3 technologies enable fundamentally different economic models based on direct value flows between users and value creators, eliminating the need for advertising-based revenue extraction. [[Tokenization]] systems can create direct economic relationships where users pay creators, developers, and service providers based on the actual value they provide, while [[automated distribution mechanisms]] like [[revnets]] can ensure fair compensation for all contributors to platform success.
+Web3 technologies enable fundamentally different economic models based on direct value flows between users and value creators, eliminating the need for advertising-based revenue extraction. [[tokenization]] systems can create direct economic relationships where users pay creators, developers, and service providers based on the actual value they provide, while [[automated distribution mechanisms]] like [[revnets]] can ensure fair compensation for all contributors to platform success.
 
 **[[Token Economics]] and Direct Value Exchange**: Web3 platforms can implement token-based economies where users directly compensate content creators, developers, and service providers through microtransactions, subscriptions, or usage-based payments. This creates economic incentives for platforms to optimize for user satisfaction and value creation rather than attention capture and data extraction.
 
 Users can maintain ownership and control over their data while selectively sharing value with platforms and services that provide genuine utility. This model aligns platform incentives with user welfare, as platform success depends on creating value that users are willing to pay for directly rather than capturing value through surveillance and behavioral manipulation.
 
-**[[Governance Token]] Systems and Stakeholder Alignment**: Web3 platforms can distribute governance rights through tokens that represent ownership stakes in platform success, aligning the interests of users, creators, developers, and investors around long-term platform value rather than short-term extraction. This can address [[economic centralization]] by distributing platform ownership and control among stakeholders.
+**[[Governance Tokens]] Systems and Stakeholder Alignment**: Web3 platforms can distribute governance rights through tokens that represent ownership stakes in platform success, aligning the interests of users, creators, developers, and investors around long-term platform value rather than short-term extraction. This can address [[economic centralization]] by distributing platform ownership and control among stakeholders.
 
-Token-based governance systems can enable community-driven development priorities, content moderation policies, and feature development that serve user interests rather than advertiser demands. [[Quadratic voting]] and other sophisticated governance mechanisms can prevent plutocratic control while enabling effective collective decision-making.
+Token-based governance systems can enable community-driven development priorities, content moderation policies, and feature development that serve user interests rather than advertiser demands. [[Quadratic Voting]] and other sophisticated governance mechanisms can prevent plutocratic control while enabling effective collective decision-making.
 
 **[[Composable Protocols]] and Reduced Platform Dependence**: Web3's composable architecture enables users to combine services from multiple protocols while maintaining data portability and reducing dependence on any single platform. This creates competitive pressure for platforms to provide genuine value while reducing the lock-in effects that enable extractive behaviors.
 
@@ -1226,7 +1226,7 @@ Maximal Extractable Value ([[MEV]]) attacks exploit the ability of block produce
 
 These limitations prevent many applications from achieving mainstream adoption and create barriers to entry for users who cannot afford high transaction fees. Layer 2 solutions attempt to address these issues but often involve trade-offs in decentralization or security.
 
-#### 2.1.2 [[content/Primitives/smart contracts]]: Programmable Agreements and Automated Execution
+#### 2.1.2 [[smart contracts]]: Programmable Agreements and Automated Execution
 
 Smart contracts represent one of the most significant innovations in blockchain technology, providing the ability to create self-executing agreements with the terms directly written into code. This capability enables automation of complex processes, elimination of intermediaries, and creation of trustless systems where participants can coordinate without requiring mutual trust.
 
@@ -1496,7 +1496,7 @@ This composability enables sophisticated reputation and validation systems where
 
 **Beneficial Potentials and Applications**
 
-**[[Decentralized Identity]] and Credential Verification**: EAS can serve as the foundation for decentralized identity systems where individuals control their own credentials and can prove qualifications without revealing unnecessary personal information. This can reduce dependence on centralized credential authorities while improving privacy and user control.
+**[[decentralized identity]] and Credential Verification**: EAS can serve as the foundation for decentralized identity systems where individuals control their own credentials and can prove qualifications without revealing unnecessary personal information. This can reduce dependence on centralized credential authorities while improving privacy and user control.
 
 Professional credentials, educational achievements, and other qualifications can be verified independently without requiring access to centralized databases or revealing more information than necessary for specific verification purposes.
 
@@ -1504,7 +1504,7 @@ Professional credentials, educational achievements, and other qualifications can
 
 Reputation attestations can capture complex behaviors and contributions that are difficult to quantify in traditional systems, while the cryptographic integrity ensures that reputation data cannot be manipulated or falsified.
 
-**[[Supply Chain Verification]] and [[Provenance]] Tracking**: EAS can enable supply chain participants to attest to various aspects of product provenance, quality, and handling without requiring centralized certification authorities. Consumers can verify claims about ethical sourcing, environmental impact, and quality standards.
+**[[Supply Chain Verification]] and [[provenance]] Tracking**: EAS can enable supply chain participants to attest to various aspects of product provenance, quality, and handling without requiring centralized certification authorities. Consumers can verify claims about ethical sourcing, environmental impact, and quality standards.
 
 Multiple parties in supply chains can provide independent attestations about different aspects of products, creating comprehensive verification records that are more resistant to fraud than single-source certifications.
 

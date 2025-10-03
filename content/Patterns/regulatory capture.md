@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of regulatory capture extends beyond simple corruption to encompass systematic patterns of institutional co-optation that operate through legal and legitimate channels including information asymmetries, personnel exchange, and resource concentration that create structural advantages for regulated industries while systematically disadvantaging public interest representation. Stigler's insight that regulation is often "acquired by the industry and is designed and operated primarily for its benefit" reveals how democratic institutions can be subverted while maintaining formal procedural compliance.
 
-In Web3 contexts, regulatory capture represents both a core problem that decentralized technologies attempt to address through [[Transparency]], [[Decentralized Autonomous Organizations]], and automated enforcement, and a persistent challenge where sophisticated actors may capture new governance mechanisms through token concentration, technical complexity barriers, and the exploitation of coordination problems that make effective public participation difficult despite formal decentralization.
+In Web3 contexts, regulatory capture represents both a core problem that decentralized technologies attempt to address through [[Transparency]], [[Decentralized Autonomous Organizations (DAOs)]], and automated enforcement, and a persistent challenge where sophisticated actors may capture new governance mechanisms through token concentration, technical complexity barriers, and the exploitation of coordination problems that make effective public participation difficult despite formal decentralization.
 
 ## Mechanisms and Dynamics of Institutional Capture
 
@@ -34,7 +34,7 @@ The challenge is compounded by what political scientist Steven Croley identifies
 
 ### Resource Concentration and Lobbying Asymmetries
 
-The concentration of economic interests creates systematic advantages for industry influence where small numbers of firms can coordinate lobbying expenditures that vastly exceed the resources available to diffuse public interest groups representing broader but less concentrated populations. This reflects what economist Mancur Olson calls "the logic of collective action" where concentrated benefits enable political organization while diffuse costs create [[Free Rider Problems]] that limit public interest advocacy.
+The concentration of economic interests creates systematic advantages for industry influence where small numbers of firms can coordinate lobbying expenditures that vastly exceed the resources available to diffuse public interest groups representing broader but less concentrated populations. This reflects what economist Mancur Olson calls "the logic of collective action" where concentrated benefits enable political organization while diffuse costs create [[Free Rider Problem]] that limit public interest advocacy.
 
 Industry lobbying operates through what political scientist Kay Lehman Schlozman calls "pressure system bias" where business interests systematically dominate policy networks while citizen groups face resource constraints that limit their capacity for sustained political engagement on technical regulatory issues that may be crucial for public welfare but lack salience for ordinary voters.
 
@@ -70,9 +70,9 @@ Citizens observing regulatory agencies serving industry interests rather than pu
 
 ### Decentralized Governance and Algorithmic Regulation
 
-[[Decentralized Autonomous Organizations]] attempt to address regulatory capture through distributed governance mechanisms where rule-making and enforcement occur through community participation rather than centralized agencies that can be captured by concentrated interests. [[Smart Contracts]] enable automated compliance monitoring and enforcement that could potentially operate without human discretion that creates opportunities for industry influence.
+[[Decentralized Autonomous Organizations (DAOs)]] attempt to address regulatory capture through distributed governance mechanisms where rule-making and enforcement occur through community participation rather than centralized agencies that can be captured by concentrated interests. [[smart contracts]] enable automated compliance monitoring and enforcement that could potentially operate without human discretion that creates opportunities for industry influence.
 
-[[Blockchain]] transparency potentially addresses information asymmetries by creating immutable records of regulatory interactions, lobbying activities, and decision-making processes that could enable public oversight of regulatory capture while preventing the retroactive manipulation of evidence that enables industry influence to remain invisible.
+[[blockchain]] transparency potentially addresses information asymmetries by creating immutable records of regulatory interactions, lobbying activities, and decision-making processes that could enable public oversight of regulatory capture while preventing the retroactive manipulation of evidence that enables industry influence to remain invisible.
 
 [[Quadratic Voting]] and [[Conviction Voting]] mechanisms attempt to address the concentration of influence by creating governance systems where broad-based community support rather than concentrated resources determines policy outcomes, potentially enabling public interest representation that can compete with industry influence despite resource asymmetries.
 
@@ -104,7 +104,7 @@ Regulatory capture could potentially operate through technical complexity where 
 
 ### Coordination Problems and Collective Action Challenges
 
-Decentralized governance faces persistent [[Collective Action Problems]] where diffuse public interests may be difficult to organize and coordinate despite technological tools for participation, while concentrated industry interests may be able to achieve coordination through traditional mechanisms including professional networks and economic relationships.
+Decentralized governance faces persistent [[Collective Action Problem]] where diffuse public interests may be difficult to organize and coordinate despite technological tools for participation, while concentrated industry interests may be able to achieve coordination through traditional mechanisms including professional networks and economic relationships.
 
 The global scale of blockchain governance may exceed the capacity for meaningful democratic participation while creating opportunities for sophisticated actors to influence outcomes through strategies that ordinary users cannot afford to monitor or counter effectively.
 
@@ -132,8 +132,8 @@ The maturation of Web3 governance systems depends on solving fundamental challen
 [[Collective Action Problem]] - Coordination challenges that favor concentrated over diffuse interests
 [[Democratic Accountability]] - Mechanisms for public oversight and control of governmental power
 [[Transparency]] - Information disclosure that enables public oversight of regulatory processes
-[[Decentralized Autonomous Organizations]] - Governance mechanisms that may resist capture through distribution
-[[Smart Contracts]] - Automated enforcement that may reduce opportunities for discretionary industry influence
+[[Decentralized Autonomous Organizations (DAOs)]] - Governance mechanisms that may resist capture through distribution
+[[smart contracts]] - Automated enforcement that may reduce opportunities for discretionary industry influence
 [[Quadratic Voting]] - Governance mechanism designed to prevent plutocratic capture
 [[Sybil Attacks]] - Identity manipulation that could enable capture of decentralized systems
 [[Epistemic Capture]] - Industry influence over knowledge production and regulatory science

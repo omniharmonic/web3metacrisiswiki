@@ -28,8 +28,8 @@ aliases:
 
 ### Cross-Border Operations
 - **Peer-to-Peer**: Direct transactions without intermediaries
-- **[[Cryptographic Protocols]]**: Secure without trusted third parties
-- **[[Automation]]**: [[content/Primitives/smart contracts]] execute globally
+- **[[cryptographic protocols]]**: Secure without trusted third parties
+- **[[Automation]]**: [[smart contracts]] execute globally
 - **[[Rapidity]]**: Instant cross-border transactions
 - **24/7 Operation**: Continuous operation across time zones
 

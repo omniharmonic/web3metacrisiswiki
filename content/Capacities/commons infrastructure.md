@@ -89,7 +89,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Commons Infrastructure]]
+### [[commons infrastructure]]
 - **Collective Ownership**: Shared ownership of infrastructure resources
 - **Community Governance**: Community-controlled infrastructure management
 - **Public Goods**: Infrastructure for public benefit

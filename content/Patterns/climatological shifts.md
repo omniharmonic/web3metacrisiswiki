@@ -17,7 +17,7 @@ In Web3 contexts, climatological shifts represent both the ultimate test case fo
 ## The Climate Crisis as Market Coordination Failure
 
 ### Externalities at Civilizational Scale
-The climate crisis represents the largest [[negative externalities]] in human history, where greenhouse gas emissions impose costs on future generations and vulnerable populations without market mechanisms to internalize these costs. This creates a classic [[multi-polar trap]] where:
+The climate crisis represents the largest [[negative externalities]] in human history, where greenhouse gas emissions impose costs on future generations and vulnerable populations without market mechanisms to internalize these costs. This creates a classic [[multi-polar traps]] where:
 
 - **Individual Rationality vs. Collective Irrationality**: Each actor benefits from emissions while costs are distributed globally
 - **Temporal Mismatch**: Benefits accrue immediately while costs manifest over decades
@@ -25,7 +25,7 @@ The climate crisis represents the largest [[negative externalities]] in human hi
 - **Intergenerational Injustice**: Current generations benefit while future generations bear costs
 
 ### Institutional Capture and Climate Denial
-[[Regulatory capture]] has systematically undermined climate action through:
+[[regulatory capture]] has systematically undermined climate action through:
 - **Fossil Fuel Industry Influence**: Direct lobbying, campaign contributions, and revolving door relationships
 - **Media Manipulation**: Systematic disinformation campaigns to sow doubt about climate science
 - **Academic Capture**: Industry funding of research that downplays climate risks
@@ -41,7 +41,7 @@ The climate crisis intersects with [[epistemic collapse]] through:
 ## Web3 Solutions for Climate Coordination
 
 ### Carbon Credit Tokenization
-[[Tokenization]] of carbon credits can create transparent, liquid markets for emissions reductions:
+[[tokenization]] of carbon credits can create transparent, liquid markets for emissions reductions:
 - **[[Immutability]]**: Permanent records of carbon credit ownership and retirement
 - **[[Transparency]]**: Public verification of carbon offset projects
 - **[[Programmable Incentives]]**: Automated rewards for verified emissions reductions
@@ -49,13 +49,13 @@ The climate crisis intersects with [[epistemic collapse]] through:
 
 ### Decentralized Climate Governance
 [[Decentralized Autonomous Organizations (DAOs)]] can coordinate climate action:
-- **[[Polycentric Governance]]**: Multiple overlapping climate governance systems
+- **[[polycentric governance]]**: Multiple overlapping climate governance systems
 - **[[Holographic Consensus]]**: Community-driven decision making on climate priorities
 - **[[Quadratic Voting]]**: Democratic allocation of climate funding
 - **[[Conviction Voting]]**: Long-term commitment to climate solutions
 
 ### Regenerative Agriculture Markets
-[[Tokenized ecosystem services]] can reward regenerative practices:
+[[Tokenized Ecosystem Services]] can reward regenerative practices:
 - **Soil Carbon Markets**: Direct payments for carbon sequestration in agricultural soils
 - **[[Biodiversity and Ecosystem Service Tokens]]**: Economic incentives for ecosystem restoration
 - **[[Provenance Tracking]]**: Supply chain transparency for sustainable products
@@ -71,8 +71,8 @@ The [[oracle problem]] presents significant challenges for climate applications:
 - **Geographic Coverage**: Global data collection and verification
 
 ### Scalability and Energy Consumption
-[[Blockchain]] systems face inherent trade-offs:
-- **[[Scalability Trilemma]]**: Security, decentralization, and scalability constraints
+[[blockchain]] systems face inherent trade-offs:
+- **[[scalability trilemma]]**: Security, decentralization, and scalability constraints
 - **Energy Consumption**: Proof-of-work systems may conflict with climate goals
 - **Carbon Footprint**: Blockchain operations must be net-positive for climate
 - **[[MEV]]**: Market manipulation in climate token markets
@@ -80,18 +80,18 @@ The [[oracle problem]] presents significant challenges for climate applications:
 ## Integration with Third Attractor Framework
 
 Climate solutions must contribute to the [[Third Attractor]] by:
-- **[[Regenerative Economics]]**: Economic systems that restore rather than extract
-- **[[Technological Sovereignty]]**: Communities controlling their energy and resource systems
-- **[[Epistemic Commons]]**: Shared knowledge about climate solutions
-- **[[Civic Renaissance]]**: Cultural shift toward environmental stewardship
+- **[[regenerative economics]]**: Economic systems that restore rather than extract
+- **[[technological sovereignty]]**: Communities controlling their energy and resource systems
+- **[[epistemic commons]]**: Shared knowledge about climate solutions
+- **[[civic renaissance]]**: Cultural shift toward environmental stewardship
 
 ## Related Concepts
 
 [[Climate Change]] - Scientific understanding of anthropogenic global warming and its impacts
 [[Carbon Pricing]] - Market-based mechanisms for internalizing greenhouse gas emission costs
 [[Global Governance]] - Institutional frameworks for addressing transnational challenges including climate
-[[Negative Externalities]] - Economic spillovers where climate costs are not reflected in market prices
-[[Collective Action Problems]] - Coordination challenges in addressing global public goods like climate stability
+[[negative externalities]] - Economic spillovers where climate costs are not reflected in market prices
+[[Collective Action Problem]] - Coordination challenges in addressing global public goods like climate stability
 [[Intergenerational Equity]] - Ethical questions about current actions affecting future generations
 [[Planetary Boundaries]] - Scientific framework for safe operating spaces within Earth system limits
 [[Climate Justice]] - Movement addressing equitable distribution of climate costs and benefits
@@ -101,8 +101,8 @@ Climate solutions must contribute to the [[Third Attractor]] by:
 [[Emissions Trading]] - Market mechanisms for reducing greenhouse gas emissions cost-effectively
 [[Green New Deal]] - Policy framework combining climate action with economic development and social justice
 [[Climate Finance]] - Financial mechanisms for funding climate mitigation and adaptation
-[[Environmental Economics]] - Field addressing market failures in environmental resource allocation
-[[Regenerative Economics]] - Economic approaches that align financial success with ecological restoration
+[[environmental economics]] - Field addressing market failures in environmental resource allocation
+[[regenerative economics]] - Economic approaches that align financial success with ecological restoration
 [[Tokenized Ecosystem Services]] - Blockchain-based markets for environmental benefits including carbon sequestration
 [[International Climate Agreements]] - Multilateral frameworks including Paris Agreement for global climate coordination
 [[Climate Risk Assessment]] - Methods for evaluating financial and physical risks from climate change

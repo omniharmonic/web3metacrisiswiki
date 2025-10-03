@@ -133,7 +133,7 @@ However, degrowth transitions face political and practical challenges with emplo
 
 Legal innovations including rights of nature, ecosystem personhood, and biocentric constitutional frameworks could potentially address ecological collapse through governance systems that recognize intrinsic value in natural systems rather than treating them exclusively as resources for human exploitation.
 
-[[Decentralized Autonomous Organizations]] could potentially implement ecosystem rights through governance mechanisms where natural systems have representation in decision-making processes affecting their integrity, possibly through proxy voting by environmental stakeholders or algorithmic representation of ecological interests.
+[[Decentralized Autonomous Organizations (DAOs)]] could potentially implement ecosystem rights through governance mechanisms where natural systems have representation in decision-making processes affecting their integrity, possibly through proxy voting by environmental stakeholders or algorithmic representation of ecological interests.
 
 Yet the implementation of ecosystem rights faces challenges with anthropocentric legal frameworks, enforcement mechanisms, and the difficulty of translating ecological relationships into human institutional structures while avoiding what environmental philosopher Val Plumwood calls "ecological reductionism."
 
@@ -168,4 +168,4 @@ The window for preventing civilizational collapse through ecological breakdown m
 [[Permafrost Melting]] - Release of stored carbon from thawing Arctic soils
 [[Biodiversity Loss]] - Decline in variety and abundance of life forms across scales
 [[Habitat Fragmentation]] - Breakdown of continuous habitats into isolated patches
-[[Ecosystem Services]] - Benefits that humans derive from functioning natural systems
+[[ecosystem services]] - Benefits that humans derive from functioning natural systems

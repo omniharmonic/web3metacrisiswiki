@@ -120,7 +120,7 @@ interface ERC721 {
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Automated logic**: Self-executing rules for NFT behavior
 - **Royalty mechanisms**: Automatic creator payments
 - **Access control**: Gated content and services

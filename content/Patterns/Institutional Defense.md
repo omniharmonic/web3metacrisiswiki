@@ -20,10 +20,10 @@ Institutional defense operates through multiple channels:
 - **Information Control**: Controlling information to prevent public awareness of problems
 
 ### Capture Dynamics
-- **[[Regulatory Capture]]**: Regulatory agencies become dominated by the industries they oversee
+- **[[regulatory capture]]**: Regulatory agencies become dominated by the industries they oversee
 - **[[Information Asymmetries]]**: Institutions control information that others need for decision-making
 - **[[Political Externalities]]**: Political influence shapes institutional outcomes
-- **[[Economic Centralization]]**: Institutional power becomes concentrated in few hands
+- **[[economic centralization]]**: Institutional power becomes concentrated in few hands
 
 ## Manifestations in the Meta-Crisis
 
@@ -49,7 +49,7 @@ Institutional defense operates through multiple channels:
 
 ### Decentralized Governance
 [[Decentralized Autonomous Organizations (DAOs)]] can reduce institutional defense:
-- **[[Polycentric Governance]]**: Multiple overlapping governance systems
+- **[[polycentric governance]]**: Multiple overlapping governance systems
 - **[[Holographic Consensus]]**: Community-driven decision making
 - **[[Quadratic Voting]]**: Democratic allocation of resources
 - **[[Conviction Voting]]**: Long-term commitment to public interest
@@ -62,7 +62,7 @@ Institutional defense operates through multiple channels:
 
 ### Economic Mechanisms
 - **[[Programmable Incentives]]**: Economic incentives for public interest behavior
-- **[[Tokenization]]**: Economic incentives for institutional participation
+- **[[tokenization]]**: Economic incentives for institutional participation
 - **[[Reputation Systems]]**: Long-term tracking of institutional behavior
 - **[[Community-Based Reputation and Verification]]**: Peer-verified institutional behavior
 
@@ -76,8 +76,8 @@ The [[oracle problem]] presents challenges for institutional systems:
 - **Geographic Coverage**: Global verification of institutional systems
 
 ### Scalability and Adoption
-[[Blockchain]] systems face adoption challenges:
-- **[[Scalability Trilemma]]**: Security, decentralization, and scalability constraints
+[[blockchain]] systems face adoption challenges:
+- **[[scalability trilemma]]**: Security, decentralization, and scalability constraints
 - **Network Effects**: Institutional systems only work if widely adopted
 - **Coordination Problems**: Getting actors to agree on institutional standards
 - **[[MEV]]**: Market manipulation in institutional-dependent systems
@@ -85,15 +85,15 @@ The [[oracle problem]] presents challenges for institutional systems:
 ## Integration with Third Attractor Framework
 
 Institutional defense must be addressed through:
-- **[[Regenerative Economics]]**: Economic systems that serve public rather than private interests
-- **[[Polycentric Governance]]**: Multiple overlapping governance systems that prevent capture
-- **[[Technological Sovereignty]]**: Communities controlling their own institutional systems
-- **[[Civic Renaissance]]**: Cultural shift toward public service and accountability
+- **[[regenerative economics]]**: Economic systems that serve public rather than private interests
+- **[[polycentric governance]]**: Multiple overlapping governance systems that prevent capture
+- **[[technological sovereignty]]**: Communities controlling their own institutional systems
+- **[[civic renaissance]]**: Cultural shift toward public service and accountability
 
 ## Related Concepts
 - [[regulatory capture]]
-- [[information asymmetries]]
-- [[political externalities]]
+- [[Information Asymmetries]]
+- [[Political Externalities]]
 - [[economic centralization]]
 - [[polycentric governance]]
 - [[regenerative economics]]

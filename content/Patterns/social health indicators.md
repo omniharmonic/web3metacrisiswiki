@@ -31,13 +31,13 @@ Social health indicators represent measurable metrics that assess the collective
 ## Web3 Applications for Social Health
 
 ### Transparent Impact Measurement
-[[Blockchain]]-based systems can provide [[immutable records]] of social impact, enabling transparent tracking of community development initiatives and their outcomes. This addresses the measurement challenges that plague traditional social programs.
+[[blockchain]]-based systems can provide [[Immutable Records]] of social impact, enabling transparent tracking of community development initiatives and their outcomes. This addresses the measurement challenges that plague traditional social programs.
 
 ### Decentralized Social Services
-[[Decentralized applications (dApps)]] can deliver social services without centralized intermediaries, potentially reducing [[regulatory capture]] and improving service quality through [[programmable incentives]] that reward positive outcomes.
+[[decentralized applications (dApps)]] can deliver social services without centralized intermediaries, potentially reducing [[regulatory capture]] and improving service quality through [[Programmable Incentives]] that reward positive outcomes.
 
 ### Community-Controlled Data
-[[Self-sovereign identity]] systems can give communities control over their own data, enabling more accurate and culturally appropriate measurement of social health indicators while preserving [[privacy preservation]].
+[[self-sovereign identity]] systems can give communities control over their own data, enabling more accurate and culturally appropriate measurement of social health indicators while preserving [[Privacy Preservation]].
 
 ## Challenges and Limitations
 

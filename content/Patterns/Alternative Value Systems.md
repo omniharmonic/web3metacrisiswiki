@@ -24,7 +24,7 @@ Alternative value systems draw upon what political economist J.K. Gibson-Graham 
 
 The philosophical foundations connect to what environmental philosopher David Abram calls "more-than-human world" recognition where value extends beyond human utility to encompass ecological integrity, intergenerational responsibility, and reciprocal relationships with natural systems. These frameworks challenge what philosopher Martin Heidegger calls the "technological enframing" of being where everything becomes valued only as resource for human exploitation.
 
-[[Regenerative Economics]] and [[Commons Governance]] provide practical implementations of these theoretical insights through token mechanisms that reward ecological restoration, community care work, and cultural preservation activities that create genuine social and environmental value while remaining economically sustainable through innovative funding and exchange mechanisms.
+[[regenerative economics]] and [[commons governance]] provide practical implementations of these theoretical insights through token mechanisms that reward ecological restoration, community care work, and cultural preservation activities that create genuine social and environmental value while remaining economically sustainable through innovative funding and exchange mechanisms.
 
 ### Gift Economy and Mutual Aid Implementation
 
@@ -144,8 +144,8 @@ The long-term impact of alternative value systems depends on their contribution 
 
 [[Post-Capitalist Economics]] - Economic theories that move beyond capitalist accumulation logic
 [[Solidarity Economy]] - Movement for democratic and cooperative economic arrangements
-[[Regenerative Economics]] - Economic frameworks that restore rather than deplete natural and social systems
-[[Commons Governance]] - Management systems for shared resources and community assets
+[[regenerative economics]] - Economic frameworks that restore rather than deplete natural and social systems
+[[commons governance]] - Management systems for shared resources and community assets
 [[Social Tokens]] - Cryptocurrency tokens that represent social value and community participation
 [[Reputation Systems]] - Mechanisms for tracking and rewarding community contributions
 [[Gift Economy]] - Economic systems based on reciprocity rather than market exchange

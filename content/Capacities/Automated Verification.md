@@ -15,9 +15,9 @@ aliases:
 ## Core Concepts
 
 - **[[Cryptographic Proof Generation]]**: Mathematical verification of claims without revealing underlying data
-- **[[content/Primitives/smart contracts]] Logic**: Automated verification rules encoded in smart contracts
-- **[[Zero Knowledge Proof (ZKP)]]**: Verification without revealing sensitive information
-- **[[Distributed Consensus]]**: Distributed verification across multiple nodes
+- **[[smart contracts]] Logic**: Automated verification rules encoded in smart contracts
+- **[[zero knowledge proof (ZKP)]]**: Verification without revealing sensitive information
+- **[[distributed consensus]]**: Distributed verification across multiple nodes
 - **[[Immutable Records]]**: Permanent verification history
 
 ## Technical Mechanisms
@@ -26,7 +26,7 @@ aliases:
 - **Digital Signatures**: Cryptographic proof of authenticity
 - **Hash Functions**: Immutable linking and verification of data
 - **Merkle Trees**: Efficient verification of large datasets
-- **[[Zero Knowledge Proof (ZKP)]]**: Verification without revealing data
+- **[[zero knowledge proof (ZKP)]]**: Verification without revealing data
 - **Multi-signature Schemes**: Multiple-party verification requirements
 
 ### Smart Contract Automation
@@ -47,7 +47,7 @@ aliases:
 
 ### Trust and Security
 - **[[Trustlessness]]**: Verification without trusted intermediaries
-- **[[Cryptographic Protocols]]**: Mathematical security properties
+- **[[cryptographic protocols]]**: Mathematical security properties
 - **[[Immutable Records]]**: Permanent verification history
 - **[[Transparency]]**: Public verification of all activities
 - **Accountability**: Clear responsibility for verification decisions

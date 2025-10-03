@@ -134,7 +134,7 @@ did:method:identifier
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Identity verification**: Verifying identity in smart contracts
 - **Access control**: Controlling access to smart contracts
 - **Automation**: Automated identity verification
@@ -172,11 +172,11 @@ did:method:identifier
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [W3C DID Specification](https://www.w3.org/TR/did-core/), [Sovrin](https://sovrin.org/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[Privacy Preservation]] - Protecting personal information

@@ -45,7 +45,7 @@ The interaction between behavioral biases and arbitrage activity can create what
 
 [[Flash Loans]] represent a fundamental innovation in arbitrage technology by enabling traders to borrow large amounts of capital for single-transaction arbitrage without collateral requirements, potentially democratizing access to arbitrage opportunities that previously required substantial capital reserves. This implements what economist Hayne Leland calls "portfolio insurance" concepts through smart contract automation that eliminates counterparty risk.
 
-Flash loan arbitrage can exploit price differences across [[Decentralized Exchanges]], yield farming opportunities, and liquidation events through automated execution that completes entire arbitrage cycles within single blockchain transactions, potentially eliminating execution risk while enabling precise profit calculation before trade commitment.
+Flash loan arbitrage can exploit price differences across [[decentralized exchanges]], yield farming opportunities, and liquidation events through automated execution that completes entire arbitrage cycles within single blockchain transactions, potentially eliminating execution risk while enabling precise profit calculation before trade commitment.
 
 However, flash loan arbitrage faces technical risks including smart contract vulnerabilities, oracle manipulation, and [[MEV]] competition where multiple arbitrageurs may compete for the same opportunities, potentially leading to failed transactions and wasted gas costs that can eliminate profit margins for smaller traders.
 
@@ -69,7 +69,7 @@ The integration of artificial intelligence and machine learning with arbitrage s
 
 ### Decentralized Exchange Arbitrage
 
-[[Decentralized Exchanges]] including Uniswap, Curve, and Balancer create arbitrage opportunities through their automated market maker algorithms that may diverge from prices on centralized exchanges or other DEXs due to liquidity pool composition, trading volume, and impermanent loss effects. This enables what economist Albert Kyle calls "informed trading" where arbitrageurs provide price discovery services while earning profits from information advantages.
+[[decentralized exchanges]] including Uniswap, Curve, and Balancer create arbitrage opportunities through their automated market maker algorithms that may diverge from prices on centralized exchanges or other DEXs due to liquidity pool composition, trading volume, and impermanent loss effects. This enables what economist Albert Kyle calls "informed trading" where arbitrageurs provide price discovery services while earning profits from information advantages.
 
 DEX arbitrage often requires sophisticated understanding of liquidity pool mathematics including constant product formulas, concentrated liquidity mechanisms, and multi-asset pool dynamics that may not be accessible to ordinary traders while creating profit opportunities for technically sophisticated arbitrageurs who can optimize execution across multiple protocols.
 
@@ -77,7 +77,7 @@ The emergence of DEX aggregators and meta-DEXs creates additional layers of arbi
 
 ### Yield Farming and Protocol Arbitrage
 
-[[Yield Farming]] creates arbitrage opportunities through varying reward rates across different DeFi protocols where users can optimize returns by moving capital between platforms offering different yields for similar services. This implements what economist Irving Fisher calls "interest rate arbitrage" through automated protocols rather than traditional banking intermediaries.
+[[yield farming]] creates arbitrage opportunities through varying reward rates across different DeFi protocols where users can optimize returns by moving capital between platforms offering different yields for similar services. This implements what economist Irving Fisher calls "interest rate arbitrage" through automated protocols rather than traditional banking intermediaries.
 
 Protocol arbitrage may involve complex strategies including recursive borrowing and lending, leveraged liquidity provision, and governance token farming that require sophisticated risk management while potentially offering returns that exceed traditional financial market opportunities.
 
@@ -152,12 +152,12 @@ The maturation of arbitrage markets depends on addressing technical risks, impro
 [[Flash Loans]] - DeFi primitive that enables capital-efficient arbitrage without collateral requirements
 [[MEV]] - Maximal Extractable Value that includes arbitrage opportunities and other value extraction methods
 [[Cross-Chain Integration]] - Technical infrastructure that enables arbitrage across different blockchain networks
-[[Decentralized Exchanges]] - Trading venues that create arbitrage opportunities through AMM algorithms
-[[Automated Market Makers]] - Algorithms that provide liquidity and create arbitrage opportunities
+[[decentralized exchanges]] - Trading venues that create arbitrage opportunities through AMM algorithms
+[[automated market makers (AMMs)]] - Algorithms that provide liquidity and create arbitrage opportunities
 [[Liquidity Pools]] - Capital aggregation mechanisms that enable arbitrage through pool rebalancing
-[[Yield Farming]] - Strategy that involves arbitraging yield differences across DeFi protocols
-[[Front-Running]] - Trading strategy that exploits advance knowledge of pending transactions
-[[Sandwich Attacks]] - MEV extraction technique that manipulates transaction ordering for profit
+[[yield farming]] - Strategy that involves arbitraging yield differences across DeFi protocols
+[[front running]] - Trading strategy that exploits advance knowledge of pending transactions
+[[sandwich attacks]] - MEV extraction technique that manipulates transaction ordering for profit
 [[Oracle Manipulation]] - Attack vector that creates false arbitrage opportunities through price feed manipulation
 [[Slippage]] - Price impact effect that reduces arbitrage profitability in large transactions
 [[Gas Optimization]] - Technical strategy for reducing transaction costs in arbitrage operations

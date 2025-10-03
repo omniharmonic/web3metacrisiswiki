@@ -113,7 +113,7 @@ Sidechain: Burn Assets → Bridge → Parent Chain: Unlock Assets
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Bridge management**: Managing bridge operations
 - **Asset transfer**: Transferring assets between chains
 - **Automation**: Automated bridge operations
@@ -151,11 +151,11 @@ Sidechain: Burn Assets → Bridge → Parent Chain: Unlock Assets
 
 - **Source Documents**: [[Web3 Primitives]], [[scalability trilemma]]
 - **Technical Resources**: [Polygon](https://polygon.technology/), [xDai](https://www.xdaichain.com/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[scalability trilemma]] - The fundamental trade-offs in blockchain design

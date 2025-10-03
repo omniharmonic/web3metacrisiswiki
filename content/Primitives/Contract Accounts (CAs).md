@@ -84,7 +84,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Contract Accounts]]
+### [[Contract Accounts (CAs)]]
 - **Decentralized Contract Accounts**: Contract accounts in decentralized systems
 - **User Control**: User control over contract accounts
 - **Transparency**: Transparent contract account processes

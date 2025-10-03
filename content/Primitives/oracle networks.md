@@ -81,7 +81,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Oracle Networks]]
+### [[oracle networks]]
 - **Decentralized Oracle Networks**: Oracle networks in decentralized systems
 - **User Control**: User control over oracle networks
 - **Transparency**: Transparent oracle network processes

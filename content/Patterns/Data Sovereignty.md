@@ -43,6 +43,6 @@ Decentralized technologies offer new tools for data sovereignty including blockc
 - [[self-sovereign identity]]
 - [[technological sovereignty]]
 - [[Privacy Preservation]]
-- [[Decentralized Identity]]
+- [[decentralized identity]]
 - [[commons governance]]
 - [[Selective Disclosure]]

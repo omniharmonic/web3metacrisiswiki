@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of consensus mechanisms extends beyond technical coordination to encompass fundamental questions about distributed authority, democratic participation, and the conditions under which decentralized systems can achieve reliable agreement without requiring trusted intermediaries or central authorities. What economist Friedrich Hayek calls "spontaneous order" becomes technologically implementable through consensus protocols that enable global coordination among participants who may not know or trust each other.
 
-In Web3 contexts, consensus mechanisms represent both the foundational infrastructure enabling [[Blockchain]], [[Decentralized Finance]], and [[Decentralized Autonomous Organizations]] through cryptographically verified agreement, and persistent challenges with scalability, energy consumption, and economic centralization that may constrain decentralization while creating new forms of systemic risk through concentrated validation power.
+In Web3 contexts, consensus mechanisms represent both the foundational infrastructure enabling [[blockchain]], [[Decentralized Finance (DeFi)]], and [[Decentralized Autonomous Organizations (DAOs)]] through cryptographically verified agreement, and persistent challenges with scalability, energy consumption, and economic centralization that may constrain decentralization while creating new forms of systemic risk through concentrated validation power.
 
 ## Computer Science Foundations and Byzantine Fault Tolerance
 
@@ -45,7 +45,7 @@ However, the security of consensus mechanisms ultimately depends on cryptographi
 
 ### Proof of Work and Computational Consensus
 
-[[Proof of Work]] represents the first practical solution to the Byzantine Generals Problem in adversarial environments through what computer scientist Adam Back calls "hashcash" systems where consensus emerges from computational competition rather than coordination among known participants. Bitcoin's implementation demonstrates how mining competition can create economic incentives for honest behavior while making attacks expensive.
+[[proof of work (PoW)]] represents the first practical solution to the Byzantine Generals Problem in adversarial environments through what computer scientist Adam Back calls "hashcash" systems where consensus emerges from computational competition rather than coordination among known participants. Bitcoin's implementation demonstrates how mining competition can create economic incentives for honest behavior while making attacks expensive.
 
 The security of proof-of-work depends on what economist Satoshi Nakamoto calls the "longest chain rule" where the chain with the most accumulated computational work is considered authoritative, creating what game theorist Ariel Rubinstein calls "evolutionary stable strategies" where honest mining is individually rational despite the presence of potential attackers.
 
@@ -61,7 +61,7 @@ However, proof-of-work faces criticism for enormous energy consumption that may 
 
 ### Proof of Stake and Economic Consensus
 
-[[Proof of Stake]] mechanisms attempt to achieve consensus through economic rather than computational security where validators stake tokens that can be lost ("slashed") for malicious behavior. This implements what economist Vitalik Buterin calls "economic finality" where attacks become economically irrational due to penalty mechanisms that exceed potential attack benefits.
+[[Proof of Stake (PoS)]] mechanisms attempt to achieve consensus through economic rather than computational security where validators stake tokens that can be lost ("slashed") for malicious behavior. This implements what economist Vitalik Buterin calls "economic finality" where attacks become economically irrational due to penalty mechanisms that exceed potential attack benefits.
 
 Proof-of-stake systems typically implement what computer scientist Vlad Zamfir calls "Casper" protocols that combine traditional Byzantine fault tolerance with economic incentives, enabling finality through validator commitment rather than probabilistic convergence. This potentially enables faster transaction confirmation and reduced energy consumption compared to proof-of-work systems.
 
@@ -175,11 +175,11 @@ The maturation of consensus mechanisms may determine whether decentralized syste
 ## Related Concepts
 
 [[Byzantine Fault Tolerance]] - Theoretical framework enabling consensus despite arbitrary node failures including malicious behavior
-[[Proof of Work]] - Consensus mechanism securing networks through computational puzzle solving and energy expenditure
-[[Proof of Stake]] - Consensus mechanism securing networks through economic incentives and token-based penalties
+[[proof of work (PoW)]] - Consensus mechanism securing networks through computational puzzle solving and energy expenditure
+[[Proof of Stake (PoS)]] - Consensus mechanism securing networks through economic incentives and token-based penalties
 [[Delegated Proof of Stake]] - Representative consensus where token holders elect validators to perform consensus on their behalf
 [[Practical Byzantine Fault Tolerance]] - Consensus algorithm providing immediate finality through explicit validator signatures
-[[Blockchain]] - Distributed ledger technology that depends on consensus mechanisms for security and state agreement
+[[blockchain]] - Distributed ledger technology that depends on consensus mechanisms for security and state agreement
 [[Validators]] - Network participants responsible for consensus participation and transaction verification
 [[Mining]] - Process of participating in proof-of-work consensus through computational puzzle solving
 [[Staking]] - Process of participating in proof-of-stake consensus by locking tokens as collateral

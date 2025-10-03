@@ -27,7 +27,7 @@ Public goods suffer from systematic under-provision in market economies because 
 
 The challenge is compounded by what political scientist Mancur Olson terms "the logic of collective action"—the tendency for large groups to face greater coordination difficulties than small groups in providing public goods. As group size increases, individual contributions become less visible and impactful, reducing incentives for voluntary participation while increasing opportunities for free-riding.
 
-Traditional solutions including government provision and tax funding address free-riding through coercive mechanisms but face their own challenges including [[Regulatory Capture]], political business cycles, and the difficulty of aggregating diverse preferences across large populations. Web3 mechanisms attempt to solve these problems through voluntary coordination enabled by cryptographic infrastructure and algorithmic governance.
+Traditional solutions including government provision and tax funding address free-riding through coercive mechanisms but face their own challenges including [[regulatory capture]], political business cycles, and the difficulty of aggregating diverse preferences across large populations. Web3 mechanisms attempt to solve these problems through voluntary coordination enabled by cryptographic infrastructure and algorithmic governance.
 
 ### Information Aggregation and Preference Revelation
 
@@ -96,7 +96,7 @@ Future developments likely require evolutionary rather than revolutionary approa
 [[Collective Action Problem]] - Coordination challenge in voluntary goods provision
 [[Vitality]] - Organizing principle for systems that enhance collective flourishing
 [[Choice]] - Individual and collective agency in democratic resource allocation
-[[Decentralized Autonomous Organizations]] - Organizational forms implementing funding mechanisms
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational forms implementing funding mechanisms
 [[Sybil Attacks]] - Identity-based manipulation threat to democratic funding
-[[Commons Governance]] - Institutional arrangements for managing shared resources
+[[commons governance]] - Institutional arrangements for managing shared resources
 [[Democratic Legitimacy]] - Normative foundation for collective resource allocation authority

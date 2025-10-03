@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of prediction markets extends far beyond simple forecasting to encompass fundamental questions about democratic decision-making, expert knowledge aggregation, and the conditions under which market mechanisms can outperform traditional institutions in information processing. These markets offer potential solutions to persistent challenges in governance, policy evaluation, and resource allocation where traditional voting mechanisms may fail to aggregate complex technical information effectively.
 
-In Web3 contexts, prediction markets represent a core primitive for implementing [[Futarchy]], enhancing [[Decentralized Autonomous Organizations]] decision-making, and creating [[Mechanism Design]] solutions that align individual profit incentives with collective information revelation. However, their effectiveness depends critically on market liquidity, participant diversity, and resistance to manipulation by sophisticated actors with superior resources or information.
+In Web3 contexts, prediction markets represent a core primitive for implementing [[Futarchy]], enhancing [[Decentralized Autonomous Organizations (DAOs)]] decision-making, and creating [[Mechanism Design]] solutions that align individual profit incentives with collective information revelation. However, their effectiveness depends critically on market liquidity, participant diversity, and resistance to manipulation by sophisticated actors with superior resources or information.
 
 ## Information Aggregation Theory and Market Efficiency
 
@@ -72,9 +72,9 @@ The challenge is compounded by the global and pseudonymous nature of blockchain 
 
 ### Token-Based Participation and Liquidity Mechanisms
 
-Web3 prediction markets experiment with token-based mechanisms including [[Automated Market Makers]], liquidity mining rewards, and governance token integration that attempt to solve traditional challenges with market liquidity and participation. These mechanisms potentially reduce barriers to entry while creating sustainable economic models for market operation.
+Web3 prediction markets experiment with token-based mechanisms including [[automated market makers (AMMs)]], liquidity mining rewards, and governance token integration that attempt to solve traditional challenges with market liquidity and participation. These mechanisms potentially reduce barriers to entry while creating sustainable economic models for market operation.
 
-[[Automated Market Makers]] using constant product formulas enable continuous trading without requiring matched counterparties, potentially improving market efficiency and accessibility. However, these mechanisms face challenges with impermanent loss for liquidity providers and the potential for front-running and sandwich attacks that may undermine market integrity.
+[[automated market makers (AMMs)]] using constant product formulas enable continuous trading without requiring matched counterparties, potentially improving market efficiency and accessibility. However, these mechanisms face challenges with impermanent loss for liquidity providers and the potential for front-running and sandwich attacks that may undermine market integrity.
 
 The integration of prediction markets with broader DeFi ecosystems creates new opportunities for capital efficiency and composability while introducing new systemic risks including smart contract vulnerabilities, governance token concentration, and the potential for flash loan attacks that could manipulate market outcomes.
 
@@ -124,9 +124,9 @@ The maturation of prediction markets in Web3 contexts depends on solving fundame
 [[Collective Action Problem]] - Coordination challenges that prediction markets may help address
 [[Free Rider Problem]] - Challenge where prediction market benefits may exceed individual incentives to participate
 [[Blockchain Oracles]] - Technical infrastructure for importing external information into Web3 systems
-[[Automated Market Makers]] - Liquidity provision mechanisms for continuous prediction market trading
+[[automated market makers (AMMs)]] - Liquidity provision mechanisms for continuous prediction market trading
 [[Governance Tokens]] - Voting rights mechanisms that may integrate with prediction market systems
-[[Decentralized Autonomous Organizations]] - Organizational structures that may implement prediction market governance
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that may implement prediction market governance
 [[Public Goods Funding]] - Application domain where prediction markets could guide resource allocation
 [[Wisdom of Crowds]] - Theoretical foundation for collective intelligence through market mechanisms
 [[Market Design]] - Economic framework for creating efficient and fair market institutions

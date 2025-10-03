@@ -205,7 +205,7 @@ aliases:
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Technical foundation
+- [[smart contracts]] - Technical foundation
 - [[Liquidity Pools]] - Core component
 - [[Decentralized Finance (DeFi)]] - Primary application
 - [[Composability]] - Key design principle

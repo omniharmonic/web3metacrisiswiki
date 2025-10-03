@@ -79,7 +79,7 @@ In Web3 contexts, social externalities represent both persistent challenges wher
 
 ### Community Governance and Collective Decision-Making
 
-[[Decentralized Autonomous Organizations]] enable new forms of community governance that can potentially create positive social externalities through transparent, inclusive decision-making processes while facing challenges with participation inequality and governance token concentration that may create negative externalities through elite capture.
+[[Decentralized Autonomous Organizations (DAOs)]] enable new forms of community governance that can potentially create positive social externalities through transparent, inclusive decision-making processes while facing challenges with participation inequality and governance token concentration that may create negative externalities through elite capture.
 
 Successful DAO examples including MolochDAO, Gitcoin, and various protocol governance systems demonstrate how programmable governance can enable global coordination while creating what political scientist Elinor Ostrom calls "collective efficacy" through shared decision-making about common resources.
 
@@ -191,7 +191,7 @@ However, reputation systems face challenges with gaming, manipulation, and the p
 
 [[Network Effects]] - Economic dynamics where social externalities create value through increased participation
 [[Social Capital]] - Community resources created through social relationships and shared norms
-[[Collective Action Problems]] - Coordination challenges where individual rational behavior undermines collective welfare
+[[Collective Action Problem]] - Coordination challenges where individual rational behavior undermines collective welfare
 [[Free Rider Problem]] - Tendency to benefit from public goods without contributing to their provision
 [[Community Governance]] - Institutional frameworks for managing shared social resources
 [[Public Goods]] - Resources that benefit everyone but may be under-provided due to externalities

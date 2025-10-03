@@ -13,7 +13,7 @@ aliases:
 
 The theoretical significance of information theory extends beyond technical communication to encompass fundamental questions about knowledge representation, computational complexity, and the relationship between information, entropy, and physical systems. What physicist John Wheeler calls "it from bit" suggests that information may be more fundamental than matter or energy, while what computer scientist Gregory Chaitin calls "algorithmic information theory" reveals deep connections between computation, randomness, and mathematical truth.
 
-In Web3 contexts, information theory provides essential foundations for [[Cryptographic]] protocols, [[Consensus Mechanisms]], and [[Zero-Knowledge Proofs]] while creating new challenges for [[Privacy Preservation]], decentralized coordination, and the economics of information in systems where transparency and privacy must coexist through mathematical rather than institutional mechanisms.
+In Web3 contexts, information theory provides essential foundations for [[Cryptographic]] protocols, [[consensus mechanisms]], and [[Zero-Knowledge Proofs]] while creating new challenges for [[Privacy Preservation]], decentralized coordination, and the economics of information in systems where transparency and privacy must coexist through mathematical rather than institutional mechanisms.
 
 ## Mathematical Foundations and Shannon's Framework
 
@@ -79,11 +79,11 @@ The techniques enable what computer scientist Ronald Cramer calls "threshold cry
 
 ### Consensus Protocols and Information Aggregation
 
-[[Consensus Mechanisms]] implement information theory principles by aggregating distributed information about network state while maintaining consistency despite what computer scientist Leslie Lamport calls "Byzantine failures" where some participants may behave arbitrarily or maliciously.
+[[consensus mechanisms]] implement information theory principles by aggregating distributed information about network state while maintaining consistency despite what computer scientist Leslie Lamport calls "Byzantine failures" where some participants may behave arbitrarily or maliciously.
 
 Proof of Work consensus uses what computer scientist Adam Back calls "hashcash" principles where computational work serves as evidence of commitment while creating what economist Hal Finney calls "reusable proof of work" that enables decentralized agreement on transaction ordering and validity.
 
-[[Proof of Stake]] mechanisms implement what game theorist John Nash calls "mechanism design" where economic incentives align individual behavior with collective objectives while using what information theorist Thomas Schelling calls "focal points" to coordinate distributed decision-making.
+[[Proof of Stake (PoS)]] mechanisms implement what game theorist John Nash calls "mechanism design" where economic incentives align individual behavior with collective objectives while using what information theorist Thomas Schelling calls "focal points" to coordinate distributed decision-making.
 
 ### Merkle Trees and Efficient Verification
 
@@ -167,15 +167,15 @@ The maturation of information-theoretic applications in Web3 contexts depends on
 
 [[Cryptography]] - Mathematical techniques for secure information transmission and storage based on information theory
 [[Zero-Knowledge Proofs]] - Cryptographic protocols that enable verification without information revelation
-[[Consensus Mechanisms]] - Distributed protocols for information aggregation and agreement in blockchain networks
+[[consensus mechanisms]] - Distributed protocols for information aggregation and agreement in blockchain networks
 [[Privacy Preservation]] - Techniques for protecting personal information while enabling necessary verification and coordination
-[[Proof of Stake]] - Consensus mechanism that uses economic information and incentives for network security
+[[Proof of Stake (PoS)]] - Consensus mechanism that uses economic information and incentives for network security
 [[State Channels]] - Off-chain information processing protocols that maintain cryptographic security guarantees
 [[Merkle Trees]] - Data structures for efficient cryptographic verification of large information sets
 [[Quadratic Voting]] - Democratic mechanism that uses information theory for preference intensity expression
 [[Prediction Markets]] - Economic systems that aggregate distributed information for forecasting and decision-making
 [[Tokenomics]] - Economic design of cryptocurrency systems that incorporate information signaling and revelation
-[[Smart Contracts]] - Programmable agreements that process information according to predetermined rules
+[[smart contracts]] - Programmable agreements that process information according to predetermined rules
 [[Hash Functions]] - Mathematical functions that enable efficient information verification and commitment schemes
 [[Digital Signatures]] - Cryptographic techniques for information authentication and non-repudiation
 [[Error Correction]] - Information theory techniques for reliable data transmission despite noise and interference

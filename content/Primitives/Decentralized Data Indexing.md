@@ -136,7 +136,7 @@ Blockchain Data → Indexer Nodes → Query Network → Applications
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Data access**: Providing data to smart contracts
 - **Event monitoring**: Monitoring smart contract events
 - **Integration**: Seamless interaction with smart contracts
@@ -174,11 +174,11 @@ Blockchain Data → Indexer Nodes → Query Network → Applications
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [The Graph Documentation](https://thegraph.com/docs/), [Covalent](https://www.covalenthq.com/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[Data_Analytics]] - Analysis of blockchain data
