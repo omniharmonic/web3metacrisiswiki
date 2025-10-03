@@ -6,65 +6,65 @@
       <description>Last 10 notes on Web3 Meta-Crisis Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Decentralized Autonomous Organizations (DAOs)</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</guid>
-    <description><![CDATA[ Definition Decentralized Autonomous Organizations (DAOs) are novel organizational structures that are community-owned and managed, operating on a blockchain according to rules encoded in smart contracts. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:12 GMT</pubDate>
-  </item><item>
     <title>Tokenization</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</guid>
     <description><![CDATA[ Tokenization Definition and Economic Theory Tokenization represents the process of converting rights, claims, or assets into programmable digital tokens that can be transferred, traded, and composed within blockchain ecosystems. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:04 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 00:47:00 GMT</pubDate>
   </item><item>
-    <title>Home</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/</guid>
-    <description><![CDATA[ Web3 and the Generative Dynamics of the Metacrisis A comprehensive analysis of blockchain technology’s potential for addressing systemic civilizational failures 🌟 Primary Document Web3 and the Generative Dynamics of the Metacrisis v04 serves as the foundational analysis examining Web3 technologies ... ]]></description>
-    <pubDate>Thu, 02 Oct 2025 23:30:29 GMT</pubDate>
+    <title>Decentralized Autonomous Organizations (DAOs)</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</guid>
+    <description><![CDATA[ Definition Decentralized Autonomous Organizations (DAOs) are novel organizational structures that are community-owned and managed, operating on a blockchain according to rules encoded in smart contracts. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:47:00 GMT</pubDate>
   </item><item>
-    <title>Democratic Innovation</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Democratic-Innovation</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Democratic-Innovation</guid>
-    <description><![CDATA[ Democratic Innovation Definition and Theoretical Foundations Democratic Innovation encompasses new institutional forms, processes, and technologies designed to enhance democratic participation, deliberation, and decision-making beyond traditional electoral democracy. ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:45:15 GMT</pubDate>
+    <title>Automated Verification</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automated-Verification</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automated-Verification</guid>
+    <description><![CDATA[ Automated Verification Definition Automated Verification is the capacity of blockchain systems to automatically verify the authenticity, validity, and compliance of data, transactions, and processes without human intervention. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
   </item><item>
-    <title>Tragedy of the Commons</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Tragedy-of-the-Commons</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Tragedy-of-the-Commons</guid>
-    <description><![CDATA[ Tragedy of the Commons Definition and Theoretical Foundations The Tragedy of the Commons represents a foundational economic theory describing situations where individual rational behavior leads to collective irrationality and resource depletion. ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:43:46 GMT</pubDate>
+    <title>Automation</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automation</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automation</guid>
+    <description><![CDATA[ Automation Definition Automation is the capacity of blockchain systems to execute predefined actions automatically without human intervention, using smart contracts and other automated mechanisms. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
   </item><item>
-    <title>Social Capital</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Social-Capital</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Social-Capital</guid>
-    <description><![CDATA[ Social Capital Definition and Theoretical Foundations Social Capital represents the networks of relationships, shared norms, values, and institutional trust that enable collective action and cooperation within communities. ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:42:15 GMT</pubDate>
+    <title>Banking the Unbanked</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Banking-the-Unbanked</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Banking-the-Unbanked</guid>
+    <description><![CDATA[ Banking the Unbanked Definition Banking the Unbanked is the capacity of blockchain systems to provide financial services to individuals and communities who lack access to traditional banking infrastructure. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
   </item><item>
-    <title>Delegated Proof of Stake</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Delegated-Proof-of-Stake</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Delegated-Proof-of-Stake</guid>
-    <description><![CDATA[ Delegated Proof of Stake Definition and Theoretical Foundations Delegated Proof of Stake (DPoS) represents a consensus mechanism where token holders elect a small number of representatives (delegates or witnesses) who are responsible for validating transactions and producing blocks on behalf of the ... ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:37:15 GMT</pubDate>
+    <title>Biodiversity and Ecosystem Service Tokens</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Biodiversity-and-Ecosystem-Service-Tokens</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Biodiversity-and-Ecosystem-Service-Tokens</guid>
+    <description><![CDATA[ Biodiversity and Ecosystem Service Tokens Definition Biodiversity and Ecosystem Service Tokens are digital assets that represent and monetize the value of natural ecosystems, biodiversity conservation, and environmental services. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
   </item><item>
-    <title>Blockchain Trilemma</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Blockchain-Trilemma</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Blockchain-Trilemma</guid>
-    <description><![CDATA[ Blockchain Trilemma Definition and Theoretical Foundations The Blockchain Trilemma represents a fundamental constraint in distributed ledger design where blockchain systems can simultaneously optimize at most two of three critical properties: security, scalability, and decentralization. ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:35:47 GMT</pubDate>
+    <title>Borderlessness</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Borderlessness</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Borderlessness</guid>
+    <description><![CDATA[ Borderlessness Definition Borderlessness is the capacity of blockchain systems to operate across geographical, political, and jurisdictional boundaries without requiring permission or approval from any central authority. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
   </item><item>
-    <title>Collective Intelligence</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Intelligence</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Intelligence</guid>
-    <description><![CDATA[ Collective Intelligence Definition and Theoretical Foundations Collective Intelligence represents the emergent cognitive capability that results from collaboration, communication, and coordination among multiple individuals or agents that exceeds the problem-solving capacity of any individual partic... ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:34:18 GMT</pubDate>
+    <title>Byzantine Fault Tolerance</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</guid>
+    <description><![CDATA[ Byzantine Fault Tolerance Definition Byzantine Fault Tolerance (BFT) is the capacity of distributed systems to continue operating correctly even when some nodes fail or behave maliciously. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
   </item><item>
-    <title>Authentication</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Authentication</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Authentication</guid>
-    <description><![CDATA[ Authentication Definition and Theoretical Foundations Authentication represents the process of verifying the identity of users, devices, or systems attempting to access resources or perform actions, implementing what computer scientist Butler Lampson calls “identification and authentication” as the ... ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:32:39 GMT</pubDate>
+    <title>Privacy-Preserving Infrastructure</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Privacy-Preserving-Infrastructure</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Privacy-Preserving-Infrastructure</guid>
+    <description><![CDATA[ Privacy-Preserving Infrastructure Definition and Architectural Significance Privacy-Preserving Infrastructure represents computational systems enabling data processing without exposure—the capacity to perform verification, computation, and coordination while maintaining confidentiality through crypt... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
+  </item><item>
+    <title>Rapidity</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Rapidity</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Rapidity</guid>
+    <description><![CDATA[ Rapidity Definition and Performance Significance Rapidity represents the promise of fast settlement—the capacity for quick transaction finalization and state updates through distributed consensus. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
   </item>
     </channel>
   </rss>

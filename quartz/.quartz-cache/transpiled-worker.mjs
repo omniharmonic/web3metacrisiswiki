@@ -14011,22 +14011,6 @@ var ContentIndex = /* @__PURE__ */ __name((opts) => {
 
 // quartz/plugins/emitters/aliases.ts
 import path8 from "path";
-function toTitleCaseSegment(seg) {
-  if (seg.length === 0) return seg;
-  return seg.charAt(0).toUpperCase() + seg.slice(1).toLowerCase();
-}
-__name(toTitleCaseSegment, "toTitleCaseSegment");
-function generateCaseVariants(slug) {
-  if (slug === "index") return [];
-  const segments = slug.split("/");
-  const lower = segments.map((s) => s.toLowerCase()).join("/");
-  const title = segments.map((s) => toTitleCaseSegment(s)).join("/");
-  const variants = /* @__PURE__ */ new Set();
-  variants.add(lower);
-  variants.add(title);
-  return Array.from(variants);
-}
-__name(generateCaseVariants, "generateCaseVariants");
 async function* emitRedirect(ctx, fromSlug, toSlug) {
   const redirUrl = resolveRelative(fromSlug, toSlug);
   yield write({
@@ -14054,11 +14038,6 @@ async function* processFile(ctx, file) {
     const aliasTargetSlug = isRelativeURL(aliasTarget) ? path8.normalize(path8.join(ogSlug, "..", aliasTarget)) : aliasTarget;
     if (aliasTargetSlug !== ogSlug) {
       yield* emitRedirect(ctx, aliasTargetSlug, ogSlug);
-    }
-  }
-  for (const variant of generateCaseVariants(ogSlug)) {
-    if (variant !== ogSlug) {
-      yield* emitRedirect(ctx, variant, ogSlug);
     }
   }
 }
