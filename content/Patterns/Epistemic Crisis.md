@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of epistemic crisis extends beyond simple disagreement about facts to encompass what philosopher Jason Stanley calls "political epistemology" where knowledge claims become subordinated to political identity and power relationships rather than evidence-based evaluation. This creates what historian Timothy Snyder identifies as "post-truth" conditions where the very concept of objective reality becomes contested, undermining the shared epistemic foundations necessary for democratic deliberation and evidence-based policy.
 
-In Web3 contexts, epistemic crisis represents both a challenge where decentralized information systems may amplify rather than solve problems of misinformation and epistemic fragmentation, and an opportunity where [[Blockchain]] transparency, [[Cryptographic proofs]], and [[Decentralized Information Commons]] could potentially create more robust foundations for knowledge verification and consensus formation that resist capture by powerful actors seeking to manipulate epistemic frameworks for strategic advantage.
+In Web3 contexts, epistemic crisis represents both a challenge where decentralized information systems may amplify rather than solve problems of misinformation and epistemic fragmentation, and an opportunity where [[blockchain]] transparency, [[Cryptographic proofs]], and [[Decentralized Information Commons]] could potentially create more robust foundations for knowledge verification and consensus formation that resist capture by powerful actors seeking to manipulate epistemic frameworks for strategic advantage.
 
 ## Mechanisms and Manifestations of Epistemic Breakdown
 
@@ -38,7 +38,7 @@ Climate change denial, vaccine hesitancy, and financial conspiracy theories repr
 
 Digital technologies enable what legal scholar Cass Sunstein calls "cyberbalkanization" where algorithmic content curation creates increasingly isolated information environments that reinforce existing beliefs while preventing exposure to challenging information that could correct misconceptions. This implements what psychologist Leon Festinger identified as "cognitive dissonance" reduction through technological rather than purely psychological mechanisms.
 
-[[Filter Bubbles]] created by recommendation algorithms can lead to what philosopher C. Thi Nguyen calls "epistemic bubbles" (where other voices are absent) and "echo chambers" (where other voices are actively discredited), creating systematically distorted information environments where false beliefs can persist and amplify through social reinforcement despite contradictory evidence being readily available outside the information bubble.
+[[filter bubbles]] created by recommendation algorithms can lead to what philosopher C. Thi Nguyen calls "epistemic bubbles" (where other voices are absent) and "echo chambers" (where other voices are actively discredited), creating systematically distorted information environments where false beliefs can persist and amplify through social reinforcement despite contradictory evidence being readily available outside the information bubble.
 
 The global reach and instantaneous communication enabled by digital platforms creates new dynamics where local epistemic communities can form around shared false beliefs while maintaining internal coherence through selective information sharing and mutual reinforcement that may be difficult to correct through traditional educational or institutional approaches.
 
@@ -46,9 +46,9 @@ The global reach and instantaneous communication enabled by digital platforms cr
 
 ### Blockchain-Based Information Verification
 
-[[Blockchain]] technologies potentially address epistemic crisis through cryptographic verification mechanisms that create immutable records of information provenance while enabling transparent verification of claims without depending on trusted authorities who may be compromised or perceived as illegitimate. These systems implement what computer scientist Nick Szabo calls "trusted third party security" through mathematical rather than institutional mechanisms.
+[[blockchain]] technologies potentially address epistemic crisis through cryptographic verification mechanisms that create immutable records of information provenance while enabling transparent verification of claims without depending on trusted authorities who may be compromised or perceived as illegitimate. These systems implement what computer scientist Nick Szabo calls "trusted third party security" through mathematical rather than institutional mechanisms.
 
-[[Smart Contracts]] can automate verification processes including prediction market resolution, oracle data validation, and reputation scoring that could potentially reduce reliance on human judgment that may be biased by political or economic interests. The transparency and immutability of blockchain systems could enable community auditing of information verification processes while preventing retroactive manipulation of evidence.
+[[smart contracts]] can automate verification processes including prediction market resolution, oracle data validation, and reputation scoring that could potentially reduce reliance on human judgment that may be biased by political or economic interests. The transparency and immutability of blockchain systems could enable community auditing of information verification processes while preventing retroactive manipulation of evidence.
 
 However, the technical complexity of meaningful blockchain verification may exceed ordinary users' capacity while sophisticated actors could potentially game verification systems through strategies that maintain formal compliance while subverting substantive accuracy, creating new categories of epistemic manipulation that exploit technological rather than social trust relationships.
 
@@ -64,7 +64,7 @@ Yet decentralized information systems face persistent challenges with quality co
 
 [[Zero-Knowledge Proofs]] and related cryptographic technologies enable verification of information claims without revealing sensitive underlying data that could be exploited by malicious actors. This potentially addresses what privacy researcher Helen Nissenbaum calls "contextual integrity" challenges where accurate information verification may require personal data disclosure that creates surveillance vulnerabilities.
 
-[[Consensus Mechanisms]] provide mathematical frameworks for agreement on disputed information that could potentially operate across ideological divides by focusing on process validity rather than outcome preference. These systems could implement what philosopher Jürgen Habermas calls "ideal speech situation" conditions where force and strategic manipulation are eliminated in favor of evidence-based reasoning.
+[[consensus mechanisms]] provide mathematical frameworks for agreement on disputed information that could potentially operate across ideological divides by focusing on process validity rather than outcome preference. These systems could implement what philosopher Jürgen Habermas calls "ideal speech situation" conditions where force and strategic manipulation are eliminated in favor of evidence-based reasoning.
 
 However, cryptographic verification systems face limitations where the underlying assumptions about mathematical security may not be accessible to ordinary users, while the technical complexity of meaningful participation may recreate rather than solve problems of epistemic exclusion and elite dominance in knowledge production and verification processes.
 
@@ -109,15 +109,15 @@ The resolution of epistemic crisis depends on rebuilding social trust and instit
 [[Epistemic Injustice]] - Systematic exclusion of voices from knowledge production and credibility assessment
 [[Information Warfare]] - Strategic manipulation of information environments for political advantage
 [[Computational Propaganda]] - Algorithmic manipulation of public opinion through automated systems
-[[Filter Bubbles]] - Algorithmic creation of isolated information environments that reinforce existing beliefs
+[[filter bubbles]] - Algorithmic creation of isolated information environments that reinforce existing beliefs
 [[Echo Chambers]] - Social environments where beliefs are reinforced through selective information sharing
 [[Post-Truth]] - Political conditions where truth becomes subordinated to power and identity
 [[Algorithmic Amplification]] - Platform optimization for engagement that may prioritize falsehood over accuracy
 [[Misinformation]] - False information spread without malicious intent
 [[Disinformation]] - False information deliberately spread to deceive
 [[Conspiracy Theories]] - Alternative explanatory frameworks that may resist evidence-based correction
-[[Regulatory Capture]] - Process where institutions serve elite interests rather than public welfare
+[[regulatory capture]] - Process where institutions serve elite interests rather than public welfare
 [[Decentralized Information Commons]] - Shared knowledge resources that resist centralized control
 [[Zero-Knowledge Proofs]] - Cryptographic verification that preserves privacy while enabling truth verification
-[[Consensus Mechanisms]] - Mathematical frameworks for agreement in distributed systems
+[[consensus mechanisms]] - Mathematical frameworks for agreement in distributed systems
 [[Cognitive Democracy]] - Philosophical framework for inclusive knowledge production through diverse participation

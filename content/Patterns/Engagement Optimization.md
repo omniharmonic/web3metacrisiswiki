@@ -46,7 +46,7 @@ Decentralized technologies offer potential alternatives through user-controlled 
 
 - [[Attention Economy]]
 - [[Behavioral Modification]]
-- [[Content Recommendation Systems]]
-- [[Social Proof]]
+- [[content recommendation systems]]
+- [[social proof]]
 - [[Addiction Patterns]]
 - [[Digital Wellness]]

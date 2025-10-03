@@ -42,9 +42,9 @@ Decentralized technologies offer potential solutions through user-controlled alg
 
 ## Related Concepts
 
-- [[Content Recommendation Systems]]
+- [[content recommendation systems]]
 - [[Echo Chambers]]
 - [[Algorithmic Amplification]]
-- [[Confirmation Bias]]
-- [[Information Theory]]
+- [[confirmation bias]]
+- [[Information theory]]
 - [[epistemic collapse]]

@@ -165,10 +165,10 @@ The future of ecological benefits frameworks may determine whether human societi
 
 ## Related Concepts
 
-[[Ecosystem Services]] - Direct and indirect contributions of ecosystems to human welfare
+[[ecosystem services]] - Direct and indirect contributions of ecosystems to human welfare
 [[Natural Capital]] - Economic framework for valuing ecosystem assets and services
 [[Payment for Ecosystem Services]] - Market mechanisms for compensating ecosystem service providers
-[[Environmental Economics]] - Field addressing market failures in environmental resource allocation
+[[environmental economics]] - Field addressing market failures in environmental resource allocation
 [[Millennium Ecosystem Assessment]] - Comprehensive global assessment of ecosystem condition and services
 [[TEEB]] - Initiative demonstrating economic value of ecosystems and biodiversity
 [[Natural Capital Accounting]] - Integration of ecosystem values into national economic accounts

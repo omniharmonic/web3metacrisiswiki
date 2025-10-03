@@ -15,7 +15,7 @@ aliases:
 
 The theoretical significance of account models extends beyond simple record-keeping to encompass fundamental questions about digital identity, computational sovereignty, and the conditions under which decentralized systems can provide the security, flexibility, and usability necessary for mass adoption while maintaining the censorship resistance and permissionless innovation that characterize Web3 systems.
 
-In contemporary contexts, account models represent both the infrastructure enabling [[Decentralized Finance]], [[Smart Contracts]], and [[Self-Sovereign Identity]] through cryptographically secured digital ownership, and persistent challenges with key management complexity, user experience barriers, and security vulnerabilities that may limit adoption while creating new categories of risk for users who must assume complete responsibility for cryptographic asset security.
+In contemporary contexts, account models represent both the infrastructure enabling [[Decentralized Finance (DeFi)]], [[smart contracts]], and [[self-sovereign identity]] through cryptographically secured digital ownership, and persistent challenges with key management complexity, user experience barriers, and security vulnerabilities that may limit adoption while creating new categories of risk for users who must assume complete responsibility for cryptographic asset security.
 
 ## Computer Science Foundations and Cryptographic Architecture
 
@@ -65,7 +65,7 @@ However, multi-signature systems face complexity trade-offs where enhanced secur
 
 Account models enable what economist Friedrich Hayek calls "denationalization of money" through programmable accounts that can implement custom financial logic including recurring payments, conditional transfers, and automated investment strategies without requiring traditional financial intermediaries or trusted third parties.
 
-[[Smart Contracts]] interacting with account models create what computer scientist Nick Szabo calls "smart property" where financial assets can automatically execute predetermined behaviors including yield generation, rebalancing, and risk management through deterministic code execution rather than human discretion.
+[[smart contracts]] interacting with account models create what computer scientist Nick Szabo calls "smart property" where financial assets can automatically execute predetermined behaviors including yield generation, rebalancing, and risk management through deterministic code execution rather than human discretion.
 
 The composability of account models with DeFi protocols enables what financial engineer Andrew Lo calls "financial engineering" where complex financial instruments can be constructed from simpler components while maintaining the transparency and verifiability that characterize blockchain-based financial systems.
 
@@ -140,14 +140,14 @@ The maturation of account models may determine whether Web3 technologies can ach
 [[Account Abstraction]] - Protocol upgrades enabling programmable authorization logic in contract accounts
 [[Digital Signatures]] - Cryptographic proof systems enabling transaction authorization without revealing private keys
 [[Gas]] - Economic mechanism for pricing computational resources in account state transitions
-[[Smart Contracts]] - Programmable accounts that execute predetermined logic automatically
+[[smart contracts]] - Programmable accounts that execute predetermined logic automatically
 [[Ethereum Virtual Machine (EVM)]] - Execution environment enabling deterministic computation across account models
-[[Transaction Processing]] - Technical mechanisms for validating and executing account state changes
+[[transaction processing]] - Technical mechanisms for validating and executing account state changes
 [[Hierarchical Deterministic Wallets]] - Key derivation systems enabling multiple accounts from single seed phrases
 [[Hardware Wallets]] - Physical devices providing secure private key storage and transaction signing
 [[Social Recovery]] - Account recovery mechanisms using trusted contacts to restore access
-[[Decentralized Identity]] - Identity systems built on cryptographic accounts rather than centralized authorities
-[[Self-Sovereign Identity]] - Identity model where individuals control their credentials through account ownership
+[[decentralized identity]] - Identity systems built on cryptographic accounts rather than centralized authorities
+[[self-sovereign identity]] - Identity model where individuals control their credentials through account ownership
 [[Cross-Chain Integration]] - Technical protocols enabling account interactions across different blockchain networks
 [[Composability]] - Technical property enabling account interactions with multiple smart contracts atomically
 [[Public Key Cryptography]] - Mathematical foundation enabling secure account creation and transaction authorization

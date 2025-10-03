@@ -22,7 +22,7 @@ In Web3 contexts, social graphs represent both an opportunity for user empowerme
 
 Web3 social graphs typically build upon decentralized identity systems where users control cryptographic key pairs that enable them to establish verifiable connections without depending on centralized authorities for identity verification or relationship authentication. This implements what computer scientist Christopher Allen calls "self-sovereign identity" where individuals can prove aspects of their identity and relationships while maintaining privacy about information that is not relevant to specific interactions.
 
-The use of [[Decentralized Identifiers]] enables what cryptographer David Chaum calls "credentials without identity" where social connections can be verified without revealing comprehensive personal information that could be exploited for surveillance, manipulation, or commercial exploitation. Users can selectively disclose relationship information appropriate to specific contexts while maintaining control over broader social data.
+The use of [[Decentralized Identifiers (DIDs)]] enables what cryptographer David Chaum calls "credentials without identity" where social connections can be verified without revealing comprehensive personal information that could be exploited for surveillance, manipulation, or commercial exploitation. Users can selectively disclose relationship information appropriate to specific contexts while maintaining control over broader social data.
 
 However, the technical complexity of key management, identity recovery, and cross-platform interoperability creates adoption barriers while sophisticated actors may be able to exploit cryptographic systems in ways that ordinary users cannot understand or defend against, potentially recreating power asymmetries through technical rather than institutional mechanisms.
 
@@ -58,7 +58,7 @@ Yet creator economy applications face challenges with sustainable tokenomics, co
 
 Platforms including Mastodon, Lens Protocol applications, and Farcaster implement decentralized social media where users control their identity and content while participating in federated or blockchain-based networks that resist censorship and platform control. These systems potentially address what communication scholar danah boyd calls "context collapse" by enabling users to maintain different social contexts while preserving relationship continuity.
 
-The integration of social graphs with [[Decentralized Autonomous Organizations]] enables community governance of social platforms where users can participate in decisions about content moderation, feature development, and economic distribution rather than being subject to unilateral platform policies that may not reflect community values or needs.
+The integration of social graphs with [[Decentralized Autonomous Organizations (DAOs)]] enables community governance of social platforms where users can participate in decisions about content moderation, feature development, and economic distribution rather than being subject to unilateral platform policies that may not reflect community values or needs.
 
 However, decentralized social media faces challenges with content moderation at scale, user experience complexity, and the coordination required to maintain technical infrastructure and community governance that may exceed the capacity of voluntary participation while creating new opportunities for manipulation by sophisticated actors.
 
@@ -108,9 +108,9 @@ Cross-platform interoperability may create new attack vectors where vulnerabilit
 
 ### Composability and Protocol Integration
 
-Social graphs demonstrate Web3 [[Composability]] principles where social data can be integrated with [[Decentralized Finance]] applications for social trading, community investment, and reputation-based lending that leverages social connections as factors in economic decision-making while maintaining user control over personal information disclosure.
+Social graphs demonstrate Web3 [[Composability]] principles where social data can be integrated with [[Decentralized Finance (DeFi)]] applications for social trading, community investment, and reputation-based lending that leverages social connections as factors in economic decision-making while maintaining user control over personal information disclosure.
 
-The integration with [[Governance Tokens]] and [[Decentralized Autonomous Organizations]] enables social participation in community governance where social connections, contribution history, and reputation can influence governance participation while avoiding plutocratic control through token concentration alone.
+The integration with [[Governance Tokens]] and [[Decentralized Autonomous Organizations (DAOs)]] enables social participation in community governance where social connections, contribution history, and reputation can influence governance participation while avoiding plutocratic control through token concentration alone.
 
 However, composability creates complexity where the interaction between multiple protocols may produce unexpected behaviors while increasing the attack surface for manipulation by sophisticated actors who understand cross-protocol interactions better than ordinary users.
 
@@ -134,10 +134,10 @@ The long-term impact of social graphs depends on their ability to demonstrate pr
 
 ## Related Concepts
 
-[[Decentralized Identity]] - Cryptographic identity systems that enable self-sovereign identity management
-[[Self-Sovereign Identity]] - Identity model where individuals control their personal data and credentials
+[[decentralized identity]] - Cryptographic identity systems that enable self-sovereign identity management
+[[self-sovereign identity]] - Identity model where individuals control their personal data and credentials
 [[Content-Addressed Information Storage]] - Storage systems where data is referenced by cryptographic hash rather than location
-[[Decentralized Autonomous Organizations]] - Community-governed organizations that can integrate with social graphs
+[[Decentralized Autonomous Organizations (DAOs)]] - Community-governed organizations that can integrate with social graphs
 [[Reputation Systems]] - Mechanisms for tracking and verifying user contributions and trustworthiness
 [[Social Tokens]] - Cryptocurrency tokens that represent social value and community participation
 [[Creator Economy]] - Economic models that enable direct monetization for content creators

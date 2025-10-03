@@ -85,7 +85,7 @@ The significance extends beyond technical implementation to encompass fundamenta
 
 ## Applications in Web3
 
-### [[Externality Markets]]
+### [[externality markets]]
 - **Carbon Markets**: Trading carbon credits and offsets
 - **Biodiversity Markets**: Trading biodiversity credits
 - **Water Markets**: Trading water quality credits

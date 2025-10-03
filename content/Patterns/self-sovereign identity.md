@@ -6,7 +6,7 @@ aliases:
 
 # Self-Sovereign Identity
 
-Self-sovereign identity represents a paradigm shift from centralized identity management to individual control over personal data and identity attributes. In the context of the [[meta-crisis]], self-sovereign identity systems can address [[Mass Surveillance]] and enable [[technological sovereignty]] while preserving [[privacy preservation]] and [[censorship resistance]].
+Self-sovereign identity represents a paradigm shift from centralized identity management to individual control over personal data and identity attributes. In the context of the [[meta-crisis]], self-sovereign identity systems can address [[Mass Surveillance]] and enable [[technological sovereignty]] while preserving [[Privacy Preservation]] and [[censorship resistance]].
 
 ## Core Principles
 
@@ -17,9 +17,9 @@ Self-sovereign identity represents a paradigm shift from centralized identity ma
 - **[[Selective Disclosure]]**: Sharing only necessary information for specific purposes
 
 ### Decentralized Architecture
-- **[[Decentralized Storage Networks]]**: Identity data stored across distributed networks
+- **[[decentralized storage networks]]**: Identity data stored across distributed networks
 - **[[Content-Addressed Information Storage]]**: Immutable, verifiable identity records
-- **[[Cryptographic Protocols]]**: Mathematical rather than institutional trust
+- **[[cryptographic protocols]]**: Mathematical rather than institutional trust
 - **[[Trustlessness]]**: Reduced dependence on centralized identity providers
 
 ### Interoperability
@@ -39,7 +39,7 @@ Self-sovereign identity represents a paradigm shift from centralized identity ma
 ### Privacy-Preserving Systems
 - **[[Privacy-Preserving Infrastructure]]**: Systems that protect user privacy
 - **[[End-to-End Encrypted Communication]]**: Secure communication without intermediaries
-- **[[Zero Knowledge Proof (ZKP)]]**: Verification without revealing underlying information
+- **[[zero knowledge proof (ZKP)]]**: Verification without revealing underlying information
 - **[[Cryptographic Timestamping and Provenance Tracking]]**: Immutable records of identity events
 
 ### Governance Applications
@@ -57,13 +57,13 @@ Self-sovereign identity represents a paradigm shift from centralized identity ma
 - **[[Hash Functions]]**: Tamper-evident data structures
 
 ### Blockchain Integration
-- **[[content/Primitives/smart contracts]]**: Automated identity verification and management
+- **[[smart contracts]]**: Automated identity verification and management
 - **[[Immutability]]**: Permanent records of identity events
 - **[[Transparency]]**: Public verification of identity systems
 - **[[Auditability]]**: Historical tracking of identity changes
 
 ### Economic Mechanisms
-- **[[Tokenization]]**: Economic incentives for identity verification
+- **[[tokenization]]**: Economic incentives for identity verification
 - **[[Staking]]**: Economic stake required for identity verification
 - **[[Slashing]]**: Penalties for false identity claims
 - **[[Reputation Systems]]**: Long-term tracking of identity behavior
@@ -71,22 +71,22 @@ Self-sovereign identity represents a paradigm shift from centralized identity ma
 ## Challenges and Limitations
 
 ### Technical Challenges
-- **[[Oracle Problem]]**: Verifying real-world identity without trusted intermediaries
-- **[[Scalability Trilemma]]**: Security, decentralization, and scalability constraints
+- **[[oracle problem]]**: Verifying real-world identity without trusted intermediaries
+- **[[scalability trilemma]]**: Security, decentralization, and scalability constraints
 - **[[MEV]]**: Market manipulation in identity-dependent systems
-- **[[Front Running]]**: Exploiting identity updates for profit
+- **[[front running]]**: Exploiting identity updates for profit
 
 ### Privacy vs. Security Trade-offs
 - **[[Privacy Preservation]]**: Balancing identity verification with privacy protection
-- **[[Censorship Resistance]]**: Avoiding centralized identity verification
-- **[[Decentralization]]**: Maintaining decentralized identity systems
+- **[[censorship resistance]]**: Avoiding centralized identity verification
+- **[[decentralization]]**: Maintaining decentralized identity systems
 - **[[Trustlessness]]**: Reducing dependence on trusted identity providers
 
 ### Economic Vulnerabilities
 - **[[Rug Pulls]]**: Sudden withdrawal of identity verification support
 - **[[MEV]]**: Market manipulation in identity-based systems
 - **[[Sybil Attacks]]**: Creating fake identities to influence systems
-- **[[Front Running]]**: Exploiting identity verification for profit
+- **[[front running]]**: Exploiting identity verification for profit
 
 ## Integration with Meta-Crisis Analysis
 
@@ -95,27 +95,27 @@ Self-sovereign identity addresses key components of the [[meta-crisis]]:
 ### Mass Surveillance
 - **[[Mass Surveillance]]**: Self-sovereign identity reduces surveillance capabilities
 - **[[Privacy Preservation]]**: Individuals control their own data
-- **[[Censorship Resistance]]**: Identity systems resistant to censorship
-- **[[Technological Sovereignty]]**: Communities controlling their own identity systems
+- **[[censorship resistance]]**: Identity systems resistant to censorship
+- **[[technological sovereignty]]**: Communities controlling their own identity systems
 
 ### Epistemic Crisis
-- **[[Epistemic Commons]]**: Shared knowledge about identity verification
+- **[[epistemic commons]]**: Shared knowledge about identity verification
 - **[[Transparent Algorithms]]**: Open and auditable identity systems
 - **[[Community-Based Reputation and Verification]]**: Peer-verified identity
 - **[[User-Controlled Information Feeds]]**: Individuals control their information environment
 
 ### Democratic Governance
 - **[[Improved Democratic Governance via DAOs]]**: Identity-based democratic participation
-- **[[Polycentric Governance]]**: Multiple overlapping identity systems
-- **[[Civic Renaissance]]**: Democratic participation through verified identity
-- **[[Technological Sovereignty]]**: Communities controlling their own systems
+- **[[polycentric governance]]**: Multiple overlapping identity systems
+- **[[civic renaissance]]**: Democratic participation through verified identity
+- **[[technological sovereignty]]**: Communities controlling their own systems
 
 ## Related Concepts
-- [[cryptographic identity]]
-- [[decentralized identifiers (DIDs)]]
-- [[credential verification]]
-- [[privacy preservation]]
+- [[Cryptographic Identity]]
+- [[Decentralized Identifiers (DIDs)]]
+- [[Credential Verification]]
+- [[Privacy Preservation]]
 - [[censorship resistance]]
 - [[technological sovereignty]]
-- [[mass surveillance]]
+- [[Mass Surveillance]]
 - [[epistemic commons]]

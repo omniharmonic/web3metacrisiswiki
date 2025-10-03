@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of commons governance extends beyond resource management to encompass fundamental questions about collective action, democratic participation, and the conditions under which decentralized coordination can achieve sustainable outcomes without relying on either market mechanisms or hierarchical control. What Ostrom calls "institutional diversity" demonstrates how effective governance emerges through community experimentation rather than universal design principles, challenging both market fundamentalism and state-centric approaches to resource management.
 
-In Web3 contexts, commons governance represents both the foundational challenge of creating sustainable decentralized communities and an opportunity for implementing Ostrom's design principles through [[Smart Contracts]], [[DAOs]], and cryptoeconomic mechanisms that could potentially enable global-scale commons management while preserving local autonomy and democratic participation that traditional commons governance requires.
+In Web3 contexts, commons governance represents both the foundational challenge of creating sustainable decentralized communities and an opportunity for implementing Ostrom's design principles through [[smart contracts]], [[DAOs]], and cryptoeconomic mechanisms that could potentially enable global-scale commons management while preserving local autonomy and democratic participation that traditional commons governance requires.
 
 ## Ostrom's Institutional Design Principles
 
@@ -168,8 +168,8 @@ The future of commons governance may determine whether human societies can devel
 
 ## Related Concepts
 
-[[Polycentric Governance]] - Multi-level governance systems with distributed authority and nested institutional arrangements
-[[Collective Action Problems]] - Coordination challenges that commons governance attempts to address through institutional design
+[[polycentric governance]] - Multi-level governance systems with distributed authority and nested institutional arrangements
+[[Collective Action Problem]] - Coordination challenges that commons governance attempts to address through institutional design
 [[Social Capital]] - Trust, reciprocity, and network relationships that enable commons governance effectiveness
 [[Institutional Analysis]] - Framework for understanding how governance rules and norms evolve and persist
 [[Public Choice Theory]] - Economic analysis of political processes that informs commons governance design
@@ -177,10 +177,10 @@ The future of commons governance may determine whether human societies can devel
 [[Open Source Development]] - Collaborative software development model exemplifying digital commons governance
 [[Platform Cooperatives]] - Worker and user-owned digital platforms implementing cooperative governance principles
 [[Participatory Democracy]] - Democratic theory emphasizing direct citizen involvement in decision-making processes
-[[Decentralized Autonomous Organizations]] - Blockchain-based organizations attempting to implement commons governance principles
+[[Decentralized Autonomous Organizations (DAOs)]] - Blockchain-based organizations attempting to implement commons governance principles
 [[Quadratic Voting]] - Democratic innovation designed to improve preference expression in commons governance
 [[Tokenomics]] - Economic design of cryptocurrency systems that can support or undermine commons governance
-[[Regenerative Economics]] - Economic approaches aligning financial success with ecological and social regeneration
+[[regenerative economics]] - Economic approaches aligning financial success with ecological and social regeneration
 [[Digital Commons]] - Shared information and cultural resources managed through commons governance principles
 [[Community Land Trusts]] - Legal structures for community ownership and stewardship of land resources
 [[Cooperative Economics]] - Economic theory and practice emphasizing democratic ownership and control

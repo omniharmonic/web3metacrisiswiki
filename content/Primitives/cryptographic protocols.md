@@ -82,7 +82,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Cryptographic Protocols]]
+### [[cryptographic protocols]]
 - **Decentralized Cryptographic Protocols Systems**: Cryptographic protocols systems in decentralized systems
 - **User Control**: User control over cryptographic protocols systems
 - **Transparency**: Transparent cryptographic protocols processes

@@ -64,7 +64,7 @@ Cryptocurrency markets exhibit extreme versions of these biases including fear o
 
 ### Governance Mechanisms and Decision Architecture
 
-[[Decentralized Autonomous Organizations]] can incorporate bias-aware design to improve democratic decision-making quality by accounting for systematic patterns in human judgment and behavior. Default options can leverage status quo bias to encourage beneficial behaviors, while information presentation can be designed to reduce confirmation bias through balanced evidence presentation and devil's advocate mechanisms.
+[[Decentralized Autonomous Organizations (DAOs)]] can incorporate bias-aware design to improve democratic decision-making quality by accounting for systematic patterns in human judgment and behavior. Default options can leverage status quo bias to encourage beneficial behaviors, while information presentation can be designed to reduce confirmation bias through balanced evidence presentation and devil's advocate mechanisms.
 
 [[Quadratic Voting]] attempts to address intensity bias where people may not accurately express preference strength, while [[Conviction Voting]] addresses temporal bias by requiring sustained commitment that may filter out impulsive decisions driven by momentary enthusiasm or social pressure rather than genuine long-term commitment.
 
@@ -126,16 +126,16 @@ The maturation of bias-aware Web3 systems depends on developing ethical framewor
 
 [[Behavioral Economics]] - Field that studies how cognitive biases affect economic decision-making
 [[System 1 and System 2 Thinking]] - Dual-process theory explaining fast versus slow reasoning
-[[Confirmation Bias]] - Tendency to seek information that confirms existing beliefs
-[[Availability Heuristic]] - Judging probability by ease of recall
+[[confirmation bias]] - Tendency to seek information that confirms existing beliefs
+[[availability heuristic]] - Judging probability by ease of recall
 [[Loss Aversion]] - Psychological bias where losses feel more painful than equivalent gains
-[[Social Proof]] - Tendency to infer appropriate behavior from others' actions
+[[social proof]] - Tendency to infer appropriate behavior from others' actions
 [[Authority Bias]] - Tendency to attribute greater credibility to authority figures
 [[Anchoring Bias]] - Over-reliance on first piece of information encountered
 [[Overconfidence Bias]] - Tendency to overestimate one's own abilities or knowledge
 [[Herding Behavior]] - Following crowd behavior even against private information
 [[Mental Accounting]] - Treating money differently based on arbitrary mental categories
 [[Sunk Cost Fallacy]] - Continuing investment based on past costs rather than future value
-[[Filter Bubbles]] - Information isolation created by algorithmic bias exploitation
+[[filter bubbles]] - Information isolation created by algorithmic bias exploitation
 [[Choice Architecture]] - Design of environments in which people make decisions
 [[Nudging]] - Influencing behavior while preserving freedom of choice

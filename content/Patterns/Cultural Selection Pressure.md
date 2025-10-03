@@ -41,8 +41,8 @@ Decentralized technologies could reshape cultural selection by enabling communit
 ## Related Concepts
 
 - [[Algorithmic Amplification]]
-- [[Filter Bubbles]]
-- [[Social Proof]]
+- [[filter bubbles]]
+- [[social proof]]
 - [[Behavioral Modification]]
 - [[Economic Selection Pressure]]
 - [[commons governance]]

@@ -1,4 +1,5 @@
 ---
+title: "Smart Contracts"
 aliases:
   - "smart-contracts"
   - "Smart-Contracts"
@@ -12,13 +13,13 @@ aliases:
 
 The theoretical significance of smart contracts extends beyond simple automation to encompass fundamental questions about the relationship between code and law, the role of intermediaries in economic coordination, and the conditions under which algorithmic systems can reliably enforce agreements in adversarial environments. What economist Ronald Coase calls "transaction costs" can potentially be dramatically reduced through smart contract automation while creating new categories of risk and complexity.
 
-In Web3 contexts, smart contracts represent both the foundational infrastructure enabling [[Decentralized Finance]], [[Decentralized Autonomous Organizations]], and [[Tokenization]] through programmable digital assets, and persistent challenges with security vulnerabilities, legal uncertainty, and the immutability that makes error correction difficult while potentially enabling new forms of systemic risk through composable interactions across multiple protocols.
+In Web3 contexts, smart contracts represent both the foundational infrastructure enabling [[Decentralized Finance (DeFi)]], [[Decentralized Autonomous Organizations (DAOs)]], and [[tokenization]] through programmable digital assets, and persistent challenges with security vulnerabilities, legal uncertainty, and the immutability that makes error correction difficult while potentially enabling new forms of systemic risk through composable interactions across multiple protocols.
 
 ## Computer Science Foundations and Architectural Design
 
 ### Turing Completeness and Computational Models
 
-Smart contracts implement what computer scientist Alan Turing calls "universal computation" through virtual machines that can execute arbitrary algorithms while maintaining deterministic behavior across distributed networks. The [[Ethereum Virtual Machine]] provides what computer scientist Gavin Wood calls "world computer" capabilities where any computable function can be executed in a globally distributed, consensus-verified environment.
+Smart contracts implement what computer scientist Alan Turing calls "universal computation" through virtual machines that can execute arbitrary algorithms while maintaining deterministic behavior across distributed networks. The [[Ethereum Virtual Machine (EVM)]] provides what computer scientist Gavin Wood calls "world computer" capabilities where any computable function can be executed in a globally distributed, consensus-verified environment.
 
 **Smart Contract Execution Model:**
 ```
@@ -45,9 +46,9 @@ Formal verification techniques attempt to provide mathematical proofs of smart c
 
 ### Automated Market Makers and Decentralized Exchanges
 
-[[Automated Market Makers]] represent perhaps the most successful smart contract application, implementing what economist Robin Hanson calls "market scoring rules" through algorithmic price discovery that enables continuous token trading without traditional order books or market makers. Uniswap's constant product formula demonstrates how simple mathematical relationships can create sophisticated financial markets.
+[[automated market makers (AMMs)]] represent perhaps the most successful smart contract application, implementing what economist Robin Hanson calls "market scoring rules" through algorithmic price discovery that enables continuous token trading without traditional order books or market makers. Uniswap's constant product formula demonstrates how simple mathematical relationships can create sophisticated financial markets.
 
-[[Decentralized Exchanges]] built on smart contracts enable what economist Friedrich Hayek calls "spontaneous order" in financial markets where trading occurs through algorithmic protocols rather than centralized institutions, potentially reducing counterparty risk while increasing operational transparency and global accessibility.
+[[decentralized exchanges]] built on smart contracts enable what economist Friedrich Hayek calls "spontaneous order" in financial markets where trading occurs through algorithmic protocols rather than centralized institutions, potentially reducing counterparty risk while increasing operational transparency and global accessibility.
 
 However, AMM-based exchanges face challenges including impermanent loss for liquidity providers, front-running attacks that exploit transaction ordering, and the complexity of multi-hop routing that may create unexpected price slippage for large transactions.
 
@@ -147,7 +148,7 @@ The maturation of smart contract technology may determine whether programmable m
 [[Formal Verification]] - Mathematical techniques for proving smart contract correctness and security properties
 [[Immutability]] - Property where deployed smart contract code cannot be modified, providing predictability but limiting error correction
 [[Composability]] - Ability for smart contracts to interact with each other, enabling complex applications from simpler components
-[[Automated Market Makers]] - Smart contract systems enabling algorithmic token trading without traditional order books
+[[automated market makers (AMMs)]] - Smart contract systems enabling algorithmic token trading without traditional order books
 [[Flash Loans]] - Smart contract primitive enabling borrowing and repayment within single transactions
 [[Oracles]] - External data sources that provide real-world information to smart contracts for decision-making
 [[Reentrancy Attacks]] - Common smart contract vulnerability where malicious contracts exploit callback functions
@@ -157,7 +158,7 @@ The maturation of smart contract technology may determine whether programmable m
 [[Token Standards]] - Standardized interfaces including ERC-20 and ERC-721 that enable smart contract interoperability
 [[Decentralized Finance (DeFi)]] - Financial applications built on smart contract infrastructure
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems implemented through smart contract voting mechanisms
-[[Tokenization]] - Process of representing real-world or digital assets through smart contract tokens
+[[tokenization]] - Process of representing real-world or digital assets through smart contract tokens
 [[Smart Contract Auditing]] - Security review processes for identifying vulnerabilities before deployment
 [[Bug Bounties]] - Incentive programs rewarding discovery of smart contract vulnerabilities
 [[Formal Methods]] - Mathematical approaches to smart contract specification and verification

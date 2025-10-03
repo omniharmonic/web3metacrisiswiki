@@ -172,7 +172,7 @@ The future of externality pricing may depend on developing systems that can capt
 [[Double Dividend Hypothesis]] - Theory that externality pricing can achieve environmental and economic benefits simultaneously
 [[Coase Theorem]] - Economic theory about externality resolution through property rights rather than pricing
 [[Market Failure]] - Economic situations where unregulated markets fail to achieve optimal outcomes
-[[Environmental Economics]] - Field addressing market failures in environmental resource allocation
+[[environmental economics]] - Field addressing market failures in environmental resource allocation
 [[Congestion Pricing]] - Transportation application of externality pricing for traffic management
 [[Pollution Taxes]] - Environmental taxes designed to internalize costs of air and water pollution
 [[Payment for Ecosystem Services]] - Market mechanism for pricing positive environmental externalities
@@ -181,8 +181,8 @@ The future of externality pricing may depend on developing systems that can capt
 [[Revenue Recycling]] - Use of externality pricing revenue to reduce other taxes or provide compensation
 [[Carbon Leakage]] - Problem where externality pricing in one jurisdiction shifts activity to unregulated areas
 [[Environmental Justice]] - Movement addressing equitable distribution of environmental costs and benefits
-[[Regulatory Capture]] - Political process where regulated industries influence externality pricing implementation
+[[regulatory capture]] - Political process where regulated industries influence externality pricing implementation
 [[Transaction Costs]] - Economic costs of implementing and enforcing externality pricing systems
 [[Public Goods]] - Resources that may require externality pricing to address under-provision
-[[Collective Action Problems]] - Coordination challenges in implementing effective externality pricing
+[[Collective Action Problem]] - Coordination challenges in implementing effective externality pricing
 [[International Coordination]] - Need for global cooperation in externality pricing for transboundary problems

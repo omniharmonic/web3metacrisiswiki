@@ -40,4 +40,4 @@ Successful bonding curve implementations require careful selection of curve para
 - [[Tokenomics]]
 - [[Price Discovery]]
 - [[Liquidity Pools]]
-- [[content/Primitives/smart contracts]]
+- [[smart contracts]]

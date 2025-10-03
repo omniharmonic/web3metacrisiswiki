@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of dApps extends beyond technical architecture to encompass fundamental questions about digital sovereignty, platform power, and the conditions under which software applications can serve user interests rather than platform operator interests. What legal scholar Lawrence Lessig calls "code as law" becomes implementable through dApps where application behavior is governed by transparent, immutable smart contracts rather than opaque, changeable corporate policies.
 
-In Web3 contexts, dApps represent both the practical implementation of decentralized coordination through [[Smart Contracts]], [[Blockchain]], and [[Decentralized Finance]] applications that operate without traditional intermediaries, and persistent challenges with user experience, scalability, and governance that may limit adoption while creating new categories of systemic risk through interconnected protocol dependencies and smart contract vulnerabilities.
+In Web3 contexts, dApps represent both the practical implementation of decentralized coordination through [[smart contracts]], [[blockchain]], and [[Decentralized Finance (DeFi)]] applications that operate without traditional intermediaries, and persistent challenges with user experience, scalability, and governance that may limit adoption while creating new categories of systemic risk through interconnected protocol dependencies and smart contract vulnerabilities.
 
 ## Architectural Foundations and Technical Design
 
@@ -37,7 +37,7 @@ However, the distributed nature of dApp architecture creates complexity challeng
 
 ### Smart Contract Integration and Composability
 
-dApps leverage [[Smart Contracts]] to implement what computer scientist Nick Szabo calls "smart property" where digital assets and application logic can interact automatically according to predetermined rules without requiring human intervention or trusted intermediaries. This enables what software architect Martin Fowler calls "microservices" architecture where complex applications can be composed from simpler, reusable components.
+dApps leverage [[smart contracts]] to implement what computer scientist Nick Szabo calls "smart property" where digital assets and application logic can interact automatically according to predetermined rules without requiring human intervention or trusted intermediaries. This enables what software architect Martin Fowler calls "microservices" architecture where complex applications can be composed from simpler, reusable components.
 
 [[Composability]] allows dApps to integrate with other protocols and applications through standardized interfaces, creating what network scientist Albert-László Barabási calls "emergent complexity" where simple components can combine to create sophisticated functionality that exceeds the sum of individual parts.
 
@@ -47,7 +47,7 @@ The Ethereum ecosystem demonstrates composability through DeFi protocols where l
 
 ### Decentralized Finance and Financial Services
 
-[[Decentralized Finance]] represents perhaps the most successful category of dApps, implementing traditional financial services including lending, trading, insurance, and asset management through smart contracts rather than traditional financial institutions. Applications including Uniswap, Compound, and Aave demonstrate how dApps can provide financial services at global scale without requiring traditional banking infrastructure.
+[[Decentralized Finance (DeFi)]] represents perhaps the most successful category of dApps, implementing traditional financial services including lending, trading, insurance, and asset management through smart contracts rather than traditional financial institutions. Applications including Uniswap, Compound, and Aave demonstrate how dApps can provide financial services at global scale without requiring traditional banking infrastructure.
 
 DeFi dApps enable what economist Friedrich Hayek calls "spontaneous order" in financial markets where complex coordination emerges from simple rules rather than central planning, potentially reducing what economist Ronald Coase calls "transaction costs" while increasing financial accessibility for users excluded from traditional banking systems.
 
@@ -71,7 +71,7 @@ However, blockchain gaming faces challenges with scalability that limits complex
 
 ### Governance and Collective Decision-Making
 
-[[Decentralized Autonomous Organizations]] represent dApps for collective decision-making where governance processes including proposal submission, voting, and treasury management operate through smart contracts rather than traditional corporate governance structures. Examples including MolochDAO, Gitcoin, and various protocol governance systems demonstrate technical feasibility of algorithmic governance.
+[[Decentralized Autonomous Organizations (DAOs)]] represent dApps for collective decision-making where governance processes including proposal submission, voting, and treasury management operate through smart contracts rather than traditional corporate governance structures. Examples including MolochDAO, Gitcoin, and various protocol governance systems demonstrate technical feasibility of algorithmic governance.
 
 Governance dApps implement what political scientist Elinor Ostrom calls "collective choice arrangements" through token-weighted voting, [[Quadratic Voting]], and [[Conviction Voting]] mechanisms that attempt to enable democratic participation while addressing challenges with voter apathy, information asymmetries, and the potential for plutocratic control through token concentration.
 
@@ -91,7 +91,7 @@ The complexity of wallet setup, seed phrase backup, and transaction confirmation
 
 dApps depend on blockchain networks that face scalability constraints where high demand can lead to network congestion and transaction fees that make small interactions economically unviable. During periods of high demand, Ethereum gas fees can exceed hundreds of dollars per transaction, potentially excluding ordinary users from dApp participation.
 
-[[Layer 2 Solutions]] including [[Optimistic Rollups]] and [[ZK-Rollups]] attempt to address scalability limitations while creating additional complexity where users must manage assets across multiple networks with different security assumptions and bridge protocols that may introduce new risks.
+[[Layer 2 Solutions]] including [[Optimistic rollups]] and [[zk-Rollups]] attempt to address scalability limitations while creating additional complexity where users must manage assets across multiple networks with different security assumptions and bridge protocols that may introduce new risks.
 
 The user experience challenges with network selection, bridge operations, and fee estimation create friction that may prevent mainstream adoption while the technical complexity of understanding different layer 2 solutions may exceed ordinary user capabilities.
 
@@ -159,8 +159,8 @@ The maturation of dApps may determine whether decentralized computing becomes ac
 
 ## Related Concepts
 
-[[Smart Contracts]] - Programmable agreements that provide the core functionality for most dApps
-[[Blockchain]] - Distributed ledger technology that provides the infrastructure foundation for dApps
+[[smart contracts]] - Programmable agreements that provide the core functionality for most dApps
+[[blockchain]] - Distributed ledger technology that provides the infrastructure foundation for dApps
 [[Ethereum Virtual Machine (EVM)]] - Execution environment that runs smart contract code for Ethereum-based dApps
 [[Decentralized Finance (DeFi)]] - Financial applications built as dApps on blockchain infrastructure
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance applications that operate as dApps through smart contracts
@@ -178,7 +178,7 @@ The maturation of dApps may determine whether decentralized computing becomes ac
 [[Cross-Chain Integration]] - Technology enabling dApps to operate across multiple blockchain networks
 [[Decentralized Storage]] - Distributed file storage systems that provide data persistence for dApps
 [[Peer-to-Peer Networks]] - Communication protocols that enable direct interaction between dApp users
-[[Censorship Resistance]] - Property where dApps cannot be shut down or controlled by authorities
+[[censorship resistance]] - Property where dApps cannot be shut down or controlled by authorities
 [[Permissionless Innovation]] - Ability for anyone to build and deploy dApps without requiring authorization
-[[Self-Sovereign Identity]] - Identity systems built into dApps that give users control over personal data
+[[self-sovereign identity]] - Identity systems built into dApps that give users control over personal data
 [[Privacy-Preserving Technologies]] - Cryptographic techniques that enable private dApp interactions

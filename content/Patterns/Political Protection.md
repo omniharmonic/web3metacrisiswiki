@@ -20,7 +20,7 @@ Political protection operates through multiple channels:
 - **Regulatory Arbitrage**: Allowing actors to choose favorable regulatory jurisdictions
 
 ### Capture Dynamics
-- **[[Regulatory Capture]]**: Regulatory agencies become dominated by the industries they oversee
+- **[[regulatory capture]]**: Regulatory agencies become dominated by the industries they oversee
 - **[[Information Asymmetries]]**: Regulators become dependent on industry for information
 - **[[Political Externalities]]**: Political influence shapes regulatory outcomes
 - **[[Institutional Defense]]**: Institutions resist reforms that would reduce their power
@@ -49,7 +49,7 @@ Political protection operates through multiple channels:
 
 ### Decentralized Governance
 [[Decentralized Autonomous Organizations (DAOs)]] can reduce political protection:
-- **[[Polycentric Governance]]**: Multiple overlapping governance systems
+- **[[polycentric governance]]**: Multiple overlapping governance systems
 - **[[Holographic Consensus]]**: Community-driven decision making
 - **[[Quadratic Voting]]**: Democratic allocation of resources
 - **[[Conviction Voting]]**: Long-term commitment to public interest
@@ -62,7 +62,7 @@ Political protection operates through multiple channels:
 
 ### Economic Mechanisms
 - **[[Programmable Incentives]]**: Economic incentives for public interest behavior
-- **[[Tokenization]]**: Economic incentives for political participation
+- **[[tokenization]]**: Economic incentives for political participation
 - **[[Reputation Systems]]**: Long-term tracking of political behavior
 - **[[Community-Based Reputation and Verification]]**: Peer-verified political behavior
 
@@ -76,8 +76,8 @@ The [[oracle problem]] presents challenges for political systems:
 - **Geographic Coverage**: Global verification of political systems
 
 ### Scalability and Adoption
-[[Blockchain]] systems face adoption challenges:
-- **[[Scalability Trilemma]]**: Security, decentralization, and scalability constraints
+[[blockchain]] systems face adoption challenges:
+- **[[scalability trilemma]]**: Security, decentralization, and scalability constraints
 - **Network Effects**: Political systems only work if widely adopted
 - **Coordination Problems**: Getting actors to agree on political standards
 - **[[MEV]]**: Market manipulation in political-dependent systems
@@ -85,16 +85,16 @@ The [[oracle problem]] presents challenges for political systems:
 ## Integration with Third Attractor Framework
 
 Political protection must be addressed through:
-- **[[Regenerative Economics]]**: Economic systems that serve public rather than private interests
-- **[[Polycentric Governance]]**: Multiple overlapping governance systems that prevent capture
-- **[[Technological Sovereignty]]**: Communities controlling their own political systems
-- **[[Civic Renaissance]]**: Cultural shift toward public service and accountability
+- **[[regenerative economics]]**: Economic systems that serve public rather than private interests
+- **[[polycentric governance]]**: Multiple overlapping governance systems that prevent capture
+- **[[technological sovereignty]]**: Communities controlling their own political systems
+- **[[civic renaissance]]**: Cultural shift toward public service and accountability
 
 ## Related Concepts
 - [[regulatory capture]]
-- [[information asymmetries]]
-- [[political externalities]]
-- [[institutional defense]]
+- [[Information Asymmetries]]
+- [[Political Externalities]]
+- [[Institutional Defense]]
 - [[polycentric governance]]
 - [[regenerative economics]]
 - [[technological sovereignty]]

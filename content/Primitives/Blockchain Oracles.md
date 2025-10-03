@@ -138,7 +138,7 @@ External Data Sources → Oracle Nodes → Consensus → Smart Contracts
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Data integration**: Providing data to smart contracts
 - **Automated execution**: Triggering contract execution based on data
 - **Conditional logic**: Conditional execution based on external data
@@ -176,11 +176,11 @@ External Data Sources → Oracle Nodes → Consensus → Smart Contracts
 
 - **Source Documents**: [[Web3 Primitives]], [[oracle problem]], [[Paper Outline]]
 - **Technical Resources**: [Chainlink Documentation](https://docs.chain.link/), [Band Protocol](https://bandprotocol.com/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[oracle problem]] - The fundamental limitation of blockchain data access

@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of conviction voting extends beyond technical governance innovation to encompass fundamental questions about the temporal dimensions of democratic participation, the relationship between commitment intensity and voting weight, and the conditions under which sustained preference expression can improve collective decision quality. The mechanism attempts to solve what political scientist Jon Elster identifies as the "weakness of will" problem in democratic systems where short-term pressures may override long-term collective interests.
 
-In Web3 contexts, conviction voting represents a core innovation for addressing flash loan attacks, Sybil manipulation, and the low-quality governance decisions that may result from momentary token acquisition strategies in [[Decentralized Autonomous Organizations]]. The mechanism potentially creates what economists call "skin in the game" by requiring participants to lock capital over time, theoretically filtering out low-conviction preferences while amplifying sustained community support.
+In Web3 contexts, conviction voting represents a core innovation for addressing flash loan attacks, Sybil manipulation, and the low-quality governance decisions that may result from momentary token acquisition strategies in [[Decentralized Autonomous Organizations (DAOs)]]. The mechanism potentially creates what economists call "skin in the game" by requiring participants to lock capital over time, theoretically filtering out low-conviction preferences while amplifying sustained community support.
 
 ## Temporal Governance Theory and Commitment Mechanisms
 
@@ -62,11 +62,11 @@ The pseudonymous nature of blockchain governance further complicates conviction 
 
 ### Smart Contract Automation and Temporal Logic
 
-Web3 implementations of conviction voting leverage [[Smart Contracts]] to automate complex conviction calculations and threshold management while ensuring transparent and verifiable governance processes. The programmable nature of blockchain systems enables sophisticated temporal logic including exponential conviction curves, dynamic thresholds based on proposal impact, and automatic execution when conviction requirements are met.
+Web3 implementations of conviction voting leverage [[smart contracts]] to automate complex conviction calculations and threshold management while ensuring transparent and verifiable governance processes. The programmable nature of blockchain systems enables sophisticated temporal logic including exponential conviction curves, dynamic thresholds based on proposal impact, and automatic execution when conviction requirements are met.
 
-[[Ethereum Virtual Machine]] implementations must carefully manage gas costs for continuous conviction calculation while ensuring that conviction accumulation and proposal execution remain economically viable for community participation. The immutable nature of smart contracts requires careful design of upgrade mechanisms that can adapt conviction parameters based on community learning and changing circumstances.
+[[Ethereum Virtual Machine (EVM)]] implementations must carefully manage gas costs for continuous conviction calculation while ensuring that conviction accumulation and proposal execution remain economically viable for community participation. The immutable nature of smart contracts requires careful design of upgrade mechanisms that can adapt conviction parameters based on community learning and changing circumstances.
 
-Advanced implementations integrate with [[Decentralized Autonomous Organizations]] treasury management, enabling automatic fund distribution when proposals achieve sufficient conviction while maintaining audit trails and community oversight of resource allocation decisions.
+Advanced implementations integrate with [[Decentralized Autonomous Organizations (DAOs)]] treasury management, enabling automatic fund distribution when proposals achieve sufficient conviction while maintaining audit trails and community oversight of resource allocation decisions.
 
 ### Token Economics and Incentive Alignment
 
@@ -114,8 +114,8 @@ The maturation of conviction voting depends on solving fundamental challenges in
 
 ## Related Concepts
 
-[[Decentralized Autonomous Organizations]] - Organizational structures that may implement conviction voting for governance
-[[Smart Contracts]] - Technical infrastructure enabling automated conviction calculation and proposal execution
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that may implement conviction voting for governance
+[[smart contracts]] - Technical infrastructure enabling automated conviction calculation and proposal execution
 [[Tokenomics]] - Economic design systems that may integrate with conviction voting mechanisms
 [[Staking]] - Capital commitment mechanisms that provide the foundation for conviction accumulation
 [[Temporal Governance]] - Broader category of governance mechanisms that incorporate time dimensions

@@ -76,7 +76,7 @@ The emphasis on universal privacy-preserving infrastructure may distract from mo
 [[Trusted_Execution_Environments]] - Hardware-based confidentiality
 [[Homomorphic_Encryption]] - Computation on encrypted data
 [[Secure_Multi-Party_Computation]] - Collaborative private computation
-[[ZK-Rollups]] - Scalability through privacy tech
+[[zk-Rollups]] - Scalability through privacy tech
 [[Selective_Disclosure]] - Minimal information sharing
 [[Privacy_vs_Auditability]] - Fundamental tension
 [[Confidential_Transactions]] - Private financial operations

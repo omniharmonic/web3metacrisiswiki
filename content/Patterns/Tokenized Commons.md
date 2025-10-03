@@ -190,5 +190,5 @@ aliases:
 - [[Community Governance]]
 - [[Quadratic Funding]]
 - [[Decentralized Autonomous Organizations (DAOs)]]
-- [[Mechanism Design Theory]]
-- [[Regenerative Economics]]
+- [[mechanism design theory]]
+- [[regenerative economics]]

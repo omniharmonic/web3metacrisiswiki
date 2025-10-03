@@ -21,7 +21,7 @@ Regulatory complexity creates self-reinforcing dynamics:
 
 ### Unintended Consequences
 - **[[Barriers to Entry]]**: High compliance costs exclude smaller competitors
-- **[[Regulatory Capture]]**: Industry expertise becomes essential for regulatory development
+- **[[regulatory capture]]**: Industry expertise becomes essential for regulatory development
 - **[[Information Asymmetries]]**: Regulators become dependent on industry for information
 - **[[Political Externalities]]**: Political influence shapes regulatory outcomes
 
@@ -48,7 +48,7 @@ Regulatory complexity creates self-reinforcing dynamics:
 ## Web3 Solutions and Limitations
 
 ### Automated Compliance
-[[content/Primitives/smart contracts]] can automate regulatory compliance:
+[[smart contracts]] can automate regulatory compliance:
 - **[[Automated Verification]]**: Automated checking of regulatory compliance
 - **[[Deterministic Execution Properties]]**: Predictable and verifiable compliance
 - **[[Transparent and Auditable Execution]]**: Public verification of compliance
@@ -56,7 +56,7 @@ Regulatory complexity creates self-reinforcing dynamics:
 
 ### Decentralized Governance
 [[Decentralized Autonomous Organizations (DAOs)]] can simplify regulatory processes:
-- **[[Polycentric Governance]]**: Multiple overlapping regulatory systems
+- **[[polycentric governance]]**: Multiple overlapping regulatory systems
 - **[[Holographic Consensus]]**: Community-driven regulatory development
 - **[[Quadratic Voting]]**: Democratic allocation of regulatory resources
 - **[[Conviction Voting]]**: Long-term commitment to regulatory goals
@@ -77,8 +77,8 @@ The [[oracle problem]] presents challenges for regulatory compliance:
 - **Geographic Coverage**: Global verification of regulatory compliance
 
 ### Scalability and Adoption
-[[Blockchain]] systems face adoption challenges:
-- **[[Scalability Trilemma]]**: Security, decentralization, and scalability constraints
+[[blockchain]] systems face adoption challenges:
+- **[[scalability trilemma]]**: Security, decentralization, and scalability constraints
 - **Network Effects**: Regulatory systems only work if widely adopted
 - **Coordination Problems**: Getting actors to agree on regulatory standards
 - **[[MEV]]**: Market manipulation in regulatory-dependent systems
@@ -86,17 +86,17 @@ The [[oracle problem]] presents challenges for regulatory compliance:
 ## Integration with Third Attractor Framework
 
 Regulatory complexity must be addressed through:
-- **[[Regenerative Economics]]**: Economic systems that simplify rather than complicate
-- **[[Polycentric Governance]]**: Multiple overlapping governance systems that prevent capture
-- **[[Technological Sovereignty]]**: Communities controlling their own regulatory systems
-- **[[Civic Renaissance]]**: Cultural shift toward simplicity and transparency
+- **[[regenerative economics]]**: Economic systems that simplify rather than complicate
+- **[[polycentric governance]]**: Multiple overlapping governance systems that prevent capture
+- **[[technological sovereignty]]**: Communities controlling their own regulatory systems
+- **[[civic renaissance]]**: Cultural shift toward simplicity and transparency
 
 ## Related Concepts
 - [[regulatory capture]]
-- [[barriers to entry]]
-- [[information asymmetries]]
-- [[political externalities]]
-- [[smart contract regulatory enforcement]]
+- [[Barriers to Entry]]
+- [[Information Asymmetries]]
+- [[Political Externalities]]
+- [[Smart Contract Regulatory Enforcement]]
 - [[polycentric governance]]
 - [[regenerative economics]]
 - [[technological sovereignty]]

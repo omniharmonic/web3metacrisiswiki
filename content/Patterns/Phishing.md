@@ -11,7 +11,7 @@ aliases:
 
 The theoretical significance of phishing extends beyond individual fraud to encompass fundamental questions about trust, authentication, and identity verification in digital systems where traditional social cues for legitimacy may be absent or easily forged. What psychologist Robert Cialdini calls "weapons of influence" including authority, social proof, and scarcity become systematically exploitable through digital mediation while victims lack the contextual information necessary for accurate threat assessment.
 
-In Web3 contexts, phishing represents both an amplified threat where irreversible cryptocurrency transactions and decentralized systems reduce recovery options while creating new attack vectors through [[DeFi]] interfaces, [[NFT]] marketplaces, and [[Governance Token]] systems, and an opportunity for developing more robust authentication mechanisms through [[Cryptographic Identity]], [[Multi-Factor Authentication]], and community-based verification systems that could reduce reliance on vulnerable communication channels.
+In Web3 contexts, phishing represents both an amplified threat where irreversible cryptocurrency transactions and decentralized systems reduce recovery options while creating new attack vectors through [[DeFi]] interfaces, [[NFT]] marketplaces, and [[Governance Tokens]] systems, and an opportunity for developing more robust authentication mechanisms through [[Cryptographic Identity]], [[Multi-Factor Authentication]], and community-based verification systems that could reduce reliance on vulnerable communication channels.
 
 ## Psychological and Social Engineering Foundations
 
@@ -103,7 +103,7 @@ Gas fee manipulation and transaction replacement attacks can modify pending tran
 
 ### Governance and Protocol Impersonation
 
-[[Governance Token]] phishing exploits the complexity of decentralized governance where users may receive fake proposals, voting interfaces, or governance communications that appear to come from legitimate protocols while actually directing users to malicious websites or requesting private key access.
+[[Governance Tokens]] phishing exploits the complexity of decentralized governance where users may receive fake proposals, voting interfaces, or governance communications that appear to come from legitimate protocols while actually directing users to malicious websites or requesting private key access.
 
 Protocol upgrade announcements and migration instructions create opportunities for phishing that exploits what technology adoption researcher Everett Rogers calls "innovation diffusion" confusion where users may not understand legitimate versus fraudulent communications about protocol changes.
 
@@ -174,7 +174,7 @@ The maturation of Web3 security depends on developing threat intelligence, incid
 [[NFT]] - Non-fungible tokens whose markets create opportunities for phishing through fake drops and marketplaces
 [[Governance Tokens]] - Digital assets whose governance processes may be targeted by phishing campaigns
 [[Cross-Chain Integration]] - Technical infrastructure whose complexity creates opportunities for phishing through fake bridge interfaces
-[[Smart Contracts]] - Automated contracts that may be exploited through phishing to obtain malicious transaction signatures
+[[smart contracts]] - Automated contracts that may be exploited through phishing to obtain malicious transaction signatures
 [[Private Key Management]] - Security practices for protecting cryptographic keys that phishing attacks attempt to compromise
 [[Browser Security]] - Technical measures for detecting and preventing access to malicious websites and content
 [[Email Security]] - Technical and procedural measures for identifying and blocking phishing communications

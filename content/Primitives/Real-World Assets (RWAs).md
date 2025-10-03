@@ -130,7 +130,7 @@ aliases:
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Automated execution**: Self-executing asset management
 - **Compliance**: Automated compliance with regulations
 - **Transparency**: Transparent asset management
@@ -168,11 +168,11 @@ aliases:
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [Centrifuge](https://centrifuge.io/), [MakerDAO](https://makerdao.com/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[tokenization]] - Process of creating digital representations of assets

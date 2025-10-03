@@ -86,7 +86,7 @@ The challenge is compounded by what economist Robert Costanza calls "natural cap
 
 ### Tokenomics and Positive-Sum Incentive Design
 
-[[Tokenomics]] mechanisms attempt to address misaligned incentives by creating mathematical frameworks where individual rational behavior automatically contributes to collective welfare through programmable reward distribution. [[Proof of Stake]] consensus demonstrates how economic incentives can secure network infrastructure through individual participation that serves collective security needs.
+[[Tokenomics]] mechanisms attempt to address misaligned incentives by creating mathematical frameworks where individual rational behavior automatically contributes to collective welfare through programmable reward distribution. [[Proof of Stake (PoS)]] consensus demonstrates how economic incentives can secure network infrastructure through individual participation that serves collective security needs.
 
 Regenrative Finance protocols implement what economist Kate Raworth calls "doughnut economics" principles by creating markets for ecosystem services that reward regenerative land use, carbon sequestration, and biodiversity enhancement. Projects including Regen Network and Celo demonstrate technical feasibility of tokenizing environmental benefits while creating economic incentives for ecological restoration.
 
@@ -94,7 +94,7 @@ Regenrative Finance protocols implement what economist Kate Raworth calls "dough
 
 ### Decentralized Autonomous Organizations and Governance Innovation
 
-[[Decentralized Autonomous Organizations]] attempt to solve corporate governance problems by creating transparent, programmable institutions where stakeholder interests can be explicitly encoded in governance mechanisms rather than depending on regulatory oversight or corporate social responsibility commitments.
+[[Decentralized Autonomous Organizations (DAOs)]] attempt to solve corporate governance problems by creating transparent, programmable institutions where stakeholder interests can be explicitly encoded in governance mechanisms rather than depending on regulatory oversight or corporate social responsibility commitments.
 
 [[Conviction Voting]] and other time-weighted governance mechanisms address short-term bias by requiring sustained commitment rather than momentary preferences, potentially filtering out speculative manipulation while enabling passionate minorities to influence outcomes proportional to their sustained engagement with community welfare.
 
@@ -102,7 +102,7 @@ However, DAO implementation faces persistent challenges with governance token co
 
 ### Reputation Systems and Social Coordination
 
-[[Reputation Systems]] enable creation of social coordination mechanisms that reward positive-sum behavior through persistent identity and community feedback, potentially addressing anonymity problems that enable exploitation in traditional markets. Projects including Gitcoin Passport and BrightID attempt to create [[Sybil Resistance]] while preserving privacy.
+[[Reputation Systems]] enable creation of social coordination mechanisms that reward positive-sum behavior through persistent identity and community feedback, potentially addressing anonymity problems that enable exploitation in traditional markets. Projects including Gitcoin Passport and BrightID attempt to create [[sybil resistance]] while preserving privacy.
 
 Social impact measurement through blockchain verification could enable what economist Michael Porter calls "shared value" creation where business success becomes directly linked to measurable community benefits rather than depending on voluntary corporate social responsibility that may conflict with profit maximization.
 
@@ -122,7 +122,7 @@ Regulatory capture risks persist where blockchain systems must interface with tr
 
 The computational requirements for maintaining decentralized consensus create new categories of misaligned incentives where individual transaction costs may be subsidized by environmental externalities from energy consumption, mining hardware production, and electronic waste generation that shift costs to global populations and future generations.
 
-[[Proof of Work]] mining demonstrates how cryptoeconomic security can recreate extractive dynamics where computational competition drives energy consumption that may exceed the social value created by network services, particularly when mining concentrates in regions with cheap but environmentally destructive energy sources.
+[[proof of work (PoW)]] mining demonstrates how cryptoeconomic security can recreate extractive dynamics where computational competition drives energy consumption that may exceed the social value created by network services, particularly when mining concentrates in regions with cheap but environmentally destructive energy sources.
 
 Layer 2 solutions and alternative consensus mechanisms attempt to address scalability challenges while maintaining security properties, but face trade-offs between decentralization, security, and efficiency that may require compromising some values to achieve others.
 
@@ -146,23 +146,23 @@ The resolution of misaligned incentives may represent the most critical challeng
 
 ## Related Concepts
 
-[[Multi-polar Traps]] - Competitive dynamics that lock actors into collectively destructive patterns
+[[multi-polar traps]] - Competitive dynamics that lock actors into collectively destructive patterns
 [[Externalities]] - Economic framework for understanding cost-shifting and market failures
 [[Tragedy of the Commons]] - Classic model of collective action failure due to misaligned incentives
-[[Collective Action Problems]] - Broader category of coordination challenges created by incentive misalignment
+[[Collective Action Problem]] - Broader category of coordination challenges created by incentive misalignment
 [[Free Rider Problem]] - Specific manifestation where individuals benefit without contributing costs
 [[Game Theory]] - Mathematical framework for analyzing strategic interactions and incentive structures
 [[Mechanism Design]] - Applied game theory for creating institutions that align individual and collective interests
 [[Tokenomics]] - Cryptoeconomic approaches to incentive alignment through programmable reward systems
-[[Proof of Stake]] - Consensus mechanism that attempts to align network security with individual economic interests
+[[Proof of Stake (PoS)]] - Consensus mechanism that attempts to align network security with individual economic interests
 [[Quadratic Funding]] - Democratic funding mechanism designed to address public goods under-provision
-[[Decentralized Autonomous Organizations]] - Organizational experiments in programmable governance and incentive alignment
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational experiments in programmable governance and incentive alignment
 [[Reputation Systems]] - Social coordination mechanisms that reward positive-sum behavior through persistent identity
-[[Regulatory Capture]] - Political economy phenomenon where concentrated interests capture regulatory agencies
-[[Economic Centralization]] - Systemic outcome where wealth concentrates among actors skilled at externalizing costs
-[[Meta-crisis]] - Civilizational syndrome where misaligned incentives generate cascading systemic failures
+[[regulatory capture]] - Political economy phenomenon where concentrated interests capture regulatory agencies
+[[economic centralization]] - Systemic outcome where wealth concentrates among actors skilled at externalizing costs
+[[meta-crisis]] - Civilizational syndrome where misaligned incentives generate cascading systemic failures
 [[Vitality, Resilience, Choice]] - Framework for evaluating and designing aligned incentive structures
-[[Environmental Economics]] - Field addressing market failures in environmental resource allocation
+[[environmental economics]] - Field addressing market failures in environmental resource allocation
 [[Behavioral Economics]] - Research on psychological factors that influence responses to incentive structures
-[[Commons Governance]] - Institutional frameworks for managing shared resources without incentive misalignment
-[[Regenerative Economics]] - Economic approaches that align financial success with ecological and social regeneration
+[[commons governance]] - Institutional frameworks for managing shared resources without incentive misalignment
+[[regenerative economics]] - Economic approaches that align financial success with ecological and social regeneration

@@ -39,6 +39,6 @@ Decentralized technologies intersect with AI and ML in multiple ways: blockchain
 - [[Algorithmic Amplification]]
 - [[Behavioral Analytics and Psychological Profiling]]
 - [[Predictive Policing]]
-- [[Content Recommendation Systems]]
+- [[content recommendation systems]]
 - [[Authoritarian Technology]]
 - [[Mass Surveillance]]

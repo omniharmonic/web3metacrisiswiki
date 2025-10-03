@@ -121,9 +121,9 @@ Social media platforms may intensify cultural zero-sum competition by creating w
 
 ### Cryptoeconomic Coordination and Automated Incentive Alignment
 
-[[Blockchain]] systems attempt to transform zero-sum coordination problems into positive-sum cooperation through cryptoeconomic mechanisms that align individual incentives with collective welfare while maintaining transparency and resistance to manipulation.
+[[blockchain]] systems attempt to transform zero-sum coordination problems into positive-sum cooperation through cryptoeconomic mechanisms that align individual incentives with collective welfare while maintaining transparency and resistance to manipulation.
 
-[[Proof of Stake]] consensus mechanisms create positive-sum dynamics where validator success depends on network security and value rather than defeating competitors, implementing what economist Leonid Hurwicz calls "incentive compatibility" through automated reward systems.
+[[Proof of Stake (PoS)]] consensus mechanisms create positive-sum dynamics where validator success depends on network security and value rather than defeating competitors, implementing what economist Leonid Hurwicz calls "incentive compatibility" through automated reward systems.
 
 However, cryptocurrency mining and trading often recreate zero-sum dynamics where computational competition for block rewards and speculative trading create winner-take-all outcomes despite underlying technological potential for positive-sum coordination.
 
@@ -184,12 +184,12 @@ The future of human coordination may depend on developing systems that can harne
 [[Game Theory]] - Mathematical framework for analyzing strategic interactions including zero-sum and positive-sum games
 [[Nash Equilibrium]] - Solution concept for strategic games that may perpetuate zero-sum outcomes despite mutual losses
 [[Prisoner's Dilemma]] - Classic model of cooperation failure despite mutual benefits from collaboration
-[[Multi-polar Traps]] - Competitive dynamics that lock rational actors into collectively destructive patterns
+[[multi-polar traps]] - Competitive dynamics that lock rational actors into collectively destructive patterns
 [[Winner-Take-All Markets]] - Economic environments where small performance differences create large reward differences
 [[Network Effects]] - Economic dynamics that can create monopolistic zero-sum competition despite initial cooperation potential
 [[Positional Goods]] - Resources whose value depends on relative rather than absolute consumption
 [[Arms Race]] - Competitive escalation where defensive preparations trigger counter-preparations indefinitely
-[[Collective Action Problems]] - Coordination challenges where individual rational behavior undermines collective welfare
+[[Collective Action Problem]] - Coordination challenges where individual rational behavior undermines collective welfare
 [[Mechanism Design]] - Economic framework for creating institutions that transform competitive into cooperative dynamics
 [[Public Goods]] - Resources that benefit everyone but may be under-provided due to free-rider problems
 [[Social Dilemmas]] - Situations where individual and collective rationality conflict
@@ -198,7 +198,7 @@ The future of human coordination may depend on developing systems that can harne
 [[Reciprocal Altruism]] - Evolutionary strategy enabling cooperation despite initial competitive pressures
 [[Quadratic Funding]] - Democratic mechanism for public goods funding that creates positive-sum resource allocation
 [[Universal Basic Income]] - Policy proposal for reducing zero-sum labor market competition
-[[Regenerative Economics]] - Economic approaches that align financial success with ecological and social regeneration
+[[regenerative economics]] - Economic approaches that align financial success with ecological and social regeneration
 [[Mutual Aid]] - Collaborative resource sharing based on reciprocity rather than competition
 [[Platform Cooperatives]] - Worker and user-owned digital platforms that distribute rather than concentrate benefits
-[[Commons Governance]] - Institutional frameworks for managing shared resources cooperatively rather than competitively
+[[commons governance]] - Institutional frameworks for managing shared resources cooperatively rather than competitively

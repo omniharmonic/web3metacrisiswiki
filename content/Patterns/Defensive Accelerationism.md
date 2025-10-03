@@ -22,7 +22,7 @@ In Web3 contexts, defensive accelerationism provides a framework for evaluating 
 
 Defensive accelerationism emerges as a strategic response to what Harvard Business School professor Shoshana Zuboff terms "surveillance capitalism" where digital platforms extract behavioral data for predictive analytics that enable unprecedented levels of behavioral modification and social control. The concentration of platform power among a small number of technology corporations creates what political economist Frank Pasquale calls "black box society" where algorithmic decision-making operates beyond democratic oversight or accountability.
 
-The d/acc framework argues that waiting for regulatory solutions to platform dominance may be insufficient given the speed of technological development and the capture of regulatory institutions by incumbent platform interests. Instead, defensive accelerationism advocates for building alternative infrastructure including [[Decentralized Social Networks]], [[Self-Sovereign Identity]] systems, and [[Zero-Knowledge Proofs]] that can provide platform functionality without centralized data collection or algorithmic manipulation.
+The d/acc framework argues that waiting for regulatory solutions to platform dominance may be insufficient given the speed of technological development and the capture of regulatory institutions by incumbent platform interests. Instead, defensive accelerationism advocates for building alternative infrastructure including [[Decentralized Social Networks]], [[self-sovereign identity]] systems, and [[Zero-Knowledge Proofs]] that can provide platform functionality without centralized data collection or algorithmic manipulation.
 
 However, the practical implementation of d/acc principles faces challenges with network effects that favor existing platforms, the technical complexity barriers that may limit adoption of decentralized alternatives, and the resource advantages of established technology corporations that can potentially co-opt or outcompete decentralized innovations.
 
@@ -56,7 +56,7 @@ Yet commons-based innovation faces persistent challenges with free-riding where 
 
 ### Decentralized Finance and Economic Sovereignty
 
-D/acc principles guide the development of [[Decentralized Finance]] protocols that attempt to provide financial services without depending on traditional banking infrastructure that may be subject to censorship, surveillance, or discriminatory access restrictions. [[Automated Market Makers]], [[Lending Protocols]], and [[Synthetic Assets]] represent experiments in programmable money that could potentially reduce dependence on centralized financial institutions.
+D/acc principles guide the development of [[Decentralized Finance (DeFi)]] protocols that attempt to provide financial services without depending on traditional banking infrastructure that may be subject to censorship, surveillance, or discriminatory access restrictions. [[automated market makers (AMMs)]], [[Lending Protocols]], and [[Synthetic Assets]] represent experiments in programmable money that could potentially reduce dependence on centralized financial institutions.
 
 These systems implement what economist Friedrich Hayek calls "denationalization of money" through algorithmic monetary policy rather than central bank control, potentially enabling what legal scholar Lawrence White terms "free banking" where monetary systems emerge through competitive innovation rather than governmental mandate.
 
@@ -66,7 +66,7 @@ However, empirical analysis of DeFi systems reveals persistent challenges with s
 
 Advanced d/acc implementations integrate [[Quadratic Voting]], [[Conviction Voting]], and [[Prediction Markets]] to create governance mechanisms that could potentially enhance democratic participation while resisting capture by wealthy or technically sophisticated actors. These systems experiment with what political scientist James Fishkin calls "deliberative democracy" through technological mechanisms that could scale meaningful participation beyond traditional geographic constraints.
 
-[[Decentralized Autonomous Organizations]] represent attempts to implement what organizational theorist Henry Mintzberg calls "adhocracy" where authority emerges from contribution and expertise rather than hierarchical position or capital ownership. These experiments potentially enable what management theorist Gary Hamel calls "management innovation" that could enhance both organizational effectiveness and democratic participation.
+[[Decentralized Autonomous Organizations (DAOs)]] represent attempts to implement what organizational theorist Henry Mintzberg calls "adhocracy" where authority emerges from contribution and expertise rather than hierarchical position or capital ownership. These experiments potentially enable what management theorist Gary Hamel calls "management innovation" that could enhance both organizational effectiveness and democratic participation.
 
 Yet empirical analysis of DAO governance reveals persistent challenges with low participation rates, the technical complexity barriers that exclude ordinary participants, and the emergence of informal power structures that may concentrate influence despite formally democratic mechanisms.
 
@@ -82,7 +82,7 @@ The challenge is compounded by what usability researcher Jakob Nielsen calls "th
 
 ### Coordination Problems and Network Effects
 
-Defensive accelerationism faces classic [[Coordination Problems]] where the benefits of decentralized alternatives depend on achieving sufficient adoption while individual users face incentives to remain with established platforms that offer superior convenience and network effects. The challenge is particularly acute for communication and social platforms where value depends entirely on network participation.
+Defensive accelerationism faces classic [[Coordination Problem]] where the benefits of decentralized alternatives depend on achieving sufficient adoption while individual users face incentives to remain with established platforms that offer superior convenience and network effects. The challenge is particularly acute for communication and social platforms where value depends entirely on network participation.
 
 The phenomenon reflects what economist Brian Arthur calls "increasing returns" where early adoption advantages compound over time, potentially preventing superior technologies from achieving market success if incumbent platforms maintain user lock-in through data portability restrictions, exclusive content, or superior user experience.
 
@@ -109,17 +109,17 @@ The maturation of defensive accelerationism depends on solving fundamental chall
 ## Related Concepts
 
 [[Accelerationism]] - Broader philosophical framework for engaging with technological change
-[[Technological Sovereignty]] - Community control over technological infrastructure and development
+[[technological sovereignty]] - Community control over technological infrastructure and development
 [[Cryptographic Resistance]] - Technologies that enable coordination despite censorship attempts
 [[Surveillance Capitalism]] - Economic model that d/acc attempts to provide alternatives to
 [[Platform Capture]] - Concentration of digital infrastructure that d/acc seeks to address
-[[Decentralized Autonomous Organizations]] - Governance experiments that implement d/acc principles
+[[Decentralized Autonomous Organizations (DAOs)]] - Governance experiments that implement d/acc principles
 [[Zero-Knowledge Proofs]] - Privacy-preserving technologies essential for d/acc implementation
-[[Self-Sovereign Identity]] - Identity systems that reduce dependence on centralized authorities
-[[Decentralized Finance]] - Financial systems that embody d/acc economic sovereignty principles
+[[self-sovereign identity]] - Identity systems that reduce dependence on centralized authorities
+[[Decentralized Finance (DeFi)]] - Financial systems that embody d/acc economic sovereignty principles
 [[Mesh Networks]] - Communication infrastructure that maintains functionality despite centralized control attempts
 [[Free and Open Source Software]] - Development models that prevent technological capture
 [[Commons-Based Peer Production]] - Innovation models that implement d/acc principles
 [[Democratic Innovation]] - Governance experiments that d/acc technologies may enable
-[[Censorship Resistance]] - Technical property that d/acc systems prioritize
+[[censorship resistance]] - Technical property that d/acc systems prioritize
 [[Algorithmic Transparency]] - Accountability mechanisms for automated decision systems

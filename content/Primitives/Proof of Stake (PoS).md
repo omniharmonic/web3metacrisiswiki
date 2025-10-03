@@ -123,7 +123,7 @@ Slashing = Penalty for Malicious Behavior
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Transaction validation**: Validating smart contract transactions
 - **Network security**: Securing smart contract networks
 - **Immutable records**: Creating immutable contract records
@@ -161,11 +161,11 @@ Slashing = Penalty for Malicious Behavior
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [Ethereum PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/), [Cardano Ouroboros](https://cardano.org/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[distributed consensus]] - Agreement among multiple nodes

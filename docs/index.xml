@@ -6,6 +6,24 @@
       <description>Last 10 notes on Web3 Meta-Crisis Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Decentralized Autonomous Organizations (DAOs)</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</guid>
+    <description><![CDATA[ Definition Decentralized Autonomous Organizations (DAOs) are novel organizational structures that are community-owned and managed, operating on a blockchain according to rules encoded in smart contracts. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:12 GMT</pubDate>
+  </item><item>
+    <title>Tokenization</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</guid>
+    <description><![CDATA[ Tokenization Definition and Economic Theory Tokenization represents the process of converting rights, claims, or assets into programmable digital tokens that can be transferred, traded, and composed within blockchain ecosystems. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 00:41:04 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/</guid>
+    <description><![CDATA[ Web3 and the Generative Dynamics of the Metacrisis A comprehensive analysis of blockchain technology’s potential for addressing systemic civilizational failures 🌟 Primary Document Web3 and the Generative Dynamics of the Metacrisis v04 serves as the foundational analysis examining Web3 technologies ... ]]></description>
+    <pubDate>Thu, 02 Oct 2025 23:30:29 GMT</pubDate>
+  </item><item>
     <title>Democratic Innovation</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Democratic-Innovation</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Democratic-Innovation</guid>
@@ -47,24 +65,6 @@
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Authentication</guid>
     <description><![CDATA[ Authentication Definition and Theoretical Foundations Authentication represents the process of verifying the identity of users, devices, or systems attempting to access resources or perform actions, implementing what computer scientist Butler Lampson calls “identification and authentication” as the ... ]]></description>
     <pubDate>Thu, 02 Oct 2025 22:32:39 GMT</pubDate>
-  </item><item>
-    <title>Accountability</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Accountability</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Accountability</guid>
-    <description><![CDATA[ Accountability Definition and Theoretical Foundations Accountability represents systematic mechanisms that enable individuals, organizations, and systems to be held responsible for their actions, decisions, and outcomes through transparent processes of oversight, evaluation, and consequence enforcem... ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:28:30 GMT</pubDate>
-  </item><item>
-    <title>Access Control</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Access-Control</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Access-Control</guid>
-    <description><![CDATA[ Access Control Definition and Theoretical Foundations Access Control represents systematic mechanisms for determining which entities (users, programs, or processes) can access specific resources and what operations they can perform on those resources. ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:27:07 GMT</pubDate>
-  </item><item>
-    <title>Algorithmic Bias</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Algorithmic-Bias</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Algorithmic-Bias</guid>
-    <description><![CDATA[ Algorithmic Bias Definition and Theoretical Foundations Algorithmic Bias represents systematic and unfair discrimination embedded in automated decision-making systems that disproportionately affects certain groups based on protected characteristics including race, gender, age, socioeconomic status, ... ]]></description>
-    <pubDate>Thu, 02 Oct 2025 22:25:36 GMT</pubDate>
   </item>
     </channel>
   </rss>

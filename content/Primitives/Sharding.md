@@ -114,7 +114,7 @@ Shard Coordination = (Shard State, Cross-Shard Communication)
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Shard management**: Managing shard operations
 - **Cross-shard transactions**: Cross-shard transaction processing
 - **Automation**: Automated shard operations
@@ -152,11 +152,11 @@ Shard Coordination = (Shard State, Cross-Shard Communication)
 
 - **Source Documents**: [[Web3 Primitives]], [[scalability trilemma]]
 - **Technical Resources**: [Ethereum 2.0](https://ethereum.org/en/upgrades/), [Polkadot](https://polkadot.network/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[scalability trilemma]] - The fundamental trade-offs in blockchain design

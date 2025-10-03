@@ -149,7 +149,7 @@ The future of ecosystem services may determine whether human societies can devel
 
 [[Natural Capital]] - Economic framework for valuing ecosystem assets and services
 [[Payment for Ecosystem Services]] - Market mechanisms for compensating ecosystem service providers
-[[Environmental Economics]] - Field addressing market failures in environmental resource allocation
+[[environmental economics]] - Field addressing market failures in environmental resource allocation
 [[Conservation Finance]] - Financial mechanisms and instruments for funding ecosystem protection
 [[Carbon Markets]] - Trading systems for greenhouse gas emission reductions and sequestration
 [[Biodiversity Credits]] - Market-based mechanisms for species and habitat conservation

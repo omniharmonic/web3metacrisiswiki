@@ -80,7 +80,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Decentralized Identity]]
+### [[decentralized identity]]
 - **Privacy-Preserving Identity**: Protecting identity from data misuse
 - **Self-Sovereign Identity**: User control over identity data
 - **Selective Disclosure**: Choosing what to disclose about identity
@@ -189,7 +189,7 @@ aliases:
 
 ## Related Concepts
 
-- [[Decentralized Identity]] - Decentralized identity protection
+- [[decentralized identity]] - Decentralized identity protection
 - [[Privacy Preservation]] - Privacy-preserving data protection
 - [[Zero-Knowledge Proofs]] - Cryptographic foundation for privacy
 - [[Verifiable Credentials]] - Verifiable credential privacy

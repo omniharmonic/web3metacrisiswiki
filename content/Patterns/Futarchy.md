@@ -35,7 +35,7 @@ Yet the specification of measurable objectives involves inherently political cho
 
 ### Decentralized Autonomous Organization Governance
 
-[[Decentralized Autonomous Organizations]] (DAOs) represent the most promising application domain for futarchy implementation through programmable governance mechanisms that can automatically execute policies based on prediction market outcomes. The technical architecture enables global participation in governance markets without geographical constraints while maintaining transparency and auditability through blockchain infrastructure.
+[[Decentralized Autonomous Organizations (DAOs)]] (DAOs) represent the most promising application domain for futarchy implementation through programmable governance mechanisms that can automatically execute policies based on prediction market outcomes. The technical architecture enables global participation in governance markets without geographical constraints while maintaining transparency and auditability through blockchain infrastructure.
 
 Projects like Gnosis and Augur have demonstrated the technical feasibility of decentralized prediction markets, while governance tokens in DAOs provide the financial substrate necessary for meaningful participation in futarchic decision-making. The programmable nature of smart contracts enables sophisticated market designs including conditional markets, combinatorial betting, and automated resolution mechanisms that could enhance the effectiveness of prediction-based governance.
 
@@ -84,7 +84,7 @@ Future developments likely require hybrid approaches that combine market-based i
 ## Related Concepts
 
 [[Prediction Markets]] - Market mechanisms for aggregating information about future events
-[[Decentralized Autonomous Organizations]] - Organizational forms that could implement futarchic governance
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational forms that could implement futarchic governance
 [[Quadratic Voting]] - Alternative democratic mechanism for preference aggregation
 [[Conviction Voting]] - Time-weighted governance that prioritizes committed participation
 [[Mechanism Design]] - Theoretical framework for designing incentive-compatible institutions

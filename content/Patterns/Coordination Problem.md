@@ -10,11 +10,11 @@ aliases:
 
 ## Definition and Theoretical Foundations
 
-**Coordination Problems** represent a fundamental class of strategic challenges where multiple actors share incentives to align their behavior for mutual benefit but lack clear mechanisms to achieve such alignment, resulting in suboptimal outcomes despite the absence of conflicting interests. Distinguished from [[Collective Action Problems]] where individual and collective rationality diverge, coordination problems involve scenarios where all parties prefer the same general outcome but face uncertainty about others' strategies, timing, or preferences that prevents effective coordination.
+**Coordination Problems** represent a fundamental class of strategic challenges where multiple actors share incentives to align their behavior for mutual benefit but lack clear mechanisms to achieve such alignment, resulting in suboptimal outcomes despite the absence of conflicting interests. Distinguished from [[Collective Action Problem]] where individual and collective rationality diverge, coordination problems involve scenarios where all parties prefer the same general outcome but face uncertainty about others' strategies, timing, or preferences that prevents effective coordination.
 
 The theoretical significance of coordination problems extends across multiple disciplines from game theory and economics to sociology and political science, encompassing questions about the emergence of social conventions, the adoption of technological standards, and the formation of institutional arrangements that enable complex social cooperation. Unlike [[Prisoner's Dilemma]] scenarios where participants face genuine conflicts between individual and collective interests, coordination problems represent "win-win" scenarios where the primary challenge lies in achieving alignment rather than overcoming conflicting incentives.
 
-In Web3 contexts, coordination problems are particularly acute due to the permissionless, global, and pseudonymous nature of blockchain networks where traditional coordination mechanisms including central authority, legal enforcement, and social pressure may be unavailable or ineffective. The design of [[Consensus Mechanisms]], [[Governance Tokens]], and [[Decentralized Autonomous Organizations]] must address coordination challenges while maintaining the decentralization properties that distinguish Web3 systems from traditional institutions.
+In Web3 contexts, coordination problems are particularly acute due to the permissionless, global, and pseudonymous nature of blockchain networks where traditional coordination mechanisms including central authority, legal enforcement, and social pressure may be unavailable or ineffective. The design of [[consensus mechanisms]], [[Governance Tokens]], and [[Decentralized Autonomous Organizations (DAOs)]] must address coordination challenges while maintaining the decentralization properties that distinguish Web3 systems from traditional institutions.
 
 ## Game Theoretic Foundations and Strategic Structure
 
@@ -64,7 +64,7 @@ The phenomenon of "DeFi Legos" where financial protocols can be combined in comp
 
 ### Consensus Mechanisms as Coordination Solutions
 
-[[Consensus Mechanisms]] represent sophisticated solutions to coordination problems in distributed systems where participants must agree on system state without central authority. [[Proof of Stake]] systems implement economic incentives that make honest coordination individually rational while [[Slashing]] penalties deter coordinated attacks that could undermine system integrity.
+[[consensus mechanisms]] represent sophisticated solutions to coordination problems in distributed systems where participants must agree on system state without central authority. [[Proof of Stake (PoS)]] systems implement economic incentives that make honest coordination individually rational while [[Slashing]] penalties deter coordinated attacks that could undermine system integrity.
 
 These mechanisms address coordination challenges through what economists call "mechanism design" by creating game-theoretic structures where individual rational behavior produces desired collective outcomes. The challenge lies in designing incentive structures that maintain coordination properties across diverse participant motivations, technical capabilities, and economic circumstances.
 
@@ -129,14 +129,14 @@ The maturation of Web3 coordination mechanisms depends on solving fundamental ch
 [[Nash Equilibrium]] - Solution concept explaining stable outcomes in coordination games
 [[Network Effects]] - Positive feedback dynamics that influence coordination outcomes
 [[Mechanism Design]] - Theoretical framework for creating institutions that solve coordination problems
-[[Consensus Mechanisms]] - Technical solutions to coordination in distributed systems
-[[Proof of Stake]] - Economic coordination mechanism for blockchain network security
+[[consensus mechanisms]] - Technical solutions to coordination in distributed systems
+[[Proof of Stake (PoS)]] - Economic coordination mechanism for blockchain network security
 [[Governance Tokens]] - Voting rights systems that enable democratic coordination
 [[Quadratic Voting]] - Preference aggregation mechanism for addressing coordination challenges
 [[Conviction Voting]] - Time-weighted governance that may improve coordination quality
 [[Holographic Consensus]] - Attention economy management for large-scale coordination
 [[Prediction Markets]] - Information aggregation mechanisms that can enhance coordination
-[[Decentralized Autonomous Organizations]] - Organizational structures for coordinated governance
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures for coordinated governance
 [[Interoperability]] - Technical capacity for coordination across different systems
 [[Path Dependence]] - Historical influence on coordination outcomes and lock-in effects
 [[Social Conventions]] - Informal coordination mechanisms that emerge through repeated interaction

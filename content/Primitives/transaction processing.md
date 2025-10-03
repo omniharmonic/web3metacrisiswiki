@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of transaction processing extends beyond simple record-keeping to encompass fundamental questions about distributed consensus, economic incentives, and the conditions under which global networks can achieve reliable agreement about state transitions despite the presence of malicious actors, network failures, and conflicting economic interests. What economist Friedrich Hayek calls "spontaneous order" becomes technologically implementable through transaction processing systems that coordinate global economic activity without central planning.
 
-In Web3 contexts, transaction processing represents both the foundational infrastructure enabling [[Smart Contracts]], [[Decentralized Finance]], and [[Account Models]] through cryptographically verified state transitions, and persistent challenges with scalability, energy consumption, and MEV extraction that may limit throughput while creating new forms of systemic risk through front-running, sandwich attacks, and network congestion that affect user experience and protocol security.
+In Web3 contexts, transaction processing represents both the foundational infrastructure enabling [[smart contracts]], [[Decentralized Finance (DeFi)]], and [[Account Models]] through cryptographically verified state transitions, and persistent challenges with scalability, energy consumption, and MEV extraction that may limit throughput while creating new forms of systemic risk through front-running, sandwich attacks, and network congestion that affect user experience and protocol security.
 
 ## Computer Science Foundations and Distributed Systems Theory
 
@@ -62,11 +62,11 @@ Gas mechanisms implement what economist Ronald Coase calls "pricing" for computa
 
 ### Consensus Integration and Block Production
 
-Transaction processing integrates with [[Consensus Mechanisms]] where individual transactions are batched into blocks that represent atomic state transitions for the entire network. Miners or validators compete to produce valid blocks while earning rewards for successful block inclusion.
+Transaction processing integrates with [[consensus mechanisms]] where individual transactions are batched into blocks that represent atomic state transitions for the entire network. Miners or validators compete to produce valid blocks while earning rewards for successful block inclusion.
 
-[[Proof of Work]] systems require miners to solve computationally expensive puzzles while including valid transactions, creating what economist Satoshi Nakamoto calls "proof of computational investment" that makes transaction reversal expensive while ensuring that block producers have economic incentives to include legitimate transactions.
+[[proof of work (PoW)]] systems require miners to solve computationally expensive puzzles while including valid transactions, creating what economist Satoshi Nakamoto calls "proof of computational investment" that makes transaction reversal expensive while ensuring that block producers have economic incentives to include legitimate transactions.
 
-[[Proof of Stake]] systems select validators based on token holdings while implementing slashing penalties for malicious behavior, potentially reducing energy consumption while creating economic incentives for honest transaction processing and consensus participation.
+[[Proof of Stake (PoS)]] systems select validators based on token holdings while implementing slashing penalties for malicious behavior, potentially reducing energy consumption while creating economic incentives for honest transaction processing and consensus participation.
 
 ### Finality and Settlement Guarantees
 
@@ -82,7 +82,7 @@ The time-to-finality affects user experience and protocol design where faster se
 
 Blockchain transaction processing faces fundamental scalability constraints where Bitcoin processes approximately 7 transactions per second and Ethereum processes approximately 15 transactions per second, compared to traditional payment systems including Visa that can handle over 65,000 transactions per second during peak periods.
 
-[[Layer 2 Solutions]] including [[State Channels]], [[Optimistic Rollups]], and [[ZK-Rollups]] attempt to increase transaction throughput by processing transactions off-chain while periodically settling on the main blockchain, potentially enabling thousands of transactions per second while maintaining security guarantees.
+[[Layer 2 Solutions]] including [[State Channels]], [[Optimistic rollups]], and [[zk-Rollups]] attempt to increase transaction throughput by processing transactions off-chain while periodically settling on the main blockchain, potentially enabling thousands of transactions per second while maintaining security guarantees.
 
 However, Layer 2 solutions create complexity trade-offs where users must manage assets across multiple networks while bridge protocols that enable cross-layer communication may introduce new security vulnerabilities and user experience challenges.
 
@@ -167,14 +167,14 @@ The maturation of transaction processing technology may determine whether blockc
 ## Related Concepts
 
 [[Digital Signatures]] - Cryptographic mechanisms enabling secure transaction authorization without revealing private keys
-[[Consensus Mechanisms]] - Protocols that enable distributed networks to agree on transaction ordering and validity
+[[consensus mechanisms]] - Protocols that enable distributed networks to agree on transaction ordering and validity
 [[Gas]] - Economic mechanism for pricing computational resources in transaction execution
 [[Mempool]] - Temporary storage for unconfirmed transactions before inclusion in blocks
 [[Block Production]] - Process of batching transactions into blocks for consensus agreement
 [[Transaction Fees]] - Economic incentives paid to miners or validators for transaction inclusion
 [[Finality]] - Property where confirmed transactions cannot be reversed or modified
 [[Account Models]] - Framework for managing user state and transaction authorization
-[[Smart Contracts]] - Programmable logic that processes transactions automatically
+[[smart contracts]] - Programmable logic that processes transactions automatically
 [[Layer 2 Solutions]] - Scaling technologies that process transactions off-chain before settlement
 [[MEV]] - Value that block producers can extract through transaction ordering and timing
 [[Nonce]] - Sequential number preventing transaction replay attacks
@@ -185,8 +185,8 @@ The maturation of transaction processing technology may determine whether blockc
 [[Batching]] - Technique for processing multiple transactions together for efficiency
 [[Transaction Malleability]] - Ability to modify transaction data without affecting validity
 [[Double Spending]] - Attack where same funds are spent multiple times
-[[Front Running]] - MEV extraction through transaction ordering manipulation
-[[Sandwich Attacks]] - MEV strategy exploiting transaction ordering around user transactions
+[[front running]] - MEV extraction through transaction ordering manipulation
+[[sandwich attacks]] - MEV strategy exploiting transaction ordering around user transactions
 [[Flash Loans]] - Single-transaction borrowing and repayment enabled by atomic processing
 [[Cross-Chain Bridges]] - Protocols enabling transaction processing across different networks
 [[Zero-Knowledge Proofs]] - Cryptographic techniques enabling private transaction verification

@@ -35,11 +35,11 @@ Database research develops what computer scientist James Cheney calls "provenanc
 
 ### Cryptographic Timestamping and Immutable Records
 
-[[Blockchain]] systems implement provenance through what cryptographer Stuart Haber calls "digital timestamping" where cryptographic hash functions create tamper-evident records of document existence at specific times while enabling what computer scientist Scott Stornetta calls "distributed trust" without requiring centralized timestamp authorities.
+[[blockchain]] systems implement provenance through what cryptographer Stuart Haber calls "digital timestamping" where cryptographic hash functions create tamper-evident records of document existence at specific times while enabling what computer scientist Scott Stornetta calls "distributed trust" without requiring centralized timestamp authorities.
 
 Cryptographic hashing creates what computer scientist Ralph Merkle calls "digital fingerprints" where any modification to data or metadata produces dramatically different hash values, enabling detection of tampering while creating what cryptographer David Chaum calls "commitment schemes" that prove specific information existed at particular times.
 
-[[Smart Contracts]] enable automated provenance tracking where ownership transfers, transformations, and other relevant events are recorded automatically without requiring manual documentation, potentially addressing what legal scholar Lawrence Lessig calls "code as law" principles through automated verification and enforcement.
+[[smart contracts]] enable automated provenance tracking where ownership transfers, transformations, and other relevant events are recorded automatically without requiring manual documentation, potentially addressing what legal scholar Lawrence Lessig calls "code as law" principles through automated verification and enforcement.
 
 ### Non-Fungible Tokens and Digital Asset Authentication
 
@@ -61,7 +61,7 @@ However, physical asset provenance faces what computer scientist Andy Clark call
 
 ### Digital Identity and Credential Verification
 
-[[Self-Sovereign Identity]] systems implement provenance for personal credentials where individuals maintain verifiable records of educational achievements, professional experience, and identity attributes while controlling disclosure through what cryptographer David Chaum calls "selective disclosure" mechanisms.
+[[self-sovereign identity]] systems implement provenance for personal credentials where individuals maintain verifiable records of educational achievements, professional experience, and identity attributes while controlling disclosure through what cryptographer David Chaum calls "selective disclosure" mechanisms.
 
 [[Verifiable Credentials]] create what computer scientist Christopher Allen calls "proof-of-personhood" systems where identity claims can be verified through cryptographic provenance without requiring centralized identity providers while maintaining what privacy scholar Helen Nissenbaum calls "contextual integrity" through appropriate information boundaries.
 
@@ -149,11 +149,11 @@ The maturation of provenance technologies depends on regulatory clarity, user ed
 
 [[Supply Chain Transparency]] - Application of provenance tracking to goods and materials throughout production and distribution
 [[Digital Identity]] - Identity systems that may incorporate provenance records for credential verification
-[[Self-Sovereign Identity]] - Identity model that includes user-controlled provenance of personal credentials and attributes
+[[self-sovereign identity]] - Identity model that includes user-controlled provenance of personal credentials and attributes
 [[Verifiable Credentials]] - Cryptographically signed credentials with provenance records for independent verification
 [[NFTs]] - Non-fungible tokens that implement blockchain provenance for digital assets and collectibles
-[[Smart Contracts]] - Automated agreements that can implement provenance tracking through programmable execution
-[[Blockchain]] - Technical infrastructure that enables immutable provenance records through distributed consensus
+[[smart contracts]] - Automated agreements that can implement provenance tracking through programmable execution
+[[blockchain]] - Technical infrastructure that enables immutable provenance records through distributed consensus
 [[Cryptographic Timestamping]] - Technical method for proving information existence at specific times
 [[Data Lineage]] - Computer science framework for tracking data sources and transformations
 [[Intellectual Property]] - Legal framework for protecting creative works that may benefit from provenance verification

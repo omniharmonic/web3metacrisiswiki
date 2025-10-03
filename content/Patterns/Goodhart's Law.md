@@ -40,7 +40,7 @@ Causal Goodhart's Law occurs when optimization targets metrics that are correlat
 
 Educational examples include focusing on graduation rates rather than learning outcomes, or healthcare systems that optimize for measurable treatment metrics while neglecting prevention and holistic wellness that may be harder to quantify but more important for patient welfare.
 
-In Web3 contexts, causal Goodhart's Law appears when projects optimize for token holder numbers rather than genuine community engagement, or when [[Decentralized Autonomous Organizations]] focus on governance token distribution without addressing the underlying capacity for effective collective decision-making and coordination.
+In Web3 contexts, causal Goodhart's Law appears when projects optimize for token holder numbers rather than genuine community engagement, or when [[Decentralized Autonomous Organizations (DAOs)]] focus on governance token distribution without addressing the underlying capacity for effective collective decision-making and coordination.
 
 ### Adversarial Goodhart's Law and Strategic Manipulation
 
@@ -58,7 +58,7 @@ Web3 systems face adversarial Goodhart's Law through sophisticated attacks inclu
 
 Common manifestations include "token farming" where participants engage in specified behaviors to earn tokens without genuine commitment to project objectives, governance token concentration among actors who optimize for voting power rather than community representation, and "exit liquidity" strategies where early participants optimize for personal token value extraction rather than long-term project sustainability.
 
-The challenge is compounded by [[Yield Farming]] and [[Liquidity Mining]] systems where temporary incentive programs create behavioral patterns that disappear once rewards end, suggesting that measured participation may not reflect genuine community engagement or project viability.
+The challenge is compounded by [[yield farming]] and [[Liquidity Mining]] systems where temporary incentive programs create behavioral patterns that disappear once rewards end, suggesting that measured participation may not reflect genuine community engagement or project viability.
 
 ### Governance Participation and Democratic Metrics
 

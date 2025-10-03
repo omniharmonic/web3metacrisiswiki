@@ -10,11 +10,11 @@ aliases:
 
 ## Definition and Theoretical Foundations
 
-**Quadratic Funding** represents a sophisticated mathematical mechanism for democratic resource allocation that addresses persistent [[Free Rider Problems]] in [[Public Goods Funding]] by implementing what economists call "constrained liberal" principles through quadratic matching formulas. Developed by economists Glen Weyl, Vitalik Buterin, and Zoë Hitzig in their 2018 paper "Liberal Radicalism," this mechanism attempts to solve the fundamental tension between individual autonomy and collective welfare by creating mathematical frameworks that amplify small donor preferences while limiting plutocratic influence.
+**Quadratic Funding** represents a sophisticated mathematical mechanism for democratic resource allocation that addresses persistent [[Free Rider Problem]] in [[Public Goods Funding]] by implementing what economists call "constrained liberal" principles through quadratic matching formulas. Developed by economists Glen Weyl, Vitalik Buterin, and Zoë Hitzig in their 2018 paper "Liberal Radicalism," this mechanism attempts to solve the fundamental tension between individual autonomy and collective welfare by creating mathematical frameworks that amplify small donor preferences while limiting plutocratic influence.
 
 The theoretical significance of quadratic funding extends far beyond simple resource allocation to encompass fundamental questions about democratic participation, preference aggregation, and the conditions under which voluntary cooperation can achieve efficient outcomes in [[Public Goods]] provision. The mechanism implements what social choice theorists call "optimal auctions" that reveal genuine community preferences rather than wealth-based influence, potentially addressing market failures that have historically required governmental intervention.
 
-In Web3 contexts, quadratic funding represents a core innovation for implementing democratic governance in [[Decentralized Autonomous Organizations]], addressing [[Collective Action Problems]] in open-source development, and creating sustainable economic models for commons-based innovation. However, its effectiveness depends critically on solving technical challenges including Sybil resistance, identity verification, and collusion detection that are amplified in pseudonymous blockchain environments.
+In Web3 contexts, quadratic funding represents a core innovation for implementing democratic governance in [[Decentralized Autonomous Organizations (DAOs)]], addressing [[Collective Action Problem]] in open-source development, and creating sustainable economic models for commons-based innovation. However, its effectiveness depends critically on solving technical challenges including Sybil resistance, identity verification, and collusion detection that are amplified in pseudonymous blockchain environments.
 
 ## Mathematical Foundations and Economic Logic
 
@@ -61,15 +61,15 @@ However, the increased technical complexity creates additional barriers to parti
 
 ### Smart Contract Automation and Transparent Execution
 
-Web3 implementations of quadratic funding leverage [[Smart Contracts]] to automate the complex calculations and distributions required for fair resource allocation while ensuring transparency and verifiability of all funding decisions. This automation potentially reduces administrative costs and increases trust by making funding mechanisms programmatic rather than discretionary.
+Web3 implementations of quadratic funding leverage [[smart contracts]] to automate the complex calculations and distributions required for fair resource allocation while ensuring transparency and verifiability of all funding decisions. This automation potentially reduces administrative costs and increases trust by making funding mechanisms programmatic rather than discretionary.
 
-[[Ethereum Virtual Machine]] implementations enable complex quadratic funding calculations to be executed automatically with guaranteed correctness, while blockchain storage ensures permanent records of all contributions and allocations. The transparency enables community auditing of funding decisions while the immutability prevents post-hoc manipulation of outcomes.
+[[Ethereum Virtual Machine (EVM)]] implementations enable complex quadratic funding calculations to be executed automatically with guaranteed correctness, while blockchain storage ensures permanent records of all contributions and allocations. The transparency enables community auditing of funding decisions while the immutability prevents post-hoc manipulation of outcomes.
 
 However, smart contract implementation introduces new categories of risk including coding errors, gas cost optimization that may bias toward simple over complex allocation formulas, and the difficulty of upgrading funding mechanisms as communities learn from experience and wish to improve their systems.
 
 ### Integration with DAO Governance and Token Economics
 
-Advanced implementations integrate quadratic funding with broader [[Decentralized Autonomous Organizations]] governance systems, creating coherent frameworks where communities can express preferences through [[Quadratic Voting]], allocate resources through quadratic funding, and track outcomes through transparent on-chain metrics.
+Advanced implementations integrate quadratic funding with broader [[Decentralized Autonomous Organizations (DAOs)]] governance systems, creating coherent frameworks where communities can express preferences through [[Quadratic Voting]], allocate resources through quadratic funding, and track outcomes through transparent on-chain metrics.
 
 [[Governance Tokens]] may be integrated with quadratic funding mechanisms to create additional incentive alignment where successful public goods funding increases token value, potentially creating sustainable business models for community-controlled organizations. This integration could address the traditional challenge that public goods provision benefits free riders more than contributors.
 
@@ -91,7 +91,7 @@ Quadratic funding faces persistent challenges with collusion where participants 
 
 The mathematical properties of quadratic funding make it particularly vulnerable to what economists call "vote buying" where project organizers compensate contributors for their participation, effectively converting small contributions from many people into large contributions from wealthy actors channeled through multiple identities. The quadratic formula amplifies this manipulation by providing higher returns to many small contributions than equivalent large contributions.
 
-Cryptographic solutions including [[MACI]] and zero-knowledge proofs can prevent some forms of verifiable vote buying but may not address more sophisticated forms of social coordination or implicit collusion through community dynamics and social pressure.
+Cryptographic solutions including [[MACI (Minimal Anti-Collusion Infrastructure)]] and zero-knowledge proofs can prevent some forms of verifiable vote buying but may not address more sophisticated forms of social coordination or implicit collusion through community dynamics and social pressure.
 
 ### Measurement Paradoxes and Value Quantification
 
@@ -120,11 +120,11 @@ The maturation of quadratic funding depends on solving fundamental challenges in
 [[Free Rider Problem]] - Market failure that quadratic funding attempts to address through mathematical innovation
 [[Collective Action Problem]] - Coordination challenges in voluntary cooperation that quadratic funding may help solve
 [[Gitcoin]] - Leading platform implementing quadratic funding for open-source and public goods projects
-[[Decentralized Autonomous Organizations]] - Organizational structures that may implement quadratic funding for resource allocation
-[[Smart Contracts]] - Technical infrastructure enabling automated quadratic funding implementation
-[[Sybil Resistance]] - Security property required for effective quadratic funding implementation
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that may implement quadratic funding for resource allocation
+[[smart contracts]] - Technical infrastructure enabling automated quadratic funding implementation
+[[sybil resistance]] - Security property required for effective quadratic funding implementation
 [[Game Theory]] - Mathematical framework for analyzing strategic behavior in funding mechanisms
 [[Nash Equilibrium]] - Stable outcomes in quadratic funding participation strategies
 [[Governance Tokens]] - Voting rights mechanisms that may integrate with quadratic funding systems
 [[Zero-Knowledge Proofs]] - Cryptographic techniques for privacy-preserving participation in funding mechanisms
-[[MACI]] - Minimal Anti-Collusion Infrastructure for secure voting and funding systems
+[[MACI (Minimal Anti-Collusion Infrastructure)]] - Minimal Anti-Collusion Infrastructure for secure voting and funding systems

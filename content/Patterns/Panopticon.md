@@ -11,7 +11,7 @@ aliases:
 
 The theoretical significance of the panopticon extends beyond physical architecture to encompass what Foucault calls "disciplinary society" where surveillance becomes a pervasive form of social control that operates through self-regulation rather than external force. This creates what sociologist Zygmunt Bauman calls "liquid surveillance" where monitoring becomes fluid, ubiquitous, and largely invisible while maintaining its disciplinary effects through uncertainty about when and where observation occurs.
 
-In Web3 contexts, the panopticon represents both a systemic risk where blockchain transparency, [[On-Chain Analytics]], and digital identity systems could enable unprecedented surveillance capabilities that undermine privacy and autonomy, and an opportunity for developing [[Privacy-Preserving Technologies]], [[Decentralized Identity]], and [[Zero-Knowledge Proofs]] that could resist panopticon surveillance while maintaining the benefits of transparent and verifiable systems.
+In Web3 contexts, the panopticon represents both a systemic risk where blockchain transparency, [[On-Chain Analytics]], and digital identity systems could enable unprecedented surveillance capabilities that undermine privacy and autonomy, and an opportunity for developing [[Privacy-Preserving Technologies]], [[decentralized identity]], and [[Zero-Knowledge Proofs]] that could resist panopticon surveillance while maintaining the benefits of transparent and verifiable systems.
 
 ## Historical Development and Foucauldian Analysis
 
@@ -61,7 +61,7 @@ The immutability and transparency of blockchain systems create what legal schola
 
 [[Digital Identity]] systems in Web3 contexts risk creating what computer scientist Ann Cavoukian calls "privacy-invasive by design" architectures where identity verification requirements enable comprehensive tracking of online behavior across platforms and applications while users may not understand the surveillance implications of identity disclosure.
 
-[[Decentralized Autonomous Organizations]] may inadvertently create panopticon effects where governance participation, token holdings, and community interactions become permanently recorded and analyzable, potentially enabling what political scientist James C. Scott calls "legibility" projects where communities become transparent to external analysis and control.
+[[Decentralized Autonomous Organizations (DAOs)]] may inadvertently create panopticon effects where governance participation, token holdings, and community interactions become permanently recorded and analyzable, potentially enabling what political scientist James C. Scott calls "legibility" projects where communities become transparent to external analysis and control.
 
 The integration of biometric authentication, behavioral analytics, and cross-platform tracking in Web3 systems could create what privacy scholar Ann Cavoukian calls "function creep" where identity systems designed for specific purposes expand to enable comprehensive surveillance and social control.
 
@@ -93,7 +93,7 @@ Yet privacy coins face regulatory pressure and exchange delisting that may limit
 
 ### Decentralized Identity and Self-Sovereign Control
 
-[[Self-Sovereign Identity]] systems attempt to enable what computer scientist Christopher Allen calls "user agency" where individuals control their identity information and can selectively disclose attributes without enabling comprehensive surveillance or behavioral tracking by identity providers or verifiers.
+[[self-sovereign identity]] systems attempt to enable what computer scientist Christopher Allen calls "user agency" where individuals control their identity information and can selectively disclose attributes without enabling comprehensive surveillance or behavioral tracking by identity providers or verifiers.
 
 [[Verifiable Credentials]] could enable what privacy scholar Ann Cavoukian calls "privacy by design" where identity verification serves legitimate purposes without creating the comprehensive behavioral records that enable panopticon surveillance while maintaining the trust and verification benefits of centralized identity systems.
 
@@ -160,9 +160,9 @@ The long-term resistance to panopticon surveillance depends on maintaining democ
 [[Digital Identity]] - Identity systems that may enable comprehensive behavioral tracking and social control
 [[Privacy Preservation]] - Technologies and practices designed to protect personal information from surveillance
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that enable verification without revealing sensitive information
-[[Self-Sovereign Identity]] - Identity model where individuals control their personal data and disclosure
+[[self-sovereign identity]] - Identity model where individuals control their personal data and disclosure
 [[On-Chain Analytics]] - Blockchain analysis techniques that enable financial surveillance and behavioral tracking
-[[Decentralized Identity]] - Identity systems that distribute control rather than depending on centralized authorities
+[[decentralized identity]] - Identity systems that distribute control rather than depending on centralized authorities
 [[Privacy Coins]] - Cryptocurrencies designed to provide transaction privacy and resist financial surveillance
 [[Reputation Systems]] - Social mechanisms for tracking behavior that may implement panopticon-like surveillance
 [[Social Credit Systems]] - Government systems that score citizen behavior based on comprehensive surveillance

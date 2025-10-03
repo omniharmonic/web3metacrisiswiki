@@ -76,7 +76,7 @@ However, the security vulnerabilities in Internet of Things devices create what 
 
 Web3 technologies attempt to address mass surveillance through [[Zero-Knowledge Proofs]] that enable verification of credentials, transactions, and identities without revealing the underlying personal information that surveillance systems extract and correlate. These systems implement what cryptographer David Chaum calls "privacy by design" where mathematical protocols prevent surveillance rather than relying on policy restrictions that may be changed or circumvented.
 
-[[Self-Sovereign Identity]] systems potentially enable what computer scientist Tim Berners-Lee calls "data sovereignty" where individuals maintain control over their personal information while participating in digital services, potentially addressing the fundamental power asymmetry where surveillance capitalism platforms extract user data as a condition of service access.
+[[self-sovereign identity]] systems potentially enable what computer scientist Tim Berners-Lee calls "data sovereignty" where individuals maintain control over their personal information while participating in digital services, potentially addressing the fundamental power asymmetry where surveillance capitalism platforms extract user data as a condition of service access.
 
 However, the technical complexity of zero-knowledge systems creates adoption barriers while the network effects that enable surveillance capitalism may limit the practical impact of privacy-preserving alternatives that cannot achieve sufficient user adoption to compete with surveilling platforms that offer superior convenience and functionality.
 
@@ -138,13 +138,13 @@ The transformation of surveillance systems depends on building broad-based coali
 [[Panopticon]] - Theoretical framework for understanding surveillance's behavioral modification effects
 [[Privacy Preservation]] - Technical and institutional approaches to protecting privacy from surveillance
 [[Zero-Knowledge Proofs]] - Cryptographic technologies that enable verification without data revelation
-[[Self-Sovereign Identity]] - Identity systems that resist centralized surveillance and control
+[[self-sovereign identity]] - Identity systems that resist centralized surveillance and control
 [[Decentralized Social Networks]] - Communication platforms designed to resist surveillance and censorship
-[[Censorship Resistance]] - Technical properties that prevent information control and monitoring
+[[censorship resistance]] - Technical properties that prevent information control and monitoring
 [[Cryptographic Resistance]] - Use of cryptography to resist state and corporate surveillance
 [[Digital Rights]] - Legal frameworks for protecting privacy and autonomy in digital environments
 [[Authoritarian Technology]] - Technologies designed to concentrate power and enable social control
-[[Regulatory Capture]] - Political process where surveillance interests influence policy and law
+[[regulatory capture]] - Political process where surveillance interests influence policy and law
 [[Chilling Effects]] - Behavioral modification caused by surveillance possibility
 [[Algorithmic Authority]] - Power exercised through automated decision-making systems
 [[Turnkey Tyranny]] - Surveillance infrastructure that can be rapidly weaponized for authoritarian control

@@ -40,5 +40,5 @@ Decentralized technologies offer both opportunities and threats regarding behavi
 - [[Engagement Optimization]]
 - [[Microtargeting and Personalized Manipulation]]
 - [[Cognitive Biases]]
-- [[Social Proof]]
+- [[social proof]]
 - [[Attention Economy]]

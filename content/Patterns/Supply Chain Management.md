@@ -58,10 +58,10 @@ Technology will play important roles in enabling these transformations through i
 
 ## Related Concepts
 
-- [[Regenerative Economics]]
+- [[regenerative economics]]
 - [[Environmental Externalities]]
 - [[Internalizing Externalities]]
-- [[Technological Sovereignty]]
+- [[technological sovereignty]]
 - [[Global Trade and Coordination]]
 - [[Circular Economy]]
 - [[Local Production Networks]]

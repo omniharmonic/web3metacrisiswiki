@@ -58,7 +58,7 @@ However, the relationship between algorithmic amplification and misinformation s
 
 Web3 platforms attempt to address algorithmic amplification problems through transparent, user-controlled content distribution systems where recommendation algorithms operate through open-source code and community governance rather than proprietary optimization for platform business objectives. [[Decentralized Social Networks]] including Mastodon, Lens Protocol, and Farcaster implement what computer scientist Tim Berners-Lee calls "data sovereignty" where users control their content distribution preferences rather than being subject to platform algorithm decisions.
 
-[[Blockchain]]-based content distribution systems potentially enable what cryptographer David Chaum calls "verifiable algorithms" where content amplification decisions can be audited and verified by community members rather than operating through proprietary "black box" systems that prioritize platform revenue over user welfare or democratic values.
+[[blockchain]]-based content distribution systems potentially enable what cryptographer David Chaum calls "verifiable algorithms" where content amplification decisions can be audited and verified by community members rather than operating through proprietary "black box" systems that prioritize platform revenue over user welfare or democratic values.
 
 However, the technical complexity of meaningful algorithm transparency may exceed most users' capacity for informed evaluation while community governance of content amplification faces coordination challenges and the potential for governance capture by technically sophisticated or economically privileged participants.
 
@@ -66,7 +66,7 @@ However, the technical complexity of meaningful algorithm transparency may excee
 
 Web3 systems experiment with [[Tokenomics]] mechanisms that attempt to align content curation incentives with community welfare rather than platform profit maximization through token rewards for high-quality content creation and curation that serves community values. [[Quadratic Funding]] and similar mechanisms attempt to amplify content based on broad community support rather than engagement optimization that may prioritize divisive or emotionally manipulative content.
 
-[[Decentralized Autonomous Organizations]] represent experiments in community-controlled content curation where governance decisions about amplification policies emerge from democratic participation rather than corporate boardrooms or algorithmic optimization systems designed to maximize advertisement revenue and user engagement metrics.
+[[Decentralized Autonomous Organizations (DAOs)]] represent experiments in community-controlled content curation where governance decisions about amplification policies emerge from democratic participation rather than corporate boardrooms or algorithmic optimization systems designed to maximize advertisement revenue and user engagement metrics.
 
 Yet token-based curation systems face persistent challenges with speculation that may overwhelm productive use cases, governance token concentration that recreates rather than solves platform power dynamics, and the difficulty of encoding complex social values including truth, democratic discourse quality, and community welfare into algorithmic systems that can operate at scale.
 
@@ -74,7 +74,7 @@ Yet token-based curation systems face persistent challenges with speculation tha
 
 Advanced Web3 platforms integrate reputation systems that attempt to weight content amplification based on contributor credibility and community trust rather than engagement metrics that may be manipulated by bad actors or gaming strategies. These systems implement what computer scientist Paul Resnick calls "reputation capital" where past behavior influences current amplification opportunities.
 
-[[Proof of Personhood]] protocols and [[Decentralized Identity]] systems potentially address Sybil attacks and astroturfing by creating cryptographic verification that content comes from unique individuals rather than bot networks or coordinated inauthentic behavior, implementing what cryptographer Bryan Ford calls "proof of human uniqueness" without compromising privacy or enabling surveillance.
+[[Proof of Personhood]] protocols and [[decentralized identity]] systems potentially address Sybil attacks and astroturfing by creating cryptographic verification that content comes from unique individuals rather than bot networks or coordinated inauthentic behavior, implementing what cryptographer Bryan Ford calls "proof of human uniqueness" without compromising privacy or enabling surveillance.
 
 However, reputation systems face fundamental challenges with subjective evaluation criteria, the potential for reputation manipulation through sophisticated gaming strategies, and the concentration of reputation among early adopters or technically sophisticated participants who may not represent broader community values or interests.
 
@@ -117,7 +117,7 @@ The transformation of algorithmic amplification systems depends on building broa
 ## Related Concepts
 
 [[Surveillance Capitalism]] - Economic system that creates incentives for algorithmic amplification through attention capture
-[[Filter Bubbles]] - Information isolation effects created by algorithmic content personalization
+[[filter bubbles]] - Information isolation effects created by algorithmic content personalization
 [[Echo Chambers]] - Social reinforcement dynamics amplified through algorithmic recommendation systems
 [[Computational Propaganda]] - Political manipulation through algorithmic amplification of coordinated messaging
 [[Engagement Optimization]] - Platform business model that prioritizes user attention capture over content quality

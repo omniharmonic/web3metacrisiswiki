@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of contribution-based governance extends beyond simple meritocracy to encompass fundamental questions about democratic legitimacy, the measurement of social value, and the conditions under which differential political rights may be justified while maintaining principles of fairness and inclusion. What political philosopher John Stuart Mill calls "plural voting" based on education and contribution finds contemporary expression through technological systems that can track and verify individual contributions to collective endeavors with unprecedented precision and transparency.
 
-In Web3 contexts, governance rights based on contribution represent both an opportunity for creating more responsive and effective democratic institutions through [[Reputation Systems]], [[Governance Tokens]], and [[Decentralized Autonomous Organizations]] that reward genuine participation and value creation, and a challenge where technical complexity, contribution measurement difficulties, and the potential for gaming may recreate rather than solve problems of political inequality and exclusion through apparently meritocratic mechanisms.
+In Web3 contexts, governance rights based on contribution represent both an opportunity for creating more responsive and effective democratic institutions through [[Reputation Systems]], [[Governance Tokens]], and [[Decentralized Autonomous Organizations (DAOs)]] that reward genuine participation and value creation, and a challenge where technical complexity, contribution measurement difficulties, and the potential for gaming may recreate rather than solve problems of political inequality and exclusion through apparently meritocratic mechanisms.
 
 ## Historical Precedents and Theoretical Development
 
@@ -46,7 +46,7 @@ Multi-token governance systems can recognize different types of contributions th
 
 ### Proof of Contribution and Verification Mechanisms
 
-[[Smart Contracts]] can automate contribution verification and governance right allocation through deterministic rules that evaluate code commits, documentation improvements, community moderation, dispute resolution, and other measurable activities that contribute to project success while reducing discretionary interpretation that may enable bias or manipulation.
+[[smart contracts]] can automate contribution verification and governance right allocation through deterministic rules that evaluate code commits, documentation improvements, community moderation, dispute resolution, and other measurable activities that contribute to project success while reducing discretionary interpretation that may enable bias or manipulation.
 
 [[Cryptographic Proofs]] including commit signatures, time-stamped contributions, and peer attestations can create tamper-resistant records of individual contributions that enable transparent evaluation of governance right allocation while preventing retroactive manipulation of contribution claims.
 
@@ -72,7 +72,7 @@ GitHub and GitLab provide technical infrastructure for tracking and recognizing 
 
 ### Decentralized Autonomous Organizations and Community Governance
 
-[[Decentralized Autonomous Organizations]] including MakerDAO, Compound, and Gitcoin implement various approaches to contribution-based governance where token allocation reflects different types of community contributions including technical development, governance participation, and protocol usage while facing ongoing challenges with plutocratic concentration and low participation rates.
+[[Decentralized Autonomous Organizations (DAOs)]] including MakerDAO, Compound, and Gitcoin implement various approaches to contribution-based governance where token allocation reflects different types of community contributions including technical development, governance participation, and protocol usage while facing ongoing challenges with plutocratic concentration and low participation rates.
 
 Gitcoin's quadratic funding mechanism demonstrates how contribution-based allocation can be combined with democratic amplification where community preferences determine funding allocation while individual contributions determine participation weights, potentially enabling both expertise recognition and democratic legitimacy.
 
@@ -152,10 +152,10 @@ The maturation of contribution-based governance requires ongoing experimentation
 
 [[Governance Tokens]] - Cryptocurrency tokens that grant voting rights and decision-making authority
 [[Reputation Systems]] - Mechanisms for tracking and recognizing community contributions and trustworthiness
-[[Decentralized Autonomous Organizations]] - Community-governed organizations that may implement contribution-based governance
+[[Decentralized Autonomous Organizations (DAOs)]] - Community-governed organizations that may implement contribution-based governance
 [[Quadratic Voting]] - Democratic mechanism that enables preference intensity expression while preventing plutocracy
 [[Conviction Voting]] - Governance mechanism that rewards sustained commitment and long-term thinking
-[[Proof of Stake]] - Blockchain consensus mechanism where validation rights are based on financial stake
+[[Proof of Stake (PoS)]] - Blockchain consensus mechanism where validation rights are based on financial stake
 [[Merit-Based Systems]] - Allocation mechanisms based on demonstrated ability and contribution
 [[Participatory Democracy]] - Democratic approaches that emphasize direct citizen participation in governance
 [[Deliberative Democracy]] - Democratic theory emphasizing informed discussion and collective reasoning

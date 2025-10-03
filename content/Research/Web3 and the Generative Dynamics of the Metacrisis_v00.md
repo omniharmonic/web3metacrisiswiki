@@ -80,7 +80,7 @@ The Third Attractor framework provides a lens for evaluating whether specific in
 
 ### Web3 Technologies as Potential Technological Substrate
 
-Web3 technologies—encompassing [[blockchain]] networks, [[content/Primitives/smart contracts]], [[decentralized applications (dApps)]], [[cryptographic protocols]], and [[distributed governance]] mechanisms—have emerged as potential technological substrates for addressing the [[meta-crisis]] through novel coordination mechanisms that could enable movement toward the [[Third Attractor]]. The term "Web3" itself represents the third generation of internet architecture, following Web1's static information sharing and Web2's interactive but centralized platforms.
+Web3 technologies—encompassing [[blockchain]] networks, [[smart contracts]], [[decentralized applications (dApps)]], [[cryptographic protocols]], and [[distributed governance]] mechanisms—have emerged as potential technological substrates for addressing the [[meta-crisis]] through novel coordination mechanisms that could enable movement toward the [[Third Attractor]]. The term "Web3" itself represents the third generation of internet architecture, following Web1's static information sharing and Web2's interactive but centralized platforms.
 
 **Foundational Technological Paradigm Shift**
 
@@ -98,7 +98,7 @@ These cryptographic primitives collectively enable the creation of systems where
 
 The resilience properties of decentralized infrastructure stem from redundancy, geographic distribution, and economic incentives that align individual and collective interests. Unlike centralized systems where single points of failure can compromise entire networks, decentralized systems degrade gracefully and can continue operating even when significant portions are compromised or offline.
 
-**[[Programmable Incentives]]** enable the creation of economic mechanisms that reward prosocial behavior and punish harmful actions through automated [[content/Primitives/smart contracts]] and [[tokenization]]. [[content/Primitives/smart contracts]] can automatically execute agreements based on verifiable conditions, reducing the need for trusted intermediaries. [[tokenization]] systems can create economic incentives for desired behaviors, from contributing to public goods to maintaining network infrastructure.
+**[[Programmable Incentives]]** enable the creation of economic mechanisms that reward prosocial behavior and punish harmful actions through automated [[smart contracts]] and [[tokenization]]. [[smart contracts]] can automatically execute agreements based on verifiable conditions, reducing the need for trusted intermediaries. [[tokenization]] systems can create economic incentives for desired behaviors, from contributing to public goods to maintaining network infrastructure.
 
 These programmable incentive systems can potentially address the [[misaligned incentives]] that drive many components of the [[meta-crisis]]. By making prosocial behavior economically rational and harmful behavior economically costly, Web3 systems could help align individual incentives with collective welfare in ways that traditional institutions have struggled to achieve.
 
@@ -106,7 +106,7 @@ These programmable incentive systems can potentially address the [[misaligned in
 
 This immutability property has important implications for addressing problems like [[regulatory capture]] and corruption, where powerful actors may attempt to suppress or alter inconvenient records. Immutable records can preserve evidence of wrongdoing and enable accountability mechanisms that resist institutional capture.
 
-**[[Composability]] and [[Interoperability]]** enable different Web3 systems to interact and build upon each other, creating network effects and emergent capabilities that exceed the sum of individual components. [[content/Primitives/smart contracts]] can call other [[content/Primitives/smart contracts]], tokens can be used across multiple applications, and data can be shared between different protocols. This [[Composability]] enables rapid innovation and experimentation with new coordination mechanisms.
+**[[Composability]] and [[Interoperability]]** enable different Web3 systems to interact and build upon each other, creating network effects and emergent capabilities that exceed the sum of individual components. [[smart contracts]] can call other [[smart contracts]], tokens can be used across multiple applications, and data can be shared between different protocols. This [[Composability]] enables rapid innovation and experimentation with new coordination mechanisms.
 
 **Critical Limitations and Contested Claims**
 
@@ -348,7 +348,7 @@ The proposed decentralized regulatory networks would integrate multiple Web3 pri
 
 **[[blockchain]] infrastructure**: Multiple blockchain networks would provide the foundational infrastructure for immutable record-keeping, smart contract execution, and cross-jurisdictional coordination. Interoperability protocols would enable communication between different blockchain networks while maintaining security and decentralization.
 
-**[[content/Primitives/smart contracts]] systems**: Advanced smart contract platforms would implement regulatory logic, automate compliance monitoring, and facilitate coordination between different system components. Formal verification techniques would ensure contract correctness and security.
+**[[smart contracts]] systems**: Advanced smart contract platforms would implement regulatory logic, automate compliance monitoring, and facilitate coordination between different system components. Formal verification techniques would ensure contract correctness and security.
 
 **[[decentralized storage networks]]**: IPFS and other distributed storage systems would provide censorship-resistant storage for regulatory documents, evidence, and historical records. Content addressing would ensure document integrity while distributed replication would prevent single points of failure.
 
@@ -986,7 +986,7 @@ Maximal Extractable Value ([[MEV]]) attacks exploit the ability of block produce
 
 These limitations prevent many applications from achieving mainstream adoption and create barriers to entry for users who cannot afford high transaction fees. Layer 2 solutions attempt to address these issues but often involve trade-offs in decentralization or security.
 
-#### 2.1.2 [[content/Primitives/smart contracts]]: Programmable Agreements and Automated Execution
+#### 2.1.2 [[smart contracts]]: Programmable Agreements and Automated Execution
 
 Smart contracts represent one of the most significant innovations in blockchain technology, providing the ability to create self-executing agreements with the terms directly written into code. This capability enables automation of complex processes, elimination of intermediaries, and creation of trustless systems where participants can coordinate without requiring mutual trust.
 

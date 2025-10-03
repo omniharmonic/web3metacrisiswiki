@@ -30,7 +30,7 @@ Web3 technical building blocks and protocols:
 
 **Core Infrastructure:**
 - [[Ethereum Virtual Machine (EVM)]] - Core execution environment
-- [[content/Primitives/smart contracts]] - Programmable logic layer
+- [[smart contracts]] - Programmable logic layer
 - [[Account Models]] - User interaction foundation
 - [[Composability]] - Interoperability and modularity
 
@@ -196,7 +196,7 @@ Web3 technologies offer unique affordances for the Third Attractor:
 
 - **Coordination without capture** - [[distributed consensus]] mechanisms
 - **Privacy-preserving verification** - [[zero knowledge proof (ZKP)]]
-- **Programmable incentives** - [[content/Primitives/smart contracts]] encoding prosocial logic
+- **Programmable incentives** - [[smart contracts]] encoding prosocial logic
 - **Decentralized governance** - [[Decentralized Autonomous Organizations (DAOs)]] and distributed decision-making
 
 ## 📊 Statistics

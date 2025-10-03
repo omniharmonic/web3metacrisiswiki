@@ -82,7 +82,7 @@ aliases:
 
 ## Applications in Web3
 
-### [[Decentralized Exchanges]]
+### [[decentralized exchanges]]
 - **Decentralized DEX**: DEX in decentralized systems
 - **User Control**: User control over DEX
 - **Transparency**: Transparent DEX processes

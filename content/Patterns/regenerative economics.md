@@ -116,7 +116,7 @@ Yet DAO governance faces persistent challenges with participation inequality, go
 
 Platforms including Gitcoin, Giveth, and various ecosystem-specific funding mechanisms demonstrate how mathematical approaches to democratic funding can support regenerative projects while creating positive-sum dynamics where contributing to public goods generates broader ecosystem value.
 
-However, quadratic mechanisms face challenges with [[Sybil Resistance]], collusion detection, and the technical sophistication required for meaningful participation while potentially excluding communities that lack technical resources despite being most affected by environmental and social challenges.
+However, quadratic mechanisms face challenges with [[sybil resistance]], collusion detection, and the technical sophistication required for meaningful participation while potentially excluding communities that lack technical resources despite being most affected by environmental and social challenges.
 
 ## Contemporary Applications and Case Studies
 
@@ -192,7 +192,7 @@ The future of regenerative economics may depend on successful demonstration proj
 [[Platform Cooperatives]] - Worker and user-owned digital platforms implementing cooperative governance
 [[Impact Investing]] - Investment approach seeking positive social and environmental outcomes alongside financial returns
 [[Bioregionalism]] - Economic and social organization based on natural ecological boundaries
-[[Commons Governance]] - Institutional frameworks for managing shared resources democratically
+[[commons governance]] - Institutional frameworks for managing shared resources democratically
 [[Regenerative Agriculture]] - Farming practices that restore soil health and ecosystem functions
 [[Community Development Finance]] - Financial institutions serving community economic development needs
 [[Social Enterprise]] - Business models combining commercial activity with social and environmental mission

@@ -35,7 +35,7 @@ Furthermore, communities exist within broader ecological and social systems that
 
 ### Cryptographic Self-Sovereignty and Data Autonomy
 
-Blockchain technologies enable novel forms of individual choice through cryptographic self-sovereignty that allows users to control their digital identity, assets, and data without dependence on centralized institutions. [[Self-Sovereign Identity]] systems provide individuals with cryptographic control over their personal information, enabling selective disclosure and revocation of access without requiring permission from data custodians.
+Blockchain technologies enable novel forms of individual choice through cryptographic self-sovereignty that allows users to control their digital identity, assets, and data without dependence on centralized institutions. [[self-sovereign identity]] systems provide individuals with cryptographic control over their personal information, enabling selective disclosure and revocation of access without requiring permission from data custodians.
 
 The technical implementation operates through public-key cryptography that enables users to prove ownership and authorize transactions without revealing private keys or sensitive information to third parties. This creates what researchers term "bearer instruments" for digital rights that cannot be confiscated or censored by external authorities, fundamentally altering the relationship between individuals and institutional power.
 
@@ -43,7 +43,7 @@ However, the practical implementation of cryptographic self-sovereignty requires
 
 ### Decentralized Governance and Participatory Decision-Making
 
-[[Decentralized Autonomous Organizations]] (DAOs) represent experiments in collective choice architecture that enable global coordination without traditional hierarchical authority structures. These systems implement governance mechanisms including token-based voting, proposal systems, and execution mechanisms that theoretically enable democratic participation by all stakeholders in organizational decision-making.
+[[Decentralized Autonomous Organizations (DAOs)]] (DAOs) represent experiments in collective choice architecture that enable global coordination without traditional hierarchical authority structures. These systems implement governance mechanisms including token-based voting, proposal systems, and execution mechanisms that theoretically enable democratic participation by all stakeholders in organizational decision-making.
 
 The technical architecture typically involves smart contracts that encode governance rules, treasury management, and proposal execution in immutable code that cannot be manipulated by centralized authorities. This creates possibilities for truly democratic organizations where decision-making power is distributed according to stake, contribution, or other programmable criteria rather than concentrated in executive authorities.
 
@@ -95,11 +95,11 @@ Future developments likely require more sophisticated understanding of the relat
 
 [[Vitality]] - Complementary capacity for generative growth that enables meaningful choice
 [[Resilience]] - System robustness that preserves choice options during disruption
-[[Self-Sovereign Identity]] - Cryptographic foundations for individual data autonomy
-[[Decentralized Autonomous Organizations]] - Collective choice architectures and governance mechanisms
+[[self-sovereign identity]] - Cryptographic foundations for individual data autonomy
+[[Decentralized Autonomous Organizations (DAOs)]] - Collective choice architectures and governance mechanisms
 [[Quadratic Voting]] - Democratic mechanisms for expressing preference intensity
 [[Conviction Voting]] - Time-weighted decision-making that reflects commitment depth
 [[Economic Pluralism]] - Alternative value systems beyond market mechanisms
-[[Polycentric Governance]] - Distributed authority structures preserving local autonomy
+[[polycentric governance]] - Distributed authority structures preserving local autonomy
 [[Libertarian Paternalism]] - Choice architecture that guides without constraining
-[[Collective Action Problems]] - Coordination challenges in collective choice contexts
+[[Collective Action Problem]] - Coordination challenges in collective choice contexts

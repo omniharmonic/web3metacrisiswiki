@@ -122,7 +122,7 @@ Target: Hash < Difficulty Target
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Transaction validation**: Validating smart contract transactions
 - **Network security**: Securing smart contract networks
 - **Immutable records**: Creating immutable contract records
@@ -160,11 +160,11 @@ Target: Hash < Difficulty Target
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf), [Litecoin](https://litecoin.org/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[distributed consensus]] - Agreement among multiple nodes

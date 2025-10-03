@@ -58,10 +58,10 @@ The technology's evolution will also depend on broader social acceptance of cryp
 
 ## Related Concepts
 
-- [[Self-Sovereign Identity]]
+- [[self-sovereign identity]]
 - [[Zero-Knowledge Proofs]]
 - [[Privacy Preservation]]
 - [[Data Sovereignty]]
 - [[Cryptographic Identity]]
 - [[Verifiable Credentials]]
-- [[Decentralized Identity]]
+- [[decentralized identity]]

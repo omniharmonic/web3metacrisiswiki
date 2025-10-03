@@ -127,7 +127,7 @@ interface ERC1155 {
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Automated logic**: Self-executing rules for token behavior
 - **Conditional transfers**: Tokens that transfer based on conditions
 - **Time-based releases**: Tokens that become available over time

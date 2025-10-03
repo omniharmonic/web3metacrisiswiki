@@ -86,7 +86,7 @@ What distributed systems researcher Dahlia Malkhi calls "HotStuff consensus" ena
 
 ### Rollup Technologies and Execution Scalability
 
-[[Optimistic Rollups]] and [[ZK-Rollups]] attempt to transcend trilemma constraints by moving transaction execution off-chain while maintaining security through cryptographic proofs or fraud detection mechanisms that enable dispute resolution on the base layer.
+[[Optimistic rollups]] and [[zk-Rollups]] attempt to transcend trilemma constraints by moving transaction execution off-chain while maintaining security through cryptographic proofs or fraud detection mechanisms that enable dispute resolution on the base layer.
 
 Optimistic rollups including Arbitrum and Optimism achieve significant throughput improvements through optimistic fraud proof systems where transactions are assumed valid unless challenged, creating what computer scientist Harry Kalodner calls "trust but verify" architectures.
 
@@ -320,21 +320,21 @@ The resolution of scalability trilemma challenges may determine whether blockcha
 
 [[CAP Theorem]] - Distributed systems constraint that provides theoretical foundation for blockchain trilemma
 [[Byzantine Fault Tolerance]] - Security requirement that constrains consensus mechanism design and performance
-[[Consensus Mechanisms]] - Technical protocols that attempt to balance trilemma trade-offs
-[[Proof of Work]] - Consensus mechanism that prioritizes decentralization and security over scalability
-[[Proof of Stake]] - Alternative consensus that attempts to improve scalability while maintaining security
+[[consensus mechanisms]] - Technical protocols that attempt to balance trilemma trade-offs
+[[proof of work (PoW)]] - Consensus mechanism that prioritizes decentralization and security over scalability
+[[Proof of Stake (PoS)]] - Alternative consensus that attempts to improve scalability while maintaining security
 [[Layer 2 Solutions]] - Technical approaches to scaling that maintain base layer security properties
-[[Optimistic Rollups]] - Scaling solution using fraud proofs to enable off-chain execution
-[[ZK-Rollups]] - Zero-knowledge scaling approach with cryptographic validity proofs
+[[Optimistic rollups]] - Scaling solution using fraud proofs to enable off-chain execution
+[[zk-Rollups]] - Zero-knowledge scaling approach with cryptographic validity proofs
 [[State Channels]] - Direct payment channels that enable instant transactions with periodic settlement
 [[Sharding]] - Horizontal scaling approach that divides blockchain into parallel processing units
 [[Cross-Chain Integration]] - Interoperability protocols that enable specialized blockchain coordination
 [[Modular Blockchain]] - Architectural approach separating consensus, execution, and data availability
 [[Network Effects]] - Economic dynamics where system value increases with user adoption
 [[Transaction Throughput]] - Performance metric measuring number of transactions processed per unit time
-[[Decentralization]] - System property distributing control among multiple independent participants
+[[decentralization]] - System property distributing control among multiple independent participants
 [[Cryptographic Security]] - Mathematical guarantees protecting system integrity against attacks
-[[Information Theory]] - Mathematical framework that constrains distributed consensus efficiency
+[[Information theory]] - Mathematical framework that constrains distributed consensus efficiency
 [[Communication Complexity]] - Computer science concept explaining coordination overhead in distributed systems
 [[Global State]] - Shared system state that must be maintained consistently across distributed network
 [[Economic Security]] - Financial incentives and costs that protect network against economic attacks

@@ -188,7 +188,7 @@ aliases:
 - [[Artificial Intelligence and Machine Learning]]
 - [[Bot Networks and Coordinated Inauthentic Behavior]]
 - [[Epistemic Crisis]]
-- [[Content Recommendation Systems]]
+- [[content recommendation systems]]
 - [[Microtargeting and Personalized Manipulation]]
 - [[Information Pollution]]
 - [[Media Literacy]]

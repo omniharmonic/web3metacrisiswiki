@@ -51,9 +51,9 @@ However, empirical implementation through platforms like [[Gitcoin]] reveals per
 
 ### Blockchain Consensus and Byzantine Fault Tolerance
 
-Blockchain [[consensus mechanisms]] including Proof of Work and [[Proof of Stake]] represent applications of mechanism design to the fundamental computer science problem of achieving agreement among distributed nodes in the presence of malicious actors. These systems implement what computer scientists call "Byzantine fault tolerance" through economic incentives rather than cryptographic proofs alone.
+Blockchain [[consensus mechanisms]] including Proof of Work and [[Proof of Stake (PoS)]] represent applications of mechanism design to the fundamental computer science problem of achieving agreement among distributed nodes in the presence of malicious actors. These systems implement what computer scientists call "Byzantine fault tolerance" through economic incentives rather than cryptographic proofs alone.
 
-[[Proof of Stake]] mechanisms exemplify sophisticated mechanism design by creating "slashing" conditions where validators lose economic stake for provable misbehavior, making honest participation individually rational while making coordinated attacks prohibitively expensive. This creates what game theorists call "commitment devices" that make credible promises to behave honestly even when tempted to cheat.
+[[Proof of Stake (PoS)]] mechanisms exemplify sophisticated mechanism design by creating "slashing" conditions where validators lose economic stake for provable misbehavior, making honest participation individually rational while making coordinated attacks prohibitively expensive. This creates what game theorists call "commitment devices" that make credible promises to behave honestly even when tempted to cheat.
 
 Yet the practical implementation of economic security faces challenges including concentration of stake among large holders, the "nothing at stake" problem where validators face insufficient costs for supporting multiple competing chains, and the long-range attack vulnerabilities that may compromise security assumptions.
 
@@ -61,7 +61,7 @@ Yet the practical implementation of economic security faces challenges including
 
 Decentralized finance applications implement sophisticated auction mechanisms for price discovery, liquidations, and resource allocation that must function without trusted auctioneers or centralized price feeds. These systems face unique challenges including front-running, [[MEV]] extraction, and the need for incentive-compatible oracle mechanisms to provide external price information.
 
-[[Automated Market Makers]] represent a novel approach to continuous price discovery that eliminates the need for order books and centralized matching by implementing constant function market makers that automatically provide liquidity. However, these mechanisms face challenges with impermanent loss, arbitrage extraction, and the difficulty of maintaining efficient prices for assets with volatile fundamentals.
+[[automated market makers (AMMs)]] represent a novel approach to continuous price discovery that eliminates the need for order books and centralized matching by implementing constant function market makers that automatically provide liquidity. However, these mechanisms face challenges with impermanent loss, arbitrage extraction, and the difficulty of maintaining efficient prices for assets with volatile fundamentals.
 
 ## Contemporary Challenges and Implementation Difficulties
 
@@ -108,5 +108,5 @@ The maturation of mechanism design in Web3 contexts depends on solving fundament
 [[Free Rider Problem]] - Classical coordination problem addressed by mechanism design
 [[Collective Action Problem]] - Broader category of social coordination challenges
 [[Sybil Attacks]] - Identity-based manipulation threat to democratic mechanisms
-[[Consensus Mechanisms]] - Blockchain-specific applications of Byzantine fault-tolerant design
+[[consensus mechanisms]] - Blockchain-specific applications of Byzantine fault-tolerant design
 [[Information Economics]] - Theoretical foundation for mechanisms under asymmetric information

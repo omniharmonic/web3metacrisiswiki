@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of environmental markets extends beyond simple pricing mechanisms to encompass fundamental questions about the commodification of nature, the relationship between economic systems and ecological integrity, and the possibilities for aligning profit incentives with environmental restoration. What economist Arthur Pigou calls "externality internalization" becomes practically implementable through market design that makes environmental degradation expensive while making conservation and restoration profitable.
 
-In Web3 contexts, environmental markets represent both an opportunity for creating global, transparent, and automated environmental trading systems through [[Tokenization]], [[Smart Contracts]], and [[Blockchain]] verification that could scale environmental action beyond traditional regulatory capacity, and a challenge where the financialization of nature may enable new forms of speculation and manipulation while failing to address the fundamental economic structures that drive [[Ecological Collapse]].
+In Web3 contexts, environmental markets represent both an opportunity for creating global, transparent, and automated environmental trading systems through [[tokenization]], [[smart contracts]], and [[blockchain]] verification that could scale environmental action beyond traditional regulatory capacity, and a challenge where the financialization of nature may enable new forms of speculation and manipulation while failing to address the fundamental economic structures that drive [[Ecological Collapse]].
 
 ## Economic Theory and Market Design Principles
 
@@ -71,7 +71,7 @@ The emerging field of "blue economy" markets seeks to create economic value for 
 
 ### Tokenized Carbon Credits and Climate Finance
 
-[[Carbon Credit Tokenization]] through blockchain platforms including Toucan Protocol, KlimaDAO, and Nori creates digital representations of verified carbon offsets that enable fractional ownership, automated trading, and integration with [[Decentralized Finance]] applications while potentially reducing transaction costs and increasing market accessibility.
+[[Carbon Credit Tokenization]] through blockchain platforms including Toucan Protocol, KlimaDAO, and Nori creates digital representations of verified carbon offsets that enable fractional ownership, automated trading, and integration with [[Decentralized Finance (DeFi)]] applications while potentially reducing transaction costs and increasing market accessibility.
 
 Smart contracts can automate carbon credit verification, trading, and retirement while creating tamper-resistant records of environmental claims that could address transparency and double-counting problems that plague traditional carbon offset markets. [[Regenerative Finance]] protocols enable yield farming and liquidity provision for environmental assets.
 
@@ -81,7 +81,7 @@ However, tokenized carbon markets face challenges with ensuring that digital tok
 
 [[Blockchain Oracles]] for environmental data can enable automated verification of environmental claims through satellite monitoring, IoT sensors, and community-based measurement that creates transparent, tamper-resistant environmental data for market applications while reducing dependence on centralized verification authorities.
 
-[[Decentralized Autonomous Organizations]] can govern environmental markets through community participation that determines market rules, verification standards, and resource allocation while avoiding capture by commercial interests that may prioritize profit over environmental integrity.
+[[Decentralized Autonomous Organizations (DAOs)]] can govern environmental markets through community participation that determines market rules, verification standards, and resource allocation while avoiding capture by commercial interests that may prioritize profit over environmental integrity.
 
 Distributed sensor networks and citizen science initiatives can provide ground-truth environmental data for market verification while creating economic incentives for community participation in environmental monitoring that could scale verification capacity beyond traditional institutional approaches.
 

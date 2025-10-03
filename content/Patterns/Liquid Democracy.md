@@ -56,7 +56,7 @@ The digital implementation also reveals new categories of manipulation including
 
 ### Smart Contract Automation and Transparent Governance
 
-Web3 implementations of liquid democracy leverage [[content/Primitives/smart contracts|smart contracts]] to automate complex delegation calculations and vote weighting while ensuring transparency and verifiability of all governance decisions. This automation potentially reduces the administrative costs of dynamic delegation while creating permanent, auditable records of delegation relationships and voting outcomes.
+Web3 implementations of liquid democracy leverage [[smart contracts|smart contracts]] to automate complex delegation calculations and vote weighting while ensuring transparency and verifiability of all governance decisions. This automation potentially reduces the administrative costs of dynamic delegation while creating permanent, auditable records of delegation relationships and voting outcomes.
 
 [[Ethereum Virtual Machine (EVM)]] implementations enable sophisticated delegation logic including conditional delegation based on issue types, automatic delegation expiration, and complex vote weighting formulas that can account for token holdings, reputation scores, and historical participation. The programmable nature of smart contracts allows for experimentation with delegation rules that would be impractical in traditional governance systems.
 
@@ -127,7 +127,7 @@ The maturation of liquid democracy depends on solving fundamental challenges inc
 [[Nash Equilibrium]] - Stable outcomes in liquid democracy participation strategies
 [[Collective Action Problem]] - Coordination challenges that liquid democracy may help address
 [[Public Goods Funding]] - Application domain where liquid democracy could guide resource allocation
-[[Smart Contracts]] - Technical infrastructure enabling automated delegation and voting
+[[smart contracts]] - Technical infrastructure enabling automated delegation and voting
 [[Holographic Consensus]] - Attention economy management that complements liquid democracy
 [[Democratic Innovation]] - Broader category of experiments in democratic participation enhancement
 [[Epistemic Democracy]] - Theory of democracy optimized for knowledge aggregation and decision quality

@@ -19,7 +19,7 @@ The significance extends beyond technical implementation to encompass fundamenta
 ## Technical Mechanisms
 
 ### Fast Transaction Processing
-- **[[Automation]]**: [[content/Primitives/smart contracts]] execute without human intervention
+- **[[Automation]]**: [[smart contracts]] execute without human intervention
 - **Parallel Processing**: Multiple transactions processed simultaneously
 - **Optimized [[distributed consensus]]**: Efficient agreement mechanisms
 - **[[Layer_2_Rollups]]**: Scaling solutions for increased speed

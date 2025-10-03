@@ -63,7 +63,7 @@ What political scientist Steven Levitsky calls "competitive authoritarianism" ca
 ## Web3 Solutions and Limitations
 
 ### Transparent Standards
-[[Blockchain]] systems can create transparent, immutable records of standards compliance:
+[[blockchain]] systems can create transparent, immutable records of standards compliance:
 - **[[Immutability]]**: Permanent records of quality and safety standards
 - **[[Transparency]]**: Public verification of compliance with standards
 - **[[Provenance Tracking]]**: Supply chain transparency for ethical sourcing
@@ -71,15 +71,15 @@ What political scientist Steven Levitsky calls "competitive authoritarianism" ca
 
 ### Decentralized Governance
 [[Decentralized Autonomous Organizations (DAOs)]] can coordinate standards:
-- **[[Polycentric Governance]]**: Multiple overlapping standard-setting bodies
+- **[[polycentric governance]]**: Multiple overlapping standard-setting bodies
 - **[[Holographic Consensus]]**: Community-driven standard development
 - **[[Quadratic Voting]]**: Democratic allocation of standard-setting resources
 - **[[Conviction Voting]]**: Long-term commitment to high standards
 
 ### Programmable Incentives
-[[content/Primitives/smart contracts]] can create economic incentives for high standards:
+[[smart contracts]] can create economic incentives for high standards:
 - **[[Programmable Incentives]]**: Automated rewards for exceeding standards
-- **[[Tokenization]]**: Economic incentives for quality and safety
+- **[[tokenization]]**: Economic incentives for quality and safety
 - **[[Fractional Ownership]]**: Democratized access to high-standard products
 - **[[Automated Verification]]**: Automated verification of standards compliance
 
@@ -93,8 +93,8 @@ The [[oracle problem]] presents challenges for standards verification:
 - **Geographic Coverage**: Global verification of standards compliance
 
 ### Scalability and Adoption
-[[Blockchain]] systems face adoption challenges:
-- **[[Scalability Trilemma]]**: Security, decentralization, and scalability constraints
+[[blockchain]] systems face adoption challenges:
+- **[[scalability trilemma]]**: Security, decentralization, and scalability constraints
 - **Network Effects**: Standards only work if widely adopted
 - **Coordination Problems**: Getting actors to agree on standards
 - **[[MEV]]**: Market manipulation in standards-based systems
@@ -102,23 +102,23 @@ The [[oracle problem]] presents challenges for standards verification:
 ## Integration with Third Attractor Framework
 
 Race-to-the-bottom dynamics must be addressed through:
-- **[[Regenerative Economics]]**: Economic systems that reward rather than punish high standards
-- **[[Polycentric Governance]]**: Multiple overlapping governance systems that prevent capture
-- **[[Technological Sovereignty]]**: Communities controlling their own standards
-- **[[Civic Renaissance]]**: Cultural shift toward quality and sustainability
+- **[[regenerative economics]]**: Economic systems that reward rather than punish high standards
+- **[[polycentric governance]]**: Multiple overlapping governance systems that prevent capture
+- **[[technological sovereignty]]**: Communities controlling their own standards
+- **[[civic renaissance]]**: Cultural shift toward quality and sustainability
 
 ## Related Concepts
 
-[[Misaligned Incentives]] - Systematic structures where individual rational behavior leads to collectively destructive outcomes
-[[Multi-polar Traps]] - Competitive dynamics that lock rational actors into collectively destructive patterns
-[[Negative Externalities]] - Costs imposed on third parties who are not compensated for damages
-[[Regulatory Capture]] - Process where regulated industries influence regulatory agencies to serve industry rather than public interests
-[[Economic Centralization]] - Concentration of wealth and power that enables standards degradation through political influence
+[[misaligned incentives]] - Systematic structures where individual rational behavior leads to collectively destructive outcomes
+[[multi-polar traps]] - Competitive dynamics that lock rational actors into collectively destructive patterns
+[[negative externalities]] - Costs imposed on third parties who are not compensated for damages
+[[regulatory capture]] - Process where regulated industries influence regulatory agencies to serve industry rather than public interests
+[[economic centralization]] - Concentration of wealth and power that enables standards degradation through political influence
 [[Regulatory Arbitrage]] - Strategic use of jurisdictional differences to avoid regulatory costs
 [[Delaware Effect]] - Regulatory competition leading to lowest-common-denominator standards
 [[Competitive Federalism]] - Competition between jurisdictions that may lead to either improvement or degradation
 [[Exit vs Voice]] - Economic framework for understanding responses to organizational or jurisdictional decline
-[[Collective Action Problems]] - Coordination challenges where individual and collective rationality diverge
+[[Collective Action Problem]] - Coordination challenges where individual and collective rationality diverge
 [[Environmental Justice]] - Movement addressing how standards degradation disproportionately affects marginalized communities
 [[Labor Standards]] - Worker protections that may erode through competitive pressure
 [[Supply Chain Transparency]] - Monitoring systems that could potentially prevent hidden standards degradation
@@ -128,4 +128,4 @@ Race-to-the-bottom dynamics must be addressed through:
 [[Institutional Quality]] - Governance capacity that affects ability to maintain standards under competitive pressure
 [[Social Dumping]] - Using lower social standards as competitive advantage in international trade
 [[Environmental Dumping]] - Using lower environmental standards to reduce costs and gain competitive advantage
-[[Regenerative Economics]] - Economic approaches that could potentially reverse race-to-the-bottom dynamics through positive standards competition
+[[regenerative economics]] - Economic approaches that could potentially reverse race-to-the-bottom dynamics through positive standards competition

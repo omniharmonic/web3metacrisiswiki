@@ -37,8 +37,8 @@ The [[oracle problem]] arises from the fundamental limitation that blockchain sy
 ## Web3 Solutions and Limitations
 
 ### Decentralized Oracle Networks
-[[Oracle networks]] attempt to address manipulation through:
-- **[[Distributed Consensus]]**: Multiple independent data sources
+[[oracle networks]] attempt to address manipulation through:
+- **[[distributed consensus]]**: Multiple independent data sources
 - **[[Cryptographic Proof Generation]]**: Mathematical verification of data integrity
 - **[[Economic Incentives]]**: Rewards for accurate data and penalties for manipulation
 - **[[Reputation Systems]]**: Long-term tracking of oracle reliability
@@ -58,7 +58,7 @@ The [[oracle problem]] arises from the fundamental limitation that blockchain sy
 ## Challenges and Limitations
 
 ### Fundamental Trade-offs
-- **[[Scalability Trilemma]]**: Security, decentralization, and scalability constraints
+- **[[scalability trilemma]]**: Security, decentralization, and scalability constraints
 - **Cost vs. Security**: More secure oracles are more expensive to operate
 - **Latency vs. Accuracy**: Real-time data may be less accurate than verified data
 - **Centralization vs. Decentralization**: Fully decentralized oracles may be less reliable
@@ -67,10 +67,10 @@ The [[oracle problem]] arises from the fundamental limitation that blockchain sy
 - **[[MEV]]**: Market manipulation in oracle-dependent systems
 - **[[Sybil Attacks]]**: Creating fake identities to influence oracle consensus
 - **[[Rug Pulls]]**: Sudden withdrawal of oracle support
-- **[[Front Running]]**: Exploiting oracle updates for profit
+- **[[front running]]**: Exploiting oracle updates for profit
 
 ### Technical Complexity
-- **[[Oracle Problem]]**: Fundamental limitation of blockchain systems
+- **[[oracle problem]]**: Fundamental limitation of blockchain systems
 - **Data Verification**: Ensuring accuracy of external data sources
 - **Temporal Verification**: Long-term monitoring of data integrity
 - **Geographic Coverage**: Global data collection and verification
@@ -86,17 +86,17 @@ Oracle manipulation represents a critical vulnerability that could undermine Web
 - **[[Trustlessness]]**: Reduced dependence on trusted intermediaries
 
 ### Governance and Coordination
-- **[[Polycentric Governance]]**: Multiple overlapping oracle systems
+- **[[polycentric governance]]**: Multiple overlapping oracle systems
 - **[[Decentralized Autonomous Organizations (DAOs)]]**: Community control of oracle networks
 - **[[Holographic Consensus]]**: Community-driven oracle development
-- **[[Technological Sovereignty]]**: Communities controlling their own data sources
+- **[[technological sovereignty]]**: Communities controlling their own data sources
 
 ## Related Concepts
 - [[oracle problem]]
 - [[MEV]]
-- [[sybil attacks]]
+- [[Sybil Attacks]]
 - [[distributed consensus]]
-- [[cryptographic proof generation]]
-- [[reputation systems]]
-- [[byzantine fault tolerance]]
-- [[automated verification]]
+- [[Cryptographic Proof Generation]]
+- [[Reputation Systems]]
+- [[Byzantine Fault Tolerance]]
+- [[Automated Verification]]

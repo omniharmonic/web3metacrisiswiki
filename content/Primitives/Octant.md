@@ -126,7 +126,7 @@ Matching = (Total Contributions)^2 / (Number of Contributors)
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Automated execution**: Self-executing funding mechanisms
 - **Transparency**: Transparent funding processes
 - **Automation**: Automated funding operations
@@ -164,12 +164,12 @@ Matching = (Total Contributions)^2 / (Number of Contributors)
 
 - **Source Documents**: [[Web3 Primitives]], [[Paper Outline]]
 - **Technical Resources**: [Gitcoin](https://gitcoin.co/), [Optimism](https://optimism.io/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
-- [[quadratic funding]] - Democratic funding mechanism
+- [[Quadratic Funding]] - Democratic funding mechanism
 - [[public goods]] - Goods that benefit everyone

@@ -11,7 +11,7 @@ aliases:
 
 The theoretical significance of blockchain extends beyond simple record-keeping to encompass fundamental questions about trust, coordination, and the conditions under which decentralized systems can achieve reliable consensus despite the presence of malicious actors and network failures. What economist Friedrich Hayek calls "spontaneous order" becomes technologically implementable through cryptographic consensus mechanisms that enable global coordination without central planning or trusted authorities.
 
-In Web3 contexts, blockchain represents both the foundational infrastructure enabling [[Decentralized Finance]], [[Smart Contracts]], and [[Decentralized Autonomous Organizations]] through immutable and transparent record-keeping, and persistent challenges with scalability, energy consumption, and governance that may limit adoption while creating new forms of systemic risk through interconnected dependencies across multiple blockchain networks and applications.
+In Web3 contexts, blockchain represents both the foundational infrastructure enabling [[Decentralized Finance (DeFi)]], [[smart contracts]], and [[Decentralized Autonomous Organizations (DAOs)]] through immutable and transparent record-keeping, and persistent challenges with scalability, energy consumption, and governance that may limit adoption while creating new forms of systemic risk through interconnected dependencies across multiple blockchain networks and applications.
 
 ## Computer Science Foundations and Cryptographic Architecture
 
@@ -51,7 +51,7 @@ However, proof-of-work faces criticism for energy consumption that may exceed th
 
 ### Proof of Stake and Economic Security
 
-[[Proof of Stake]] mechanisms attempt to achieve consensus through economic rather than computational security where validators stake tokens that can be lost ("slashed") for malicious behavior. This implements what economist Vitalik Buterin calls "economic finality" where attacks become economically irrational due to penalty mechanisms.
+[[Proof of Stake (PoS)]] mechanisms attempt to achieve consensus through economic rather than computational security where validators stake tokens that can be lost ("slashed") for malicious behavior. This implements what economist Vitalik Buterin calls "economic finality" where attacks become economically irrational due to penalty mechanisms.
 
 Proof-of-stake potentially reduces energy consumption while creating new categories of risk including "nothing at stake" problems where validators might vote for multiple conflicting chains and "long-range attacks" where attackers with sufficient stake could rewrite ancient blockchain history.
 
@@ -61,7 +61,7 @@ The transition from proof-of-work to proof-of-stake in systems like Ethereum dem
 
 ### Smart Contracts and Programmable Money
 
-[[Smart Contracts]] represent perhaps blockchain's most significant innovation beyond simple value transfer, enabling what computer scientist Nick Szabo calls "smart property" where digital assets can automatically execute predetermined behaviors according to programmable logic without requiring human intervention or trusted intermediaries.
+[[smart contracts]] represent perhaps blockchain's most significant innovation beyond simple value transfer, enabling what computer scientist Nick Szabo calls "smart property" where digital assets can automatically execute predetermined behaviors according to programmable logic without requiring human intervention or trusted intermediaries.
 
 Ethereum's virtual machine creates what computer scientist Gavin Wood calls "world computer" capabilities where any deterministic computation can be executed across a global network while maintaining consensus about execution results. This enables what financial engineer Andrew Lo calls "financial engineering" through composable protocols that can create complex financial instruments from simpler components.
 
@@ -69,15 +69,15 @@ The composability of smart contracts creates what network scientist Albert-Lász
 
 ### Decentralized Finance and Financial Innovation
 
-[[Decentralized Finance]] demonstrates blockchain's potential to recreate and improve upon traditional financial services through programmable protocols that operate without traditional intermediaries including banks, exchanges, and clearinghouses. DeFi protocols including Uniswap, Compound, and Aave show how blockchain can enable financial innovation at unprecedented speed.
+[[Decentralized Finance (DeFi)]] demonstrates blockchain's potential to recreate and improve upon traditional financial services through programmable protocols that operate without traditional intermediaries including banks, exchanges, and clearinghouses. DeFi protocols including Uniswap, Compound, and Aave show how blockchain can enable financial innovation at unprecedented speed.
 
-[[Automated Market Makers]] implement what economist Robin Hanson calls "prediction market" principles for token exchange while [[Flash Loans]] enable capital-efficient arbitrage that would be impossible in traditional financial systems. These innovations demonstrate blockchain's capacity for financial creativity that exceeds conventional banking capabilities.
+[[automated market makers (AMMs)]] implement what economist Robin Hanson calls "prediction market" principles for token exchange while [[Flash Loans]] enable capital-efficient arbitrage that would be impossible in traditional financial systems. These innovations demonstrate blockchain's capacity for financial creativity that exceeds conventional banking capabilities.
 
 However, DeFi also reveals blockchain limitations including network congestion during high demand, gas fee volatility that can make small transactions economically unviable, and smart contract vulnerabilities that have resulted in hundreds of millions of dollars in user losses through hacks and exploits.
 
 ### Governance and Collective Decision-Making
 
-[[Decentralized Autonomous Organizations]] attempt to implement what political scientist Elinor Ostrom calls "collective choice arrangements" through blockchain-based governance systems where token holders can participate in organizational decision-making without traditional corporate hierarchies or centralized management.
+[[Decentralized Autonomous Organizations (DAOs)]] attempt to implement what political scientist Elinor Ostrom calls "collective choice arrangements" through blockchain-based governance systems where token holders can participate in organizational decision-making without traditional corporate hierarchies or centralized management.
 
 [[Governance Tokens]] and voting mechanisms including [[Quadratic Voting]] and [[Conviction Voting]] demonstrate how blockchain can enable new forms of democratic participation while facing persistent challenges with low voter turnout, governance token concentration, and the technical complexity that may exclude ordinary users from meaningful participation.
 
@@ -91,7 +91,7 @@ Blockchain systems face fundamental limitations with transaction throughput wher
 
 The consensus requirements and cryptographic verification necessary for blockchain security create what computer scientist Daniel J. Bernstein calls "computational overhead" where security and decentralization come at the cost of performance, potentially limiting blockchain's applicability for high-frequency applications including retail payments and social media.
 
-[[Layer 2 Solutions]] including [[State Channels]], [[Optimistic Rollups]], and [[ZK-Rollups]] attempt to address scalability limitations while creating new categories of complexity including liquidity fragmentation, cross-layer communication overhead, and security assumptions that may differ from underlying layer 1 systems.
+[[Layer 2 Solutions]] including [[State Channels]], [[Optimistic rollups]], and [[zk-Rollups]] attempt to address scalability limitations while creating new categories of complexity including liquidity fragmentation, cross-layer communication overhead, and security assumptions that may differ from underlying layer 1 systems.
 
 ### Energy Consumption and Environmental Impact
 
@@ -140,19 +140,19 @@ The maturation of blockchain technology may determine whether it remains a niche
 ## Related Concepts
 
 [[Distributed Ledger Technology]] - Broader category of technologies for maintaining distributed consensus and record-keeping
-[[Consensus Mechanisms]] - Protocols that enable distributed nodes to agree on blockchain state updates
+[[consensus mechanisms]] - Protocols that enable distributed nodes to agree on blockchain state updates
 [[Cryptographic Hash Functions]] - Mathematical functions providing security and integrity for blockchain data structures
 [[Merkle Trees]] - Data structures enabling efficient verification of large datasets within blockchain systems
 [[Byzantine Fault Tolerance]] - System property enabling operation despite arbitrary failures including malicious behavior
-[[Smart Contracts]] - Programmable agreements that execute automatically on blockchain infrastructure
-[[Proof of Work]] - Consensus mechanism securing blockchain through computational puzzle solving
-[[Proof of Stake]] - Consensus mechanism securing blockchain through economic incentives and penalties
+[[smart contracts]] - Programmable agreements that execute automatically on blockchain infrastructure
+[[proof of work (PoW)]] - Consensus mechanism securing blockchain through computational puzzle solving
+[[Proof of Stake (PoS)]] - Consensus mechanism securing blockchain through economic incentives and penalties
 [[State Machine Replication]] - Distributed systems technique enabling identical computation across multiple nodes
 [[Digital Signatures]] - Cryptographic proof systems enabling transaction authorization without revealing private keys
 [[Immutability]] - Property where blockchain records cannot be modified after confirmation
-[[Decentralization]] - System architecture distributing control across multiple independent participants
+[[decentralization]] - System architecture distributing control across multiple independent participants
 [[Permissionless Innovation]] - Property enabling anyone to build applications without requiring authorization
-[[Censorship Resistance]] - System property preventing authorities from blocking or reversing transactions
+[[censorship resistance]] - System property preventing authorities from blocking or reversing transactions
 [[Transparency]] - Property where all blockchain transactions and state changes are publicly verifiable
 [[Pseudonymity]] - Property enabling transaction privacy while maintaining public verifiability
 [[Global State]] - Shared data maintained consistently across all blockchain network participants

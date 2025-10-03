@@ -54,7 +54,7 @@ However, token systems also risk exploiting psychological vulnerabilities includ
 
 ### Governance Design and Democratic Participation
 
-[[Decentralized Autonomous Organizations]] can incorporate behavioral insights to address persistent challenges with low voter turnout, uninformed participation, and the concentration of governance power among sophisticated actors. Default options can leverage status quo bias to encourage beneficial behaviors, while choice architecture can make complex governance decisions more accessible through simplified interfaces and decision aids.
+[[Decentralized Autonomous Organizations (DAOs)]] can incorporate behavioral insights to address persistent challenges with low voter turnout, uninformed participation, and the concentration of governance power among sophisticated actors. Default options can leverage status quo bias to encourage beneficial behaviors, while choice architecture can make complex governance decisions more accessible through simplified interfaces and decision aids.
 
 [[Quadratic Voting]] and [[Conviction Voting]] mechanisms attempt to address behavioral limitations in preference expression, but face their own psychological challenges including the cognitive load of understanding quadratic mechanisms and the temporal discounting that may make conviction requirements less effective than designers anticipate.
 
@@ -109,7 +109,7 @@ The maturation of behavioral applications in Web3 contexts depends on developing
 [[Prospect Theory]] - Foundational theory explaining how people evaluate gains and losses relative to reference points
 [[Loss Aversion]] - Psychological bias where losses feel more painful than equivalent gains
 [[Mental Accounting]] - Tendency to categorize money and make decisions based on arbitrary mental categories
-[[Social Proof]] - Psychological tendency to infer appropriate behavior from others' actions
+[[social proof]] - Psychological tendency to infer appropriate behavior from others' actions
 [[Nudging]] - Choice architecture that influences behavior while preserving freedom of choice
 [[Bounded Rationality]] - Concept that cognitive limitations constrain optimal decision-making
 [[Present Bias]] - Tendency to overweight immediate relative to delayed outcomes

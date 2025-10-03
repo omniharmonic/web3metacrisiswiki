@@ -12,11 +12,11 @@ aliases:
 
 The **Collective Action Problem** represents a fundamental challenge in social coordination where rational individual behavior leads to collectively suboptimal outcomes, despite mutual benefits available through cooperation. First systematically analyzed by economist Mancur Olson in "The Logic of Collective Action" (1965), this problem explains why groups of rational individuals often fail to act in their common interest even when the benefits of cooperation clearly exceed the costs.
 
-The theoretical significance extends far beyond economics to encompass questions in political science, sociology, and philosophy about the conditions under which voluntary cooperation can emerge and sustain itself. The problem appears across scales from small groups to global coordination challenges including climate change, financial regulation, and technological standard-setting, making it central to understanding the [[Meta-crisis]] where individual rationality aggregates into civilizational dysfunction.
+The theoretical significance extends far beyond economics to encompass questions in political science, sociology, and philosophy about the conditions under which voluntary cooperation can emerge and sustain itself. The problem appears across scales from small groups to global coordination challenges including climate change, financial regulation, and technological standard-setting, making it central to understanding the [[meta-crisis]] where individual rationality aggregates into civilizational dysfunction.
 
 Collective action problems manifest through what game theorists call "social dilemmas" where individual rational choice and collective rational choice diverge. Unlike coordination problems where actors want to cooperate but lack information about others' intentions, collective action problems involve genuine conflicts between individual and collective interests that require institutional solutions rather than mere communication.
 
-The problem encompasses several distinct but related phenomena including the [[Free Rider Problem]] where individuals benefit from collective goods without contributing, [[Coordination Problems]] where actors need to align behavior for mutual benefit, and [[Multi-polar Traps]] where competitive dynamics prevent mutually beneficial cooperation.
+The problem encompasses several distinct but related phenomena including the [[Free Rider Problem]] where individuals benefit from collective goods without contributing, [[Coordination Problem]] where actors need to align behavior for mutual benefit, and [[multi-polar traps]] where competitive dynamics prevent mutually beneficial cooperation.
 
 ## Structural Dynamics and Causal Mechanisms
 
@@ -34,7 +34,7 @@ Collective action problems are compounded by information asymmetries where actor
 
 The challenge is compounded by what economists call "preference falsification" where actors may claim to support collective action while privately preferring free-riding, making it difficult to assess genuine support for collective initiatives. This information problem explains why public opinion polling may overestimate support for collective action that requires individual sacrifice.
 
-Web3 technologies including [[Mechanism Design]], [[Cryptographic protocols]], and [[Zero-knowledge proofs]] offer novel approaches to information revelation that could enable coordination without revealing sensitive strategic information.
+Web3 technologies including [[Mechanism Design]], [[cryptographic protocols]], and [[Zero-knowledge proofs]] offer novel approaches to information revelation that could enable coordination without revealing sensitive strategic information.
 
 ## Contemporary Manifestations and Systemic Examples
 
@@ -52,7 +52,7 @@ Financial system stability represents a collective action problem where individu
 
 The problem is complicated by moral hazard where institutions expect government bailouts for systemic risks, creating incentives for excessive risk-taking, and by regulatory arbitrage where institutions migrate to jurisdictions with lax oversight. International coordination is hindered by competitive dynamics between financial centers and domestic political pressure to protect national industries.
 
-[[Decentralized Finance]] protocols attempt to address these problems through programmable risk management, transparent operations, and algorithmic rather than discretionary regulation, though they face their own collective action problems including governance token concentration and flash loan attacks.
+[[Decentralized Finance (DeFi)]] protocols attempt to address these problems through programmable risk management, transparent operations, and algorithmic rather than discretionary regulation, though they face their own collective action problems including governance token concentration and flash loan attacks.
 
 ## Web3 Solutions and Cryptoeconomic Coordination
 
@@ -66,13 +66,13 @@ The mechanism addresses traditional public goods under-provision by implementing
 
 ### Decentralized Autonomous Organizations and Algorithmic Governance
 
-[[Decentralized Autonomous Organizations]] represent experiments in solving collective action problems through programmable governance mechanisms that attempt to align individual incentives with collective welfare through token-based participation and algorithmic rule enforcement. These systems implement what computer scientists call "mechanism design" through smart contracts that automatically execute collective decisions.
+[[Decentralized Autonomous Organizations (DAOs)]] represent experiments in solving collective action problems through programmable governance mechanisms that attempt to align individual incentives with collective welfare through token-based participation and algorithmic rule enforcement. These systems implement what computer scientists call "mechanism design" through smart contracts that automatically execute collective decisions.
 
 The theoretical appeal lies in reducing transaction costs of collective action through automated coordination, global participation without geographical constraints, and transparent governance processes that could increase trust and participation. However, empirical analysis reveals persistent challenges with low participation rates, governance token concentration, and the technical complexity barriers that limit meaningful democratic engagement.
 
 ### Blockchain Consensus and Cryptoeconomic Security
 
-Blockchain [[Consensus Mechanisms]] represent novel solutions to collective action problems in distributed computer networks where participants must agree on system state despite potential malicious actors. [[Proof of Stake]] mechanisms implement economic incentives that make honest participation individually rational while making coordinated attacks prohibitively expensive.
+Blockchain [[consensus mechanisms]] represent novel solutions to collective action problems in distributed computer networks where participants must agree on system state despite potential malicious actors. [[Proof of Stake (PoS)]] mechanisms implement economic incentives that make honest participation individually rational while making coordinated attacks prohibitively expensive.
 
 These systems demonstrate how cryptoeconomic design can solve coordination problems that were previously addressed through centralized authority, creating what economists call "incentive compatibility" through mathematical rather than institutional mechanisms. However, practical implementation faces challenges with stake concentration, validator centralization, and the energy costs that may limit scalability.
 
@@ -108,7 +108,7 @@ The resolution of contemporary collective action problems including climate chan
 
 [[Free Rider Problem]] - Classic collective action challenge where individuals benefit without contributing
 [[Coordination Problem]] - Alignment challenges where actors want to cooperate but lack coordination mechanisms
-[[Multi-polar Traps]] - Competitive dynamics that prevent mutually beneficial cooperation
+[[multi-polar traps]] - Competitive dynamics that prevent mutually beneficial cooperation
 [[Prisoner's Dilemma]] - Game-theoretic model of cooperation and defection dynamics
 [[Mechanism Design]] - Theoretical framework for creating institutions that solve coordination problems
 [[Public Goods Funding]] - Application of collective action solutions to commons provision
@@ -116,7 +116,7 @@ The resolution of contemporary collective action problems including climate chan
 [[Nash Equilibrium]] - Stable outcomes in strategic games where cooperation may fail
 [[Quadratic Voting]] - Democratic mechanism for preference aggregation in collective decisions
 [[Conviction Voting]] - Time-weighted governance that addresses collective action through commitment
-[[Decentralized Autonomous Organizations]] - Organizational experiments in algorithmic collective action
-[[Consensus Mechanisms]] - Cryptoeconomic solutions to distributed coordination problems
-[[Meta-crisis]] - Systemic coordination failures across multiple scales and domains
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational experiments in algorithmic collective action
+[[consensus mechanisms]] - Cryptoeconomic solutions to distributed coordination problems
+[[meta-crisis]] - Systemic coordination failures across multiple scales and domains
 [[Vitality]] - Organizing principle for collective action that enhances life-supporting capacity

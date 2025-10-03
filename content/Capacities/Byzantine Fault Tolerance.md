@@ -16,7 +16,7 @@ aliases:
 
 - **Fault Tolerance**: System continues operating despite node failures
 - **Malicious Behavior**: Resistance to nodes that intentionally act against the system
-- **[[Distributed Consensus]]**: Agreement among honest nodes despite faulty ones
+- **[[distributed consensus]]**: Agreement among honest nodes despite faulty ones
 - **Security**: Protection against various attack vectors
 - **[[Reliability]]**: Consistent operation under adverse conditions
 

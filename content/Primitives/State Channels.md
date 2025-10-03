@@ -116,7 +116,7 @@ Settlement = (Final State, On-chain Transaction)
 
 ## Integration with Other Primitives
 
-### [[content/Primitives/smart contracts]]
+### [[smart contracts]]
 - **Channel management**: Managing channel state
 - **Dispute resolution**: Resolving disputes
 - **Settlement**: Settling channel state
@@ -154,11 +154,11 @@ Settlement = (Final State, On-chain Transaction)
 
 - **Source Documents**: [[Web3 Primitives]], [[scalability trilemma]]
 - **Technical Resources**: [Lightning Network](https://lightning.network/), [Raiden Network](https://raiden.network/)
-- **Related Concepts**: [[content/Primitives/smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
+- **Related Concepts**: [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], [[Composability]]
 
 ## Related Concepts
 
-- [[content/Primitives/smart contracts]] - Self-executing agreements on blockchains
+- [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
 - [[scalability trilemma]] - The fundamental trade-offs in blockchain design

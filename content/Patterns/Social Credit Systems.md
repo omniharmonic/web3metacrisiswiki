@@ -66,4 +66,4 @@ The challenge lies in developing systems that can address legitimate needs for t
 - [[Predictive Policing]]
 - [[Algorithmic Bias]]
 - [[Privacy Preservation]]
-- [[Self-Sovereign Identity]]
+- [[self-sovereign identity]]

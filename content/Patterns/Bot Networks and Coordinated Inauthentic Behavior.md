@@ -43,6 +43,6 @@ Decentralized technologies present new challenges and opportunities regarding bo
 - [[Social Engineering Attacks]]
 - [[Algorithmic Amplification]]
 - [[Epistemic Crisis]]
-- [[Social Proof]]
+- [[social proof]]
 - [[Microtargeting and Personalized Manipulation]]
-- [[Information Theory]]
+- [[Information theory]]

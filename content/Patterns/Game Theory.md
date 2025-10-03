@@ -15,7 +15,7 @@ aliases:
 
 The theoretical significance of game theory extends far beyond mathematics to encompass fundamental questions about rationality, social cooperation, and institutional design that are central to economics, political science, biology, and computer science. In the context of Web3 systems, game theory provides essential tools for analyzing [[Mechanism Design]], [[Tokenomics]], and the strategic interactions that determine whether decentralized systems achieve their intended objectives or fall victim to manipulation and coordination failures.
 
-Game theory's relevance to the [[Meta-crisis]] lies in its capacity to explain how individually rational behavior can generate collectively irrational outcomes, providing both diagnostic tools for understanding systemic dysfunction and design principles for creating institutions that align individual incentives with collective welfare. However, game theory's emphasis on mathematical formalization and rational choice assumptions may overlook important psychological, cultural, and institutional factors that influence real-world strategic behavior.
+Game theory's relevance to the [[meta-crisis]] lies in its capacity to explain how individually rational behavior can generate collectively irrational outcomes, providing both diagnostic tools for understanding systemic dysfunction and design principles for creating institutions that align individual incentives with collective welfare. However, game theory's emphasis on mathematical formalization and rational choice assumptions may overlook important psychological, cultural, and institutional factors that influence real-world strategic behavior.
 
 ## Foundational Concepts and Solution Methods
 
@@ -25,7 +25,7 @@ The **[[Nash Equilibrium]]** concept, developed by John Nash in his 1950 dissert
 
 The mathematical elegance of Nash equilibrium lies in its existence theorem, which guarantees that finite games with mixed strategies always possess at least one equilibrium point. However, the concept faces significant limitations including the possibility of multiple equilibria, the potential inefficiency of equilibrium outcomes, and the lack of clear guidance for equilibrium selection when multiple stable points exist.
 
-In Web3 contexts, Nash equilibria help explain the stability of [[Consensus Mechanisms]], the persistence of coordination problems in [[Decentralized Autonomous Organizations]], and the challenges of achieving efficient outcomes in [[Public Goods Funding]] mechanisms where individual rational behavior may undermine collective welfare.
+In Web3 contexts, Nash equilibria help explain the stability of [[consensus mechanisms]], the persistence of coordination problems in [[Decentralized Autonomous Organizations (DAOs)]], and the challenges of achieving efficient outcomes in [[Public Goods Funding]] mechanisms where individual rational behavior may undermine collective welfare.
 
 ### Prisoner's Dilemma and Cooperation Problems
 
@@ -39,7 +39,7 @@ The repeated prisoner's dilemma, analyzed extensively by Robert Axelrod and othe
 
 ### Consensus Mechanisms and Economic Security
 
-Blockchain [[Consensus Mechanisms]] represent sophisticated applications of game theory to the fundamental computer science problem of achieving agreement among distributed nodes in adversarial environments. [[Proof of Stake]] systems implement what economists call "mechanism design" by creating economic incentives that make honest participation individually rational while making coordinated attacks prohibitively expensive.
+Blockchain [[consensus mechanisms]] represent sophisticated applications of game theory to the fundamental computer science problem of achieving agreement among distributed nodes in adversarial environments. [[Proof of Stake (PoS)]] systems implement what economists call "mechanism design" by creating economic incentives that make honest participation individually rational while making coordinated attacks prohibitively expensive.
 
 The game-theoretic foundation involves creating what Leonid Hurwicz termed "incentive compatibility" where participants have rational incentives to follow protocol rules rather than attempting to manipulate system outcomes. [[Slashing]] mechanisms implement credible punishment threats that deter malicious behavior by imposing financial penalties for provable misbehavior.
 
@@ -47,7 +47,7 @@ However, the practical implementation of cryptoeconomic security faces challenge
 
 ### Token-Based Governance and Voting Games
 
-[[Tokenomics]] and governance mechanisms in [[Decentralized Autonomous Organizations]] create complex strategic environments where participants must balance individual profit-seeking with collective welfare considerations. [[Quadratic Voting]] mechanisms attempt to solve preference aggregation problems by implementing game-theoretic designs that enable intensity expression while preventing plutocratic capture.
+[[Tokenomics]] and governance mechanisms in [[Decentralized Autonomous Organizations (DAOs)]] create complex strategic environments where participants must balance individual profit-seeking with collective welfare considerations. [[Quadratic Voting]] mechanisms attempt to solve preference aggregation problems by implementing game-theoretic designs that enable intensity expression while preventing plutocratic capture.
 
 The challenge lies in creating governance games where truth-telling is incentive-compatible despite participants' strategic incentives to misrepresent preferences for personal advantage. [[Conviction Voting]] addresses temporal manipulation by requiring sustained commitment rather than momentary preferences, while [[Holographic Consensus]] attempts to solve attention allocation problems in large organizations through prediction market mechanisms.
 
@@ -59,7 +59,7 @@ Yet empirical analysis of DAO governance reveals persistent coordination problem
 
 The game-theoretic challenge involves creating truth-revealing mechanisms where participants have incentives to honestly express their valuations rather than strategically misrepresenting preferences to gain advantage. [[Gitcoin]] and similar platforms demonstrate the technical feasibility of algorithmic public goods provision while facing persistent challenges with Sybil attacks, collusion rings, and gaming behavior.
 
-The broader significance lies in demonstrating how game-theoretic mechanism design can potentially address [[Collective Action Problems]] and [[Free Rider Problems]] that have historically required governmental coercion or institutional oversight, suggesting pathways toward voluntary coordination at global scale.
+The broader significance lies in demonstrating how game-theoretic mechanism design can potentially address [[Collective Action Problem]] and [[Free Rider Problem]] that have historically required governmental coercion or institutional oversight, suggesting pathways toward voluntary coordination at global scale.
 
 ## Critical Limitations and Behavioral Challenges
 
@@ -92,10 +92,10 @@ The maturation of game theory applications in Web3 contexts depends on solving f
 [[Mechanism Design]] - Applied game theory for designing institutions that achieve desired outcomes
 [[Collective Action Problem]] - Broader coordination challenges that game theory helps analyze
 [[Free Rider Problem]] - Specific strategic scenario where individuals benefit without contributing
-[[Multi-polar Traps]] - Competitive dynamics that prevent mutually beneficial cooperation
+[[multi-polar traps]] - Competitive dynamics that prevent mutually beneficial cooperation
 [[Tokenomics]] - Economic design of cryptocurrency systems using game-theoretic principles
 [[Public Goods Funding]] - Application domain where game theory addresses market failures
 [[Quadratic Voting]] - Voting mechanism designed using game-theoretic preference revelation principles
-[[Consensus Mechanisms]] - Blockchain protocols that implement game-theoretic security models
-[[Proof of Stake]] - Consensus mechanism that uses economic incentives for network security
+[[consensus mechanisms]] - Blockchain protocols that implement game-theoretic security models
+[[Proof of Stake (PoS)]] - Consensus mechanism that uses economic incentives for network security
 [[Behavioral Economics]] - Field that examines deviations from rational choice assumptions in games

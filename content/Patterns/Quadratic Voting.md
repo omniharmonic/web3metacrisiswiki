@@ -51,7 +51,7 @@ However, the system faces ongoing challenges with gaming, coordination problems,
 
 ### DAO Governance and Organizational Decision-Making
 
-[[Decentralized Autonomous Organizations]] represent promising application domains for quadratic voting where global communities must make collective decisions about resource allocation, protocol parameters, and strategic direction without traditional hierarchical authority structures. The mechanism could theoretically enable more democratic and participatory governance while maintaining decision-making efficiency.
+[[Decentralized Autonomous Organizations (DAOs)]] represent promising application domains for quadratic voting where global communities must make collective decisions about resource allocation, protocol parameters, and strategic direction without traditional hierarchical authority structures. The mechanism could theoretically enable more democratic and participatory governance while maintaining decision-making efficiency.
 
 Several experimental DAOs have implemented quadratic voting mechanisms with mixed results. While the system enables more nuanced preference expression than simple token-weighted voting, participation rates remain low and technical complexity creates barriers to meaningful engagement for ordinary community members.
 
@@ -90,12 +90,12 @@ Future developments likely require more sophisticated integration with identity 
 [[Futarchy]] - Market-based governance mechanism that complements quadratic voting
 [[Conviction Voting]] - Time-weighted voting that captures commitment depth rather than intensity
 [[Quadratic Funding]] - Resource allocation mechanism based on quadratic voting principles
-[[Decentralized Autonomous Organizations]] - Organizational forms that could implement quadratic governance
+[[Decentralized Autonomous Organizations (DAOs)]] - Organizational forms that could implement quadratic governance
 [[Choice]] - Individual and collective agency that quadratic voting aims to enhance
 [[Vitality]] - Organizing principle for governance systems that support collective flourishing
 [[Mechanism Design]] - Theoretical framework for designing incentive-compatible democratic institutions
 [[Public Goods Funding]] - Application domain where quadratic mechanisms show particular promise
 [[Democratic Legitimacy]] - Normative foundation for collective authority that quadratic voting attempts to preserve
 [[Preference Aggregation]] - Social choice problem that quadratic voting addresses through intensity weighting
-[[Sybil Resistance]] - Technical challenge fundamental to quadratic voting implementation
+[[sybil resistance]] - Technical challenge fundamental to quadratic voting implementation
 [[Anti-Plutocratic Design]] - Democratic principle that quadratic voting attempts to operationalize

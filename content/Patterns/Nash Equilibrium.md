@@ -15,7 +15,7 @@ A **Nash Equilibrium** represents the central solution concept in [[Game Theory]
 
 The theoretical significance of Nash equilibrium extends far beyond mathematical elegance to encompass fundamental questions about rationality, social coordination, and the predictability of strategic behavior in complex systems. Nash's existence theorem proves that every finite game with mixed strategies possesses at least one equilibrium, providing mathematical foundations for analyzing strategic stability across diverse domains from economics and political science to biology and computer science.
 
-In Web3 contexts, Nash equilibria provide crucial insights into the stability and efficiency of [[Consensus Mechanisms]], the persistence of coordination problems in [[Decentralized Autonomous Organizations]], and the strategic dynamics that determine whether cryptoeconomic systems achieve their intended objectives or fall victim to gaming and manipulation.
+In Web3 contexts, Nash equilibria provide crucial insights into the stability and efficiency of [[consensus mechanisms]], the persistence of coordination problems in [[Decentralized Autonomous Organizations (DAOs)]], and the strategic dynamics that determine whether cryptoeconomic systems achieve their intended objectives or fall victim to gaming and manipulation.
 
 ## Mathematical Formalization and Existence Theory
 
@@ -49,13 +49,13 @@ Subgame perfection is crucial for analyzing dynamic Web3 systems including multi
 
 ### Blockchain Consensus and Validator Behavior
 
-[[Proof of Stake]] consensus mechanisms are designed to create Nash equilibria where honest validation is individually rational for all participants. The economic security model relies on making honest behavior the best response to others' honest behavior while making coordinated attacks prohibitively expensive through [[Slashing]] penalties and opportunity costs of capital.
+[[Proof of Stake (PoS)]] consensus mechanisms are designed to create Nash equilibria where honest validation is individually rational for all participants. The economic security model relies on making honest behavior the best response to others' honest behavior while making coordinated attacks prohibitively expensive through [[Slashing]] penalties and opportunity costs of capital.
 
 However, empirical analysis reveals potential deviations from intended equilibria including the "nothing at stake" problem where validators face insufficient costs for supporting multiple competing chains, validator coordination problems that may lead to centralization, and the emergence of liquid staking derivatives that may concentrate validation control despite distributed stake ownership.
 
 ### Governance Participation and Token-Based Democracy
 
-[[Tokenomics]] in [[Decentralized Autonomous Organizations]] creates governance equilibria where token holders must decide whether to participate in costly governance activities given their expected influence on outcomes. Low participation rates in most DAO governance suggest equilibria where individual abstention is rational while collective abstention undermines democratic legitimacy.
+[[Tokenomics]] in [[Decentralized Autonomous Organizations (DAOs)]] creates governance equilibria where token holders must decide whether to participate in costly governance activities given their expected influence on outcomes. Low participation rates in most DAO governance suggest equilibria where individual abstention is rational while collective abstention undermines democratic legitimacy.
 
 The challenge lies in designing governance mechanisms where informed participation is individually rational while maintaining accessibility for ordinary community members. [[Quadratic Voting]] and [[Conviction Voting]] represent attempts to modify equilibrium incentives by changing the payoff structure of governance participation.
 
@@ -100,12 +100,12 @@ The maturation of Nash equilibrium applications in Web3 contexts depends on deve
 [[Game Theory]] - Mathematical framework for strategic analysis that Nash equilibrium centralizes
 [[Prisoner's Dilemma]] - Classic example demonstrating how Nash equilibria can be Pareto-inefficient
 [[Mechanism Design]] - Field that applies equilibrium analysis to institutional design problems
-[[Consensus Mechanisms]] - Blockchain protocols designed to create Nash equilibria for honest behavior
-[[Proof of Stake]] - Economic consensus mechanism that relies on equilibrium incentive alignment
+[[consensus mechanisms]] - Blockchain protocols designed to create Nash equilibria for honest behavior
+[[Proof of Stake (PoS)]] - Economic consensus mechanism that relies on equilibrium incentive alignment
 [[Tokenomics]] - Economic design of cryptocurrency systems using equilibrium analysis
 [[Free Rider Problem]] - Coordination challenge where Nash equilibria often involve suboptimal outcomes
 [[Collective Action Problem]] - Broader category of strategic challenges involving equilibrium selection
-[[Multi-polar Traps]] - Coordination failures that persist as stable Nash equilibria
+[[multi-polar traps]] - Coordination failures that persist as stable Nash equilibria
 [[Public Goods Funding]] - Application domain where equilibrium design determines contribution outcomes
 [[Subgame Perfect Equilibrium]] - Refinement concept for analyzing dynamic strategic interactions
 [[Behavioral Economics]] - Field that studies systematic deviations from Nash equilibrium predictions

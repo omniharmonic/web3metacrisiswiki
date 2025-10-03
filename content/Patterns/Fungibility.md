@@ -11,7 +11,7 @@ aliases:
 
 The theoretical significance of fungibility extends beyond simple substitutability to encompass fundamental questions about value standardization, market efficiency, and the social construction of economic equivalence. What sociologist Georg Simmel calls "the philosophy of money" reveals how fungibility enables abstract value relationships that transcend specific object characteristics while creating new forms of social power and inequality through the quantification and standardization of value.
 
-In Web3 contexts, fungibility represents both the foundation for liquid digital markets through [[Token Standards]], [[Decentralized Finance]], and automated trading systems that enable unprecedented market efficiency, and a challenge where perfect fungibility may conflict with privacy, regulatory compliance, and the need for distinguishing between legitimate and illicit token transfers while maintaining the economic benefits of interchangeable digital assets.
+In Web3 contexts, fungibility represents both the foundation for liquid digital markets through [[Token Standards]], [[Decentralized Finance (DeFi)]], and automated trading systems that enable unprecedented market efficiency, and a challenge where perfect fungibility may conflict with privacy, regulatory compliance, and the need for distinguishing between legitimate and illicit token transfers while maintaining the economic benefits of interchangeable digital assets.
 
 ## Economic Theory and Market Function
 
@@ -61,11 +61,11 @@ However, blockchain transparency creates tensions with fungibility where transac
 
 ### Decentralized Finance and Automated Market Making
 
-[[Decentralized Finance]] protocols depend fundamentally on token fungibility to enable automated market making, liquidity pooling, and yield farming mechanisms that require perfect substitutability between token units to function efficiently. [[Automated Market Makers]] implement constant product formulas that assume perfect fungibility to calculate exchange rates and slippage.
+[[Decentralized Finance (DeFi)]] protocols depend fundamentally on token fungibility to enable automated market making, liquidity pooling, and yield farming mechanisms that require perfect substitutability between token units to function efficiently. [[automated market makers (AMMs)]] implement constant product formulas that assume perfect fungibility to calculate exchange rates and slippage.
 
 [[Liquidity Pools]] aggregate fungible tokens from multiple providers to create market depth while distributing trading fees proportionally to contribution levels, implementing what economist John Nash calls "cooperative game theory" solutions where individual optimization aligns with collective welfare through fungibility-enabled pooling.
 
-[[Yield Farming]] and liquidity mining programs use fungible token rewards to incentivize liquidity provision and protocol usage, creating what economist Paul Samuelson calls "public goods" funding mechanisms where individual participants receive standardized rewards for contributing to collective market liquidity.
+[[yield farming]] and liquidity mining programs use fungible token rewards to incentivize liquidity provision and protocol usage, creating what economist Paul Samuelson calls "public goods" funding mechanisms where individual participants receive standardized rewards for contributing to collective market liquidity.
 
 ### Governance Tokens and Democratic Participation
 
@@ -113,7 +113,7 @@ Token contract dependencies on external protocols and oracles create systemic ri
 
 Large token holders may be able to exploit fungibility to manipulate markets through coordinated trading that takes advantage of the assumption that all tokens are identical, potentially enabling what economist Albert Kyle calls "informed trading" that exploits temporary information asymmetries.
 
-[[Flash Loan]] attacks demonstrate how fungibility can be exploited for economic manipulation where attackers can borrow large quantities of tokens, manipulate markets through their fungible properties, and repay loans within single transactions while extracting value from protocol inefficiencies.
+[[Flash Loans]] attacks demonstrate how fungibility can be exploited for economic manipulation where attackers can borrow large quantities of tokens, manipulate markets through their fungible properties, and repay loans within single transactions while extracting value from protocol inefficiencies.
 
 [[Governance Attacks]] may exploit token fungibility where attackers can rapidly acquire governance tokens and use their fungible voting power to pass malicious proposals before other token holders can respond, potentially enabling what computer scientist Phil Daian calls "miner extractable value" extraction through governance manipulation.
 
@@ -149,16 +149,16 @@ The maturation of fungible digital assets depends on continued innovation in pri
 
 [[Token Standards]] - Technical protocols that implement fungibility in blockchain systems
 [[ERC-20]] - Ethereum token standard that defines fungible token interface requirements
-[[Decentralized Finance]] - Financial systems that depend on fungible tokens for automated operation
+[[Decentralized Finance (DeFi)]] - Financial systems that depend on fungible tokens for automated operation
 [[Liquidity Pools]] - Mechanisms that aggregate fungible tokens to provide market depth
-[[Automated Market Makers]] - Trading systems that use fungibility assumptions for price calculation
+[[automated market makers (AMMs)]] - Trading systems that use fungibility assumptions for price calculation
 [[Governance Tokens]] - Fungible tokens that represent voting rights in decentralized organizations
 [[Stablecoins]] - Fungible tokens designed to maintain stable value relative to reference assets
 [[Cross-Chain Bridges]] - Protocols that maintain fungibility across different blockchain networks
 [[Privacy Coins]] - Cryptocurrencies designed to preserve fungibility through transaction privacy
 [[Wrapped Tokens]] - Blockchain representations of assets from other networks that maintain fungibility
 [[Flash Loans]] - DeFi primitives that exploit fungibility for temporary capital access
-[[Yield Farming]] - Investment strategies that use fungible token rewards for liquidity provision
+[[yield farming]] - Investment strategies that use fungible token rewards for liquidity provision
 [[Market Making]] - Trading strategies that provide liquidity for fungible asset markets
 [[Central Bank Digital Currencies]] - Government-issued digital currencies with controlled fungibility
 [[Securities Regulation]] - Legal frameworks that may affect token fungibility through classification requirements
