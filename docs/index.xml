@@ -6,65 +6,65 @@
       <description>Last 10 notes on Web3 Meta-Crisis Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Collective Action Problems</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problems</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problems</guid>
-    <description><![CDATA[ Collective Action Problems Definition and Theoretical Foundations Collective Action Problems represent situations where individual rational behavior leads to suboptimal collective outcomes, occurring when groups of people would benefit from coordinated action but lack effective mechanisms for achiev... ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:19:38 GMT</pubDate>
-  </item><item>
-    <title>Natural Capital Accounting</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Natural-Capital-Accounting</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Natural-Capital-Accounting</guid>
-    <description><![CDATA[ Natural Capital Accounting Definition and Theoretical Foundations Natural Capital Accounting represents a systematic approach to measuring and valuing the stock of natural resources and ecosystem services that provide benefits to human society, extending traditional economic accounting to include en... ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:17:20 GMT</pubDate>
-  </item><item>
     <title>Circular Economy</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Circular-Economy</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Circular-Economy</guid>
     <description><![CDATA[ Circular Economy Definition and Theoretical Foundations The Circular Economy represents an economic model designed to eliminate waste and maximize resource efficiency through closed-loop systems where materials flow in continuous cycles rather than linear “take-make-dispose” patterns. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:15:39 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
   </item><item>
     <title>Coase Theorem</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Coase-Theorem</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Coase-Theorem</guid>
     <description><![CDATA[ Coase Theorem Definition and Theoretical Foundations The Coase Theorem represents a fundamental principle in economics stating that under conditions of zero Transaction Costs and clearly defined property rights, parties will bargain to reach efficient outcomes regardless of the initial allocation of... ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:13:44 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
   </item><item>
-    <title>Transaction Costs</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Transaction-Costs</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Transaction-Costs</guid>
-    <description><![CDATA[ Transaction Costs Definition and Theoretical Foundations Transaction Costs represent the economic costs of participating in market transactions beyond the direct price of goods or services, including search costs, negotiation costs, monitoring costs, and enforcement costs required to complete econom... ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:12:06 GMT</pubDate>
-  </item><item>
-    <title>Regulatory Compliance</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Compliance</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Compliance</guid>
-    <description><![CDATA[ Regulatory Compliance Definition and Theoretical Foundations Regulatory Compliance encompasses the processes, systems, and organizational practices required to ensure adherence to laws, regulations, and industry standards within specific jurisdictions and regulatory frameworks. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:09:49 GMT</pubDate>
+    <title>Collective Action Problems</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problems</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problems</guid>
+    <description><![CDATA[ Collective Action Problems Definition and Theoretical Foundations Collective Action Problems represent situations where individual rational behavior leads to suboptimal collective outcomes, occurring when groups of people would benefit from coordinated action but lack effective mechanisms for achiev... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
   </item><item>
     <title>Echo Chambers</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Echo-Chambers</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Echo-Chambers</guid>
     <description><![CDATA[ Echo Chambers Definition and Theoretical Foundations Echo Chambers represent communication environments where individuals encounter only information and opinions that confirm their existing beliefs, creating what communication scholar Eli Pariser calls “filter bubbles” where exposure to contradictor... ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:08:02 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
   </item><item>
-    <title>Multi-Signature</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-Signature</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-Signature</guid>
-    <description><![CDATA[ Multi-Signature Definition and Theoretical Foundations Multi-Signature (multisig) represents a cryptographic mechanism that requires multiple private keys to authorize a single transaction or operation, implementing what computer scientist Silvio Micali calls “threshold cryptography” where control o... ]]></description>
-    <pubDate>Fri, 03 Oct 2025 03:05:58 GMT</pubDate>
+    <title>Natural Capital Accounting</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Natural-Capital-Accounting</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Natural-Capital-Accounting</guid>
+    <description><![CDATA[ Natural Capital Accounting Definition and Theoretical Foundations Natural Capital Accounting represents a systematic approach to measuring and valuing the stock of natural resources and ecosystem services that provide benefits to human society, extending traditional economic accounting to include en... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
+  </item><item>
+    <title>Regulatory Compliance</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Compliance</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Compliance</guid>
+    <description><![CDATA[ Regulatory Compliance Definition and Theoretical Foundations Regulatory Compliance encompasses the processes, systems, and organizational practices required to ensure adherence to laws, regulations, and industry standards within specific jurisdictions and regulatory frameworks. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
+  </item><item>
+    <title>Transaction Costs</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Transaction-Costs</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Transaction-Costs</guid>
+    <description><![CDATA[ Transaction Costs Definition and Theoretical Foundations Transaction Costs represent the economic costs of participating in market transactions beyond the direct price of goods or services, including search costs, negotiation costs, monitoring costs, and enforcement costs required to complete econom... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
   </item><item>
     <title>tokenization</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</guid>
     <description><![CDATA[ Tokenization Definition and Economic Theory Tokenization represents the process of converting rights, claims, or assets into programmable digital tokens that can be transferred, traded, and composed within blockchain ecosystems. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:51:02 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
   </item><item>
     <title>Decentralized Autonomous Organizations (DAOs)</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</guid>
-    <description><![CDATA[ Definition Decentralized Autonomous Organizations (DAOs) are novel organizational structures that are community-owned and managed, operating on a blockchain according to rules encoded in smart contracts. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:51:02 GMT</pubDate>
+    <description><![CDATA[ Decentralized Autonomous Organizations (DAOs) Definition and Theoretical Foundations Decentralized Autonomous Organizations (DAOs) represent a fundamental innovation in organizational design where collective decision-making and resource management occur through programmable governance mechanisms imp... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
+  </item><item>
+    <title>Multi-Signature</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-Signature</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-Signature</guid>
+    <description><![CDATA[ Multi-Signature Definition and Theoretical Foundations Multi-Signature (multisig) represents a cryptographic mechanism that requires multiple private keys to authorize a single transaction or operation, implementing what computer scientist Silvio Micali calls “threshold cryptography” where control o... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:25:22 GMT</pubDate>
   </item>
     </channel>
   </rss>
