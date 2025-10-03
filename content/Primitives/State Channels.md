@@ -4,6 +4,9 @@ aliases:
   - "state-channels"
   - "State-Channels"
   - "state -channels"
+  - "Payment Channels"
+  - "Channel Capacity"
+  - "state channels"
 ---
 
 

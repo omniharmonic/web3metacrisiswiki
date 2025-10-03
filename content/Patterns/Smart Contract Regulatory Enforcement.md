@@ -4,6 +4,8 @@ aliases:
   - "smart-contract-regulatory-enforcement"
   - "Smart-Contract-Regulatory-Enforcement"
   - "smart -contract -regulatory -enforcement"
+  - "Smart Contract Security"
+  - "Smart Contract Auditing"
 ---
 
 # Smart Contract Regulatory Enforcement

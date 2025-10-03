@@ -7,6 +7,10 @@ aliases:
   - "Commons tragedy"
   - "Hardin's tragedy"
   - "Hardin's Tragedy"
+  - "Tragedy of Commons"
+  - "commons problem"
+  - "resource depletion"
+  - "collective action failure"
 ---
 
 # Tragedy of the Commons
@@ -165,7 +169,7 @@ Web3 technologies enable new approaches to public goods funding that can address
 **Blockchain Public Goods Mechanisms:**
 - **[[Quadratic Funding]]**: Democratic resource allocation that amplifies broad community support
 - **[[Reputation Systems]]**: Verifiable records of contribution that can inform future cooperation
-- **[[Token Economics]]**: Economic incentives that align individual behavior with collective welfare
+- ****Token Economics****: Economic incentives that align individual behavior with collective welfare
 - **[[Governance Tokens]]**: Voting mechanisms that enable community participation in resource management
 
 These mechanisms demonstrate how programmable money and governance can potentially address traditional commons problems while enabling coordination at unprecedented scales.
@@ -244,17 +248,17 @@ Future developments should prioritize hybrid approaches that combine technologic
 
 ## Related Concepts
 
-[[Commons Governance]] - Institutional arrangements for managing shared resources sustainably
+[[commons governance]] - Institutional arrangements for managing shared resources sustainably
 [[Public Goods]] - Resources that face similar provision challenges as common pool resources
 [[Collective Action Problems]] - Broader category of coordination challenges including commons tragedies
 [[Externalities]] - Economic effects that contribute to commons tragedy dynamics
-[[Market Failure]] - Economic inefficiencies that commons tragedies represent
-[[Polycentric Governance]] - Multi-level governance approach for managing complex commons
+**Market Failure** - Economic inefficiencies that commons tragedies represent
+[[polycentric governance]] - Multi-level governance approach for managing complex commons
 [[Social Capital]] - Trust and relationships that enable commons management without tragedy
 [[Prisoner's Dilemma]] - Game theory model that formalizes commons tragedy logic
 [[Free Rider Problem]] - Related coordination challenge affecting public goods provision
 [[Coase Theorem]] - Economic theory about property rights solutions to commons problems
-[[Pigouvian Taxes]] - Government intervention approach to addressing commons tragedies
+**Pigouvian Taxes** - Government intervention approach to addressing commons tragedies
 [[Carbon Credit Tokenization]] - Blockchain application to climate commons problems
 [[Quadratic Funding]] - Mechanism design approach to public goods and commons challenges
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems that can manage digital commons
@@ -263,4 +267,4 @@ Future developments should prioritize hybrid approaches that combine technologic
 [[Network Effects]] - Dynamics that can create or prevent commons tragedy outcomes
 [[Coordination Problems]] - General class of challenges that includes commons tragedies
 [[Game Theory]] - Mathematical framework for analyzing commons tragedy dynamics
-[[Property Rights]] - Legal institutions that can prevent or cause commons tragedies
+**Property Rights** - Legal institutions that can prevent or cause commons tragedies

@@ -8,6 +8,17 @@ aliases:
   - "Identity verification"
   - "user authentication"
   - "User authentication"
+  - "Multi-Factor Authentication"
+  - "Art Authentication"
+  - "Biometric Authentication"
+  - "Digital_Art_Authentication"
+  - "Authentication_vs_Verification"
+  - "Institutional_Authentication"
+  - "Multi-Factor Authentication"
+  - "Art Authentication"
+  - "Digital_Art_Authentication"
+  - "Authentication_vs_Verification"
+  - "Institutional_Authentication"
 ---
 
 # Authentication
@@ -75,9 +86,9 @@ However, biometric authentication raises privacy concerns including what securit
 
 Digital signature authentication eliminates password vulnerabilities while enabling authentication that doesn't require sharing secrets with service providers, implementing what cryptographer David Chaum calls "privacy-preserving authentication."
 
-### [[Decentralized Identity]] and Self-Sovereign Authentication
+### [[decentralized identity]] and Self-Sovereign Authentication
 
-[[Decentralized Identity]] systems enable authentication without dependence on centralized identity providers, implementing what identity researcher Christopher Allen calls "self-sovereign identity" where individuals control their own authentication credentials and identity information.
+[[decentralized identity]] systems enable authentication without dependence on centralized identity providers, implementing what identity researcher Christopher Allen calls "self-sovereign identity" where individuals control their own authentication credentials and identity information.
 
 **Decentralized Identity Components:**
 - **Decentralized Identifiers (DIDs)**: Cryptographic identifiers that users control without central authorities
@@ -87,9 +98,9 @@ Digital signature authentication eliminates password vulnerabilities while enabl
 
 This approach addresses what privacy researcher Kaliya Young calls "identity infrastructure" problems where centralized identity systems create surveillance capabilities and single points of failure for identity management.
 
-### [[Zero Knowledge Proof (ZKP)]] and Privacy-Preserving Authentication
+### [[zero knowledge proof (ZKP)]] and Privacy-Preserving Authentication
 
-[[Zero Knowledge Proof (ZKP)]] technologies enable authentication that proves identity or membership without revealing sensitive information about users, implementing what cryptographer Shafi Goldwasser calls "knowledge complexity" where verification requires minimal information disclosure.
+[[zero knowledge proof (ZKP)]] technologies enable authentication that proves identity or membership without revealing sensitive information about users, implementing what cryptographer Shafi Goldwasser calls "knowledge complexity" where verification requires minimal information disclosure.
 
 **Zero Knowledge Authentication Applications:**
 - **Age Verification**: Proving legal age without revealing specific birthdate
@@ -260,23 +271,23 @@ Future developments should prioritize usability improvements, security against s
 ## Related Concepts
 
 [[Digital Signatures]] - Cryptographic mechanism underlying most blockchain authentication
-[[Decentralized Identity]] - Identity management systems that enable self-sovereign authentication
+[[decentralized identity]] - Identity management systems that enable self-sovereign authentication
 [[Verifiable Credentials]] - Cryptographically signed attestations used for authentication
-[[Zero Knowledge Proof (ZKP)]] - Privacy-preserving techniques for authentication verification
+[[zero knowledge proof (ZKP)]] - Privacy-preserving techniques for authentication verification
 [[Account Abstraction]] - Programmable account systems that enable sophisticated authentication
 [[Access Control]] - Authorization mechanisms that follow successful authentication
 [[Private Key Management]] - Security challenge underlying cryptographic authentication
 [[Multi-Factor Authentication]] - Security approach requiring multiple authentication factors
 [[Biometric Authentication]] - Identity verification using biological characteristics
 [[Phishing]] - Attack method targeting authentication credentials and user trust
-[[Wallet Connect]] - Protocol enabling authentication through cryptocurrency wallets
-[[Sign-In With Ethereum]] - Standard for blockchain-based web authentication
+**Wallet Connect** - Protocol enabling authentication through cryptocurrency wallets
+**Sign-In With Ethereum** - Standard for blockchain-based web authentication
 [[Reputation Systems]] - Community-based authentication mechanisms
-[[Public Key Cryptography]] - Mathematical foundation for cryptographic authentication
-[[Session Management]] - Maintaining authentication state across multiple interactions
+**Public Key Cryptography** - Mathematical foundation for cryptographic authentication
+**Session Management** - Maintaining authentication state across multiple interactions
 [[Password Security]] - Traditional authentication mechanism with known vulnerabilities
 [[Hardware Security Modules]] - Secure devices for authentication key storage
-[[Privacy by Design]] - Design approach integrating privacy protection with authentication
+**Privacy by Design** - Design approach integrating privacy protection with authentication
 [[Surveillance Capitalism]] - Economic model that authentication systems may enable or resist
 [[Regulatory Compliance]] - Legal requirements affecting authentication system design
-[[Cross-Chain Identity]] - Authentication across multiple blockchain networks
+**Cross-Chain Identity** - Authentication across multiple blockchain networks

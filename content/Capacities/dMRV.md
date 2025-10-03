@@ -74,12 +74,12 @@ The emphasis on decentralization may distract from more fundamental challenges a
 
 ## Related Concepts
 
-[[Oracle_Problem]] - Bridging physical measurements to blockchain
-[[Carbon_Markets]] - Environmental credit trading systems
-[[Satellite_Monitoring]] - Remote sensing for environmental data
-[[IoT_Sensors]] - Automated data collection devices
-[[Traditional_MRV]] - Institutional verification systems
-[[Verification_Expertise]] - Specialized knowledge requirements
-[[Environmental_Impact_Assessment]] - Methodologies for measuring effects
+**Oracle_Problem** - Bridging physical measurements to blockchain
+**Carbon_Markets** - Environmental credit trading systems
+**Satellite_Monitoring** - Remote sensing for environmental data
+**IoT_Sensors** - Automated data collection devices
+**Traditional_MRV** - Institutional verification systems
+**Verification_Expertise** - Specialized knowledge requirements
+**Environmental_Impact_Assessment** - Methodologies for measuring effects
 [[Blockchain_Transparency]] - Public record-keeping
-[[Voluntary_Carbon_Markets]] - Non-regulated carbon trading
+**Voluntary_Carbon_Markets** - Non-regulated carbon trading

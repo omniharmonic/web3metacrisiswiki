@@ -1,6 +1,8 @@
 ---
 aliases:
   - "choice"
+  - "Public Choice Theory"
+  - "Choice Architecture"
 ---
 
 # Choice
@@ -99,7 +101,7 @@ Future developments likely require more sophisticated understanding of the relat
 [[Decentralized Autonomous Organizations (DAOs)]] - Collective choice architectures and governance mechanisms
 [[Quadratic Voting]] - Democratic mechanisms for expressing preference intensity
 [[Conviction Voting]] - Time-weighted decision-making that reflects commitment depth
-[[Economic Pluralism]] - Alternative value systems beyond market mechanisms
+**Economic Pluralism** - Alternative value systems beyond market mechanisms
 [[polycentric governance]] - Distributed authority structures preserving local autonomy
-[[Libertarian Paternalism]] - Choice architecture that guides without constraining
+**Libertarian Paternalism** - Choice architecture that guides without constraining
 [[Collective Action Problem]] - Coordination challenges in collective choice contexts

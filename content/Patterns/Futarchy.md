@@ -90,8 +90,8 @@ Future developments likely require hybrid approaches that combine market-based i
 [[Mechanism Design]] - Theoretical framework for designing incentive-compatible institutions
 [[Choice]] - Individual and collective agency in democratic decision-making processes
 [[Vitality]] - Organizing principle for governance systems that enhance life-supporting capacity
-[[Wisdom of Crowds]] - Conditions under which collective intelligence exceeds individual expertise
-[[Information Aggregation]] - Processes for combining dispersed knowledge into collective decisions
+**Wisdom of Crowds** - Conditions under which collective intelligence exceeds individual expertise
+**Information Aggregation** - Processes for combining dispersed knowledge into collective decisions
 [[Democratic Legitimacy]] - Normative foundations for legitimate collective authority
-[[Market Efficiency]] - Economic theory about information incorporation in market prices
-[[Epistemic Democracy]] - Democratic theory focused on knowledge and truth-seeking rather than preference satisfaction
+**Market Efficiency** - Economic theory about information incorporation in market prices
+**Epistemic Democracy** - Democratic theory focused on knowledge and truth-seeking rather than preference satisfaction

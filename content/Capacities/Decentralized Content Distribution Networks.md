@@ -77,11 +77,11 @@ The governance challenges around illegal content and content moderation suggest 
 
 ## Related Concepts
 
-[[Censorship_Resistance]] - Political implications of unblockable content
-[[Content_Addressing]] - IPFS and hash-based content identification
-[[Decentralized_Storage]] - Filecoin, Arweave economic models
-[[Content_Moderation]] - Governance challenges in distributed systems
-[[Platform_Power]] - Centralized vs decentralized infrastructure
-[[Performance_Trade_offs]] - Efficiency costs of decentralization
-[[Hybrid_Architecture]] - Combining centralized and decentralized approaches
-[[Network_Effects]] - Adoption barriers for alternative platforms
+**Censorship_Resistance** - Political implications of unblockable content
+**Content_Addressing** - IPFS and hash-based content identification
+**Decentralized_Storage** - Filecoin, Arweave economic models
+**Content_Moderation** - Governance challenges in distributed systems
+**Platform_Power** - Centralized vs decentralized infrastructure
+**Performance_Trade_offs** - Efficiency costs of decentralization
+**Hybrid_Architecture** - Combining centralized and decentralized approaches
+**Network_Effects** - Adoption barriers for alternative platforms

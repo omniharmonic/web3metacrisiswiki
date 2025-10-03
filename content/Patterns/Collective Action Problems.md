@@ -276,7 +276,7 @@ Digital technologies can dramatically reduce the transaction costs of collective
 
 ### Smart Contract Automation and Trust Infrastructure
 
-[[Smart Contracts]] can automate collective action coordination by implementing pre-agreed rules and automatically executing collective decisions without requiring ongoing trust or monitoring.
+[[smart contracts]] can automate collective action coordination by implementing pre-agreed rules and automatically executing collective decisions without requiring ongoing trust or monitoring.
 
 **Smart Contract Collective Action Benefits:**
 - **Automated Execution**: Implementation of collective decisions without requiring trusted intermediaries
@@ -395,19 +395,19 @@ The measurement and evaluation of collective action solutions requires sophistic
 [[Free Rider Problem]] - Core mechanism underlying many collective action failures
 [[Social Capital]] - Trust and relationships that can enable solutions to collective action problems
 [[Game Theory]] - Mathematical framework for analyzing collective action problems and potential solutions
-[[Principal-Agent Problems]] - Coordination challenges that create collective action difficulties
+**Principal-Agent Problems** - Coordination challenges that create collective action difficulties
 [[Network Effects]] - Value creation dynamics that can either cause or solve collective action problems
 [[Externalities]] - Market failures that often require collective action solutions
 [[Democratic Innovation]] - Governance approaches designed to solve collective action problems
 [[Decentralized Autonomous Organizations (DAOs)]] - Web3 solution for large-scale collective action coordination
 [[Quadratic Funding]] - Mechanism design approach to public goods funding and collective action
-[[Smart Contracts]] - Automated systems that can reduce transaction costs of collective action
+[[smart contracts]] - Automated systems that can reduce transaction costs of collective action
 [[Reputation Systems]] - Trust mechanisms that can support cooperation in collective action situations
 [[Coordination Problems]] - Specific category of collective action problems involving multiple equilibria
-[[Institutional Economics]] - Economic framework for understanding how institutions affect collective action
+**Institutional Economics** - Economic framework for understanding how institutions affect collective action
 [[Mechanism Design]] - Field focused on creating systems that solve collective action problems
-[[Social Dilemmas]] - Game theory situations where individual and collective rationality conflict
-[[Polycentric Governance]] - Governance approach that can address collective action problems at multiple scales
+**Social Dilemmas** - Game theory situations where individual and collective rationality conflict
+[[polycentric governance]] - Governance approach that can address collective action problems at multiple scales
 [[Transaction Costs]] - Economic barriers that can prevent solutions to collective action problems
 [[Community Governance]] - Local-level institutions that can solve collective action problems
-[[Global Governance]] - International coordination mechanisms for addressing collective action problems
+**Global Governance** - International coordination mechanisms for addressing collective action problems

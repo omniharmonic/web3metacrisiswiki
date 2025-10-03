@@ -4,6 +4,7 @@ aliases:
   - "coordination-problem"
   - "Coordination-Problem"
   - "coordination -problem"
+  - "Coordination"
 ---
 
 # Coordination Problem
@@ -82,7 +83,7 @@ The global and pseudonymous nature of Web3 governance further complicates tradit
 
 The emergence of multiple blockchain ecosystems creates coordination challenges around interoperability standards where the benefits of cross-chain functionality depend on widespread adoption while individual protocols face competitive pressure to maintain ecosystem lock-in. Projects including Polkadot, Cosmos, and Layer 2 solutions represent different approaches to multi-chain coordination.
 
-[[Atomic Swaps]], [[Bridge Protocols]], and [[Cross-Chain Communication]] standards attempt to enable coordination across incompatible systems while facing security challenges and the complexity of managing different consensus mechanisms, economic models, and governance structures across multiple chains.
+[[Atomic Swaps]], **Bridge Protocols**, and **Cross-Chain Communication** standards attempt to enable coordination across incompatible systems while facing security challenges and the complexity of managing different consensus mechanisms, economic models, and governance structures across multiple chains.
 
 The tension between maximizing individual protocol value and enabling ecosystem-wide coordination represents a persistent challenge where short-term competitive dynamics may conflict with long-term collective benefits from interoperability and standardization.
 
@@ -138,5 +139,5 @@ The maturation of Web3 coordination mechanisms depends on solving fundamental ch
 [[Prediction Markets]] - Information aggregation mechanisms that can enhance coordination
 [[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures for coordinated governance
 [[Interoperability]] - Technical capacity for coordination across different systems
-[[Path Dependence]] - Historical influence on coordination outcomes and lock-in effects
-[[Social Conventions]] - Informal coordination mechanisms that emerge through repeated interaction
+**Path Dependence** - Historical influence on coordination outcomes and lock-in effects
+**Social Conventions** - Informal coordination mechanisms that emerge through repeated interaction

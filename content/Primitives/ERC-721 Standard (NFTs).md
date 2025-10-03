@@ -4,6 +4,8 @@ aliases:
   - "erc-721-standard-(nfts)"
   - "Erc-721-Standard-(Nfts)"
   - "e-r-c-721 -standard (-n-f-ts)"
+  - "NFT"
+  - "NFTs"
 ---
 
 
@@ -147,7 +149,7 @@ interface ERC721 {
 ## Related Concepts
 
 - [[tokenization]] - The process of creating digital representations of assets
-- [[Digital_Ownership]] - New forms of property rights in digital spaces
-- [[Creator_Economy]] - Economic models empowering content creators
-- [[Virtual_Economies]] - Economic systems within digital environments
-- [[Intellectual_Property]] - Legal frameworks for digital asset ownership
+- **Digital_Ownership** - New forms of property rights in digital spaces
+- **Creator_Economy** - Economic models empowering content creators
+- **Virtual_Economies** - Economic systems within digital environments
+- **Intellectual_Property** - Legal frameworks for digital asset ownership

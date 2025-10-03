@@ -115,17 +115,17 @@ Race-to-the-bottom dynamics must be addressed through:
 [[regulatory capture]] - Process where regulated industries influence regulatory agencies to serve industry rather than public interests
 [[economic centralization]] - Concentration of wealth and power that enables standards degradation through political influence
 [[Regulatory Arbitrage]] - Strategic use of jurisdictional differences to avoid regulatory costs
-[[Delaware Effect]] - Regulatory competition leading to lowest-common-denominator standards
-[[Competitive Federalism]] - Competition between jurisdictions that may lead to either improvement or degradation
+**Delaware Effect** - Regulatory competition leading to lowest-common-denominator standards
+**Competitive Federalism** - Competition between jurisdictions that may lead to either improvement or degradation
 [[Exit vs Voice]] - Economic framework for understanding responses to organizational or jurisdictional decline
 [[Collective Action Problem]] - Coordination challenges where individual and collective rationality diverge
 [[Environmental Justice]] - Movement addressing how standards degradation disproportionately affects marginalized communities
-[[Labor Standards]] - Worker protections that may erode through competitive pressure
+**Labor Standards** - Worker protections that may erode through competitive pressure
 [[Supply Chain Transparency]] - Monitoring systems that could potentially prevent hidden standards degradation
-[[Corporate Social Responsibility]] - Voluntary corporate standards that may be inadequate without regulatory enforcement
-[[International Trade]] - Global economic integration that can intensify regulatory competition
-[[Tax Competition]] - Jurisdictional competition for investment through tax reduction that parallels regulatory competition
+**Corporate Social Responsibility** - Voluntary corporate standards that may be inadequate without regulatory enforcement
+**International Trade** - Global economic integration that can intensify regulatory competition
+**Tax Competition** - Jurisdictional competition for investment through tax reduction that parallels regulatory competition
 [[Institutional Quality]] - Governance capacity that affects ability to maintain standards under competitive pressure
-[[Social Dumping]] - Using lower social standards as competitive advantage in international trade
-[[Environmental Dumping]] - Using lower environmental standards to reduce costs and gain competitive advantage
+**Social Dumping** - Using lower social standards as competitive advantage in international trade
+**Environmental Dumping** - Using lower environmental standards to reduce costs and gain competitive advantage
 [[regenerative economics]] - Economic approaches that could potentially reverse race-to-the-bottom dynamics through positive standards competition

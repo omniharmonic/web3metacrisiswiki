@@ -4,6 +4,7 @@ aliases:
   - "social-engineering-attacks"
   - "Social-Engineering-Attacks"
   - "social -engineering -attacks"
+  - "Social Engineering"
 ---
 
 # Social Engineering Attacks

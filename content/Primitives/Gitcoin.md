@@ -1,6 +1,10 @@
 ---
 aliases:
   - "gitcoin"
+  - "Gitcoin_Grants"
+  - "Gitcoin_Grants"
+  - "gitcoin grants"
+  - "public goods funding"
 ---
 
 

@@ -2,6 +2,9 @@
 aliases:
   - "technological-sovereignty"
   - "Technological-Sovereignty"
+  - "Technological Solutionism"
+  - "tech sovereignty"
+  - "digital sovereignty"
 ---
 
 # Technological Sovereignty

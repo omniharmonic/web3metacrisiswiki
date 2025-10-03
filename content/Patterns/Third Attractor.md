@@ -119,7 +119,7 @@ The maturation of Third Attractor possibilities depends on solving fundamental c
 [[consensus mechanisms]] - Coordination technologies that enable cooperation without centralized control
 [[smart contracts]] - Programmable agreements that can encode prosocial rather than extractive logic
 [[Regenerative Finance]] - Economic mechanisms that restore rather than degrade social and ecological systems
-[[Living Systems Economics]] - Economic frameworks that prioritize life-supporting capacity over abstract metrics
+**Living Systems Economics** - Economic frameworks that prioritize life-supporting capacity over abstract metrics
 [[Democratic Innovation]] - Governance experiments that enhance rather than constrain meaningful participation
 [[technological sovereignty]] - Community control over the technologies that shape social and economic relationships
 [[Cultural Evolution]] - Transformation of values and worldviews that support systemic change

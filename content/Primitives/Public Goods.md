@@ -66,7 +66,7 @@ However, quadratic funding faces ongoing challenges with identity verification, 
 
 ### Blockchain-Based Public Goods Infrastructure
 
-Blockchain technology enables transparent, tamper-resistant systems for managing public goods contributions and distribution while reducing reliance on traditional institutional intermediaries. [[Smart Contracts]] can automate funding distribution based on predetermined criteria while maintaining public accountability and reducing administrative costs.
+Blockchain technology enables transparent, tamper-resistant systems for managing public goods contributions and distribution while reducing reliance on traditional institutional intermediaries. [[smart contracts]] can automate funding distribution based on predetermined criteria while maintaining public accountability and reducing administrative costs.
 
 **Reputation-Based Contribution Tracking**: Blockchain systems can create permanent records of public goods contributions that enable what sociologist James Coleman calls "social capital" formation through verifiable proof of community benefit, potentially creating incentives for public goods provision through social recognition and reciprocity mechanisms.
 
@@ -74,7 +74,7 @@ Blockchain technology enables transparent, tamper-resistant systems for managing
 
 ### Retroactive Public Goods Funding
 
-Retroactive funding mechanisms address the uncertainty and risk associated with funding experimental public goods by rewarding outcomes rather than proposals. [[Optimism]]'s RetroPGF program demonstrates how communities can reward public goods creators after verifying impact, potentially reducing funding risk while maintaining incentives for innovation.
+Retroactive funding mechanisms address the uncertainty and risk associated with funding experimental public goods by rewarding outcomes rather than proposals. **Optimism**'s RetroPGF program demonstrates how communities can reward public goods creators after verifying impact, potentially reducing funding risk while maintaining incentives for innovation.
 
 This approach implements what economist Friedrich Hayek calls "ex-post evaluation" where resource allocation decisions are based on demonstrated results rather than projected benefits, potentially improving funding efficiency while reducing the coordination costs of prospective evaluation.
 
@@ -110,15 +110,15 @@ However, the complexity of climate systems and the long temporal scales involved
 
 Democratic institutions including fair elections, independent media, and civic organizations represent what political scientist Robert Putnam calls "social capital" that benefits entire communities while requiring ongoing investment and participation to maintain effectiveness.
 
-The systematic erosion of democratic institutions in many countries demonstrates how the public goods nature of democratic governance creates vulnerabilities where short-term private interests can undermine long-term collective benefits through [[regulatory capture]], [[disinformation campaigns]], and [[voter suppression]].
+The systematic erosion of democratic institutions in many countries demonstrates how the public goods nature of democratic governance creates vulnerabilities where short-term private interests can undermine long-term collective benefits through [[regulatory capture]], **disinformation campaigns**, and **voter suppression**.
 
-Emerging technologies including [[Verifiable Credentials]], [[Digital Identity]], and blockchain-based voting systems offer potential tools for strengthening democratic institutions while addressing traditional vulnerabilities to manipulation and exclusion.
+Emerging technologies including [[Verifiable Credentials]], **Digital Identity**, and blockchain-based voting systems offer potential tools for strengthening democratic institutions while addressing traditional vulnerabilities to manipulation and exclusion.
 
 ## Challenges and Implementation Barriers
 
 ### Identity and Collusion Resistance
 
-Many innovative public goods funding mechanisms depend on accurate identity verification to prevent what computer scientists call "Sybil attacks" where single actors create multiple identities to manipulate resource allocation. The development of robust [[Digital Identity]] systems that preserve privacy while preventing abuse represents an ongoing technical and governance challenge.
+Many innovative public goods funding mechanisms depend on accurate identity verification to prevent what computer scientists call "Sybil attacks" where single actors create multiple identities to manipulate resource allocation. The development of robust **Digital Identity** systems that preserve privacy while preventing abuse represents an ongoing technical and governance challenge.
 
 Collusion resistance requires mechanisms that can detect and prevent coordination among participants to game funding algorithms, while maintaining the legitimate coordination that enables effective public goods provision. This creates tension between preventing abuse and enabling beneficial cooperation.
 
@@ -148,20 +148,20 @@ Future developments likely require more sophisticated integration of local parti
 
 [[Public Goods Funding]] - Mechanisms and platforms for financing public goods creation and maintenance
 [[Quadratic Funding]] - Mathematical algorithm for democratically allocating resources to public goods
-[[Commons Governance]] - Institutional arrangements for managing shared resources sustainably
+[[commons governance]] - Institutional arrangements for managing shared resources sustainably
 [[Free Rider Problem]] - Economic challenge where individuals benefit without contributing to public goods
 [[Collective Action Problems]] - Coordination challenges that prevent beneficial cooperation
 [[Social Capital]] - Network relationships and institutional trust that enable public goods provision
 [[Positive Externalities]] - Social benefits that extend beyond direct participants in economic activities
-[[Open Source Software]] - Collaborative development model that creates digital public goods
-[[Digital Commons]] - Shared digital resources including knowledge, software, and cultural works
+**Open Source Software** - Collaborative development model that creates digital public goods
+**Digital Commons** - Shared digital resources including knowledge, software, and cultural works
 [[Environmental Justice]] - Fair distribution of environmental benefits and burdens across communities
-[[Democratic Institutions]] - Governance systems that require ongoing investment and participation
+**Democratic Institutions** - Governance systems that require ongoing investment and participation
 [[Conviction Voting]] - Voting mechanism that weights preferences by time commitment to proposals
 [[Reputation Systems]] - Mechanisms for tracking and rewarding public goods contributions
 [[Gitcoin]] - Platform demonstrating quadratic funding for digital public goods
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance structures for collective public goods management
-[[Smart Contracts]] - Programmable agreements that can automate public goods funding and distribution
+[[smart contracts]] - Programmable agreements that can automate public goods funding and distribution
 [[Carbon Credit Tokenization]] - Market mechanisms for incentivizing climate stability public goods
 [[Verifiable Credentials]] - Identity systems that can enable Sybil-resistant public goods funding
 [[Network Effects]] - Mechanisms through which public goods value can increase with participation

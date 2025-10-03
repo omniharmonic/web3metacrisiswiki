@@ -7,6 +7,9 @@ aliases:
   - "Governance innovation"
   - "participatory innovation"
   - "Participatory innovation"
+  - "governance innovation"
+  - "democratic reform"
+  - "participatory governance"
 ---
 
 # Democratic Innovation
@@ -252,17 +255,17 @@ The measurement and evaluation of democratic innovation requires continued resea
 [[Deliberative Democracy]] - Democratic theory emphasizing reasoned dialogue and deliberation
 [[Liquid Democracy]] - Flexible representation combining direct and representative democracy
 [[Decentralized Autonomous Organizations (DAOs)]] - Programmable governance enabling democratic innovation
-[[Digital Democracy]] - Use of technology to enhance democratic participation and decision-making
-[[Civic Technology]] - Digital tools and platforms designed to support citizen engagement
-[[Participatory Budgeting]] - Direct citizen participation in government resource allocation
-[[Citizens' Assemblies]] - Randomly selected groups for informed deliberation on policy issues
+**Digital Democracy** - Use of technology to enhance democratic participation and decision-making
+**Civic Technology** - Digital tools and platforms designed to support citizen engagement
+**Participatory Budgeting** - Direct citizen participation in government resource allocation
+**Citizens' Assemblies** - Randomly selected groups for informed deliberation on policy issues
 [[Reputation Systems]] - Merit-based mechanisms that can inform democratic participation
 [[Collective Intelligence]] - Distributed problem-solving capacity that democratic innovation can harness
 [[Social Capital]] - Trust and relationships that enable effective democratic innovation
-[[Democratic Theory]] - Political science framework for understanding and evaluating democracy
-[[Governance Innovation]] - Broader category of institutional reform including democratic innovation
-[[Public Participation]] - Citizen involvement in government decision-making processes
-[[Epistocracy]] - Governance approach that weighs expertise in democratic decision-making
+**Democratic Theory** - Political science framework for understanding and evaluating democracy
+**Governance Innovation** - Broader category of institutional reform including democratic innovation
+**Public Participation** - Citizen involvement in government decision-making processes
+**Epistocracy** - Governance approach that weighs expertise in democratic decision-making
 [[Platform Cooperatives]] - Democratic ownership models for digital platforms and services
 [[Steward Ownership]] - Corporate governance that prevents extraction while maintaining democracy
-[[Global Democracy]] - Transnational democratic participation and governance innovation
+**Global Democracy** - Transnational democratic participation and governance innovation

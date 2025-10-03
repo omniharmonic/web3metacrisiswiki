@@ -1,6 +1,11 @@
 ---
 aliases:
   - "arbitrage"
+  - "Regulatory Arbitrage"
+  - "Regulatory_Arbitrage"
+  - "Regulatory_Arbitrage"
+  - "arbitrage opportunities"
+  - "price arbitrage"
 ---
 
 # Arbitrage
@@ -147,7 +152,7 @@ The maturation of arbitrage markets depends on addressing technical risks, impro
 
 ## Related Concepts
 
-[[Market Making]] - Trading strategy that provides liquidity while earning spreads and arbitrage profits
+**Market Making** - Trading strategy that provides liquidity while earning spreads and arbitrage profits
 [[Price Discovery]] - Market mechanism through which arbitrage helps establish accurate asset prices
 [[Flash Loans]] - DeFi primitive that enables capital-efficient arbitrage without collateral requirements
 [[MEV]] - Maximal Extractable Value that includes arbitrage opportunities and other value extraction methods
@@ -159,8 +164,8 @@ The maturation of arbitrage markets depends on addressing technical risks, impro
 [[front running]] - Trading strategy that exploits advance knowledge of pending transactions
 [[sandwich attacks]] - MEV extraction technique that manipulates transaction ordering for profit
 [[Oracle Manipulation]] - Attack vector that creates false arbitrage opportunities through price feed manipulation
-[[Slippage]] - Price impact effect that reduces arbitrage profitability in large transactions
+**Slippage** - Price impact effect that reduces arbitrage profitability in large transactions
 [[Gas Optimization]] - Technical strategy for reducing transaction costs in arbitrage operations
-[[Risk Management]] - Framework for managing the various risks associated with arbitrage trading
-[[Market Efficiency]] - Economic concept that arbitrage helps achieve through price convergence
+**Risk Management** - Framework for managing the various risks associated with arbitrage trading
+**Market Efficiency** - Economic concept that arbitrage helps achieve through price convergence
 [[Transaction Costs]] - Expenses that reduce arbitrage profitability and create limits to market efficiency

@@ -37,7 +37,7 @@ Computer scientist Miguel Castro's Practical Byzantine Fault Tolerance (pBFT) al
 
 Consensus mechanisms depend on cryptographic primitives including hash functions, digital signatures, and verifiable random functions that provide the mathematical foundations for secure agreement protocols. These primitives enable what cryptographer Silvio Micali calls "cryptographic sortition" where participants can be selected for consensus roles without revealing their identity until after selection.
 
-[[Digital Signatures]] provide non-repudiation and authentication while [[Cryptographic Hash Functions]] enable efficient verification of large datasets and create tamper-evident data structures. [[Merkle Trees]] enable what computer scientist Ralph Merkle calls "logarithmic verification" where individual transactions can be proven to exist within agreed-upon blocks without requiring the full block data.
+[[Digital Signatures]] provide non-repudiation and authentication while **Cryptographic Hash Functions** enable efficient verification of large datasets and create tamper-evident data structures. **Merkle Trees** enable what computer scientist Ralph Merkle calls "logarithmic verification" where individual transactions can be proven to exist within agreed-upon blocks without requiring the full block data.
 
 However, the security of consensus mechanisms ultimately depends on cryptographic assumptions including the discrete logarithm problem and the computational infeasibility of hash function inversion, creating theoretical vulnerabilities to future advances in quantum computing or cryptanalysis.
 
@@ -180,20 +180,20 @@ The maturation of consensus mechanisms may determine whether decentralized syste
 [[Delegated Proof of Stake]] - Representative consensus where token holders elect validators to perform consensus on their behalf
 [[Practical Byzantine Fault Tolerance]] - Consensus algorithm providing immediate finality through explicit validator signatures
 [[blockchain]] - Distributed ledger technology that depends on consensus mechanisms for security and state agreement
-[[Validators]] - Network participants responsible for consensus participation and transaction verification
-[[Mining]] - Process of participating in proof-of-work consensus through computational puzzle solving
+**Validators** - Network participants responsible for consensus participation and transaction verification
+**Mining** - Process of participating in proof-of-work consensus through computational puzzle solving
 [[Staking]] - Process of participating in proof-of-stake consensus by locking tokens as collateral
 [[Slashing]] - Penalty mechanism in proof-of-stake systems that destroys validator stakes for provable misbehavior
-[[Finality]] - Property where confirmed transactions cannot be reversed or modified
-[[Fork]] - Event where blockchain networks split into competing versions due to consensus disagreement
+**Finality** - Property where confirmed transactions cannot be reversed or modified
+**Fork** - Event where blockchain networks split into competing versions due to consensus disagreement
 [[MEV]] - Value that consensus participants can extract through transaction ordering and timing decisions
-[[Cryptoeconomics]] - Field studying economic incentives in cryptographic protocols including consensus mechanisms
+**Cryptoeconomics** - Field studying economic incentives in cryptographic protocols including consensus mechanisms
 [[Sybil Attacks]] - Attack where adversaries create multiple fake identities to influence consensus processes
-[[51% Attack]] - Attack where majority control of consensus power enables double-spending and transaction reversal
-[[Nothing at Stake]] - Problem in proof-of-stake where validators may vote for multiple conflicting chains
-[[Long Range Attack]] - Attack in proof-of-stake where historical validators attempt to rewrite blockchain history
-[[Economic Finality]] - Consensus property where reversing decisions becomes economically irrational due to penalties
-[[Tendermint]] - Byzantine fault tolerant consensus algorithm providing immediate finality for known validator sets
-[[Casper]] - Family of proof-of-stake consensus protocols developed for Ethereum
-[[VRF]] - Verifiable Random Function enabling cryptographic sortition for validator selection
+**51% Attack** - Attack where majority control of consensus power enables double-spending and transaction reversal
+**Nothing at Stake** - Problem in proof-of-stake where validators may vote for multiple conflicting chains
+**Long Range Attack** - Attack in proof-of-stake where historical validators attempt to rewrite blockchain history
+**Economic Finality** - Consensus property where reversing decisions becomes economically irrational due to penalties
+**Tendermint** - Byzantine fault tolerant consensus algorithm providing immediate finality for known validator sets
+**Casper** - Family of proof-of-stake consensus protocols developed for Ethereum
+**VRF** - Verifiable Random Function enabling cryptographic sortition for validator selection
 [[Attestation]] - Cryptographic vote by validator about block validity in proof-of-stake systems

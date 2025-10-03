@@ -2,6 +2,8 @@
 aliases:
   - "scalability-trilemma"
   - "Scalability-Trilemma"
+  - "scalability"
+  - "Scalability"
 ---
 
 # Scalability Trilemma
@@ -90,7 +92,7 @@ What distributed systems researcher Dahlia Malkhi calls "HotStuff consensus" ena
 
 Optimistic rollups including Arbitrum and Optimism achieve significant throughput improvements through optimistic fraud proof systems where transactions are assumed valid unless challenged, creating what computer scientist Harry Kalodner calls "trust but verify" architectures.
 
-[[Zero-Knowledge Rollups]] including zkSync and StarkNet use cryptographic proofs to enable immediate transaction finality while maintaining base layer security, implementing what cryptographer Eli Ben-Sasson calls "transparent knowledge" where computation correctness can be verified without re-execution.
+**Zero-Knowledge Rollups** including zkSync and StarkNet use cryptographic proofs to enable immediate transaction finality while maintaining base layer security, implementing what cryptographer Eli Ben-Sasson calls "transparent knowledge" where computation correctness can be verified without re-execution.
 
 ### State Channels and Payment Layer Optimization
 
@@ -331,12 +333,12 @@ The resolution of scalability trilemma challenges may determine whether blockcha
 [[Cross-Chain Integration]] - Interoperability protocols that enable specialized blockchain coordination
 [[Modular Blockchain]] - Architectural approach separating consensus, execution, and data availability
 [[Network Effects]] - Economic dynamics where system value increases with user adoption
-[[Transaction Throughput]] - Performance metric measuring number of transactions processed per unit time
+**Transaction Throughput** - Performance metric measuring number of transactions processed per unit time
 [[decentralization]] - System property distributing control among multiple independent participants
-[[Cryptographic Security]] - Mathematical guarantees protecting system integrity against attacks
+**Cryptographic Security** - Mathematical guarantees protecting system integrity against attacks
 [[Information theory]] - Mathematical framework that constrains distributed consensus efficiency
-[[Communication Complexity]] - Computer science concept explaining coordination overhead in distributed systems
+**Communication Complexity** - Computer science concept explaining coordination overhead in distributed systems
 [[Global State]] - Shared system state that must be maintained consistently across distributed network
-[[Economic Security]] - Financial incentives and costs that protect network against economic attacks
-[[Validator Networks]] - Distributed sets of nodes responsible for consensus participation and block production
+**Economic Security** - Financial incentives and costs that protect network against economic attacks
+**Validator Networks** - Distributed sets of nodes responsible for consensus participation and block production
 [[Gas Fees]] - Economic mechanism for pricing computational resources and managing network congestion

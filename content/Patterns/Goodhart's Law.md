@@ -58,7 +58,7 @@ Web3 systems face adversarial Goodhart's Law through sophisticated attacks inclu
 
 Common manifestations include "token farming" where participants engage in specified behaviors to earn tokens without genuine commitment to project objectives, governance token concentration among actors who optimize for voting power rather than community representation, and "exit liquidity" strategies where early participants optimize for personal token value extraction rather than long-term project sustainability.
 
-The challenge is compounded by [[yield farming]] and [[Liquidity Mining]] systems where temporary incentive programs create behavioral patterns that disappear once rewards end, suggesting that measured participation may not reflect genuine community engagement or project viability.
+The challenge is compounded by [[yield farming]] and **Liquidity Mining** systems where temporary incentive programs create behavioral patterns that disappear once rewards end, suggesting that measured participation may not reflect genuine community engagement or project viability.
 
 ### Governance Participation and Democratic Metrics
 
@@ -114,18 +114,18 @@ The maturation of Web3 governance and economic systems depends on developing sop
 
 ## Related Concepts
 
-[[Campbell's Law]] - Related principle about social indicators becoming corrupted when used for control
-[[Gaming the System]] - Strategic manipulation of rules or metrics for personal advantage
-[[Cobra Effect]] - Historical example of perverse incentives created by measurement targets
-[[McNamara Fallacy]] - Over-reliance on quantitative metrics while ignoring qualitative factors
+**Campbell's Law** - Related principle about social indicators becoming corrupted when used for control
+**Gaming the System** - Strategic manipulation of rules or metrics for personal advantage
+**Cobra Effect** - Historical example of perverse incentives created by measurement targets
+**McNamara Fallacy** - Over-reliance on quantitative metrics while ignoring qualitative factors
 [[Mechanism Design]] - Economic framework for creating incentive systems resistant to gaming
 [[Tokenomics]] - Cryptocurrency economic design that faces Goodhart's Law challenges
 [[Governance Tokens]] - Voting rights systems vulnerable to participation metric gaming
 [[Quadratic Funding]] - Democratic funding mechanism that may be manipulated despite mathematical safeguards
 [[Sybil Attacks]] - Identity manipulation strategies that exploit measurement system vulnerabilities
-[[Principal-Agent Problem]] - Alignment challenges between measurement designers and system participants
-[[Moral Hazard]] - Risk-taking behavior that emerges when consequences are not borne by decision-makers
-[[Performance Management]] - Organizational systems that frequently exhibit Goodhart's Law effects
+**Principal-Agent Problem** - Alignment challenges between measurement designers and system participants
+**Moral Hazard** - Risk-taking behavior that emerges when consequences are not borne by decision-makers
+**Performance Management** - Organizational systems that frequently exhibit Goodhart's Law effects
 [[Behavioral Economics]] - Field studying how incentive systems affect human behavior and decision-making
-[[Systems Thinking]] - Analytical approach for understanding interconnections and unintended consequences
-[[Complexity Theory]] - Framework for understanding emergent behaviors in complex adaptive systems
+**Systems Thinking** - Analytical approach for understanding interconnections and unintended consequences
+**Complexity Theory** - Framework for understanding emergent behaviors in complex adaptive systems

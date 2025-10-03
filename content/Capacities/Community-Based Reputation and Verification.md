@@ -4,6 +4,8 @@ aliases:
   - "community-based-reputation-and-verification"
   - "Community-based-Reputation-And-Verification"
   - "community--based -reputation and -verification"
+  - "Community-Based Verification"
+  - "Decentralized Monitoring, Reporting, and Verification"
 ---
 
 # Community-Based Reputation and Verification
@@ -81,10 +83,10 @@ The evolution of privacy-preserving verification technologies including zero-kno
 ## Related Concepts
 
 [[Trustlessness]] - Community verification as alternative to institutional trust
-[[Decentralized_Identity]] - Identity systems based on community attestation
-[[Sybil_Resistance]] - Technical mechanisms preventing fake identity creation
-[[Reputation_Systems]] - Economic and game-theoretic foundations
-[[Collective_Intelligence]] - Aggregation mechanisms for community knowledge
-[[Epistemic_Authority]] - Questions about legitimate knowledge claims
-[[Governance_Mechanisms]] - Community decision-making processes
-[[Zero_Knowledge_Proofs]] - Privacy-preserving verification technologies
+**Decentralized_Identity** - Identity systems based on community attestation
+**Sybil_Resistance** - Technical mechanisms preventing fake identity creation
+**Reputation_Systems** - Economic and game-theoretic foundations
+**Collective_Intelligence** - Aggregation mechanisms for community knowledge
+**Epistemic_Authority** - Questions about legitimate knowledge claims
+**Governance_Mechanisms** - Community decision-making processes
+**Zero_Knowledge_Proofs** - Privacy-preserving verification technologies

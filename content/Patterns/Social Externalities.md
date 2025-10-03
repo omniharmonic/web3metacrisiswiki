@@ -196,16 +196,16 @@ However, reputation systems face challenges with gaming, manipulation, and the p
 [[Community Governance]] - Institutional frameworks for managing shared social resources
 [[Public Goods]] - Resources that benefit everyone but may be under-provided due to externalities
 [[Tragedy of the Commons]] - Model explaining overuse of shared social resources
-[[Civic Engagement]] - Participation in community life that creates positive social externalities
-[[Social Cohesion]] - Community bonds that enable cooperation and collective efficacy
+**Civic Engagement** - Participation in community life that creates positive social externalities
+**Social Cohesion** - Community bonds that enable cooperation and collective efficacy
 [[Digital Divide]] - Technological inequalities that create negative social externalities
-[[Social Movements]] - Collective action that can create positive or negative social externalities
-[[Cultural Capital]] - Social assets including education and cultural knowledge that create spillover benefits
-[[Gentrification]] - Urban development process that creates negative externalities for existing communities
-[[Neighborhood Effects]] - Spatial spillovers where community characteristics affect individual outcomes
+**Social Movements** - Collective action that can create positive or negative social externalities
+**Cultural Capital** - Social assets including education and cultural knowledge that create spillover benefits
+**Gentrification** - Urban development process that creates negative externalities for existing communities
+**Neighborhood Effects** - Spatial spillovers where community characteristics affect individual outcomes
 [[Educational Externalities]] - Social benefits from individual education that extend beyond private returns
 [[Health Externalities]] - Public health spillovers from individual health behaviors and access
-[[Democratic Participation]] - Civic engagement that creates positive externalities for democratic governance
-[[Social Innovation]] - Creative approaches to social problems that can generate positive externalities
+**Democratic Participation** - Civic engagement that creates positive externalities for democratic governance
+**Social Innovation** - Creative approaches to social problems that can generate positive externalities
 [[Platform Cooperatives]] - Worker and user-owned digital platforms that internalize social externalities
 [[Universal Basic Income]] - Policy proposal that could address negative externalities from economic insecurity

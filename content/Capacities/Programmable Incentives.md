@@ -4,6 +4,9 @@ aliases:
   - "programmable-incentives"
   - "Programmable-Incentives"
   - "programmable -incentives"
+  - "Programmable Money"
+  - "programmable incentives"
+  - "algorithmic incentives"
 ---
 
 # Programmable Incentives
@@ -77,12 +80,12 @@ The emphasis on universal programmable incentives may distract from more nuanced
 
 ## Related Concepts
 
-[[Liquidity_Mining]] - Automated reward distribution
-[[Yield_Farming]] - Gaming programmed incentives
-[[Goodhart's_Law]] - Measure becoming target
-[[Intrinsic_Motivation]] - Non-financial engagement drivers
-[[Mechanism_Design]] - Incentive structure creation
-[[Token_Economics]] - Cryptoeconomic systems
-[[Mercenary_Capital]] - Reward-seeking behavior
-[[Governance_Participation]] - Incentivized decision-making
-[[Coordination_Mechanisms]] - Beyond financial incentives
+**Liquidity_Mining** - Automated reward distribution
+**Yield_Farming** - Gaming programmed incentives
+**Goodhart's_Law** - Measure becoming target
+**Intrinsic_Motivation** - Non-financial engagement drivers
+**Mechanism_Design** - Incentive structure creation
+**Token_Economics** - Cryptoeconomic systems
+**Mercenary_Capital** - Reward-seeking behavior
+**Governance_Participation** - Incentivized decision-making
+**Coordination_Mechanisms** - Beyond financial incentives

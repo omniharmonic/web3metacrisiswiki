@@ -48,7 +48,7 @@ However, platform interoperability faces coordination challenges where applicati
 
 Web3 social graphs enable new economic models for content creation and community building where creators can maintain ownership of their audiences while monetizing directly through token mechanisms, subscription services, and community participation rather than depending on platform-controlled advertising or algorithmic distribution that may not align with creator or community interests.
 
-[[Social Tokens]] and community ownership models potentially redistribute economic value from platform owners to content creators and community participants while enabling new forms of collective governance and resource allocation. This could address what economist Shoshana Zuboff calls "surveillance capitalism" where platforms extract value from user data and social interactions while providing minimal compensation to the users who create that value.
+**Social Tokens** and community ownership models potentially redistribute economic value from platform owners to content creators and community participants while enabling new forms of collective governance and resource allocation. This could address what economist Shoshana Zuboff calls "surveillance capitalism" where platforms extract value from user data and social interactions while providing minimal compensation to the users who create that value.
 
 Yet creator economy applications face challenges with sustainable tokenomics, community governance complexity, and the potential for token concentration to recreate rather than solve problems of economic inequality and power concentration within social networks.
 
@@ -139,15 +139,15 @@ The long-term impact of social graphs depends on their ability to demonstrate pr
 [[Content-Addressed Information Storage]] - Storage systems where data is referenced by cryptographic hash rather than location
 [[Decentralized Autonomous Organizations (DAOs)]] - Community-governed organizations that can integrate with social graphs
 [[Reputation Systems]] - Mechanisms for tracking and verifying user contributions and trustworthiness
-[[Social Tokens]] - Cryptocurrency tokens that represent social value and community participation
+**Social Tokens** - Cryptocurrency tokens that represent social value and community participation
 [[Creator Economy]] - Economic models that enable direct monetization for content creators
 [[Network Effects]] - Dynamics where platform value increases with user adoption
 [[Composability]] - Ability of different protocols to work together in complex applications
 [[Surveillance Capitalism]] - Economic model that extracts value from user data and social interactions
-[[Digital Sovereignty]] - User control over personal data and digital identity
+**Digital Sovereignty** - User control over personal data and digital identity
 [[Interoperability]] - Ability of different systems to work together and exchange information
-[[Lens Protocol]] - Decentralized social media protocol that implements composable social graphs
-[[Farcaster]] - Decentralized social network protocol focused on user control and privacy
-[[AT Protocol]] - Protocol for decentralized social applications developed by Bluesky
-[[Mastodon]] - Federated social media platform that demonstrates decentralized social networking
+**Lens Protocol** - Decentralized social media protocol that implements composable social graphs
+**Farcaster** - Decentralized social network protocol focused on user control and privacy
+**AT Protocol** - Protocol for decentralized social applications developed by Bluesky
+**Mastodon** - Federated social media platform that demonstrates decentralized social networking
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that enable verification without revealing sensitive information

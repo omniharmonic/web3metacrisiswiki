@@ -4,6 +4,7 @@ aliases:
   - "defensive-accelerationism"
   - "Defensive-Accelerationism"
   - "defensive -accelerationism"
+  - "Accelerationism"
 ---
 
 # Defensive Accelerationism
@@ -38,7 +39,7 @@ Yet the implementation of democratic AI governance faces persistent challenges i
 
 ### Cryptographic Resistance and Censorship-Proof Systems
 
-Defensive accelerationism prioritizes what cryptographer Timothy May calls "crypto-anarchy" through technologies that enable coordination and communication despite attempts at censorship or surveillance by state or corporate actors. [[Blockchain Oracles]], [[Distributed Hash Tables]], and [[Mesh Networks]] represent infrastructure developments that can potentially maintain functionality despite attempts at centralized control or shutdown.
+Defensive accelerationism prioritizes what cryptographer Timothy May calls "crypto-anarchy" through technologies that enable coordination and communication despite attempts at censorship or surveillance by state or corporate actors. [[Blockchain Oracles]], **Distributed Hash Tables**, and **Mesh Networks** represent infrastructure developments that can potentially maintain functionality despite attempts at centralized control or shutdown.
 
 The development of [[Zero-Knowledge Proofs]] enables what privacy researcher Helen Nissenbaum calls "contextual integrity" where sensitive information can be verified without revelation, potentially addressing the traditional trade-off between transparency for accountability and privacy for autonomy. These technologies implement what computer scientist David Chaum calls "privacy by design" where privacy protection is built into system architecture rather than depending on legal protections that may be revoked.
 
@@ -46,7 +47,7 @@ However, the cryptographic tools that enable resistance to authoritarian control
 
 ### Open Source and Commons-Based Innovation
 
-Defensive accelerationism emphasizes what legal scholar Yochai Benkler calls "commons-based peer production" where technological innovation occurs through collaborative development rather than proprietary research that concentrates capability among corporate or state actors. [[Free and Open Source Software]], [[Creative Commons]] licensing, and [[Copyleft]] frameworks attempt to ensure that technological capabilities remain accessible to diverse communities rather than becoming tools for elite control.
+Defensive accelerationism emphasizes what legal scholar Yochai Benkler calls "commons-based peer production" where technological innovation occurs through collaborative development rather than proprietary research that concentrates capability among corporate or state actors. **Free and Open Source Software**, **Creative Commons** licensing, and **Copyleft** frameworks attempt to ensure that technological capabilities remain accessible to diverse communities rather than becoming tools for elite control.
 
 The approach builds on what economist Elinor Ostrom calls "governing the commons" through institutional arrangements that enable collective resource management without either privatization or centralized control. In technological contexts, this includes developing what researcher David Bollier terms "digital commons" including shared databases, collaborative platforms, and open protocols that enhance collective capability.
 
@@ -110,16 +111,16 @@ The maturation of defensive accelerationism depends on solving fundamental chall
 
 [[Accelerationism]] - Broader philosophical framework for engaging with technological change
 [[technological sovereignty]] - Community control over technological infrastructure and development
-[[Cryptographic Resistance]] - Technologies that enable coordination despite censorship attempts
+**Cryptographic Resistance** - Technologies that enable coordination despite censorship attempts
 [[Surveillance Capitalism]] - Economic model that d/acc attempts to provide alternatives to
-[[Platform Capture]] - Concentration of digital infrastructure that d/acc seeks to address
+**Platform Capture** - Concentration of digital infrastructure that d/acc seeks to address
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance experiments that implement d/acc principles
 [[Zero-Knowledge Proofs]] - Privacy-preserving technologies essential for d/acc implementation
 [[self-sovereign identity]] - Identity systems that reduce dependence on centralized authorities
 [[Decentralized Finance (DeFi)]] - Financial systems that embody d/acc economic sovereignty principles
-[[Mesh Networks]] - Communication infrastructure that maintains functionality despite centralized control attempts
-[[Free and Open Source Software]] - Development models that prevent technological capture
-[[Commons-Based Peer Production]] - Innovation models that implement d/acc principles
+**Mesh Networks** - Communication infrastructure that maintains functionality despite centralized control attempts
+**Free and Open Source Software** - Development models that prevent technological capture
+**Commons-Based Peer Production** - Innovation models that implement d/acc principles
 [[Democratic Innovation]] - Governance experiments that d/acc technologies may enable
 [[censorship resistance]] - Technical property that d/acc systems prioritize
 [[Algorithmic Transparency]] - Accountability mechanisms for automated decision systems

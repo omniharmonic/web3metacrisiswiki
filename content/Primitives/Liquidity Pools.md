@@ -4,6 +4,7 @@ aliases:
   - "liquidity-pools"
   - "Liquidity-Pools"
   - "liquidity -pools"
+  - "Liquidity"
 ---
 
 

@@ -16,7 +16,7 @@ The theoretical foundations of regenerative finance draw from ecological economi
 
 Regenerative finance addresses what environmental economist Pavan Sukhdev terms the "economics of invisibility" where traditional financial systems fail to account for ecosystem services, social capital, and other forms of "natural and social capital" that provide the foundation for all economic activity. By making visible and financially rewarding regenerative practices, ReFi attempts to correct what economist Arthur Pigou identified as "externalities" - the gap between private costs and social benefits that leads to systematic underinvestment in commons preservation and enhancement.
 
-Within the [[meta-crisis]] framework, regenerative finance represents a potential pathway beyond the extractive economic models that drive [[ecological overshoot]], [[economic centralization]], and [[misaligned incentives]]. However, implementing regenerative finance faces significant challenges including measurement complexity, [[coordination problems]], and the need to transform existing financial institutions and governance structures that currently reward extraction over regeneration.
+Within the [[meta-crisis]] framework, regenerative finance represents a potential pathway beyond the extractive economic models that drive **ecological overshoot**, [[economic centralization]], and [[misaligned incentives]]. However, implementing regenerative finance faces significant challenges including measurement complexity, [[coordination problems]], and the need to transform existing financial institutions and governance structures that currently reward extraction over regeneration.
 
 ## Ecological Economics and Natural Capital Integration
 
@@ -53,11 +53,11 @@ However, ecosystem services valuation faces fundamental challenges including the
 
 Web3 technologies enable transparent, tamper-resistant systems for monitoring and verifying regenerative outcomes through what researchers term "digital MRV" (Monitoring, Reporting, and Verification). Blockchain-based systems can create immutable records of environmental and social impact data while enabling automated verification and payment for verified outcomes.
 
-**[[Regen Network]]** demonstrates blockchain-based ecological state verification where satellite data, IoT sensors, and community monitoring create verifiable records of soil health, biodiversity, and carbon sequestration that can trigger automatic payments to regenerative land managers. This approach attempts to solve the "additionality" problem in environmental markets where it's difficult to verify that payments are actually incentivizing additional environmental benefits.
+****Regen Network**** demonstrates blockchain-based ecological state verification where satellite data, IoT sensors, and community monitoring create verifiable records of soil health, biodiversity, and carbon sequestration that can trigger automatic payments to regenerative land managers. This approach attempts to solve the "additionality" problem in environmental markets where it's difficult to verify that payments are actually incentivizing additional environmental benefits.
 
-**Cryptographic Proof of Impact**: [[Zero knowledge proof (ZKP)]] technologies enable verification of impact claims without revealing sensitive location or practice data, potentially protecting farmer privacy while enabling verification of regenerative practices. This could address concerns about surveillance and data ownership in agricultural monitoring systems.
+**Cryptographic Proof of Impact**: [[zero knowledge proof (ZKP)]] technologies enable verification of impact claims without revealing sensitive location or practice data, potentially protecting farmer privacy while enabling verification of regenerative practices. This could address concerns about surveillance and data ownership in agricultural monitoring systems.
 
-However, digital MRV systems face challenges including the complexity of ecological systems that resist simple quantification, the potential for [[Gaming the System]] where measurable indicators become targets that distort rather than reflect genuine regenerative outcomes, and the digital divide that may exclude small-scale practitioners from technology-dependent verification systems.
+However, digital MRV systems face challenges including the complexity of ecological systems that resist simple quantification, the potential for **Gaming the System** where measurable indicators become targets that distort rather than reflect genuine regenerative outcomes, and the digital divide that may exclude small-scale practitioners from technology-dependent verification systems.
 
 ### Tokenization of Environmental Assets and [[Carbon Credit Tokenization]]
 
@@ -127,7 +127,7 @@ Regenerative finance attempts to address what environmental economist Arthur Pig
 
 **Internalizing Positive Externalities**: Traditional economics focuses on taxing negative externalities (pollution, resource depletion) while regenerative finance emphasizes rewarding positive externalities (carbon sequestration, biodiversity enhancement, community development) through direct payment mechanisms.
 
-**[[Commons Governance]] Innovation**: Regenerative finance requires governance mechanisms that can manage shared resources including the atmosphere, watersheds, and biodiversity that provide benefits across multiple communities and timescales. This involves what economist Elinor Ostrom documented as "common pool resource management" at global scale.
+**[[commons governance]] Innovation**: Regenerative finance requires governance mechanisms that can manage shared resources including the atmosphere, watersheds, and biodiversity that provide benefits across multiple communities and timescales. This involves what economist Elinor Ostrom documented as "common pool resource management" at global scale.
 
 **Participatory Value Creation**: Rather than extracting value from communities and ecosystems, regenerative finance emphasizes what economist J.K. Gibson-Graham calls "community economies" where local communities participate in ownership, governance, and benefit-sharing from regenerative investments.
 
@@ -139,7 +139,7 @@ Regenerative finance faces fundamental challenges in measuring and verifying com
 
 **Ecological Complexity**: Ecosystem health depends on complex interactions between soil microorganisms, plant diversity, water cycles, and climate patterns that cannot be reduced to simple metrics without losing essential information about system resilience and regenerative capacity.
 
-**[[Additionality]] and Baseline Challenges**: Determining whether regenerative practices represent additional environmental benefits beyond business-as-usual requires complex counterfactual analysis that may be impossible to verify definitively, creating opportunities for "greenwashing" where payments reward existing practices rather than incentivizing new regenerative activities.
+****Additionality** and Baseline Challenges**: Determining whether regenerative practices represent additional environmental benefits beyond business-as-usual requires complex counterfactual analysis that may be impossible to verify definitively, creating opportunities for "greenwashing" where payments reward existing practices rather than incentivizing new regenerative activities.
 
 **Temporal Mismatch**: Regenerative outcomes often occur over timescales (5-50 years) that exceed the timescales of financial markets (quarterly to annual), creating challenges in aligning investor expectations with regenerative timelines and maintaining long-term commitments to regenerative practices.
 
@@ -175,7 +175,7 @@ Future developments depend on continued innovation in impact measurement, govern
 
 ## Related Concepts
 
-[[Ecological Economics]] - Economic framework that recognizes natural capital and ecosystem services
+**Ecological Economics** - Economic framework that recognizes natural capital and ecosystem services
 [[regenerative economics]] - Broader economic model that aligns with regenerative principles
 [[Payment for Ecosystem Services]] - Direct payment mechanisms for environmental benefits
 [[Carbon Credit Tokenization]] - Blockchain-based carbon offset markets and verification
@@ -186,7 +186,7 @@ Future developments depend on continued innovation in impact measurement, govern
 [[Public Goods Funding]] - Mechanisms for supporting shared environmental and social benefits
 [[Quadratic Funding]] - Democratic resource allocation for regenerative public goods
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance structures for community-owned regenerative projects
-[[Regen Network]] - Blockchain platform for ecological state verification and payments
+**Regen Network** - Blockchain platform for ecological state verification and payments
 [[Gitcoin]] - Platform demonstrating quadratic funding for regenerative public goods
 [[smart contracts]] - Programmable agreements that can automate regenerative payments
 [[zero knowledge proof (ZKP)]] - Privacy-preserving verification for regenerative impact claims

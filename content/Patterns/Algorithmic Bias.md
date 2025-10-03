@@ -35,7 +35,7 @@ Algorithmic bias often originates from training data that reflects historical pa
 
 For example, hiring algorithms trained on historical hiring decisions may learn to discriminate against women or minorities by identifying patterns that correlate with past discriminatory practices, even when explicit demographic information is removed from the training data.
 
-### [[Proxy Variables]] and Indirect Discrimination
+### **Proxy Variables** and Indirect Discrimination
 
 Algorithmic systems can implement discrimination through proxy variables that correlate with protected characteristics without explicitly using them. What legal scholar Pauline Kim calls "disparate impact" can occur when seemingly neutral variables like zip code, education, or credit score serve as proxies for race or socioeconomic status.
 
@@ -215,7 +215,7 @@ The development of algorithmic accountability law requires what legal scholar Da
 
 ### Decentralized Identity and Bias Reduction
 
-[[Decentralized Identity]] systems could potentially reduce algorithmic bias by enabling individuals to control what information they share with algorithmic systems, implementing what privacy researcher Ann Cavoukian calls "privacy by design" principles that give users agency over their data representation.
+[[decentralized identity]] systems could potentially reduce algorithmic bias by enabling individuals to control what information they share with algorithmic systems, implementing what privacy researcher Ann Cavoukian calls "privacy by design" principles that give users agency over their data representation.
 
 **Blockchain Identity Benefits:**
 - **Selective Disclosure**: Users control which attributes are revealed to algorithmic systems
@@ -263,18 +263,18 @@ Future developments should prioritize community involvement in algorithm design 
 [[Social Credit Systems]] - Government surveillance systems that systematize algorithmic bias
 [[Digital Divide]] - Technology access barriers that algorithmic bias can worsen
 [[Surveillance Capitalism]] - Economic model that commodifies biased algorithmic predictions
-[[Discrimination]] - Social injustice that algorithmic systems can perpetuate and amplify
-[[Intersectionality]] - Framework for understanding compound bias effects
-[[Proxy Variables]] - Indirect indicators that enable discrimination without explicit protected characteristics
-[[Disparate Impact]] - Legal doctrine addressing systematic discrimination regardless of intent
-[[Fairness Constraints]] - Technical approaches to bias mitigation in algorithm design
+**Discrimination** - Social injustice that algorithmic systems can perpetuate and amplify
+**Intersectionality** - Framework for understanding compound bias effects
+**Proxy Variables** - Indirect indicators that enable discrimination without explicit protected characteristics
+**Disparate Impact** - Legal doctrine addressing systematic discrimination regardless of intent
+**Fairness Constraints** - Technical approaches to bias mitigation in algorithm design
 [[Algorithmic Accountability]] - Legal and social frameworks for automated decision-making oversight
-[[Decentralized Identity]] - Web3 approach that could reduce some forms of algorithmic bias
+[[decentralized identity]] - Web3 approach that could reduce some forms of algorithmic bias
 [[Reputation Systems]] - Alternative assessment mechanisms that could supplement biased algorithms
 [[Quadratic Funding]] - Democratic resource allocation for community-controlled bias mitigation
-[[Privacy by Design]] - Technical approach that could limit data available for biased profiling
+**Privacy by Design** - Technical approach that could limit data available for biased profiling
 [[Community Governance]] - Participatory decision-making that could supplement automated systems
 [[Environmental Justice]] - Social justice framework applicable to algorithmic bias analysis
-[[Regulatory Capture]] - Political dynamic that can prevent effective algorithmic accountability
+[[regulatory capture]] - Political dynamic that can prevent effective algorithmic accountability
 [[Transparency]] - Technical requirement for algorithmic bias detection and mitigation
-[[Digital Rights]] - Legal framework for protecting individuals from algorithmic discrimination
+**Digital Rights** - Legal framework for protecting individuals from algorithmic discrimination

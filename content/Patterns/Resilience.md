@@ -1,6 +1,9 @@
 ---
 aliases:
   - "resilience"
+  - "Community Resilience"
+  - "Network_Resilience"
+  - "Resilience Theory"
 ---
 
 # Resilience
@@ -47,9 +50,9 @@ However, blockchain networks also exhibit significant centralization vulnerabili
 - **Distributed Networks**: No single points of failure
 - **[[distributed consensus]]**: Multiple validators securing the network
 - **[[decentralized storage networks]]**: Distributed across multiple nodes
-- **[[Polycentric_Governance]]**: Multiple decision-making centers
+- ****Polycentric_Governance****: Multiple decision-making centers
 
-### [[Polycentric_Governance]]
+### **Polycentric_Governance**
 - **Multiple Jurisdictions**: Overlapping decision-making centers
 - **Subsidiarity**: Decisions made at the most appropriate level
 - **Competition**: Different approaches to similar problems
@@ -129,8 +132,8 @@ However, community-based resilience may also enable insularity, exclusion, and r
 [[decentralization]] - Distributed architectures that eliminate single points of failure
 [[Composability]] - Modular system design enabling evolutionary adaptation
 [[Trustlessness]] - Technical foundations for resilient coordination without central authorities
-[[Polycentric_Governance]] - Institutional architectures for resilient decision-making
-[[Adaptive_Learning]] - Evolutionary capacity for system transformation
+**Polycentric_Governance** - Institutional architectures for resilient decision-making
+**Adaptive_Learning** - Evolutionary capacity for system transformation
 [[Network_Resilience]] - Technical properties of fault-tolerant distributed systems
-[[Institutional_Design]] - Governance structures for civilizational resilience
-[[Complex_Systems]] - Theoretical foundations for understanding emergent resilience properties
+**Institutional_Design** - Governance structures for civilizational resilience
+**Complex_Systems** - Theoretical foundations for understanding emergent resilience properties

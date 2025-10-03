@@ -4,6 +4,8 @@ aliases:
   - "selective-disclosure"
   - "Selective-Disclosure"
   - "selective -disclosure"
+  - "Selective Exposure"
+  - "selective disclosure"
 ---
 
 # Selective Disclosure

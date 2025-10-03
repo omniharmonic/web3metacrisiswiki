@@ -48,7 +48,7 @@ Multi-token governance systems can recognize different types of contributions th
 
 [[smart contracts]] can automate contribution verification and governance right allocation through deterministic rules that evaluate code commits, documentation improvements, community moderation, dispute resolution, and other measurable activities that contribute to project success while reducing discretionary interpretation that may enable bias or manipulation.
 
-[[Cryptographic Proofs]] including commit signatures, time-stamped contributions, and peer attestations can create tamper-resistant records of individual contributions that enable transparent evaluation of governance right allocation while preventing retroactive manipulation of contribution claims.
+**Cryptographic Proofs** including commit signatures, time-stamped contributions, and peer attestations can create tamper-resistant records of individual contributions that enable transparent evaluation of governance right allocation while preventing retroactive manipulation of contribution claims.
 
 However, automated contribution measurement faces challenges with evaluating qualitative contributions including emotional labor, conflict resolution, mentorship, and cultural contributions that may be essential for community health but resist simple quantification through algorithmic systems.
 
@@ -156,14 +156,14 @@ The maturation of contribution-based governance requires ongoing experimentation
 [[Quadratic Voting]] - Democratic mechanism that enables preference intensity expression while preventing plutocracy
 [[Conviction Voting]] - Governance mechanism that rewards sustained commitment and long-term thinking
 [[Proof of Stake (PoS)]] - Blockchain consensus mechanism where validation rights are based on financial stake
-[[Merit-Based Systems]] - Allocation mechanisms based on demonstrated ability and contribution
+**Merit-Based Systems** - Allocation mechanisms based on demonstrated ability and contribution
 [[Participatory Democracy]] - Democratic approaches that emphasize direct citizen participation in governance
 [[Deliberative Democracy]] - Democratic theory emphasizing informed discussion and collective reasoning
-[[Meritocracy]] - Social system where advancement is based on individual merit and achievement
+**Meritocracy** - Social system where advancement is based on individual merit and achievement
 [[Social Capital]] - Networks of relationships and community engagement that enable collective action
-[[Cultural Capital]] - Knowledge, skills, and cultural competencies that provide social advantages
-[[Digital Commons]] - Shared digital resources managed through community governance
+**Cultural Capital** - Knowledge, skills, and cultural competencies that provide social advantages
+**Digital Commons** - Shared digital resources managed through community governance
 [[Platform Cooperatives]] - Worker and user-owned digital platforms that implement democratic governance
-[[Cooperative Governance]] - Democratic decision-making systems used in cooperative organizations
-[[Stakeholder Governance]] - Governance systems that include all parties affected by organizational decisions
-[[Algorithmic Governance]] - Decision-making systems that use automated algorithms and data analysis
+**Cooperative Governance** - Democratic decision-making systems used in cooperative organizations
+Stakeholder Governance - Governance systems that include all parties affected by organizational decisions
+**Algorithmic Governance** - Decision-making systems that use automated algorithms and data analysis

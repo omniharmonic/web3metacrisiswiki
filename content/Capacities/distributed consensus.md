@@ -76,12 +76,12 @@ The evolution toward Layer 2 solutions, sidechains, and hybrid consensus reflect
 
 ## Related Concepts
 
-[[Proof_of_Work]] - Energy-intensive consensus mechanism
-[[Proof_of_Stake]] - Economic security model
-[[Byzantine_Fault_Tolerance]] - Consensus in adversarial environments
-[[Scalability_Trilemma]] - Fundamental trade-offs
-[[Mining_Centralization]] - Concentration of consensus power
-[[Finality]] - Irreversibility of consensus decisions
-[[Economic_Security]] - Incentive-based security models
-[[Layer_2_Solutions]] - Reducing consensus burden
-[[Consensus_Attacks]] - 51% attacks and manipulation
+**Proof_of_Work** - Energy-intensive consensus mechanism
+**Proof_of_Stake** - Economic security model
+**Byzantine_Fault_Tolerance** - Consensus in adversarial environments
+**Scalability_Trilemma** - Fundamental trade-offs
+**Mining_Centralization** - Concentration of consensus power
+**Finality** - Irreversibility of consensus decisions
+**Economic_Security** - Incentive-based security models
+**Layer_2_Solutions** - Reducing consensus burden
+**Consensus_Attacks** - 51% attacks and manipulation

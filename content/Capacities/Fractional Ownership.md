@@ -4,6 +4,9 @@ aliases:
   - "fractional-ownership"
   - "Fractional-Ownership"
   - "fractional -ownership"
+  - "Steward Ownership"
+  - "fractional ownership"
+  - "shared ownership"
 ---
 
 # Fractional Ownership

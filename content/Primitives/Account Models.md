@@ -4,6 +4,9 @@ aliases:
   - "account-models"
   - "Account-Models"
   - "account -models"
+  - "UTXO Model"
+  - "account model"
+  - "wallet architecture"
 ---
 
 
@@ -144,11 +147,11 @@ The maturation of account models may determine whether Web3 technologies can ach
 [[Ethereum Virtual Machine (EVM)]] - Execution environment enabling deterministic computation across account models
 [[transaction processing]] - Technical mechanisms for validating and executing account state changes
 [[Hierarchical Deterministic Wallets]] - Key derivation systems enabling multiple accounts from single seed phrases
-[[Hardware Wallets]] - Physical devices providing secure private key storage and transaction signing
-[[Social Recovery]] - Account recovery mechanisms using trusted contacts to restore access
+**Hardware Wallets** - Physical devices providing secure private key storage and transaction signing
+**Social Recovery** - Account recovery mechanisms using trusted contacts to restore access
 [[decentralized identity]] - Identity systems built on cryptographic accounts rather than centralized authorities
 [[self-sovereign identity]] - Identity model where individuals control their credentials through account ownership
 [[Cross-Chain Integration]] - Technical protocols enabling account interactions across different blockchain networks
 [[Composability]] - Technical property enabling account interactions with multiple smart contracts atomically
-[[Public Key Cryptography]] - Mathematical foundation enabling secure account creation and transaction authorization
-[[State Machine Replication]] - Distributed systems technique enabling consistent account state across network nodes
+**Public Key Cryptography** - Mathematical foundation enabling secure account creation and transaction authorization
+**State Machine Replication** - Distributed systems technique enabling consistent account state across network nodes

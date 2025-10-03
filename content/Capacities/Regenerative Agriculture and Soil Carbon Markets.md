@@ -4,6 +4,8 @@ aliases:
   - "regenerative-agriculture-and-soil-carbon-markets"
   - "Regenerative-Agriculture-And-Soil-Carbon-Markets"
   - "regenerative -agriculture and -soil -carbon -markets"
+  - "Carbon Markets"
+  - "Regenerative Agriculture"
 ---
 
 # Regenerative Agriculture and Soil Carbon Markets
@@ -80,12 +82,12 @@ The emphasis on tokenization may distract from more fundamental transformations 
 
 ## Related Concepts
 
-[[Carbon_Markets]] - Tradeable emission offsets
-[[Oracle_Problem]] - Physical measurement to digital verification
-[[Soil_Carbon_Sequestration]] - Agricultural climate mitigation
+**Carbon_Markets** - Tradeable emission offsets
+**Oracle_Problem** - Physical measurement to digital verification
+**Soil_Carbon_Sequestration** - Agricultural climate mitigation
 [[dMRV]] - Decentralized monitoring and verification
-[[Additionality]] - Would sequestration occur anyway
-[[Permanence]] - Long-term carbon storage assurance
-[[Regenerative_Agriculture]] - Holistic farming practices
-[[Verification_Costs]] - Measurement expense barriers
-[[Corporate_Consolidation]] - Agricultural concentration trends
+**Additionality** - Would sequestration occur anyway
+**Permanence** - Long-term carbon storage assurance
+**Regenerative_Agriculture** - Holistic farming practices
+**Verification_Costs** - Measurement expense barriers
+**Corporate_Consolidation** - Agricultural concentration trends

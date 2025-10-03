@@ -5,6 +5,9 @@ aliases:
   - "cross chain integration"
   - "Cross Chain Integration"
   - "crosschain integration"
+  - "Cross-Chain Bridges"
+  - "cross-chain"
+  - "bridge protocols"
 ---
 
 # Cross-Chain Integration
@@ -64,7 +67,7 @@ Cross-chain integration enables what economist Eugene Fama calls "efficient mark
 
 Cross-chain integration extends [[composability]]—the ability for protocols to interact and build upon each other—across blockchain boundaries, potentially enabling what economist Joseph Schumpeter calls "creative combinations" where innovations from different ecosystems can be combined to create novel applications and business models.
 
-The ability to leverage specialized blockchain capabilities including [[Ethereum]]'s [[smart contracts]], [[Bitcoin]]'s security and store of value properties, and application-specific chains' performance optimizations within single applications could accelerate innovation while allowing each blockchain to focus on its comparative advantages.
+The ability to leverage specialized blockchain capabilities including [[Ethereum]]'s [[smart contracts]], **Bitcoin**'s security and store of value properties, and application-specific chains' performance optimizations within single applications could accelerate innovation while allowing each blockchain to focus on its comparative advantages.
 
 However, cross-chain composability introduces what complexity theorist Stuart Kauffman calls "complexity catastrophe" risks where the interactions between systems become too complex to predict or manage, potentially creating systemic vulnerabilities that exceed the sum of individual system risks.
 
@@ -86,7 +89,7 @@ Cross-chain integration enables [[decentralized finance]] applications that opti
 
 **Cross-Chain Lending and Borrowing**: Integration enables lending protocols where collateral on one chain can back loans on another chain, potentially improving capital efficiency and access to credit while creating new categories of liquidation risk and price oracle complexity.
 
-### Cross-Chain [[Governance]] and [[DAO]] Coordination
+### Cross-Chain **Governance** and [[DAO]] Coordination
 
 Integration technologies enable [[Decentralized Autonomous Organizations (DAOs)]] to coordinate governance and resource allocation across multiple blockchain ecosystems, potentially addressing governance fragmentation where related communities remain isolated on different chains.
 
@@ -166,11 +169,11 @@ Cross-chain integration represents critical infrastructure for realizing the coo
 
 The strategic value of cross-chain integration lies in enabling cooperation and coordination between blockchain ecosystems while preserving the benefits of diversity, experimentation, and specialized optimization. Success depends on continued technological development, improved security practices, and governance frameworks that can balance integration benefits with the risks of increased complexity and systemic vulnerability.
 
-Within the broader framework of [[Web3]] technologies' potential for addressing [[coordination problems]] and institutional failures, cross-chain integration provides essential infrastructure for transcending the limitations of isolated systems while building toward more integrated and cooperative technological ecosystems.
+Within the broader framework of **Web3** technologies' potential for addressing [[coordination problems]] and institutional failures, cross-chain integration provides essential infrastructure for transcending the limitations of isolated systems while building toward more integrated and cooperative technological ecosystems.
 
 ## Related Concepts
 
-[[Bridge Protocols]] - Technical infrastructure enabling asset and data transfer between blockchains
+**Bridge Protocols** - Technical infrastructure enabling asset and data transfer between blockchains
 [[Atomic Swaps]] - Trustless cross-chain asset exchange mechanisms using cryptographic contracts
 [[Layer 2 Solutions]] - Scaling technologies that can enable more efficient cross-chain communication
 [[Interoperability]] - General capability for different systems to work together effectively
@@ -181,6 +184,6 @@ Within the broader framework of [[Web3]] technologies' potential for addressing 
 [[Blockchain Trilemma]] - Fundamental trade-offs that cross-chain integration may help address
 [[decentralized finance]] - Financial applications that benefit from cross-chain liquidity and functionality
 [[smart contracts]] - Programmable contracts that can coordinate actions across multiple chains
-[[Governance]] - Decision-making processes that become more complex with cross-chain coordination
+**Governance** - Decision-making processes that become more complex with cross-chain coordination
 [[Security]] - Protection mechanisms that face new challenges in cross-chain environments
 [[Scalability]] - Performance improvements that cross-chain integration can enable through specialization

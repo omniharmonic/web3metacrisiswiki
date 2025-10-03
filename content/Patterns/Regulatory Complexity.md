@@ -4,6 +4,9 @@ aliases:
   - "regulatory-complexity"
   - "Regulatory-Complexity"
   - "regulatory -complexity"
+  - "Exit vs Voice"
+  - "regulatory burden"
+  - "compliance complexity"
 ---
 
 # Regulatory Complexity

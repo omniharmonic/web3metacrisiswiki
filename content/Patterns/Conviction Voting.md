@@ -118,8 +118,8 @@ The maturation of conviction voting depends on solving fundamental challenges in
 [[smart contracts]] - Technical infrastructure enabling automated conviction calculation and proposal execution
 [[Tokenomics]] - Economic design systems that may integrate with conviction voting mechanisms
 [[Staking]] - Capital commitment mechanisms that provide the foundation for conviction accumulation
-[[Temporal Governance]] - Broader category of governance mechanisms that incorporate time dimensions
-[[Commitment Devices]] - Economic mechanisms that enable credible signaling through costly actions
+Temporal Governance - Broader category of governance mechanisms that incorporate time dimensions
+**Commitment Devices** - Economic mechanisms that enable credible signaling through costly actions
 [[Time Preference]] - Economic concept describing the relative valuation of present versus future outcomes
 [[Public Goods Funding]] - Application domain where conviction voting may guide resource allocation
 [[Quadratic Voting]] - Alternative voting mechanism that addresses similar preference intensity challenges

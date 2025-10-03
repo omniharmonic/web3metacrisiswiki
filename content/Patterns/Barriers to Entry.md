@@ -4,6 +4,9 @@ aliases:
   - "barriers-to-entry"
   - "Barriers-To-Entry"
   - "barriers to -entry"
+  - "Entry Point"
+  - "barriers to entry"
+  - "market barriers"
 ---
 
 # Barriers to Entry

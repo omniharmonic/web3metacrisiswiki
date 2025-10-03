@@ -182,23 +182,23 @@ The future of regenerative economics may depend on successful demonstration proj
 
 ## Related Concepts
 
-[[Ecological Economics]] - Transdisciplinary field studying economy as subsystem of ecology
+**Ecological Economics** - Transdisciplinary field studying economy as subsystem of ecology
 [[Circular Economy]] - Economic model emphasizing resource efficiency and waste elimination
-[[Doughnut Economics]] - Framework for operating within planetary boundaries while meeting human needs
+**Doughnut Economics** - Framework for operating within planetary boundaries while meeting human needs
 [[Natural Capital]] - Economic framework for valuing ecosystem assets and services
-[[Cooperative Economics]] - Economic theory and practice emphasizing democratic ownership and control
-[[Community Land Trusts]] - Legal structures for community ownership and stewardship of land resources
+**Cooperative Economics** - Economic theory and practice emphasizing democratic ownership and control
+**Community Land Trusts** - Legal structures for community ownership and stewardship of land resources
 [[Steward Ownership]] - Business ownership model that protects purpose over profit maximization
 [[Platform Cooperatives]] - Worker and user-owned digital platforms implementing cooperative governance
-[[Impact Investing]] - Investment approach seeking positive social and environmental outcomes alongside financial returns
-[[Bioregionalism]] - Economic and social organization based on natural ecological boundaries
+**Impact Investing** - Investment approach seeking positive social and environmental outcomes alongside financial returns
+**Bioregionalism** - Economic and social organization based on natural ecological boundaries
 [[commons governance]] - Institutional frameworks for managing shared resources democratically
 [[Regenerative Agriculture]] - Farming practices that restore soil health and ecosystem functions
-[[Community Development Finance]] - Financial institutions serving community economic development needs
-[[Social Enterprise]] - Business models combining commercial activity with social and environmental mission
-[[Transition Towns]] - Community-led responses to peak oil and climate change through relocalization
+**Community Development Finance** - Financial institutions serving community economic development needs
+**Social Enterprise** - Business models combining commercial activity with social and environmental mission
+**Transition Towns** - Community-led responses to peak oil and climate change through relocalization
 [[Gift Economy]] - Economic system based on voluntary giving rather than market exchange
-[[Participatory Economics]] - Economic model emphasizing democratic participation in economic planning
+**Participatory Economics** - Economic model emphasizing democratic participation in economic planning
 [[Solidarity Economy]] - Economic practices based on cooperation, equity, and sustainability
-[[Degrowth]] - Economic paradigm prioritizing well-being over growth within planetary boundaries
+**Degrowth** - Economic paradigm prioritizing well-being over growth within planetary boundaries
 [[Environmental Justice]] - Movement addressing equitable distribution of environmental benefits and burdens

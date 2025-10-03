@@ -4,6 +4,9 @@ aliases:
   - "cross-border-remittances"
   - "Cross-border-Remittances"
   - "cross--border -remittances"
+  - "Cross-Border Payments"
+  - "remittances"
+  - "international transfers"
 ---
 
 # Cross-Border Remittances
@@ -74,11 +77,11 @@ The most promising applications may be corridors where traditional banking infra
 
 ## Related Concepts
 
-[[Financial_Inclusion]] - Access to financial services for underserved populations
-[[Correspondent_Banking]] - Traditional cross-border payment infrastructure
-[[Cryptocurrency_Volatility]] - Price fluctuation risks in crypto-intermediated transfers
+**Financial_Inclusion** - Access to financial services for underserved populations
+**Correspondent_Banking** - Traditional cross-border payment infrastructure
+**Cryptocurrency_Volatility** - Price fluctuation risks in crypto-intermediated transfers
 [[Regulatory_Arbitrage]] - Bypassing financial regulations through alternative infrastructure
-[[Stablecoins]] - Cryptocurrencies designed to maintain price stability
-[[Payment_Rails]] - Infrastructure for money transmission
-[[Rent_Extraction]] - Intermediary fee dynamics in financial services
-[[Capital_Controls]] - Government restrictions on cross-border capital flows
+**Stablecoins** - Cryptocurrencies designed to maintain price stability
+**Payment_Rails** - Infrastructure for money transmission
+**Rent_Extraction** - Intermediary fee dynamics in financial services
+**Capital_Controls** - Government restrictions on cross-border capital flows

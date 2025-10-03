@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of epistemic crisis extends beyond simple disagreement about facts to encompass what philosopher Jason Stanley calls "political epistemology" where knowledge claims become subordinated to political identity and power relationships rather than evidence-based evaluation. This creates what historian Timothy Snyder identifies as "post-truth" conditions where the very concept of objective reality becomes contested, undermining the shared epistemic foundations necessary for democratic deliberation and evidence-based policy.
 
-In Web3 contexts, epistemic crisis represents both a challenge where decentralized information systems may amplify rather than solve problems of misinformation and epistemic fragmentation, and an opportunity where [[blockchain]] transparency, [[Cryptographic proofs]], and [[Decentralized Information Commons]] could potentially create more robust foundations for knowledge verification and consensus formation that resist capture by powerful actors seeking to manipulate epistemic frameworks for strategic advantage.
+In Web3 contexts, epistemic crisis represents both a challenge where decentralized information systems may amplify rather than solve problems of misinformation and epistemic fragmentation, and an opportunity where [[blockchain]] transparency, **Cryptographic proofs**, and [[Decentralized Information Commons]] could potentially create more robust foundations for knowledge verification and consensus formation that resist capture by powerful actors seeking to manipulate epistemic frameworks for strategic advantage.
 
 ## Mechanisms and Manifestations of Epistemic Breakdown
 
@@ -106,18 +106,18 @@ The resolution of epistemic crisis depends on rebuilding social trust and instit
 
 ## Related Concepts
 
-[[Epistemic Injustice]] - Systematic exclusion of voices from knowledge production and credibility assessment
-[[Information Warfare]] - Strategic manipulation of information environments for political advantage
-[[Computational Propaganda]] - Algorithmic manipulation of public opinion through automated systems
+**Epistemic Injustice** - Systematic exclusion of voices from knowledge production and credibility assessment
+**Information Warfare** - Strategic manipulation of information environments for political advantage
+**Computational Propaganda** - Algorithmic manipulation of public opinion through automated systems
 [[filter bubbles]] - Algorithmic creation of isolated information environments that reinforce existing beliefs
 [[Echo Chambers]] - Social environments where beliefs are reinforced through selective information sharing
-[[Post-Truth]] - Political conditions where truth becomes subordinated to power and identity
+**Post-Truth** - Political conditions where truth becomes subordinated to power and identity
 [[Algorithmic Amplification]] - Platform optimization for engagement that may prioritize falsehood over accuracy
 [[Misinformation]] - False information spread without malicious intent
 [[Disinformation]] - False information deliberately spread to deceive
-[[Conspiracy Theories]] - Alternative explanatory frameworks that may resist evidence-based correction
+**Conspiracy Theories** - Alternative explanatory frameworks that may resist evidence-based correction
 [[regulatory capture]] - Process where institutions serve elite interests rather than public welfare
 [[Decentralized Information Commons]] - Shared knowledge resources that resist centralized control
 [[Zero-Knowledge Proofs]] - Cryptographic verification that preserves privacy while enabling truth verification
 [[consensus mechanisms]] - Mathematical frameworks for agreement in distributed systems
-[[Cognitive Democracy]] - Philosophical framework for inclusive knowledge production through diverse participation
+**Cognitive Democracy** - Philosophical framework for inclusive knowledge production through diverse participation

@@ -2,6 +2,7 @@
 aliases:
   - "decentralized-exchanges"
   - "Decentralized-Exchanges"
+  - "Decentralized Exchange"
 ---
 
 # Decentralized Exchanges

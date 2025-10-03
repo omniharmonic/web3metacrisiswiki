@@ -1,3 +1,29 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Hide alias frontmatter from display
+.frontmatter {
+  display: none;
+}
+
+// Alternative: hide only aliases if frontmatter has multiple fields
+.frontmatter .aliases {
+  display: none;
+}
+
+// Hide any YAML frontmatter block that might be displayed
+pre code.language-yaml:first-child,
+.frontmatter-block {
+  display: none;
+}
+
+// Ensure aliases in frontmatter don't appear as content
+article > p:first-child {
+  &:has(strong:contains("aliases")) {
+    display: none;
+  }
+}
+
+// More targeted approach - hide frontmatter that starts with aliases
+pre:first-child:has(code[class*="yaml"]:contains("aliases")) {
+  display: none;
+}

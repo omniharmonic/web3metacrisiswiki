@@ -12,7 +12,7 @@ aliases:
 
 ## Definition and Theoretical Foundations
 
-**Account Abstraction** represents a fundamental architectural transformation in blockchain systems that enables user accounts to behave like programmable [[Smart Contracts]], removing the rigid distinction between externally owned accounts (EOAs) controlled by private keys and contract accounts controlled by code. First conceptualized in Ethereum Improvement Proposal EIP-4337 and implemented through various Layer 2 solutions, account abstraction enables what computer scientist Nick Szabo calls "programmable money" to extend to programmable identity and authentication mechanisms.
+**Account Abstraction** represents a fundamental architectural transformation in blockchain systems that enables user accounts to behave like programmable [[smart contracts]], removing the rigid distinction between externally owned accounts (EOAs) controlled by private keys and contract accounts controlled by code. First conceptualized in Ethereum Improvement Proposal EIP-4337 and implemented through various Layer 2 solutions, account abstraction enables what computer scientist Nick Szabo calls "programmable money" to extend to programmable identity and authentication mechanisms.
 
 The theoretical significance of account abstraction extends beyond technical convenience to encompass questions about digital sovereignty, user experience accessibility, and the conditions under which decentralized systems can achieve mainstream adoption without compromising security or decentralization properties. Account abstraction enables what cryptographer David Chaum calls "selective disclosure" of authentication mechanisms while maintaining the mathematical guarantees that distinguish blockchain systems from traditional database systems.
 
@@ -188,29 +188,29 @@ Account abstraction development requires continued research in cryptographic tec
 
 Future implementations should prioritize privacy-preserving authentication mechanisms, decentralized infrastructure provision, and standards development that can enable interoperability while preventing the recreation of centralized intermediaries through account abstraction services.
 
-The integration of account abstraction with emerging technologies including [[Zero Knowledge Proof (ZKP)]] systems, biometric authentication, and decentralized identity frameworks could enable new forms of digital sovereignty that combine the convenience of traditional systems with the security and autonomy of cryptographic technologies.
+The integration of account abstraction with emerging technologies including [[zero knowledge proof (ZKP)]] systems, biometric authentication, and decentralized identity frameworks could enable new forms of digital sovereignty that combine the convenience of traditional systems with the security and autonomy of cryptographic technologies.
 
 ## Related Concepts
 
-[[Smart Contracts]] - Programmable agreements that provide the foundation for account abstraction functionality
+[[smart contracts]] - Programmable agreements that provide the foundation for account abstraction functionality
 [[Digital Signatures]] - Cryptographic mechanisms that account abstraction can supplement or replace
 [[Multi-Signature]] - Traditional approach to programmable authentication that account abstraction generalizes
-[[Decentralized Identity]] - Identity management systems that can integrate with account abstraction
-[[User Experience]] - Design considerations that account abstraction attempts to address
+[[decentralized identity]] - Identity management systems that can integrate with account abstraction
+**User Experience** - Design considerations that account abstraction attempts to address
 [[Gas]] - Transaction fee mechanisms that account abstraction can abstract away from users
 [[Private Key Management]] - Security challenge that account abstraction attempts to simplify
-[[Social Recovery]] - Account recovery mechanisms enabled by programmable account logic
-[[Paymaster]] - EIP-4337 mechanism enabling flexible transaction fee payment
-[[Bundler]] - Infrastructure services that process account abstraction transactions
+**Social Recovery** - Account recovery mechanisms enabled by programmable account logic
+**Paymaster** - EIP-4337 mechanism enabling flexible transaction fee payment
+**Bundler** - Infrastructure services that process account abstraction transactions
 [[Entry Point]] - Smart contract architecture that validates account abstraction operations
 [[Biometric Authentication]] - Identity verification that account abstraction can integrate
-[[Know Your Customer (KYC)]] - Compliance requirements that account abstraction can facilitate
-[[Censorship Resistance]] - Blockchain property that account abstraction implementations must preserve
-[[Usability]] - Design goal that motivates account abstraction development
+**Know Your Customer (KYC)** - Compliance requirements that account abstraction can facilitate
+[[censorship resistance]] - Blockchain property that account abstraction implementations must preserve
+**Usability** - Design goal that motivates account abstraction development
 [[Interoperability]] - Compatibility requirement for account abstraction standards
 [[Network Effects]] - Adoption dynamics that affect account abstraction success
 [[Programmable Money]] - Broader concept that account abstraction enables for identity and authentication
-[[Threshold Cryptography]] - Mathematical techniques that account abstraction can implement
+Threshold Cryptography - Mathematical techniques that account abstraction can implement
 [[Defense in Depth]] - Security strategy necessary for account abstraction implementations
-[[Two-Sided Markets]] - Economic model that paymaster systems can enable
-[[Standards Wars]] - Competition dynamic affecting account abstraction development
+**Two-Sided Markets** - Economic model that paymaster systems can enable
+**Standards Wars** - Competition dynamic affecting account abstraction development

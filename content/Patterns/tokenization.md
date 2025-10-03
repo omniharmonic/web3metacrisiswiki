@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Ecosystem Service Tokenization"
 alias:
 - "Tokenization"
 ---
@@ -84,9 +86,9 @@ The future development of tokenization likely requires more sophisticated legal 
 
 [[Programmability]] - Smart contract logic enabling token behavior
 [[Decentralized Finance (DeFi)]] - Financial applications of tokenized assets
-[[Governance_Mechanisms]] - Token-based governance and voting rights
-[[Market_Manipulation]] - Risks created by tokenized speculation
-[[Regulatory_Compliance]] - Legal challenges of tokenized securities
-[[Property_Rights]] - Legal foundations of asset tokenization
-[[Financial_Innovation]] - Novel instruments enabled by tokenization
-[[Speculation]] - Market dynamics in token trading
+**Governance_Mechanisms** - Token-based governance and voting rights
+**Market_Manipulation** - Risks created by tokenized speculation
+**Regulatory_Compliance** - Legal challenges of tokenized securities
+**Property_Rights** - Legal foundations of asset tokenization
+**Financial_Innovation** - Novel instruments enabled by tokenization
+**Speculation** - Market dynamics in token trading

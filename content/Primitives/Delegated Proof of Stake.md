@@ -217,21 +217,21 @@ Future developments should prioritize mechanisms for increasing voter participat
 
 [[Proof of Stake]] - Consensus mechanism that DPoS modifies through delegation and representative selection
 [[Blockchain Trilemma]] - Fundamental trade-offs that DPoS attempts to address through architectural choices
-[[Consensus Mechanisms]] - Broader category of protocols for achieving agreement in distributed systems
-[[Democratic Theory]] - Political science framework for understanding delegation and representation
+[[consensus mechanisms]] - Broader category of protocols for achieving agreement in distributed systems
+**Democratic Theory** - Political science framework for understanding delegation and representation
 [[Liquid Democracy]] - Governance approach that combines direct and representative democracy elements
-[[Validator Economics]] - Economic incentives affecting consensus participation and performance
+**Validator Economics** - Economic incentives affecting consensus participation and performance
 [[Governance Tokens]] - Tokens that enable participation in delegate selection and network governance
 [[Network Effects]] - Adoption dynamics that affect the success of consensus mechanisms
 [[Staking]] - Economic mechanism underlying both PoS and DPoS consensus participation
 [[Representative Democracy]] - Political system that DPoS implements through cryptographic mechanisms
-[[Iron Law of Oligarchy]] - Political theory describing tendencies toward elite control in democratic systems
-[[Voter Apathy]] - Challenge affecting democratic participation in both traditional and blockchain governance
-[[Cartel Formation]] - Economic risk where small numbers of validators may coordinate behavior
+**Iron Law of Oligarchy** - Political theory describing tendencies toward elite control in democratic systems
+**Voter Apathy** - Challenge affecting democratic participation in both traditional and blockchain governance
+**Cartel Formation** - Economic risk where small numbers of validators may coordinate behavior
 [[Byzantine Fault Tolerance]] - Security property that DPoS systems must maintain despite delegate concentration
-[[Fast Finality]] - Performance benefit that DPoS can achieve through streamlined consensus
+**Fast Finality** - Performance benefit that DPoS can achieve through streamlined consensus
 [[Scalability]] - Performance characteristic that DPoS prioritizes through validator concentration
 [[Decentralization]] - Property that DPoS attempts to maintain through democratic delegate selection
-[[Censorship Resistance]] - Security property that may be compromised by delegate concentration
-[[Professional Validators]] - Trend toward specialized validator operations in DPoS systems
-[[Block Production]] - Technical process that DPoS organizes through scheduled delegate rotation
+[[censorship resistance]] - Security property that may be compromised by delegate concentration
+**Professional Validators** - Trend toward specialized validator operations in DPoS systems
+**Block Production** - Technical process that DPoS organizes through scheduled delegate rotation

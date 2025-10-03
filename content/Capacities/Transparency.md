@@ -1,6 +1,11 @@
 ---
 aliases:
   - "transparency"
+  - "Algorithmic Transparency"
+  - "Supply_Chain_Transparency"
+  - "Supply_Chain_Transparency"
+  - "transparent"
+  - "transparency"
 ---
 
 # Transparency
@@ -77,9 +82,9 @@ The strategic implementation of transparency systems likely requires layered app
 
 [[Immutability]] - Permanent records enabling transparent audit trails
 [[Trustlessness]] - Transparency enables verification without trusted intermediaries
-[[Privacy_Preservation]] - Tension between transparency and individual privacy
+**Privacy_Preservation** - Tension between transparency and individual privacy
 [[Accountability]] - Democratic benefits enabled by transparent systems
-[[Surveillance_Capitalism]] - Risks of systematic transparency exploitation
-[[Democratic_Participation]] - Transparency as prerequisite for informed civic engagement
-[[Information_Asymmetries]] - Power dynamics created by differential access to information
-[[Institutional_Design]] - Transparency as component of democratic institutional architecture
+**Surveillance_Capitalism** - Risks of systematic transparency exploitation
+**Democratic_Participation** - Transparency as prerequisite for informed civic engagement
+**Information_Asymmetries** - Power dynamics created by differential access to information
+**Institutional_Design** - Transparency as component of democratic institutional architecture

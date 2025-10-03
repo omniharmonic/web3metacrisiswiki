@@ -4,6 +4,7 @@ aliases:
   - "private-key-management"
   - "Private-Key-Management"
   - "private -key -management"
+  - "Key Management"
 ---
 
 # Private Key Management

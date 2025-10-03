@@ -1,4 +1,8 @@
 ---
+aliases:
+  - "Hash Time-Locked Contracts"
+  - "Upgradeable Contracts"
+  - "Smart Contract"
 title: "Smart Contracts"
 ---
 
@@ -141,24 +145,24 @@ The maturation of smart contract technology may determine whether programmable m
 
 [[Ethereum Virtual Machine (EVM)]] - Execution environment that runs smart contract code across distributed blockchain networks
 [[Gas]] - Economic mechanism for pricing computational resources and preventing denial-of-service attacks in smart contract execution
-[[Solidity]] - Programming language designed specifically for writing smart contracts on Ethereum-compatible blockchains
-[[Formal Verification]] - Mathematical techniques for proving smart contract correctness and security properties
+**Solidity** - Programming language designed specifically for writing smart contracts on Ethereum-compatible blockchains
+**Formal Verification** - Mathematical techniques for proving smart contract correctness and security properties
 [[Immutability]] - Property where deployed smart contract code cannot be modified, providing predictability but limiting error correction
 [[Composability]] - Ability for smart contracts to interact with each other, enabling complex applications from simpler components
 [[automated market makers (AMMs)]] - Smart contract systems enabling algorithmic token trading without traditional order books
 [[Flash Loans]] - Smart contract primitive enabling borrowing and repayment within single transactions
 [[Oracles]] - External data sources that provide real-world information to smart contracts for decision-making
-[[Reentrancy Attacks]] - Common smart contract vulnerability where malicious contracts exploit callback functions
+**Reentrancy Attacks** - Common smart contract vulnerability where malicious contracts exploit callback functions
 [[Upgradeable Contracts]] - Design patterns enabling smart contract modifications while preserving immutability properties
-[[Proxy Patterns]] - Technical mechanisms for implementing upgradeable smart contracts through delegated execution
+**Proxy Patterns** - Technical mechanisms for implementing upgradeable smart contracts through delegated execution
 [[Access Control]] - Security mechanisms determining which addresses can execute specific smart contract functions
-[[Token Standards]] - Standardized interfaces including ERC-20 and ERC-721 that enable smart contract interoperability
+**Token Standards** - Standardized interfaces including ERC-20 and ERC-721 that enable smart contract interoperability
 [[Decentralized Finance (DeFi)]] - Financial applications built on smart contract infrastructure
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems implemented through smart contract voting mechanisms
 [[tokenization]] - Process of representing real-world or digital assets through smart contract tokens
 [[Smart Contract Auditing]] - Security review processes for identifying vulnerabilities before deployment
-[[Bug Bounties]] - Incentive programs rewarding discovery of smart contract vulnerabilities
-[[Formal Methods]] - Mathematical approaches to smart contract specification and verification
+**Bug Bounties** - Incentive programs rewarding discovery of smart contract vulnerabilities
+**Formal Methods** - Mathematical approaches to smart contract specification and verification
 [[State Channels]] - Off-chain systems that reduce smart contract execution costs through batched settlement
 [[Layer 2 Solutions]] - Scaling technologies that reduce smart contract execution costs and increase throughput
-[[Cross-Chain Protocols]] - Systems enabling smart contract interactions across different blockchain networks
+**Cross-Chain Protocols** - Systems enabling smart contract interactions across different blockchain networks

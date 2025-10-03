@@ -111,7 +111,7 @@ aliases:
 - [[meta-crisis]] - Disinformation as a core component of systemic failure
 - [[Epistemic Crisis]] - Loss of shared foundations for knowledge and reasoning
 - [[Cognitive Biases]] - Human vulnerabilities exploited by AI systems
-- [[Information_Theory]] - Mathematical frameworks for understanding information flow
+- **Information_Theory** - Mathematical frameworks for understanding information flow
 - [[decentralized storage networks]] - Censorship-resistant information infrastructure
 - [[Cryptographic Identity]] - Verifiable identity systems
 - [[Reputation Systems]] - Community-based verification mechanisms

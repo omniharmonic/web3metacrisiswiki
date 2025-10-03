@@ -79,7 +79,7 @@ However, carbon market tokenization faces persistent challenges with measurement
 
 ### Decentralized Environmental Monitoring and Data Commons
 
-[[Decentralized Environmental Monitoring]] through sensor networks, satellite data, and citizen science could potentially create transparent, tamper-resistant environmental data systems that resist capture by polluting industries and governmental agencies that may have incentives to underreport environmental degradation.
+**Decentralized Environmental Monitoring** through sensor networks, satellite data, and citizen science could potentially create transparent, tamper-resistant environmental data systems that resist capture by polluting industries and governmental agencies that may have incentives to underreport environmental degradation.
 
 [[Blockchain Oracles]] for environmental data could enable automated enforcement of environmental agreements and real-time monitoring of ecological conditions while creating permanent records of environmental changes that prevent retroactive manipulation of evidence about ecological collapse trajectories.
 
@@ -149,23 +149,23 @@ The window for preventing civilizational collapse through ecological breakdown m
 
 ## Related Concepts
 
-[[Planetary Boundaries]] - Framework identifying safe operating spaces for human development within Earth system limits
-[[Climate Change]] - Anthropogenic alteration of Earth's climate system through greenhouse gas emissions
+**Planetary Boundaries** - Framework identifying safe operating spaces for human development within Earth system limits
+**Climate Change** - Anthropogenic alteration of Earth's climate system through greenhouse gas emissions
 [[Mass Extinction]] - Current biodiversity crisis comparable to previous mass extinction events in geological history
 [[Resilience Theory]] - Ecological framework for understanding system stability and transformation dynamics
-[[Tipping Points]] - Critical thresholds where small changes lead to large, often irreversible system transitions
-[[Anthropocene]] - Geological epoch characterized by human dominance of Earth system processes
+**Tipping Points** - Critical thresholds where small changes lead to large, often irreversible system transitions
+**Anthropocene** - Geological epoch characterized by human dominance of Earth system processes
 [[Regenerative Finance]] - Financial mechanisms designed to restore rather than degrade ecological systems
 [[Carbon Credit Tokenization]] - Blockchain-based systems for trading verified carbon sequestration
 [[Ecosystem Service Tokenization]] - Economic valuation and trading of natural system functions
-[[Degrowth]] - Economic framework prioritizing wellbeing over growth within ecological limits
-[[Rights of Nature]] - Legal framework recognizing intrinsic value and rights of natural systems
+**Degrowth** - Economic framework prioritizing wellbeing over growth within ecological limits
+**Rights of Nature** - Legal framework recognizing intrinsic value and rights of natural systems
 [[Environmental Justice]] - Movement for equitable distribution of environmental benefits and burdens
-[[Deep Ecology]] - Philosophical framework recognizing intrinsic value of all living beings
-[[Biosphere Collapse]] - Systemic breakdown of Earth's life support systems
+**Deep Ecology** - Philosophical framework recognizing intrinsic value of all living beings
+**Biosphere Collapse** - Systemic breakdown of Earth's life support systems
 [[Sixth Mass Extinction]] - Current biodiversity crisis driven by human activities
-[[Ocean Acidification]] - Chemical changes in ocean systems from carbon dioxide absorption
-[[Permafrost Melting]] - Release of stored carbon from thawing Arctic soils
-[[Biodiversity Loss]] - Decline in variety and abundance of life forms across scales
-[[Habitat Fragmentation]] - Breakdown of continuous habitats into isolated patches
+**Ocean Acidification** - Chemical changes in ocean systems from carbon dioxide absorption
+**Permafrost Melting** - Release of stored carbon from thawing Arctic soils
+**Biodiversity Loss** - Decline in variety and abundance of life forms across scales
+**Habitat Fragmentation** - Breakdown of continuous habitats into isolated patches
 [[ecosystem services]] - Benefits that humans derive from functioning natural systems

@@ -111,15 +111,15 @@ The maturation of holographic consensus depends on solving fundamental challenge
 [[Prediction Markets]] - Core mechanism for information aggregation and attention filtering in holographic consensus
 [[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that face scalability challenges addressed by holographic consensus
 [[Attention Economy]] - Economic framework for understanding cognitive resource allocation in information-rich environments
-[[Rational Ignorance]] - Public choice theory explaining why democratic participation may be systematically uninformed
-[[Market Design]] - Economic framework for creating efficient and fair market institutions including prediction markets
+**Rational Ignorance** - Public choice theory explaining why democratic participation may be systematically uninformed
+**Market Design** - Economic framework for creating efficient and fair market institutions including prediction markets
 [[smart contracts]] - Technical infrastructure enabling automated prediction market and governance operations
 [[Governance Tokens]] - Voting rights mechanisms that may integrate with holographic consensus systems
 [[Conviction Voting]] - Time-weighted governance mechanism that may complement market-based attention filtering
 [[Quadratic Voting]] - Alternative preference aggregation mechanism for addressing governance participation challenges
 [[Mechanism Design]] - Theoretical framework for creating institutions that align individual and collective incentives
 [[Game Theory]] - Mathematical analysis of strategic behavior in market-based governance systems
-[[Information Aggregation]] - Process of combining dispersed knowledge through market and democratic mechanisms
+**Information Aggregation** - Process of combining dispersed knowledge through market and democratic mechanisms
 [[Democratic Innovation]] - Broader category of experiments in governance participation and decision-making enhancement
-[[Cognitive Economics]] - Field studying how limited attention affects economic and political decision-making
+**Cognitive Economics** - Field studying how limited attention affects economic and political decision-making
 [[Elite Capture]] - Phenomenon where governance mechanisms become dominated by sophisticated actors despite democratic design intentions

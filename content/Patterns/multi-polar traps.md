@@ -87,7 +87,7 @@ What economist William Nordhaus calls "climate club" proposals attempt to addres
 
 [[consensus mechanisms]] represent sophisticated solutions to multi-polar traps in distributed computing where network participants must coordinate on shared state despite competitive incentives and potential adversarial behavior. [[Proof of Stake (PoS)]] mechanisms implement what economist Leonid Hurwicz calls "incentive compatibility" by making honest participation individually rational while making coordinated attacks prohibitively expensive.
 
-[[Slashing]] mechanisms create credible punishment for malicious behavior while [[Validator]] rotation prevents concentration of control that could enable coordination attacks. This demonstrates how cryptoeconomic design can transform competitive zero-sum environments into cooperative positive-sum coordination where individual success depends on collective network health.
+[[Slashing]] mechanisms create credible punishment for malicious behavior while **Validator** rotation prevents concentration of control that could enable coordination attacks. This demonstrates how cryptoeconomic design can transform competitive zero-sum environments into cooperative positive-sum coordination where individual success depends on collective network health.
 
 However, practical implementation faces challenges including validator concentration, staking centralization, and the potential for sophisticated attacks including "long-range" manipulations that exploit costless simulation of alternative blockchain histories to undermine consensus security.
 
@@ -154,7 +154,7 @@ The resolution of contemporary multi-polar traps including climate change, techn
 [[Collective Action Problem]] - Coordination challenges where individual rational behavior undermines collective welfare
 [[Free Rider Problem]] - Specific coordination failure where individuals benefit without contributing costs
 [[Tragedy of the Commons]] - Classic example of resource depletion through competitive overuse
-[[Arms Race]] - Escalation dynamics where defensive preparations create security dilemmas
+**Arms Race** - Escalation dynamics where defensive preparations create security dilemmas
 [[Mechanism Design]] - Applied game theory for creating institutions that solve coordination problems
 [[consensus mechanisms]] - Cryptoeconomic solutions to coordination problems in distributed computing
 [[Quadratic Funding]] - Democratic mechanism for public goods funding that addresses coordination failures

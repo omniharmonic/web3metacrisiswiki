@@ -78,11 +78,11 @@ The evolution of bridge technologies enabling seamless interaction between conte
 
 ## Related Concepts
 
-[[Censorship_Resistance]] - Primary motivation for content addressing
-[[Information_Permanence]] - Archival implications and tensions
-[[Decentralized_Infrastructure]] - Challenges of distributed systems
-[[Content_Moderation]] - Tensions with censorship resistance
-[[Public_Goods_Provision]] - Economic challenges of storage provision
-[[Cryptographic_Verification]] - Technical foundation for content addressing
-[[Right_to_be_Forgotten]] - Conflicts with permanent availability
-[[Infrastructure_Concentration]] - Practical centralization dynamics
+**Censorship_Resistance** - Primary motivation for content addressing
+**Information_Permanence** - Archival implications and tensions
+**Decentralized_Infrastructure** - Challenges of distributed systems
+**Content_Moderation** - Tensions with censorship resistance
+**Public_Goods_Provision** - Economic challenges of storage provision
+**Cryptographic_Verification** - Technical foundation for content addressing
+**Right_to_be_Forgotten** - Conflicts with permanent availability
+**Infrastructure_Concentration** - Practical centralization dynamics

@@ -2,6 +2,9 @@
 aliases:
   - "environmental-economics"
   - "Environmental-Economics"
+  - "Sustainable Development"
+  - "Conservation Biology"
+  - "green economics"
 ---
 
 # Environmental Economics
@@ -173,26 +176,26 @@ Future developments in environmental economics may require moving beyond narrow 
 ## Related Concepts
 
 [[Externalities]] - Economic concept explaining why markets fail to protect environmental resources
-[[Pigouvian Taxes]] - Corrective taxation designed to internalize environmental costs
-[[Carbon Pricing]] - Market-based mechanism for reducing greenhouse gas emissions
-[[Cap and Trade]] - Environmental policy tool using tradable emission permits
+**Pigouvian Taxes** - Corrective taxation designed to internalize environmental costs
+**Carbon Pricing** - Market-based mechanism for reducing greenhouse gas emissions
+**Cap and Trade** - Environmental policy tool using tradable emission permits
 [[Payment for Ecosystem Services]] - Market mechanism compensating providers of environmental benefits
 [[Natural Capital Accounting]] - Economic framework for valuing environmental assets and services
-[[Green New Deal]] - Policy framework combining environmental protection with economic development
+**Green New Deal** - Policy framework combining environmental protection with economic development
 [[Circular Economy]] - Economic model emphasizing resource efficiency and waste reduction
 [[Sustainable Development]] - Development approach balancing economic, social, and environmental objectives
-[[Ecological Economics]] - Transdisciplinary field studying economy as subsystem of ecology
+**Ecological Economics** - Transdisciplinary field studying economy as subsystem of ecology
 [[Environmental Justice]] - Movement addressing equitable distribution of environmental benefits and burdens
 [[Tragedy of the Commons]] - Model explaining overuse of shared environmental resources
 [[Public Goods]] - Economic theory explaining under-provision of environmental protection
-[[Market Failure]] - Economic situations where private markets fail to achieve optimal environmental outcomes
+**Market Failure** - Economic situations where private markets fail to achieve optimal environmental outcomes
 [[Coase Theorem]] - Economic theory about environmental problem resolution through property rights
-[[Environmental Kuznets Curve]] - Hypothesis about relationship between income and environmental quality
-[[Green Taxes]] - Fiscal instruments designed to promote environmental protection
+**Environmental Kuznets Curve** - Hypothesis about relationship between income and environmental quality
+**Green Taxes** - Fiscal instruments designed to promote environmental protection
 [[Environmental Impact Assessment]] - Process for evaluating environmental consequences of development projects
 [[Cost-Benefit Analysis]] - Economic method for evaluating environmental policies and projects
-[[Discount Rate]] - Economic concept affecting valuation of future environmental costs and benefits
-[[Renewable Energy Economics]] - Economic analysis of clean energy technologies and policies
+**Discount Rate** - Economic concept affecting valuation of future environmental costs and benefits
+**Renewable Energy Economics** - Economic analysis of clean energy technologies and policies
 [[Conservation Biology]] - Scientific discipline informing economic approaches to biodiversity protection
-[[Climate Economics]] - Economic analysis of climate change impacts and policy responses
-[[Pollution Economics]] - Economic analysis of pollution sources, impacts, and control strategies
+**Climate Economics** - Economic analysis of climate change impacts and policy responses
+**Pollution Economics** - Economic analysis of pollution sources, impacts, and control strategies

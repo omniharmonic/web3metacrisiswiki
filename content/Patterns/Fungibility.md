@@ -11,7 +11,7 @@ aliases:
 
 The theoretical significance of fungibility extends beyond simple substitutability to encompass fundamental questions about value standardization, market efficiency, and the social construction of economic equivalence. What sociologist Georg Simmel calls "the philosophy of money" reveals how fungibility enables abstract value relationships that transcend specific object characteristics while creating new forms of social power and inequality through the quantification and standardization of value.
 
-In Web3 contexts, fungibility represents both the foundation for liquid digital markets through [[Token Standards]], [[Decentralized Finance (DeFi)]], and automated trading systems that enable unprecedented market efficiency, and a challenge where perfect fungibility may conflict with privacy, regulatory compliance, and the need for distinguishing between legitimate and illicit token transfers while maintaining the economic benefits of interchangeable digital assets.
+In Web3 contexts, fungibility represents both the foundation for liquid digital markets through **Token Standards**, [[Decentralized Finance (DeFi)]], and automated trading systems that enable unprecedented market efficiency, and a challenge where perfect fungibility may conflict with privacy, regulatory compliance, and the need for distinguishing between legitimate and illicit token transfers while maintaining the economic benefits of interchangeable digital assets.
 
 ## Economic Theory and Market Function
 
@@ -47,7 +47,7 @@ However, perfect fungibility may also create systemic risks through what economi
 
 The technical implementation of fungibility requires careful balance between standardization and flexibility where token contracts must implement identical interfaces while enabling customization for specific use cases including governance rights, utility functions, and economic mechanisms that may affect token utility but preserve substitutability.
 
-[[Multi-Token Standards]] including ERC-1155 enable hybrid fungibility where single contracts can manage both fungible and non-fungible tokens, potentially enabling more efficient resource utilization while maintaining clear distinction between interchangeable and unique assets within unified technical frameworks.
+**Multi-Token Standards** including ERC-1155 enable hybrid fungibility where single contracts can manage both fungible and non-fungible tokens, potentially enabling more efficient resource utilization while maintaining clear distinction between interchangeable and unique assets within unified technical frameworks.
 
 ### Cryptographic Properties and Verification
 
@@ -73,11 +73,11 @@ However, blockchain transparency creates tensions with fungibility where transac
 
 The fungibility of governance tokens enables what political scientist Robert Dahl calls "democratic equality" where all tokens carry identical voting weight regardless of their acquisition history, while also creating risks of what economist Glen Weyl calls "plutocracy" where wealthy actors can purchase disproportionate governance influence.
 
-[[Delegation Mechanisms]] leverage fungibility to enable liquid democracy where token holders can delegate their voting power to representatives while retaining the ability to reclaim and transfer their governance rights, implementing what political scientist James Fishkin calls "deliberative democracy" at scale.
+**Delegation Mechanisms** leverage fungibility to enable liquid democracy where token holders can delegate their voting power to representatives while retaining the ability to reclaim and transfer their governance rights, implementing what political scientist James Fishkin calls "deliberative democracy" at scale.
 
 ### Cross-Chain Interoperability and Bridge Mechanisms
 
-[[Bridge Tokens]] and wrapped assets implement fungibility across different blockchain networks through cryptographic verification that ensures tokens maintain identical properties despite being represented on multiple networks with different technical architectures and consensus mechanisms.
+**Bridge Tokens** and wrapped assets implement fungibility across different blockchain networks through cryptographic verification that ensures tokens maintain identical properties despite being represented on multiple networks with different technical architectures and consensus mechanisms.
 
 Cross-chain fungibility faces technical challenges with what computer scientist Leslie Lamport calls "Byzantine fault tolerance" where malicious actors may attempt to create double-spending or counterfeit tokens that undermine fungibility across network boundaries while maintaining apparent legitimacy within individual networks.
 
@@ -91,7 +91,7 @@ Perfect fungibility conflicts with blockchain transparency where public transact
 
 Regulatory compliance requirements including Anti-Money Laundering (AML) and Know Your Customer (KYC) create tensions with fungibility where financial institutions may be required to discriminate between tokens based on their origin, potentially undermining the substitutability that enables market efficiency.
 
-[[Privacy Coins]] including Monero and Zcash attempt to maintain fungibility through cryptographic privacy that obscures transaction histories, but face regulatory pressure and exchange delisting that may limit their adoption while demonstrating the tensions between privacy and compliance in fungible digital assets.
+**Privacy Coins** including Monero and Zcash attempt to maintain fungibility through cryptographic privacy that obscures transaction histories, but face regulatory pressure and exchange delisting that may limit their adoption while demonstrating the tensions between privacy and compliance in fungible digital assets.
 
 ### Regulatory Compliance and Legal Frameworks
 
@@ -105,7 +105,7 @@ International regulatory differences create jurisdictional arbitrage opportuniti
 
 Smart contract bugs and vulnerabilities can affect token fungibility where certain tokens may become locked or otherwise impaired while maintaining identical formal properties, creating what computer scientist Emin Gün Sirer calls "accidental non-fungibility" where technical problems create quality differences between formally identical assets.
 
-[[Upgrade Mechanisms]] in token contracts create risks where protocol changes may affect some tokens differently than others, potentially breaking fungibility properties that users and applications depend on for proper functioning while creating arbitrage opportunities for sophisticated actors who can predict upgrade effects.
+**Upgrade Mechanisms** in token contracts create risks where protocol changes may affect some tokens differently than others, potentially breaking fungibility properties that users and applications depend on for proper functioning while creating arbitrage opportunities for sophisticated actors who can predict upgrade effects.
 
 Token contract dependencies on external protocols and oracles create systemic risks where problems in connected systems may affect token functionality in ways that break fungibility assumptions, potentially creating cascade failures across interconnected DeFi protocols that assume perfect substitutability.
 
@@ -115,7 +115,7 @@ Large token holders may be able to exploit fungibility to manipulate markets thr
 
 [[Flash Loans]] attacks demonstrate how fungibility can be exploited for economic manipulation where attackers can borrow large quantities of tokens, manipulate markets through their fungible properties, and repay loans within single transactions while extracting value from protocol inefficiencies.
 
-[[Governance Attacks]] may exploit token fungibility where attackers can rapidly acquire governance tokens and use their fungible voting power to pass malicious proposals before other token holders can respond, potentially enabling what computer scientist Phil Daian calls "miner extractable value" extraction through governance manipulation.
+**Governance Attacks** may exploit token fungibility where attackers can rapidly acquire governance tokens and use their fungible voting power to pass malicious proposals before other token holders can respond, potentially enabling what computer scientist Phil Daian calls "miner extractable value" extraction through governance manipulation.
 
 ## Integration with Broader Economic Systems
 
@@ -131,7 +131,7 @@ International coordination on digital asset fungibility standards could enable g
 
 Institutional adoption of fungible digital assets requires integration with existing financial infrastructure including custody, settlement, and reporting systems that may not be designed to handle perfectly fungible assets with public transaction histories and 24/7 trading availability.
 
-[[Stablecoins]] demonstrate both the benefits and challenges of implementing fungibility in regulated financial contexts where token issuers must maintain backing assets and compliance procedures while ensuring that all tokens remain perfectly substitutable regardless of regulatory reporting requirements.
+**Stablecoins** demonstrate both the benefits and challenges of implementing fungibility in regulated financial contexts where token issuers must maintain backing assets and compliance procedures while ensuring that all tokens remain perfectly substitutable regardless of regulatory reporting requirements.
 
 The growth of tokenized securities and real-world asset tokenization creates hybrid fungibility challenges where underlying assets may have different regulatory treatments despite identical token representations, potentially creating arbitrage opportunities and regulatory complexity.
 
@@ -147,20 +147,20 @@ The maturation of fungible digital assets depends on continued innovation in pri
 
 ## Related Concepts
 
-[[Token Standards]] - Technical protocols that implement fungibility in blockchain systems
+**Token Standards** - Technical protocols that implement fungibility in blockchain systems
 [[ERC-20]] - Ethereum token standard that defines fungible token interface requirements
 [[Decentralized Finance (DeFi)]] - Financial systems that depend on fungible tokens for automated operation
 [[Liquidity Pools]] - Mechanisms that aggregate fungible tokens to provide market depth
 [[automated market makers (AMMs)]] - Trading systems that use fungibility assumptions for price calculation
 [[Governance Tokens]] - Fungible tokens that represent voting rights in decentralized organizations
-[[Stablecoins]] - Fungible tokens designed to maintain stable value relative to reference assets
+**Stablecoins** - Fungible tokens designed to maintain stable value relative to reference assets
 [[Cross-Chain Bridges]] - Protocols that maintain fungibility across different blockchain networks
-[[Privacy Coins]] - Cryptocurrencies designed to preserve fungibility through transaction privacy
-[[Wrapped Tokens]] - Blockchain representations of assets from other networks that maintain fungibility
+**Privacy Coins** - Cryptocurrencies designed to preserve fungibility through transaction privacy
+**Wrapped Tokens** - Blockchain representations of assets from other networks that maintain fungibility
 [[Flash Loans]] - DeFi primitives that exploit fungibility for temporary capital access
 [[yield farming]] - Investment strategies that use fungible token rewards for liquidity provision
-[[Market Making]] - Trading strategies that provide liquidity for fungible asset markets
-[[Central Bank Digital Currencies]] - Government-issued digital currencies with controlled fungibility
-[[Securities Regulation]] - Legal frameworks that may affect token fungibility through classification requirements
-[[Anti-Money Laundering]] - Compliance requirements that may conflict with perfect fungibility
+**Market Making** - Trading strategies that provide liquidity for fungible asset markets
+**Central Bank Digital Currencies** - Government-issued digital currencies with controlled fungibility
+**Securities Regulation** - Legal frameworks that may affect token fungibility through classification requirements
+**Anti-Money Laundering** - Compliance requirements that may conflict with perfect fungibility
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that can preserve fungibility while enabling verification

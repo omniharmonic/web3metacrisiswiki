@@ -171,21 +171,21 @@ The future of commons governance may determine whether human societies can devel
 [[polycentric governance]] - Multi-level governance systems with distributed authority and nested institutional arrangements
 [[Collective Action Problem]] - Coordination challenges that commons governance attempts to address through institutional design
 [[Social Capital]] - Trust, reciprocity, and network relationships that enable commons governance effectiveness
-[[Institutional Analysis]] - Framework for understanding how governance rules and norms evolve and persist
+**Institutional Analysis** - Framework for understanding how governance rules and norms evolve and persist
 [[Public Choice Theory]] - Economic analysis of political processes that informs commons governance design
 [[Tragedy of the Commons]] - Classic model of resource depletion that commons governance attempts to prevent
-[[Open Source Development]] - Collaborative software development model exemplifying digital commons governance
+**Open Source Development** - Collaborative software development model exemplifying digital commons governance
 [[Platform Cooperatives]] - Worker and user-owned digital platforms implementing cooperative governance principles
 [[Participatory Democracy]] - Democratic theory emphasizing direct citizen involvement in decision-making processes
 [[Decentralized Autonomous Organizations (DAOs)]] - Blockchain-based organizations attempting to implement commons governance principles
 [[Quadratic Voting]] - Democratic innovation designed to improve preference expression in commons governance
 [[Tokenomics]] - Economic design of cryptocurrency systems that can support or undermine commons governance
 [[regenerative economics]] - Economic approaches aligning financial success with ecological and social regeneration
-[[Digital Commons]] - Shared information and cultural resources managed through commons governance principles
-[[Community Land Trusts]] - Legal structures for community ownership and stewardship of land resources
-[[Cooperative Economics]] - Economic theory and practice emphasizing democratic ownership and control
-[[Peer Production]] - Collaborative creation model enabled by digital technologies and commons governance
+**Digital Commons** - Shared information and cultural resources managed through commons governance principles
+**Community Land Trusts** - Legal structures for community ownership and stewardship of land resources
+**Cooperative Economics** - Economic theory and practice emphasizing democratic ownership and control
+**Peer Production** - Collaborative creation model enabled by digital technologies and commons governance
 [[Gift Economy]] - Economic system based on voluntary giving rather than market exchange or state redistribution
-[[Ecological Economics]] - Economic framework incorporating ecological limits and commons stewardship principles
+**Ecological Economics** - Economic framework incorporating ecological limits and commons stewardship principles
 [[Deliberative Democracy]] - Democratic theory emphasizing informed discussion and preference formation
-[[Network Governance]] - Coordination mechanisms for managing relationships across organizational boundaries
+**Network Governance** - Coordination mechanisms for managing relationships across organizational boundaries

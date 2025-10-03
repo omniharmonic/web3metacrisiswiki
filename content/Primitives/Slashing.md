@@ -151,16 +151,16 @@ aliases:
 
 - [[Staking]] - Primary mechanism subject to slashing
 - [[Proof of Stake (PoS)]] - Consensus mechanism utilizing slashing
-- [[Validators]] - Network participants subject to slashing
-- [[Economic_Security]] - Security model based on slashing penalties
+- **Validators** - Network participants subject to slashing
+- **Economic_Security** - Security model based on slashing penalties
 - [[consensus mechanisms]] - Broader category including slashing-based security
 - [[Tokenomics]] - Economic design including slashing mechanisms
-- [[Network_Security]] - Security provided through slashing deterrence
-- [[Incentive_Design]] - Framework for designing slashing mechanisms
+- **Network_Security** - Security provided through slashing deterrence
+- **Incentive_Design** - Framework for designing slashing mechanisms
 - [[Game Theory]] - Mathematical analysis of slashing incentives
-- [[Risk_Management]] - Strategies for managing slashing risks
-- [[Validator_Operations]] - Practices for avoiding slashing conditions
-- [[Protocol_Governance]] - Governance of slashing rules and parameters
+- **Risk_Management** - Strategies for managing slashing risks
+- **Validator_Operations** - Practices for avoiding slashing conditions
+- **Protocol_Governance** - Governance of slashing rules and parameters
 
 ## References
 

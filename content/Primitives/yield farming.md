@@ -184,5 +184,5 @@ interface YieldFarmingStrategy {
 - [[smart contracts]] - Self-executing agreements on blockchains
 - [[decentralized lending protocols]] - Autonomous money markets
 - [[Composability]] - Ability of components to work together
-- [[Liquidity_Provision]] - Providing liquidity to protocols
-- [[Risk_Management]] - Managing risks in DeFi protocols
+- **Liquidity_Provision** - Providing liquidity to protocols
+- **Risk_Management** - Managing risks in DeFi protocols

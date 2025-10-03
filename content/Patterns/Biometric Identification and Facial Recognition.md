@@ -4,6 +4,7 @@ aliases:
   - "biometric-identification-and-facial-recognition"
   - "Biometric-Identification-And-Facial-Recognition"
   - "biometric -identification and -facial -recognition"
+  - "Biometric Identification"
 ---
 
 # Biometric Identification and Facial Recognition

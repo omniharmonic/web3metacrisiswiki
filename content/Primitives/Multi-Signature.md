@@ -9,6 +9,9 @@ aliases:
   - "Multiple signature"
   - "threshold signature"
   - "Threshold signature"
+  - "Threshold Cryptography"
+  - "multi-sig"
+  - "distributed signatures"
 ---
 
 # Multi-Signature
@@ -259,18 +262,18 @@ The measurement and evaluation of multi-signature effectiveness requires sophist
 ## Related Concepts
 
 [[Digital Signatures]] - Cryptographic foundations that multi-signature extends for collective authorization
-[[Threshold Cryptography]] - Mathematical framework enabling distributed signature generation
+Threshold Cryptography - Mathematical framework enabling distributed signature generation
 [[Decentralized Autonomous Organizations (DAOs)]] - Primary application domain for multi-signature governance
 [[Governance Tokens]] - Voting mechanisms that can be enhanced through multi-signature authorization
 [[Public Goods Funding]] - Resource allocation that benefits from multi-signature transparency and accountability
-[[Smart Contracts]] - Programmable systems that can implement sophisticated multi-signature logic
+[[smart contracts]] - Programmable systems that can implement sophisticated multi-signature logic
 [[Key Management]] - Security practices essential for effective multi-signature implementation
-[[Custody]] - Asset management that multi-signature can decentralize and secure
+**Custody** - Asset management that multi-signature can decentralize and secure
 [[Byzantine Fault Tolerance]] - Distributed systems properties that multi-signature can help achieve
 [[Access Control]] - Security mechanisms that multi-signature implements for collective authorization
 [[Reputation Systems]] - Trust mechanisms that can enhance multi-signature authorization
-[[Treasury Management]] - Financial operations that benefit from multi-signature security and transparency
-[[Emergency Procedures]] - Crisis response mechanisms that multi-signature can enable or constrain
+**Treasury Management** - Financial operations that benefit from multi-signature security and transparency
+**Emergency Procedures** - Crisis response mechanisms that multi-signature can enable or constrain
 [[Collective Intelligence]] - Decision-making capacity that multi-signature can help organize and secure
 [[Trust]] - Social relationships that multi-signature can substitute for or enhance
 [[Accountability]] - Responsibility mechanisms that multi-signature can technically enforce

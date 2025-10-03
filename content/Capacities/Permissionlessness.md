@@ -74,12 +74,12 @@ The emphasis on universal permissionlessness may distract from more nuanced ques
 
 ## Related Concepts
 
-[[Censorship_Resistance]] - Resistance to suppression
-[[Regulatory_Enforcement]] - Government compliance mechanisms
-[[Gatekeeper_Removal]] - Eliminating intermediaries
-[[Consumer_Protection]] - Safeguards from intermediaries
-[[KYC_AML_Requirements]] - Identity verification mandates
-[[Tornado_Cash_Sanctions]] - Criminalization of protocols
-[[Rug_Pulls]] - Exit scams in permissionless systems
-[[Smart_Contract_Exploits]] - Vulnerabilities from open deployment
-[[Financial_Inclusion]] - Access to excluded populations
+**Censorship_Resistance** - Resistance to suppression
+**Regulatory_Enforcement** - Government compliance mechanisms
+**Gatekeeper_Removal** - Eliminating intermediaries
+**Consumer_Protection** - Safeguards from intermediaries
+**KYC_AML_Requirements** - Identity verification mandates
+**Tornado_Cash_Sanctions** - Criminalization of protocols
+**Rug_Pulls** - Exit scams in permissionless systems
+**Smart_Contract_Exploits** - Vulnerabilities from open deployment
+**Financial_Inclusion** - Access to excluded populations

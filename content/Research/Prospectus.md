@@ -1,6 +1,7 @@
 ---
 aliases:
   - "prospectus"
+  - "Prospectus.md"
 ---
 
 ## **An Assessment of the "Crypto for Good" Space**

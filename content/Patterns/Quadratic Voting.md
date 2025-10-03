@@ -98,4 +98,4 @@ Future developments likely require more sophisticated integration with identity 
 [[Democratic Legitimacy]] - Normative foundation for collective authority that quadratic voting attempts to preserve
 [[Preference Aggregation]] - Social choice problem that quadratic voting addresses through intensity weighting
 [[sybil resistance]] - Technical challenge fundamental to quadratic voting implementation
-[[Anti-Plutocratic Design]] - Democratic principle that quadratic voting attempts to operationalize
+**Anti-Plutocratic Design** - Democratic principle that quadratic voting attempts to operationalize

@@ -78,11 +78,11 @@ The emphasis on computational expressiveness may distract from simpler alternati
 ## Related Concepts
 
 [[Gas_Fees]] - Economic resource pricing
-[[Turing_Completeness]] - Full computational expressiveness
-[[DoS_Prevention]] - Resource exhaustion attacks
+**Turing_Completeness** - Full computational expressiveness
+**DoS_Prevention** - Resource exhaustion attacks
 [[Gas_Optimization]] - Minimizing execution costs
-[[Layer_2_Scaling]] - Reducing gas costs
-[[Smart_Contract_Languages]] - Solidity and alternatives
-[[Computational_Expressiveness]] - Algorithm capabilities
-[[Economic_Access_Barriers]] - Wealth-based gatekeeping
+**Layer_2_Scaling** - Reducing gas costs
+**Smart_Contract_Languages** - Solidity and alternatives
+**Computational_Expressiveness** - Algorithm capabilities
+**Economic_Access_Barriers** - Wealth-based gatekeeping
 [[Gas_Price_Volatility]] - Unpredictable costs

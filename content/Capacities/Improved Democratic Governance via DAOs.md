@@ -4,6 +4,7 @@ aliases:
   - "improved-democratic-governance-via-daos"
   - "Improved-Democratic-Governance-Via-Daos"
   - "improved -democratic -governance via -d-a-os"
+  - "Democratic Governance"
 ---
 
 # Improved Democratic Governance via DAOs
@@ -77,12 +78,12 @@ Democratic improvements require mechanisms beyond blockchain—identity verifica
 
 ## Related Concepts
 
-[[Token_Weighted_Voting]] - Plutocratic governance mechanisms
-[[Whale_Dominance]] - Concentration of voting power
-[[Governance_Theater]] - Appearance of participation without influence
-[[Direct_Democracy]] - Constant voting impracticality
-[[Representative_Democracy]] - Delegation and accountability
-[[Algorithmic_Governance]] - Code-based decision systems
-[[The_DAO_Hack]] - Governance vulnerability consequences
-[[Voter_Apathy]] - Low participation despite accessibility
-[[One_Person_One_Vote]] - Democratic equality principles
+**Token_Weighted_Voting** - Plutocratic governance mechanisms
+**Whale_Dominance** - Concentration of voting power
+**Governance_Theater** - Appearance of participation without influence
+**Direct_Democracy** - Constant voting impracticality
+**Representative_Democracy** - Delegation and accountability
+**Algorithmic_Governance** - Code-based decision systems
+**The_DAO_Hack** - Governance vulnerability consequences
+**Voter_Apathy** - Low participation despite accessibility
+**One_Person_One_Vote** - Democratic equality principles

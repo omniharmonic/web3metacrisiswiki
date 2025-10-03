@@ -4,6 +4,11 @@ aliases:
   - "cryptographic-timestamping-and-provenance-tracking"
   - "Cryptographic-Timestamping-And-Provenance-Tracking"
   - "cryptographic -timestamping and -provenance -tracking"
+  - "Cryptographic Timestamping"
+  - "Time Preference"
+  - "Time Banks"
+  - "Time Locks"
+  - "timestamping"
 ---
 
 # Cryptographic Timestamping and Provenance Tracking
@@ -184,10 +189,10 @@ The future development likely involves integration with traditional legal and in
 ## Related Concepts
 
 [[Immutability]] - Permanent record properties
-[[Temporal_Proof]] - Evidence of when events occurred
+Temporal_Proof - Evidence of when events occurred
 [[Provenance_Verification]] - Authentication of asset histories
-[[Prior_Art]] - Intellectual property evidence
-[[Right_to_be_Forgotten]] - Privacy conflicts with permanence
-[[Oracle_Problem]] - Bridging physical and digital verification
+**Prior_Art** - Intellectual property evidence
+**Right_to_be_Forgotten** - Privacy conflicts with permanence
+**Oracle_Problem** - Bridging physical and digital verification
 [[Digital_Art_Authentication]] - NFT provenance applications
-[[Supply_Chain_Verification]] - Tracking physical goods
+**Supply_Chain_Verification** - Tracking physical goods

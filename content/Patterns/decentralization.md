@@ -1,6 +1,7 @@
 ---
 aliases:
   - "Decentralization"
+  - "Economic Decentralization"
 ---
 
 
@@ -83,9 +84,9 @@ The evolution toward more nuanced forms of decentralization that preserve key be
 
 [[Trustlessness]] - Technical foundation enabling decentralized coordination
 [[distributed consensus]] - Mechanisms for achieving agreement in decentralized systems
-[[Governance_Mechanisms]] - Democratic participation in decentralized systems
+**Governance_Mechanisms** - Democratic participation in decentralized systems
 [[censorship resistance]] - Resilience benefits of decentralized architecture
-[[Economic_Incentive_Alignment]] - Game-theoretic foundations of decentralized cooperation
-[[Network_Security]] - Security properties and vulnerabilities of distributed systems
-[[Democratic_Participation]] - Political implications of decentralized governance
-[[Institutional_Design]] - Organizational structures and power distribution
+**Economic_Incentive_Alignment** - Game-theoretic foundations of decentralized cooperation
+**Network_Security** - Security properties and vulnerabilities of distributed systems
+**Democratic_Participation** - Political implications of decentralized governance
+**Institutional_Design** - Organizational structures and power distribution

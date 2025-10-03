@@ -1,6 +1,7 @@
 ---
 aliases:
   - "trustlessness"
+  - "Trust"
 ---
 
 # Trustlessness
@@ -76,6 +77,6 @@ The future trajectory of trustless systems likely involves selective implementat
 [[censorship resistance]] - Capability enabled by trustless architecture
 [[Programmability]] - Smart contracts as trustless execution mechanisms
 [[Transparency]] - Verification requirements for trustless systems
-[[Economic_Incentive_Alignment]] - Game-theoretic foundations of trustless cooperation
-[[Decentralized_Governance]] - Organizational applications of trustless principles
-[[Cryptographic_Verification]] - Mathematical foundations of trustless systems
+**Economic_Incentive_Alignment** - Game-theoretic foundations of trustless cooperation
+**Decentralized_Governance** - Organizational applications of trustless principles
+**Cryptographic_Verification** - Mathematical foundations of trustless systems

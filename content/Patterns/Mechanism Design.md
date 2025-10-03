@@ -109,4 +109,4 @@ The maturation of mechanism design in Web3 contexts depends on solving fundament
 [[Collective Action Problem]] - Broader category of social coordination challenges
 [[Sybil Attacks]] - Identity-based manipulation threat to democratic mechanisms
 [[consensus mechanisms]] - Blockchain-specific applications of Byzantine fault-tolerant design
-[[Information Economics]] - Theoretical foundation for mechanisms under asymmetric information
+**Information Economics** - Theoretical foundation for mechanisms under asymmetric information

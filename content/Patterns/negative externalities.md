@@ -88,7 +88,7 @@ However, carbon tokenization faces challenges with additionality verification, p
 
 Blockchain systems combined with IoT sensors and satellite monitoring could potentially enable what environmental economist Robert Costanza calls "natural capital accounting" where environmental impacts are measured and verified automatically through technological systems rather than depending on self-reporting by polluting industries.
 
-[[Decentralized Oracle Networks]] could provide tamper-resistant environmental data that enables automated enforcement of environmental regulations and externality pricing while reducing information asymmetries that enable continued externalization of environmental costs.
+**Decentralized Oracle Networks** could provide tamper-resistant environmental data that enables automated enforcement of environmental regulations and externality pricing while reducing information asymmetries that enable continued externalization of environmental costs.
 
 Cryptographic verification mechanisms could potentially address what economist George Akerlof calls "lemons problem" in environmental markets where information asymmetries enable low-quality environmental credits to drive out high-quality restoration efforts through systematic misrepresentation of environmental impacts.
 
@@ -147,14 +147,14 @@ The resolution of major contemporary externalities including climate change, soc
 ## Related Concepts
 
 [[Externalities]] - Broader category of spillover effects in economic systems including both positive and negative varieties
-[[Pigouvian Taxes]] - Corrective taxation designed to internalize external costs in market pricing
+**Pigouvian Taxes** - Corrective taxation designed to internalize external costs in market pricing
 [[Public Goods]] - Shared resources that suffer from under-provision due to free rider problems
 [[Tragedy of the Commons]] - Specific form of negative externality involving overuse of shared resources
-[[Market Failure]] - Economic situations where private markets fail to achieve socially optimal outcomes
+**Market Failure** - Economic situations where private markets fail to achieve socially optimal outcomes
 [[environmental economics]] - Field addressing market failures in environmental resource allocation
-[[Social Cost of Carbon]] - Estimated economic damage from one additional ton of carbon dioxide emissions
-[[Carbon Pricing]] - Policy mechanisms for internalizing climate externalities in economic decision-making
-[[Cap and Trade]] - Market-based approach to environmental regulation using tradable emission permits
+**Social Cost of Carbon** - Estimated economic damage from one additional ton of carbon dioxide emissions
+**Carbon Pricing** - Policy mechanisms for internalizing climate externalities in economic decision-making
+**Cap and Trade** - Market-based approach to environmental regulation using tradable emission permits
 [[Coase Theorem]] - Economic theory about externality resolution through property rights and bargaining
 [[Transaction Costs]] - Economic costs of negotiating and enforcing agreements including externality internalization
 [[Collective Action Problem]] - Coordination challenges in addressing shared problems including externalities
@@ -163,7 +163,7 @@ The resolution of major contemporary externalities including climate change, soc
 [[Carbon Credits]] - Tradable certificates representing verified emissions reductions or carbon sequestration
 [[Environmental Justice]] - Movement addressing disproportionate environmental burdens on marginalized communities
 [[regenerative economics]] - Economic approaches that align financial success with ecological restoration
-[[Social Impact Bonds]] - Financial instruments linking investor returns to measurable social outcomes
+**Social Impact Bonds** - Financial instruments linking investor returns to measurable social outcomes
 [[Natural Capital Accounting]] - Economic valuation of ecosystem services and environmental assets
-[[Green New Deal]] - Policy framework combining climate action with economic justice and job creation
-[[Planetary Boundaries]] - Scientific framework identifying safe operating spaces for human civilization
+**Green New Deal** - Policy framework combining climate action with economic justice and job creation
+**Planetary Boundaries** - Scientific framework identifying safe operating spaces for human civilization

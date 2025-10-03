@@ -75,7 +75,7 @@ The evolution of programming languages and development tools specifically design
 [[Immutability]] - Programs execute according to unchangeable rules
 [[Transparency]] - All program execution is publicly verifiable
 [[Composability]] - Programmable systems can interact to create complex applications
-[[Governance_Mechanisms]] - Programmable approaches to collective decision-making
-[[Smart_Contract_Security]] - Security challenges specific to programmable blockchain systems
-[[Economic_Incentive_Design]] - Programming economic mechanisms and token systems
-[[Decentralized_Governance]] - Organizational models enabled by programmable systems
+**Governance_Mechanisms** - Programmable approaches to collective decision-making
+**Smart_Contract_Security** - Security challenges specific to programmable blockchain systems
+**Economic_Incentive_Design** - Programming economic mechanisms and token systems
+**Decentralized_Governance** - Organizational models enabled by programmable systems

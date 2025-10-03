@@ -9,6 +9,9 @@ aliases:
   - "Legal compliance"
   - "regulatory framework"
   - "Regulatory framework"
+  - "Tax Compliance"
+  - "compliance"
+  - "regulatory requirements"
 ---
 
 # Regulatory Compliance
@@ -58,7 +61,7 @@ AML and KYC regulations require financial service providers to verify customer i
 - **Pseudonymous Transactions**: Blockchain addresses that don't directly reveal user identities
 - **Cross-Border Operations**: Decentralized systems that operate across multiple regulatory jurisdictions
 - **Peer-to-Peer Transactions**: Direct transfers that bypass traditional financial intermediaries
-- **Privacy Technologies**: [[Zero Knowledge Proof (ZKP)]] and mixing services that enhance transaction privacy
+- **Privacy Technologies**: [[zero knowledge proof (ZKP)]] and mixing services that enhance transaction privacy
 - **Decentralized Exchanges**: Trading platforms without central operators responsible for compliance
 
 ### Tax Compliance and Reporting Requirements
@@ -155,7 +158,7 @@ Regulatory technology solutions enable automated compliance monitoring and repor
 - **[[Multi-Signature]]**: Governance systems that require regulatory approval for certain types of transactions
 - **Whitelisting and Blacklisting**: Automated enforcement of sanctions and compliance restrictions
 
-### [[Zero Knowledge Proof (ZKP)]] and Privacy-Preserving Compliance
+### [[zero knowledge proof (ZKP)]] and Privacy-Preserving Compliance
 
 Zero-knowledge proof technologies enable compliance verification without revealing sensitive information, potentially addressing tensions between regulatory transparency requirements and blockchain privacy principles.
 
@@ -281,23 +284,23 @@ The success of Web3 technologies in addressing the [[meta-crisis]] may ultimatel
 
 ## Related Concepts
 
-[[Legal Frameworks]] - Broader legal structures within which regulatory compliance operates
+**Legal Frameworks** - Broader legal structures within which regulatory compliance operates
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems that face complex regulatory compliance challenges
-[[Know Your Customer (KYC)]] - Identity verification requirements central to financial services compliance
-[[Anti-Money Laundering (AML)]] - Financial crime prevention regulations affecting cryptocurrency operations
-[[Securities Regulation]] - Legal frameworks governing token issuances and trading platforms
+**Know Your Customer (KYC)** - Identity verification requirements central to financial services compliance
+**Anti-Money Laundering (AML)** - Financial crime prevention regulations affecting cryptocurrency operations
+**Securities Regulation** - Legal frameworks governing token issuances and trading platforms
 [[Privacy]] - Individual rights that may conflict with regulatory transparency requirements
 [[Cross-Border Payments]] - International financial services subject to multiple regulatory frameworks
-[[Digital Identity]] - Identity verification systems that enable privacy-preserving compliance
-[[Zero Knowledge Proof (ZKP)]] - Cryptographic techniques enabling private compliance verification
-[[Smart Contracts]] - Programmable systems that can automate regulatory compliance
+**Digital Identity** - Identity verification systems that enable privacy-preserving compliance
+[[zero knowledge proof (ZKP)]] - Cryptographic techniques enabling private compliance verification
+[[smart contracts]] - Programmable systems that can automate regulatory compliance
 [[Multi-Signature]] - Governance mechanisms that can implement regulatory approval requirements
-[[Central Bank Digital Currencies (CBDCs)]] - Government digital currencies requiring new regulatory frameworks
-[[Financial Services]] - Traditional industry sector with established compliance requirements
-[[Data Protection]] - Privacy regulations affecting blockchain data processing and storage
+**Central Bank Digital Currencies (CBDCs)** - Government digital currencies requiring new regulatory frameworks
+**Financial Services** - Traditional industry sector with established compliance requirements
+**Data Protection** - Privacy regulations affecting blockchain data processing and storage
 [[Tax Compliance]] - Reporting obligations for cryptocurrency transactions and holdings
-[[International Coordination]] - Cross-border cooperation necessary for effective blockchain regulation
-[[Regulatory Technology (RegTech)]] - Technology solutions for automating compliance processes
-[[Sandboxes]] - Regulatory programs enabling innovation testing within relaxed compliance frameworks
-[[Standards]] - Technical and operational standards that support regulatory compliance
-[[Risk Management]] - Business practices for identifying and mitigating regulatory compliance risks
+**International Coordination** - Cross-border cooperation necessary for effective blockchain regulation
+**Regulatory Technology (RegTech)** - Technology solutions for automating compliance processes
+**Sandboxes** - Regulatory programs enabling innovation testing within relaxed compliance frameworks
+**Standards** - Technical and operational standards that support regulatory compliance
+**Risk Management** - Business practices for identifying and mitigating regulatory compliance risks

@@ -119,15 +119,15 @@ The transformation of algorithmic amplification systems depends on building broa
 [[Surveillance Capitalism]] - Economic system that creates incentives for algorithmic amplification through attention capture
 [[filter bubbles]] - Information isolation effects created by algorithmic content personalization
 [[Echo Chambers]] - Social reinforcement dynamics amplified through algorithmic recommendation systems
-[[Computational Propaganda]] - Political manipulation through algorithmic amplification of coordinated messaging
+**Computational Propaganda** - Political manipulation through algorithmic amplification of coordinated messaging
 [[Engagement Optimization]] - Platform business model that prioritizes user attention capture over content quality
 [[Decentralized Social Networks]] - Alternative platforms designed to resist algorithmic manipulation
 [[Transparent Algorithms]] - Open-source content recommendation systems subject to community oversight
 [[Tokenomics]] - Economic mechanisms that could align content curation with community welfare
 [[Reputation Systems]] - Trust and credibility mechanisms for content creators and curators
-[[Content Moderation]] - Governance mechanisms for managing harmful or manipulative content
-[[Information Warfare]] - Strategic manipulation of information environments through technological amplification
-[[Democratic Discourse]] - Public communication necessary for democratic governance that amplification may undermine
+**Content Moderation** - Governance mechanisms for managing harmful or manipulative content
+**Information Warfare** - Strategic manipulation of information environments through technological amplification
+**Democratic Discourse** - Public communication necessary for democratic governance that amplification may undermine
 [[Attention Economy]] - Economic framework where human attention becomes a scarce resource subject to algorithmic allocation
-[[Platform Governance]] - Decision-making systems that determine algorithmic amplification policies and implementation
-[[Media Literacy]] - Educational approaches to helping users understand and resist algorithmic manipulation
+**Platform Governance** - Decision-making systems that determine algorithmic amplification policies and implementation
+**Media Literacy** - Educational approaches to helping users understand and resist algorithmic manipulation

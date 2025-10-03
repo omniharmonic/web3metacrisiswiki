@@ -575,13 +575,13 @@ The reputation system would integrate data from multiple sources including peer 
 
 **Architecture 4: [[Complementary Currencies]] and [[Alternative Value Systems]]**
 
-**[[Ecological Reserve Currencies]]**: Local currencies could be backed by or indexed to ecosystem health indicators rather than fiat currencies or gold, creating direct connections between economic value and ecological sustainability. As ecosystem health improves, the currency would strengthen; as it degrades, the currency would weaken.
+****Ecological Reserve Currencies****: Local currencies could be backed by or indexed to ecosystem health indicators rather than fiat currencies or gold, creating direct connections between economic value and ecological sustainability. As ecosystem health improves, the currency would strengthen; as it degrades, the currency would weaken.
 
 The ecological backing would be based on composite indices including biodiversity, carbon sequestration, water quality, soil health, and other measurable indicators of ecosystem function. Automated monitoring systems would provide real-time updates to currency values, creating immediate feedback between economic activity and environmental outcomes.
 
-**[[Time-Based and Care Work Currencies]]**: Complementary currencies could value time and care work that are undervalued in traditional markets, including childcare, elder care, community support, and volunteer activities. These currencies would enable exchange of services within communities while recognizing the economic value of care work.
+****Time-Based and Care Work Currencies****: Complementary currencies could value time and care work that are undervalued in traditional markets, including childcare, elder care, community support, and volunteer activities. These currencies would enable exchange of services within communities while recognizing the economic value of care work.
 
-**[[Mutual Credit and Gift Economy Integration]]**: Blockchain systems facilitate mutual credit networks where community members extend credit to each other based on trust and reciprocity rather than collateral or credit scores. Gift economy mechanisms track and recognize non-monetary contributions while maintaining the voluntary nature of gift relationships.
+****Mutual Credit and Gift Economy Integration****: Blockchain systems facilitate mutual credit networks where community members extend credit to each other based on trust and reciprocity rather than collateral or credit scores. Gift economy mechanisms track and recognize non-monetary contributions while maintaining the voluntary nature of gift relationships.
 
 **Real-World Implementation: Sarafu Network (Kenya) and Celo Global South Infrastructure**: The Sarafu Network demonstrates successful implementation of blockchain-based community currencies across Kenya's informal settlements and rural areas. Founded in 2010 by Grassroots Economics and operating on the Celo blockchain since 2020, Sarafu serves over 50,000 users across vulnerable communities. The system enables users to trade basic needs without requiring internet access, using USSD/SMS on inexpensive phones²². The community currency generates an average 22% increase in participating businesses' incomes, with up to 10% of local food purchases conducted using Sarafu tokens²³. During COVID-19, the network saw over 500% growth as communities used complementary currencies to maintain economic activity despite disrupted mainstream markets²⁴.
 
@@ -735,7 +735,7 @@ Web3 technologies offer mechanisms for creating [[censorship resistance]] inform
 
 The proposed solution draws from cryptography, information theory, and distributed systems research to create information infrastructure that derives security from mathematical properties rather than institutional trust. Rather than relying on centralized platforms or authorities to determine information authenticity, these systems would enable cryptographic verification of information sources, content integrity, and temporal provenance.
 
-The approach builds on concepts from academic research on [[secure information systems]], including [[Byzantine Fault Tolerance]], [[consensus mechanisms]], and [[cryptographic guarantees]]. These technologies enable the creation of systems where information authenticity can be verified independently by any participant without requiring trust in centralized authorities.
+The approach builds on concepts from academic research on **secure information systems**, including [[Byzantine Fault Tolerance]], [[consensus mechanisms]], and [[cryptographic guarantees]]. These technologies enable the creation of systems where information authenticity can be verified independently by any participant without requiring trust in centralized authorities.
 
 **Architecture 1: [[Content-Addressed Information Storage]] and [[Immutable Provenance]]**
 

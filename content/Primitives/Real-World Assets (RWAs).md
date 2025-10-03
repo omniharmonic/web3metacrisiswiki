@@ -4,6 +4,10 @@ aliases:
   - "real-world-assets-(rwas)"
   - "Real-world-Assets-(Rwas)"
   - "real--world -assets (-r-w-as)"
+  - "Synthetic Assets"
+  - "RWAs"
+  - "real world assets"
+  - "tokenized assets"
 ---
 
 

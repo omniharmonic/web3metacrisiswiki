@@ -9,7 +9,7 @@ aliases:
 
 ## Definition
 
-**LP Tokens** (Liquidity Provider Tokens) are receipt tokens that represent a liquidity provider's proportional share of a [[Liquidity_Pool]]. They are minted when users deposit tokens into pools and can be redeemed for the underlying assets plus any accumulated fees. LP tokens enable [[Liquidity Providers (LPs)]] to track their ownership and earnings in [[automated market makers (AMMs)]] (AMMs).
+**LP Tokens** (Liquidity Provider Tokens) are receipt tokens that represent a liquidity provider's proportional share of a **Liquidity_Pool**. They are minted when users deposit tokens into pools and can be redeemed for the underlying assets plus any accumulated fees. LP tokens enable [[Liquidity Providers (LPs)]] to track their ownership and earnings in [[automated market makers (AMMs)]] (AMMs).
 
 ## Core Concepts
 

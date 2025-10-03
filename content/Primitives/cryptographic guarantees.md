@@ -2,6 +2,7 @@
 aliases:
   - "cryptographic-guarantees"
   - "Cryptographic-Guarantees"
+  - "TEEs"
 ---
 
 # Cryptographic Guarantees

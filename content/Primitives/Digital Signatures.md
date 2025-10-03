@@ -7,6 +7,10 @@ aliases:
   - "Digital Signatures"
   - "cryptographic signatures"
   - "Cryptographic signatures"
+  - "Digital Feudalism"
+  - "Digital Divide"
+  - "Digital Forensics"
+  - "Digital Wellness"
 ---
 
 # Digital Signatures
@@ -17,7 +21,7 @@ aliases:
 
 The theoretical significance of digital signatures extends beyond technical convenience to encompass fundamental questions about trust, authenticity, and verification in digital systems where traditional forms of identity confirmation including handwritten signatures, physical presence, and paper documents are not available. Digital signatures enable what cryptographer David Chaum calls "trustless" verification where mathematical proof rather than institutional authority provides the foundation for establishing message authenticity and integrity.
 
-Within Web3 and blockchain contexts, digital signatures provide the cryptographic foundation for [[Decentralized Identity]], [[Smart Contracts]], [[Verifiable Credentials]], and [[Cryptocurrency]] transactions, enabling what computer scientist Nick Szabo calls "digital property" where ownership and transfer rights can be established and verified through cryptographic rather than legal mechanisms. However, digital signature systems face challenges including key management complexity, quantum computing threats, and the potential for mathematical vulnerabilities that could compromise the security of entire digital systems.
+Within Web3 and blockchain contexts, digital signatures provide the cryptographic foundation for [[decentralized identity]], [[smart contracts]], [[Verifiable Credentials]], and **Cryptocurrency** transactions, enabling what computer scientist Nick Szabo calls "digital property" where ownership and transfer rights can be established and verified through cryptographic rather than legal mechanisms. However, digital signature systems face challenges including key management complexity, quantum computing threats, and the potential for mathematical vulnerabilities that could compromise the security of entire digital systems.
 
 ## Cryptographic Foundations and Mathematical Principles
 
@@ -57,9 +61,9 @@ The mathematical properties of elliptic curves over finite fields enable what cr
 
 ## Applications in Web3 and Blockchain Systems
 
-### Transaction Authentication and [[Cryptocurrency]] Security
+### Transaction Authentication and **Cryptocurrency** Security
 
-Digital signatures provide the fundamental security mechanism for [[cryptocurrency]] transactions where users sign transaction messages with private keys to prove ownership of funds and authorize transfers. The mathematical proof enables what economist Nick Szabo calls "digital bearer instruments" where possession of private keys constitutes proof of ownership without requiring traditional banking intermediaries.
+Digital signatures provide the fundamental security mechanism for **cryptocurrency** transactions where users sign transaction messages with private keys to prove ownership of funds and authorize transfers. The mathematical proof enables what economist Nick Szabo calls "digital bearer instruments" where possession of private keys constitutes proof of ownership without requiring traditional banking intermediaries.
 
 **Blockchain Transaction Signatures:**
 - **Bitcoin**: Uses ECDSA signatures with secp256k1 elliptic curve
@@ -68,9 +72,9 @@ Digital signatures provide the fundamental security mechanism for [[cryptocurren
 
 The immutability of blockchain records ensures that digital signatures create permanent, auditable proof of transaction authorization while the decentralized nature of blockchain networks eliminates single points of failure that could compromise signature verification.
 
-### [[Smart Contracts]] and Programmable Authentication
+### [[smart contracts]] and Programmable Authentication
 
-Digital signatures enable [[Smart Contracts]] to verify user authorization for executing contract functions, implementing what computer scientist Nick Szabo calls "programmable money" where financial operations can be automated while maintaining cryptographic security for authorization.
+Digital signatures enable [[smart contracts]] to verify user authorization for executing contract functions, implementing what computer scientist Nick Szabo calls "programmable money" where financial operations can be automated while maintaining cryptographic security for authorization.
 
 Multi-signature schemes enable what cryptographers call "threshold signatures" where multiple parties must collectively sign transactions or contract executions, providing enhanced security for high-value operations while enabling complex governance arrangements without requiring trusted intermediaries.
 
@@ -84,7 +88,7 @@ Multi-signature schemes enable what cryptographers call "threshold signatures" w
 
 Digital signatures enable [[Verifiable Credentials]] where educational institutions, employers, or certification bodies can issue cryptographically signed attestations about individuals' qualifications, achievements, or attributes. Recipients can present these credentials to third parties who can verify authenticity without contacting issuing authorities.
 
-The combination of digital signatures with [[Zero Knowledge Proof (ZKP)]] technologies enables what cryptographers call "selective disclosure" where credential holders can prove specific claims about themselves without revealing underlying credential data, potentially addressing privacy concerns while maintaining verification capabilities.
+The combination of digital signatures with [[zero knowledge proof (ZKP)]] technologies enables what cryptographers call "selective disclosure" where credential holders can prove specific claims about themselves without revealing underlying credential data, potentially addressing privacy concerns while maintaining verification capabilities.
 
 ## Security Properties and Cryptographic Guarantees
 
@@ -172,25 +176,25 @@ Future developments likely require continued innovation in key management system
 
 ## Related Concepts
 
-[[Public Key Cryptography]] - Mathematical foundation enabling digital signature verification without shared secrets
-[[Hash Functions]] - Cryptographic primitives that create fixed-length fingerprints for efficient signature computation
+**Public Key Cryptography** - Mathematical foundation enabling digital signature verification without shared secrets
+**Hash Functions** - Cryptographic primitives that create fixed-length fingerprints for efficient signature computation
 [[Elliptic Curve Cryptography]] - Modern approach providing equivalent security with smaller key sizes and faster computation
 [[Multi-Signature]] - Schemes requiring multiple signatures for transaction or contract authorization
-[[Threshold Signatures]] - Cryptographic mechanisms enabling collective signing by groups of participants
+Threshold Signatures - Cryptographic mechanisms enabling collective signing by groups of participants
 [[Key Management]] - Systems and practices for securely generating, storing, and using private keys
-[[Post-Quantum Cryptography]] - Signature schemes designed to resist quantum computer attacks
+**Post-Quantum Cryptography** - Signature schemes designed to resist quantum computer attacks
 [[Verifiable Credentials]] - Digital attestations secured through cryptographic signatures
-[[Smart Contracts]] - Programmable agreements that use digital signatures for authorization verification
+[[smart contracts]] - Programmable agreements that use digital signatures for authorization verification
 [[Blockchain]] - Distributed ledger technology that depends on digital signatures for transaction security
-[[Cryptocurrency]] - Digital money systems secured through digital signature verification
-[[Decentralized Identity]] - Identity management systems built on cryptographic signature foundations
-[[Zero Knowledge Proof (ZKP)]] - Privacy-preserving proofs that can complement digital signature systems
+**Cryptocurrency** - Digital money systems secured through digital signature verification
+[[decentralized identity]] - Identity management systems built on cryptographic signature foundations
+[[zero knowledge proof (ZKP)]] - Privacy-preserving proofs that can complement digital signature systems
 [[Authentication]] - Security property provided by digital signatures confirming message creator identity
-[[Integrity]] - Security guarantee that signed messages have not been modified
-[[Non-Repudiation]] - Prevention of signature creators from denying message creation
+**Integrity** - Security guarantee that signed messages have not been modified
+**Non-Repudiation** - Prevention of signature creators from denying message creation
 [[Forward Security]] - Property where key compromise doesn't affect historical signature validity
-[[Side-Channel Attacks]] - Implementation vulnerabilities that can reveal private keys despite mathematical security
-[[Quantum Computing]] - Emerging threat to current digital signature algorithms
-[[Legal Recognition]] - Regulatory frameworks determining digital signature legal validity
+**Side-Channel Attacks** - Implementation vulnerabilities that can reveal private keys despite mathematical security
+**Quantum Computing** - Emerging threat to current digital signature algorithms
+**Legal Recognition** - Regulatory frameworks determining digital signature legal validity
 [[Usable Security]] - Design challenge balancing cryptographic security with user accessibility
-[[Trust Models]] - Frameworks for establishing confidence in digital signature verification
+**Trust Models** - Frameworks for establishing confidence in digital signature verification

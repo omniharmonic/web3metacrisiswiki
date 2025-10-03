@@ -12,6 +12,8 @@ aliases:
   - "role-based access control"
   - "Role-based access control"
   - "RBAC"
+  - "Role-Based Access Control"
+  - "Attribute-Based Access Control"
 ---
 
 # Access Control
@@ -79,9 +81,9 @@ The mathematical properties of digital signatures ensure that access control dec
 
 However, cryptographic access control faces challenges including private key management complexity, the inability to revoke compromised keys without coordination mechanisms, and the difficulty of implementing nuanced permission schemes through binary cryptographic verification.
 
-### [[Smart Contracts]] and Programmable Permissions
+### [[smart contracts]] and Programmable Permissions
 
-[[Smart Contracts]] enable sophisticated access control mechanisms that can implement complex business logic, time-based restrictions, and conditional permissions that adapt to changing circumstances. This enables what computer scientist Nick Szabo calls "smart property" where access rights are defined and enforced through programmable code rather than legal contracts.
+[[smart contracts]] enable sophisticated access control mechanisms that can implement complex business logic, time-based restrictions, and conditional permissions that adapt to changing circumstances. This enables what computer scientist Nick Szabo calls "smart property" where access rights are defined and enforced through programmable code rather than legal contracts.
 
 **Smart Contract Access Control Patterns:**
 ```solidity
@@ -155,9 +157,9 @@ These mechanisms enable what legal scholar Lawrence Lessig calls "code as law" w
 
 ## Privacy and Confidentiality in Access Control
 
-### [[Zero Knowledge Proof (ZKP)]] and Privacy-Preserving Authorization
+### [[zero knowledge proof (ZKP)]] and Privacy-Preserving Authorization
 
-[[Zero Knowledge Proof (ZKP)]] technologies enable access control that preserves privacy by allowing entities to prove they meet access requirements without revealing sensitive information about their identity, credentials, or the specific resources they are accessing.
+[[zero knowledge proof (ZKP)]] technologies enable access control that preserves privacy by allowing entities to prove they meet access requirements without revealing sensitive information about their identity, credentials, or the specific resources they are accessing.
 
 **Privacy-Preserving Access Control:**
 - **Credential Verification**: Proving possession of required credentials without revealing credential details
@@ -254,23 +256,23 @@ Future developments should prioritize usability improvements, governance mechani
 ## Related Concepts
 
 [[Digital Signatures]] - Cryptographic mechanism underlying most blockchain access control
-[[Smart Contracts]] - Programmable agreements that implement sophisticated access control logic
+[[smart contracts]] - Programmable agreements that implement sophisticated access control logic
 [[Multi-Signature]] - Distributed authorization requiring multiple parties for access decisions
-[[Zero Knowledge Proof (ZKP)]] - Privacy-preserving techniques for access control verification
+[[zero knowledge proof (ZKP)]] - Privacy-preserving techniques for access control verification
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems that implement collective access control
 [[Reputation Systems]] - Merit-based access control mechanisms
 [[Private Key Management]] - Security challenge underlying cryptographic access control
 [[Role-Based Access Control]] - Traditional organizational approach to permission management
 [[Attribute-Based Access Control]] - Fine-grained access control based on multiple characteristics
-[[Principle of Least Privilege]] - Security principle minimizing access rights to necessary minimum
+**Principle of Least Privilege** - Security principle minimizing access rights to necessary minimum
 [[Authentication]] - Identity verification that precedes access control decisions
 [[Authorization]] - Permission granting process that access control mechanisms implement
 [[Accountability]] - Audit and monitoring requirements for access control systems
-[[Governance Attacks]] - Attacks targeting decision-making processes that control access rights
+**Governance Attacks** - Attacks targeting decision-making processes that control access rights
 [[Regulatory Compliance]] - Legal requirements that access control systems must satisfy
-[[Privacy by Design]] - Design approach integrating privacy protection with access control
-[[Cryptographic Keys]] - Mathematical foundation for blockchain access control mechanisms
-[[Threshold Cryptography]] - Mathematical technique enabling distributed access control
+**Privacy by Design** - Design approach integrating privacy protection with access control
+**Cryptographic Keys** - Mathematical foundation for blockchain access control mechanisms
+Threshold Cryptography - Mathematical technique enabling distributed access control
 [[Social Engineering]] - Human-targeted attacks that bypass technical access control
-[[Key Escrow]] - Backup and recovery mechanisms for cryptographic access control
-[[Audit Trails]] - Logging systems that document access control decisions and changes
+**Key Escrow** - Backup and recovery mechanisms for cryptographic access control
+**Audit Trails** - Logging systems that document access control decisions and changes

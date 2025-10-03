@@ -4,6 +4,7 @@ aliases:
   - "supply-chain-management"
   - "Supply-Chain-Management"
   - "supply -chain -management"
+  - "Supply Chain Verification"
 ---
 
 # Supply Chain Management
@@ -62,6 +63,6 @@ Technology will play important roles in enabling these transformations through i
 - [[Environmental Externalities]]
 - [[Internalizing Externalities]]
 - [[technological sovereignty]]
-- [[Global Trade and Coordination]]
+- **Global Trade and Coordination**
 - [[Circular Economy]]
-- [[Local Production Networks]]
+- **Local Production Networks**

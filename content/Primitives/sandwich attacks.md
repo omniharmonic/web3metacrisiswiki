@@ -136,10 +136,10 @@ aliases:
 - [[MEV]] - Broader category of value extraction
 - [[front running]] - General transaction ordering exploitation
 - [[automated market makers (AMMs)]] - Primary target of sandwich attacks
-- [[Slippage]] - User cost amplified by attacks
+- **Slippage** - User cost amplified by attacks
 - [[Arbitrage]] - Legitimate trading vs. exploitative extraction
 - [[Gas]] - Fee mechanism used in attack execution
-- [[Market_Manipulation]] - Broader category of unfair practices
+- **Market_Manipulation** - Broader category of unfair practices
 - [[decentralized exchanges]] - Venues where attacks occur
 - [[Flash Loans]] - Tool enabling sophisticated attacks
 - [[Liquidity]] - Market property exploited in attacks

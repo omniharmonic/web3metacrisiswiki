@@ -191,4 +191,4 @@ aliases:
 - [[content recommendation systems]]
 - [[Microtargeting and Personalized Manipulation]]
 - [[Information Pollution]]
-- [[Media Literacy]]
+- **Media Literacy**

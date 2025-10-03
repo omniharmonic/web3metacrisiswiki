@@ -55,7 +55,7 @@ The development of insurance protocols, decentralized reputation systems, and im
 - [[Social Engineering Attacks]]
 - [[Smart Contract Security]]
 - [[DeFi Risks]]
-- [[Token Economics]]
+- **Token Economics**
 - [[Community Governance]]
 - [[Regulatory Complexity]]
 - [[Trust and Reputation Systems]]

@@ -10,6 +10,9 @@ aliases:
   - "HTLC"
   - "hash time-locked contracts"
   - "Hash time-locked contracts"
+  - "Atomic Transactions"
+  - "atomic swaps"
+  - "cross-chain swaps"
 ---
 
 # Atomic Swaps
@@ -55,7 +58,7 @@ Bitcoin and Litecoin demonstrate successful atomic swap implementation through t
 
 ### Lightning Network and Payment Channel Integration
 
-[[Lightning Network]] and similar payment channel systems enable atomic swaps within and across payment networks, potentially addressing scalability limitations of on-chain atomic swaps while maintaining trustless exchange properties. This implements what computer scientists call "off-chain computation" where complex interactions occur outside main blockchain networks while settling final results on-chain.
+**Lightning Network** and similar payment channel systems enable atomic swaps within and across payment networks, potentially addressing scalability limitations of on-chain atomic swaps while maintaining trustless exchange properties. This implements what computer scientists call "off-chain computation" where complex interactions occur outside main blockchain networks while settling final results on-chain.
 
 **Payment Channel Atomic Swaps:**
 - **Same Network**: Instant swaps between different assets within single payment networks
@@ -179,7 +182,7 @@ Atomic swaps represent essential infrastructure for achieving true blockchain in
 
 However, the practical adoption of atomic swaps requires addressing fundamental challenges in user experience, scalability, and liquidity provision that cannot be solved through cryptographic mechanisms alone. This suggests the need for complementary innovations in interface design, automated market making, and protocol standardization.
 
-The integration of atomic swaps with emerging technologies including [[Zero Knowledge Proof (ZKP)]] systems, payment channels, and automated trading strategies could enable new forms of decentralized exchange that combine the security of trustless protocols with the usability and liquidity of centralized systems.
+The integration of atomic swaps with emerging technologies including [[zero knowledge proof (ZKP)]] systems, payment channels, and automated trading strategies could enable new forms of decentralized exchange that combine the security of trustless protocols with the usability and liquidity of centralized systems.
 
 Future developments should prioritize user experience improvements, cross-chain standardization, and integration with broader [[DeFi]] ecosystems while maintaining the trustless and censorship-resistant properties that make atomic swaps valuable alternatives to centralized exchange infrastructure.
 
@@ -187,22 +190,22 @@ Future developments should prioritize user experience improvements, cross-chain 
 
 [[Cross-Chain Integration]] - Broader category of technologies that atomic swaps support
 [[Hash Time-Locked Contracts]] - Cryptographic mechanism that implements atomic swap protocols
-[[Lightning Network]] - Payment channel system that can incorporate atomic swap functionality
+**Lightning Network** - Payment channel system that can incorporate atomic swap functionality
 [[Decentralized Exchange]] - Trading platforms that can be built using atomic swap protocols
 [[Trustlessness]] - Security property that atomic swaps maintain without intermediaries
-[[Censorship Resistance]] - Property that atomic swaps preserve for cross-chain exchange
+[[censorship resistance]] - Property that atomic swaps preserve for cross-chain exchange
 [[Arbitrage]] - Trading strategy that atomic swaps can facilitate across blockchain networks
 [[Interoperability]] - General capability that atomic swaps enable between blockchain systems
-[[Peer-to-Peer Networks]] - Networking model that atomic swaps implement for asset exchange
-[[Cryptographic Hash Functions]] - Mathematical primitives required for atomic swap security
+**Peer-to-Peer Networks** - Networking model that atomic swaps implement for asset exchange
+**Cryptographic Hash Functions** - Mathematical primitives required for atomic swap security
 [[Time Locks]] - Mechanism that ensures atomic swap completion within specified windows
 [[Multi-Signature]] - Enhanced atomic swap schemes requiring multiple authorization parties
-[[Privacy-Preserving Protocols]] - Systems that atomic swaps can enhance through unlinkable exchange
+**Privacy-Preserving Protocols** - Systems that atomic swaps can enhance through unlinkable exchange
 [[Payment Channels]] - Off-chain systems that can incorporate atomic swap mechanisms
-[[Smart Contracts]] - Programmable agreements that can implement atomic swap logic
+[[smart contracts]] - Programmable agreements that can implement atomic swap logic
 [[Blockchain Trilemma]] - Fundamental trade-offs that atomic swaps help address through specialization
 [[Network Effects]] - Adoption dynamics that affect atomic swap utility and liquidity
-[[Market Making]] - Financial service provision that atomic swaps require for liquidity
-[[Order Matching]] - Exchange function that decentralized atomic swap systems must address
-[[Double Coincidence of Wants]] - Economic problem that atomic swaps face without market makers
+**Market Making** - Financial service provision that atomic swaps require for liquidity
+**Order Matching** - Exchange function that decentralized atomic swap systems must address
+**Double Coincidence of Wants** - Economic problem that atomic swaps face without market makers
 [[Transaction Costs]] - Economic burden that atomic swaps can reduce through disintermediation

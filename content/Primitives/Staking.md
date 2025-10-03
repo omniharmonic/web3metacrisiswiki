@@ -1,6 +1,7 @@
 ---
 aliases:
   - "staking"
+  - "Liquid_Staking"
 ---
 
 # Staking
@@ -151,13 +152,13 @@ aliases:
 
 - [[Proof of Stake (PoS)]] - Consensus mechanism utilizing staking
 - [[Slashing]] - Penalty mechanism for staking violations
-- [[Validators]] - Network participants who stake tokens
+- **Validators** - Network participants who stake tokens
 - [[Tokenomics]] - Economic design including staking mechanisms
 - [[consensus mechanisms]] - Broader category including staking-based consensus
-- [[Economic_Security]] - Security model based on economic incentives
+- **Economic_Security** - Security model based on economic incentives
 - [[Liquid_Staking]] - Derivative staking mechanisms
-- [[Delegation]] - Mechanism for indirect staking participation
-- [[Network_Security]] - Security provided through staking
+- **Delegation** - Mechanism for indirect staking participation
+- **Network_Security** - Security provided through staking
 - [[yield farming]] - Related income generation strategy
 - [[DeFi]] - Ecosystem utilizing staking mechanisms
 - [[governance mechanisms]] - Decision-making systems using staked tokens

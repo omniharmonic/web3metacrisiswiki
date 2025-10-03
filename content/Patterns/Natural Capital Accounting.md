@@ -9,6 +9,10 @@ aliases:
   - "Ecosystem accounting"
   - "green accounting"
   - "Green accounting"
+  - "Natural Capital"
+  - "Natural Capital Tokens"
+  - "Natural Climate Solutions"
+  - "Natural Capital Tokens"
 ---
 
 # Natural Capital Accounting
@@ -327,23 +331,23 @@ The measurement and evaluation of natural capital accounting effectiveness requi
 
 ## Related Concepts
 
-[[Environmental Economics]] - Economic framework that provides theoretical foundation for natural capital accounting
-[[Ecosystem Services]] - Natural benefits that natural capital accounting seeks to measure and value
+[[environmental economics]] - Economic framework that provides theoretical foundation for natural capital accounting
+[[ecosystem services]] - Natural benefits that natural capital accounting seeks to measure and value
 [[Carbon Credit Tokenization]] - Market mechanism that implements natural capital accounting for climate benefits
 [[Circular Economy]] - Economic model that depends on natural capital accounting for resource management
-[[Sustainability Reporting]] - Corporate disclosure that includes natural capital accounting information
+**Sustainability Reporting** - Corporate disclosure that includes natural capital accounting information
 [[Payment for Ecosystem Services]] - Market mechanism that depends on natural capital accounting for verification
 [[Environmental Impact Assessment]] - Evaluation process that can incorporate natural capital accounting methods
-[[Green GDP]] - Economic indicator that integrates natural capital accounting with traditional economic measures
+**Green GDP** - Economic indicator that integrates natural capital accounting with traditional economic measures
 [[Biodiversity Conservation]] - Environmental goal that natural capital accounting can support through valuation
-[[Climate Finance]] - Investment sector that relies on natural capital accounting for carbon and climate benefits
+**Climate Finance** - Investment sector that relies on natural capital accounting for carbon and climate benefits
 [[Supply Chain Transparency]] - Business practice that can incorporate natural capital accounting throughout production
 [[Environmental Justice]] - Social framework that considers distributional aspects of natural capital accounting
 [[Regenerative Agriculture]] - Farming approach that can be supported through natural capital accounting incentives
-[[Conservation Finance]] - Investment approach that depends on natural capital accounting for impact measurement
-[[Environmental Monitoring]] - Data collection that provides foundation for natural capital accounting
-[[Integrated Reporting]] - Accounting approach that combines financial and natural capital information
+**Conservation Finance** - Investment approach that depends on natural capital accounting for impact measurement
+**Environmental Monitoring** - Data collection that provides foundation for natural capital accounting
+**Integrated Reporting** - Accounting approach that combines financial and natural capital information
 [[Life Cycle Assessment]] - Evaluation methodology that can inform natural capital accounting
-[[Environmental Valuation]] - Economic technique for measuring natural capital values
-[[Sustainable Development Goals]] - International framework that can benefit from natural capital accounting measurement
-[[Green Bonds]] - Financial instrument that can use natural capital accounting for impact verification
+**Environmental Valuation** - Economic technique for measuring natural capital values
+**Sustainable Development Goals** - International framework that can benefit from natural capital accounting measurement
+**Green Bonds** - Financial instrument that can use natural capital accounting for impact verification

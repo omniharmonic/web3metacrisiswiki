@@ -124,10 +124,10 @@ The transformation of information systems depends on addressing underlying econo
 
 ## Related Concepts
 
-[[Market Failure]] - Economic inefficiency that information asymmetries often cause through adverse selection and moral hazard
-[[Adverse Selection]] - Systematic bias toward lower-quality options that results from information asymmetries
-[[Moral Hazard]] - Risk-taking behavior that emerges when information asymmetries limit accountability
-[[Signaling Theory]] - Economic framework explaining how actors communicate information in asymmetric environments
+**Market Failure** - Economic inefficiency that information asymmetries often cause through adverse selection and moral hazard
+**Adverse Selection** - Systematic bias toward lower-quality options that results from information asymmetries
+**Moral Hazard** - Risk-taking behavior that emerges when information asymmetries limit accountability
+**Signaling Theory** - Economic framework explaining how actors communicate information in asymmetric environments
 [[regulatory capture]] - Political process where regulated industries use information advantages to influence policy
 [[Surveillance Capitalism]] - Economic system that exploits information asymmetries for behavioral modification and value extraction
 [[Algorithmic Transparency]] - Technical approaches to making automated decision-making systems more comprehensible
@@ -135,7 +135,7 @@ The transformation of information systems depends on addressing underlying econo
 [[Decentralized Information Commons]] - Shared knowledge resources that resist capture and manipulation
 [[Content-Addressed Information Storage]] - Technical systems that enable verifiable information permanence
 [[Digital Divide]] - Inequalities in technology access that may amplify information asymmetries
-[[Cultural Capital]] - Social advantages that influence capacity for navigating complex information systems
+**Cultural Capital** - Social advantages that influence capacity for navigating complex information systems
 [[Network Effects]] - Dynamics where system value increases with adoption, potentially recreating information advantages
 [[oracle problem]] - Challenge of obtaining reliable external information for blockchain systems
-[[Epistemic Injustice]] - Systematic disadvantages in knowledge production and credibility assessment
+**Epistemic Injustice** - Systematic disadvantages in knowledge production and credibility assessment

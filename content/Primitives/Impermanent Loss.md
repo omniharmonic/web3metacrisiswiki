@@ -4,6 +4,9 @@ aliases:
   - "impermanent-loss"
   - "Impermanent-Loss"
   - "impermanent -loss"
+  - "Loss Aversion"
+  - "impermanent loss"
+  - "IL"
 ---
 
 ## Definition
@@ -138,12 +141,12 @@ Impermanent Loss = 2√r / (1 + r) - 1
 - [[Liquidity]] - Market property affected by impermanent loss concerns
 - [[yield farming]] - Strategy often used to compensate for impermanent loss
 - [[Arbitrage]] - Mechanism that creates impermanent loss
-- [[Volatility]] - Primary driver of impermanent loss magnitude
-- [[Risk_Management]] - Strategies for managing impermanent loss exposure
+- **Volatility** - Primary driver of impermanent loss magnitude
+- **Risk_Management** - Strategies for managing impermanent loss exposure
 - [[DeFi]] - Ecosystem where impermanent loss is a key consideration
-- [[Token_Pairs]] - Asset combinations subject to impermanent loss
+- **Token_Pairs** - Asset combinations subject to impermanent loss
 - [[Price Discovery]] - Market function enabled by liquidity provision
-- [[Trading_Fees]] - Compensation mechanism for liquidity providers
+- **Trading_Fees** - Compensation mechanism for liquidity providers
 
 ## References
 

@@ -78,11 +78,11 @@ The emphasis on immutability may prove counterproductive for applications requir
 ## Related Concepts
 
 [[Immutability]] - Technical permanence and its implications
-[[Right_to_be_Forgotten]] - Privacy conflicts with permanence
-[[Error_Correction]] - Fixing mistakes in records
-[[GDPR_Compliance]] - Data protection and deletion rights
-[[Smart_Contract_Bugs]] - Immutable vulnerabilities
-[[The_DAO_Hack]] - Consequences of immutable exploits
-[[Hard_Forks]] - Overriding immutability through consensus
-[[Audit_Trails]] - Tamper-evident logging
-[[Record_Flexibility]] - Trade-offs with permanence
+**Right_to_be_Forgotten** - Privacy conflicts with permanence
+**Error_Correction** - Fixing mistakes in records
+**GDPR_Compliance** - Data protection and deletion rights
+**Smart_Contract_Bugs** - Immutable vulnerabilities
+**The_DAO_Hack** - Consequences of immutable exploits
+**Hard_Forks** - Overriding immutability through consensus
+**Audit_Trails** - Tamper-evident logging
+**Record_Flexibility** - Trade-offs with permanence

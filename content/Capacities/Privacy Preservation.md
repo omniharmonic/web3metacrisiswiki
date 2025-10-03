@@ -4,6 +4,7 @@ aliases:
   - "privacy-preservation"
   - "Privacy-Preservation"
   - "privacy -preservation"
+  - "Privacy"
 ---
 
 
@@ -81,12 +82,12 @@ The emphasis on absolute anonymity may prove counterproductive when targeted pri
 
 ## Related Concepts
 
-[[Zero_Knowledge_Proofs]] - Verification without revelation
-[[Privacy_Coins]] - Anonymous cryptocurrency
-[[Tornado_Cash]] - Mixing protocol and sanctions
-[[Financial_Privacy]] - Confidential transactions
-[[Surveillance_Capitalism]] - Data exploitation systems
-[[AML_CFT_Compliance]] - Anti-money laundering requirements
-[[Selective_Disclosure]] - Minimal information sharing
+**Zero_Knowledge_Proofs** - Verification without revelation
+**Privacy_Coins** - Anonymous cryptocurrency
+**Tornado_Cash** - Mixing protocol and sanctions
+**Financial_Privacy** - Confidential transactions
+**Surveillance_Capitalism** - Data exploitation systems
+**AML_CFT_Compliance** - Anti-money laundering requirements
+**Selective_Disclosure** - Minimal information sharing
 [[Anonymity_vs_Accountability]] - Fundamental tension
-[[Confidential_Transactions]] - Hidden transaction amounts
+**Confidential_Transactions** - Hidden transaction amounts

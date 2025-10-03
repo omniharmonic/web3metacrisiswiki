@@ -9,6 +9,13 @@ aliases:
   - "Circular design"
   - "regenerative economy"
   - "Regenerative economy"
+  - "Creator economy"
+  - "Creator Economy"
+  - "Sharing Economy"
+  - "Attention Economy"
+  - "Gift Economy"
+  - "Solidarity Economy"
+  - "Care Economy"
 ---
 
 # Circular Economy
@@ -319,23 +326,23 @@ The measurement and evaluation of circular economy progress requires sophisticat
 
 ## Related Concepts
 
-[[Sustainability]] - Environmental framework that circular economy implements through regenerative practices
+**Sustainability** - Environmental framework that circular economy implements through regenerative practices
 [[Supply Chain Transparency]] - Visibility systems essential for verifying circular economy claims
 [[Carbon Credit Tokenization]] - Market mechanisms that can incentivize circular economy practices
 [[Natural Capital Accounting]] - Economic frameworks for valuing environmental resources in circular systems
-[[Industrial Ecology]] - Scientific framework that informs circular economy design principles
-[[Biomimicry]] - Design approach that learns from natural circular systems
+**Industrial Ecology** - Scientific framework that informs circular economy design principles
+**Biomimicry** - Design approach that learns from natural circular systems
 [[Regenerative Agriculture]] - Farming practices that implement circular economy principles in food systems
-[[Product Lifecycle Assessment]] - Evaluation methodology for measuring circular economy impacts
-[[Extended Producer Responsibility]] - Policy framework that supports circular economy business models
+**Product Lifecycle Assessment** - Evaluation methodology for measuring circular economy impacts
+**Extended Producer Responsibility** - Policy framework that supports circular economy business models
 [[Material Flow Analysis]] - Analytical methodology for understanding circular economy material cycles
 [[Sharing Economy]] - Business model category that implements circular economy resource optimization
-[[Product-as-a-Service]] - Business model that aligns incentives with circular economy principles
-[[Industrial Symbiosis]] - Network approach that implements circular economy resource sharing
-[[Waste-to-Energy]] - Technology that recovers value from materials that cannot be recycled
-[[Reverse Logistics]] - Supply chain systems necessary for circular economy material flows
-[[Cradle-to-Cradle Design]] - Design methodology that implements circular economy principles
-[[Upcycling]] - Process that adds value to waste materials in circular systems
-[[Remanufacturing]] - Industrial process that extends product lifecycles in circular economy
-[[Urban Mining]] - Resource extraction from urban waste streams in circular systems
-[[Green Chemistry]] - Chemical design principles that support circular economy material flows
+**Product-as-a-Service** - Business model that aligns incentives with circular economy principles
+**Industrial Symbiosis** - Network approach that implements circular economy resource sharing
+**Waste-to-Energy** - Technology that recovers value from materials that cannot be recycled
+**Reverse Logistics** - Supply chain systems necessary for circular economy material flows
+**Cradle-to-Cradle Design** - Design methodology that implements circular economy principles
+**Upcycling** - Process that adds value to waste materials in circular systems
+**Remanufacturing** - Industrial process that extends product lifecycles in circular economy
+**Urban Mining** - Resource extraction from urban waste streams in circular systems
+**Green Chemistry** - Chemical design principles that support circular economy material flows
