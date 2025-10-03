@@ -1,8 +1,8 @@
 ---
-title: "Decentralized Autonomous Organizations (DAOs)"
 aliases:
   - "DAO"
   - "DAOs"
+  - "decentralized autonomous organizations (DAOs)"
 ---
 
 

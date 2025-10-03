@@ -6,65 +6,65 @@
       <description>Last 10 notes on Web3 Meta-Crisis Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Tokenization</title>
+    <title>Collective Action Problems</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problems</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Collective-Action-Problems</guid>
+    <description><![CDATA[ Collective Action Problems Definition and Theoretical Foundations Collective Action Problems represent situations where individual rational behavior leads to suboptimal collective outcomes, occurring when groups of people would benefit from coordinated action but lack effective mechanisms for achiev... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:19:38 GMT</pubDate>
+  </item><item>
+    <title>Natural Capital Accounting</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Natural-Capital-Accounting</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Natural-Capital-Accounting</guid>
+    <description><![CDATA[ Natural Capital Accounting Definition and Theoretical Foundations Natural Capital Accounting represents a systematic approach to measuring and valuing the stock of natural resources and ecosystem services that provide benefits to human society, extending traditional economic accounting to include en... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:17:20 GMT</pubDate>
+  </item><item>
+    <title>Circular Economy</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Circular-Economy</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Circular-Economy</guid>
+    <description><![CDATA[ Circular Economy Definition and Theoretical Foundations The Circular Economy represents an economic model designed to eliminate waste and maximize resource efficiency through closed-loop systems where materials flow in continuous cycles rather than linear “take-make-dispose” patterns. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:15:39 GMT</pubDate>
+  </item><item>
+    <title>Coase Theorem</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Coase-Theorem</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Coase-Theorem</guid>
+    <description><![CDATA[ Coase Theorem Definition and Theoretical Foundations The Coase Theorem represents a fundamental principle in economics stating that under conditions of zero Transaction Costs and clearly defined property rights, parties will bargain to reach efficient outcomes regardless of the initial allocation of... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:13:44 GMT</pubDate>
+  </item><item>
+    <title>Transaction Costs</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Transaction-Costs</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Transaction-Costs</guid>
+    <description><![CDATA[ Transaction Costs Definition and Theoretical Foundations Transaction Costs represent the economic costs of participating in market transactions beyond the direct price of goods or services, including search costs, negotiation costs, monitoring costs, and enforcement costs required to complete econom... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:12:06 GMT</pubDate>
+  </item><item>
+    <title>Regulatory Compliance</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Compliance</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Regulatory-Compliance</guid>
+    <description><![CDATA[ Regulatory Compliance Definition and Theoretical Foundations Regulatory Compliance encompasses the processes, systems, and organizational practices required to ensure adherence to laws, regulations, and industry standards within specific jurisdictions and regulatory frameworks. ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:09:49 GMT</pubDate>
+  </item><item>
+    <title>Echo Chambers</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Echo-Chambers</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/Echo-Chambers</guid>
+    <description><![CDATA[ Echo Chambers Definition and Theoretical Foundations Echo Chambers represent communication environments where individuals encounter only information and opinions that confirm their existing beliefs, creating what communication scholar Eli Pariser calls “filter bubbles” where exposure to contradictor... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:08:02 GMT</pubDate>
+  </item><item>
+    <title>Multi-Signature</title>
+    <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-Signature</link>
+    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Multi-Signature</guid>
+    <description><![CDATA[ Multi-Signature Definition and Theoretical Foundations Multi-Signature (multisig) represents a cryptographic mechanism that requires multiple private keys to authorize a single transaction or operation, implementing what computer scientist Silvio Micali calls “threshold cryptography” where control o... ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:05:58 GMT</pubDate>
+  </item><item>
+    <title>tokenization</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Patterns/tokenization</guid>
     <description><![CDATA[ Tokenization Definition and Economic Theory Tokenization represents the process of converting rights, claims, or assets into programmable digital tokens that can be transferred, traded, and composed within blockchain ecosystems. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:47:00 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 00:51:02 GMT</pubDate>
   </item><item>
     <title>Decentralized Autonomous Organizations (DAOs)</title>
     <link>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</link>
     <guid>https://omniharmonic.github.io/web3metacrisiswiki/Primitives/Decentralized-Autonomous-Organizations-(DAOs)</guid>
     <description><![CDATA[ Definition Decentralized Autonomous Organizations (DAOs) are novel organizational structures that are community-owned and managed, operating on a blockchain according to rules encoded in smart contracts. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:47:00 GMT</pubDate>
-  </item><item>
-    <title>Automated Verification</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automated-Verification</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automated-Verification</guid>
-    <description><![CDATA[ Automated Verification Definition Automated Verification is the capacity of blockchain systems to automatically verify the authenticity, validity, and compliance of data, transactions, and processes without human intervention. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
-  </item><item>
-    <title>Automation</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automation</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Automation</guid>
-    <description><![CDATA[ Automation Definition Automation is the capacity of blockchain systems to execute predefined actions automatically without human intervention, using smart contracts and other automated mechanisms. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
-  </item><item>
-    <title>Banking the Unbanked</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Banking-the-Unbanked</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Banking-the-Unbanked</guid>
-    <description><![CDATA[ Banking the Unbanked Definition Banking the Unbanked is the capacity of blockchain systems to provide financial services to individuals and communities who lack access to traditional banking infrastructure. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
-  </item><item>
-    <title>Biodiversity and Ecosystem Service Tokens</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Biodiversity-and-Ecosystem-Service-Tokens</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Biodiversity-and-Ecosystem-Service-Tokens</guid>
-    <description><![CDATA[ Biodiversity and Ecosystem Service Tokens Definition Biodiversity and Ecosystem Service Tokens are digital assets that represent and monetize the value of natural ecosystems, biodiversity conservation, and environmental services. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
-  </item><item>
-    <title>Borderlessness</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Borderlessness</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Borderlessness</guid>
-    <description><![CDATA[ Borderlessness Definition Borderlessness is the capacity of blockchain systems to operate across geographical, political, and jurisdictional boundaries without requiring permission or approval from any central authority. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
-  </item><item>
-    <title>Byzantine Fault Tolerance</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Byzantine-Fault-Tolerance</guid>
-    <description><![CDATA[ Byzantine Fault Tolerance Definition Byzantine Fault Tolerance (BFT) is the capacity of distributed systems to continue operating correctly even when some nodes fail or behave maliciously. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
-  </item><item>
-    <title>Privacy-Preserving Infrastructure</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Privacy-Preserving-Infrastructure</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Privacy-Preserving-Infrastructure</guid>
-    <description><![CDATA[ Privacy-Preserving Infrastructure Definition and Architectural Significance Privacy-Preserving Infrastructure represents computational systems enabling data processing without exposure—the capacity to perform verification, computation, and coordination while maintaining confidentiality through crypt... ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
-  </item><item>
-    <title>Rapidity</title>
-    <link>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Rapidity</link>
-    <guid>https://omniharmonic.github.io/web3metacrisiswiki/Capacities/Rapidity</guid>
-    <description><![CDATA[ Rapidity Definition and Performance Significance Rapidity represents the promise of fast settlement—the capacity for quick transaction finalization and state updates through distributed consensus. ]]></description>
-    <pubDate>Fri, 03 Oct 2025 00:41:46 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 00:51:02 GMT</pubDate>
   </item>
     </channel>
   </rss>

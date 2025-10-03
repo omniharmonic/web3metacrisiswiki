@@ -226,6 +226,14 @@
     "docs/web3-primitives.html",
     "docs/web3--affordances--and---potentials.html",
     "docs/web3-affordances--and--potentials.html",
+    "content/Patterns/Collective Action Problems.md",
+    "content/Patterns/Natural Capital Accounting.md",
+    "content/Patterns/Circular Economy.md",
+    "content/Patterns/Coase Theorem.md",
+    "content/Patterns/Transaction Costs.md",
+    "content/Patterns/Regulatory Compliance.md",
+    "content/Patterns/Echo Chambers.md",
+    "content/Primitives/Multi-Signature.md",
     "content/Patterns/Democratic Innovation.md",
     "content/Patterns/Tragedy of the Commons.md",
     "content/Patterns/Social Capital.md",
@@ -242,14 +250,6 @@
     "content/Primitives/Digital Signatures.md",
     "content/Patterns/Environmental Justice.md",
     "content/Primitives/Verifiable Credentials.md",
-    "content/Primitives/Public Goods.md",
-    "content/Primitives/Network Effects.md",
-    "content/Patterns/Regenerative Finance.md",
-    "content/Primitives/Cross-Chain Integration.md",
-    "content/Patterns/Defensive Accelerationism.md",
-    "content/Primitives/Decentralized Autonomous Organizations.md",
-    "content/Patterns/Coordination Problems.md",
-    "content/Web3 and the Generative Dynamics of the Metacrisis v04.md",
-    "content/Patterns/decentralization.md"
+    "content/Primitives/Public Goods.md"
   ]
 }
