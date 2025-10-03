@@ -169,22 +169,22 @@ The maturation of transaction processing technology may determine whether blockc
 [[Digital Signatures]] - Cryptographic mechanisms enabling secure transaction authorization without revealing private keys
 [[consensus mechanisms]] - Protocols that enable distributed networks to agree on transaction ordering and validity
 [[Gas]] - Economic mechanism for pricing computational resources in transaction execution
-[[Mempool]] - Temporary storage for unconfirmed transactions before inclusion in blocks
-[[Block Production]] - Process of batching transactions into blocks for consensus agreement
-[[Transaction Fees]] - Economic incentives paid to miners or validators for transaction inclusion
-[[Finality]] - Property where confirmed transactions cannot be reversed or modified
+**Mempool** - Temporary storage for unconfirmed transactions before inclusion in blocks
+**Block Production** - Process of batching transactions into blocks for consensus agreement
+**Transaction Fees** - Economic incentives paid to miners or validators for transaction inclusion
+**Finality** - Property where confirmed transactions cannot be reversed or modified
 [[Account Models]] - Framework for managing user state and transaction authorization
 [[smart contracts]] - Programmable logic that processes transactions automatically
 [[Layer 2 Solutions]] - Scaling technologies that process transactions off-chain before settlement
 [[MEV]] - Value that block producers can extract through transaction ordering and timing
-[[Nonce]] - Sequential number preventing transaction replay attacks
+**Nonce** - Sequential number preventing transaction replay attacks
 [[UTXO Model]] - Transaction processing approach using unspent transaction outputs
 [[State Channels]] - Off-chain transaction processing with periodic blockchain settlement
 [[Atomic Swaps]] - Cross-chain transaction processing without trusted intermediaries
-[[Privacy Coins]] - Cryptocurrencies implementing confidential transaction processing
-[[Batching]] - Technique for processing multiple transactions together for efficiency
-[[Transaction Malleability]] - Ability to modify transaction data without affecting validity
-[[Double Spending]] - Attack where same funds are spent multiple times
+**Privacy Coins** - Cryptocurrencies implementing confidential transaction processing
+**Batching** - Technique for processing multiple transactions together for efficiency
+**Transaction Malleability** - Ability to modify transaction data without affecting validity
+**Double Spending** - Attack where same funds are spent multiple times
 [[front running]] - MEV extraction through transaction ordering manipulation
 [[sandwich attacks]] - MEV strategy exploiting transaction ordering around user transactions
 [[Flash Loans]] - Single-transaction borrowing and repayment enabled by atomic processing

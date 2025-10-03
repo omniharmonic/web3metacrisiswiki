@@ -87,23 +87,23 @@ Climate solutions must contribute to the [[Third Attractor]] by:
 
 ## Related Concepts
 
-[[Climate Change]] - Scientific understanding of anthropogenic global warming and its impacts
-[[Carbon Pricing]] - Market-based mechanisms for internalizing greenhouse gas emission costs
-[[Global Governance]] - Institutional frameworks for addressing transnational challenges including climate
+**Climate Change** - Scientific understanding of anthropogenic global warming and its impacts
+**Carbon Pricing** - Market-based mechanisms for internalizing greenhouse gas emission costs
+**Global Governance** - Institutional frameworks for addressing transnational challenges including climate
 [[negative externalities]] - Economic spillovers where climate costs are not reflected in market prices
 [[Collective Action Problem]] - Coordination challenges in addressing global public goods like climate stability
-[[Intergenerational Equity]] - Ethical questions about current actions affecting future generations
-[[Planetary Boundaries]] - Scientific framework for safe operating spaces within Earth system limits
+**Intergenerational Equity** - Ethical questions about current actions affecting future generations
+**Planetary Boundaries** - Scientific framework for safe operating spaces within Earth system limits
 [[Climate Justice]] - Movement addressing equitable distribution of climate costs and benefits
-[[Renewable Energy]] - Clean energy technologies essential for climate change mitigation
-[[Carbon Sequestration]] - Processes for removing atmospheric carbon dioxide through natural and technological means
-[[Climate Adaptation]] - Adjustments to climate impacts including sea level rise and extreme weather
-[[Emissions Trading]] - Market mechanisms for reducing greenhouse gas emissions cost-effectively
-[[Green New Deal]] - Policy framework combining climate action with economic development and social justice
-[[Climate Finance]] - Financial mechanisms for funding climate mitigation and adaptation
+**Renewable Energy** - Clean energy technologies essential for climate change mitigation
+**Carbon Sequestration** - Processes for removing atmospheric carbon dioxide through natural and technological means
+**Climate Adaptation** - Adjustments to climate impacts including sea level rise and extreme weather
+**Emissions Trading** - Market mechanisms for reducing greenhouse gas emissions cost-effectively
+**Green New Deal** - Policy framework combining climate action with economic development and social justice
+**Climate Finance** - Financial mechanisms for funding climate mitigation and adaptation
 [[environmental economics]] - Field addressing market failures in environmental resource allocation
 [[regenerative economics]] - Economic approaches that align financial success with ecological restoration
 [[Tokenized Ecosystem Services]] - Blockchain-based markets for environmental benefits including carbon sequestration
-[[International Climate Agreements]] - Multilateral frameworks including Paris Agreement for global climate coordination
-[[Climate Risk Assessment]] - Methods for evaluating financial and physical risks from climate change
-[[Net Zero]] - Goal of balancing greenhouse gas emissions with removals to achieve climate stability
+**International Climate Agreements** - Multilateral frameworks including Paris Agreement for global climate coordination
+**Climate Risk Assessment** - Methods for evaluating financial and physical risks from climate change
+**Net Zero** - Goal of balancing greenhouse gas emissions with removals to achieve climate stability

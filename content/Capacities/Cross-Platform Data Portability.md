@@ -4,6 +4,9 @@ aliases:
   - "cross-platform-data-portability"
   - "Cross-platform-Data-Portability"
   - "cross--platform -data -portability"
+  - "Platform Cooperatives"
+  - "Platform Power"
+  - "data portability"
 ---
 
 # Cross-Platform Data Portability
@@ -72,10 +75,10 @@ The most promising applications focus on asset portability where value is intrin
 ## Related Concepts
 
 [[Interoperability]] - Technical capacity for cross-platform operation
-[[Platform_Lock_In]] - Switching costs and competitive dynamics
-[[Network_Effects]] - Value concentration in dominant platforms
-[[Data_Ownership]] - Questions about proprietary control of user data
-[[Cross_Chain_Bridges]] - Technical infrastructure for asset portability
+**Platform_Lock_In** - Switching costs and competitive dynamics
+**Network_Effects** - Value concentration in dominant platforms
+**Data_Ownership** - Questions about proprietary control of user data
+**Cross_Chain_Bridges** - Technical infrastructure for asset portability
 [[Social_Graph_Portability]] - Challenges of moving social connections
-[[Competition_Policy]] - Regulatory approaches to platform power
-[[Switching_Costs]] - Barriers to platform migration
+**Competition_Policy** - Regulatory approaches to platform power
+**Switching_Costs** - Barriers to platform migration

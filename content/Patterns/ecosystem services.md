@@ -2,6 +2,13 @@
 aliases:
   - "ecosystem-services"
   - "Ecosystem-Services"
+  - "Payment for Ecosystem Services"
+  - "Water Ecosystem Services"
+  - "Soil Ecosystem Services"
+  - "Sustainable Development"
+  - "Nature-Based Solutions"
+  - "Conservation Biology"
+  - "Landscape Ecology"
 ---
 
 # Ecosystem Services
@@ -150,20 +157,20 @@ The future of ecosystem services may determine whether human societies can devel
 [[Natural Capital]] - Economic framework for valuing ecosystem assets and services
 [[Payment for Ecosystem Services]] - Market mechanisms for compensating ecosystem service providers
 [[environmental economics]] - Field addressing market failures in environmental resource allocation
-[[Conservation Finance]] - Financial mechanisms and instruments for funding ecosystem protection
+**Conservation Finance** - Financial mechanisms and instruments for funding ecosystem protection
 [[Carbon Markets]] - Trading systems for greenhouse gas emission reductions and sequestration
 [[Biodiversity Credits]] - Market-based mechanisms for species and habitat conservation
-[[Green Finance]] - Financial services and investments supporting environmental sustainability
+**Green Finance** - Financial services and investments supporting environmental sustainability
 [[Regenerative Agriculture]] - Farming practices that restore ecosystem services while producing food
 [[Natural Climate Solutions]] - Ecosystem-based approaches to climate change mitigation and adaptation
-[[Ecological Restoration]] - Active intervention to restore degraded ecosystems and their services
+**Ecological Restoration** - Active intervention to restore degraded ecosystems and their services
 [[Environmental Justice]] - Movement addressing equitable distribution of environmental benefits and burdens
 [[Sustainable Development]] - Development approach balancing economic, social, and environmental objectives
 [[Circular Economy]] - Economic model emphasizing resource efficiency and waste reduction
-[[Planetary Boundaries]] - Scientific framework for safe operating spaces within Earth system limits
-[[One Health]] - Approach recognizing connections between human, animal, and environmental health
+**Planetary Boundaries** - Scientific framework for safe operating spaces within Earth system limits
+**One Health** - Approach recognizing connections between human, animal, and environmental health
 [[Nature-Based Solutions]] - Interventions inspired by natural systems to address societal challenges
-[[Ecological Economics]] - Transdisciplinary field studying economy as subsystem of ecology
-[[Environmental Governance]] - Institutional frameworks for environmental decision-making and management
+**Ecological Economics** - Transdisciplinary field studying economy as subsystem of ecology
+**Environmental Governance** - Institutional frameworks for environmental decision-making and management
 [[Conservation Biology]] - Scientific discipline focused on protecting biodiversity and ecosystems
 [[Landscape Ecology]] - Study of spatial patterns and processes across heterogeneous landscapes

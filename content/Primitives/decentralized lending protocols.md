@@ -2,6 +2,7 @@
 aliases:
   - "decentralized-lending-protocols"
   - "Decentralized-Lending-Protocols"
+  - "Lending Protocols"
 ---
 
 

@@ -126,11 +126,11 @@ aliases:
 - [[Gas]] - Fee mechanism exploited in front-running
 - [[automated market makers (AMMs)]] - Common front-running targets
 - [[Arbitrage]] - Legitimate trading activity vs. exploitative front-running
-- [[Market_Manipulation]] - Broader category of unfair trading practices
+- **Market_Manipulation** - Broader category of unfair trading practices
 - [[Proof of Stake (PoS)]] - Consensus mechanism enabling front-running
 - [[decentralized exchanges]] - Venues where front-running occurs
 - [[Flash Loans]] - Tool enabling sophisticated front-running strategies
-- [[Slippage]] - User cost increased by front-running
+- **Slippage** - User cost increased by front-running
 
 ## References
 

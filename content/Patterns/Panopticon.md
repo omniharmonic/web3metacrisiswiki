@@ -1,6 +1,7 @@
 ---
 aliases:
   - "panopticon"
+  - "Regulatory Panopticon"
 ---
 
 # Panopticon
@@ -59,7 +60,7 @@ The immutability and transparency of blockchain systems create what legal schola
 
 ### Digital Identity and Behavioral Tracking
 
-[[Digital Identity]] systems in Web3 contexts risk creating what computer scientist Ann Cavoukian calls "privacy-invasive by design" architectures where identity verification requirements enable comprehensive tracking of online behavior across platforms and applications while users may not understand the surveillance implications of identity disclosure.
+**Digital Identity** systems in Web3 contexts risk creating what computer scientist Ann Cavoukian calls "privacy-invasive by design" architectures where identity verification requirements enable comprehensive tracking of online behavior across platforms and applications while users may not understand the surveillance implications of identity disclosure.
 
 [[Decentralized Autonomous Organizations (DAOs)]] may inadvertently create panopticon effects where governance participation, token holdings, and community interactions become permanently recorded and analyzable, potentially enabling what political scientist James C. Scott calls "legibility" projects where communities become transparent to external analysis and control.
 
@@ -85,7 +86,7 @@ However, zero-knowledge systems face challenges with trusted setup requirements,
 
 ### Privacy Coins and Anonymous Transactions
 
-[[Privacy Coins]] including Monero, Zcash, and Grin attempt to restore what cryptographer David Chaum calls "digital cash" properties where transactions remain private and unlinkable, potentially preventing the financial surveillance that blockchain transparency enables.
+**Privacy Coins** including Monero, Zcash, and Grin attempt to restore what cryptographer David Chaum calls "digital cash" properties where transactions remain private and unlinkable, potentially preventing the financial surveillance that blockchain transparency enables.
 
 Ring signatures, stealth addresses, and confidential transactions create what cryptographer Nicolas van Saberhagen calls "untraceable payments" that could resist panopticon analysis while maintaining the benefits of decentralized currency systems.
 
@@ -157,18 +158,18 @@ The long-term resistance to panopticon surveillance depends on maintaining democ
 
 [[Surveillance Capitalism]] - Economic system based on behavioral data extraction and prediction that implements panopticon principles
 [[Mass Surveillance]] - Government and corporate monitoring systems that extend panopticon surveillance to entire populations
-[[Digital Identity]] - Identity systems that may enable comprehensive behavioral tracking and social control
+**Digital Identity** - Identity systems that may enable comprehensive behavioral tracking and social control
 [[Privacy Preservation]] - Technologies and practices designed to protect personal information from surveillance
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that enable verification without revealing sensitive information
 [[self-sovereign identity]] - Identity model where individuals control their personal data and disclosure
 [[On-Chain Analytics]] - Blockchain analysis techniques that enable financial surveillance and behavioral tracking
 [[decentralized identity]] - Identity systems that distribute control rather than depending on centralized authorities
-[[Privacy Coins]] - Cryptocurrencies designed to provide transaction privacy and resist financial surveillance
+**Privacy Coins** - Cryptocurrencies designed to provide transaction privacy and resist financial surveillance
 [[Reputation Systems]] - Social mechanisms for tracking behavior that may implement panopticon-like surveillance
 [[Social Credit Systems]] - Government systems that score citizen behavior based on comprehensive surveillance
 [[Chilling Effects]] - Self-censorship and behavioral modification that results from awareness of surveillance
-[[Counter-Surveillance]] - Technical and social practices designed to resist monitoring and protect privacy
-[[Digital Resistance]] - Social movements and practices that use technology to resist surveillance and control
+**Counter-Surveillance** - Technical and social practices designed to resist monitoring and protect privacy
+**Digital Resistance** - Social movements and practices that use technology to resist surveillance and control
 [[Regulatory Panopticon]] - Legal frameworks that mandate surveillance and monitoring for compliance purposes
 [[Metadata Analysis]] - Surveillance techniques that analyze communication patterns rather than content
 [[Traffic Analysis]] - Network monitoring techniques that can reveal behavior despite encryption protection

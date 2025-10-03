@@ -4,6 +4,7 @@ aliases:
   - "ethereum-virtual-machine-(evm)"
   - "Ethereum-Virtual-Machine-(Evm)"
   - "ethereum -virtual -machine (-e-v-m)"
+  - "EVM"
 ---
 
 
@@ -66,8 +67,8 @@ The **Ethereum Virtual Machine (EVM)** is the computational engine at the heart 
 The EVM serves as the **foundational execution layer** for:
 - [[smart contracts]] - Programmable logic
 - [[Decentralized Autonomous Organizations (DAOs)]] - Governance mechanisms
-- [[DeFi_Protocols]] - Financial applications
-- [[Token_Standards]] - ERC-20, ERC-721, ERC-1155
+- **DeFi_Protocols** - Financial applications
+- **Token_Standards** - ERC-20, ERC-721, ERC-1155
 
 ## Technical Specifications
 

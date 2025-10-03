@@ -255,12 +255,12 @@ Yet market governance faces systematic failures including what economist Joseph 
 
 ## Related Concepts
 
-[[Democratic Theory]] - Political science framework for legitimate governance based on popular sovereignty
-[[Institutional Economics]] - Economic analysis of governance structures and transaction costs
+**Democratic Theory** - Political science framework for legitimate governance based on popular sovereignty
+**Institutional Economics** - Economic analysis of governance structures and transaction costs
 [[Public Choice Theory]] - Economic analysis of political processes and government failure
-[[Bureaucratic Administration]] - Weberian model of hierarchical governance through formal rules and expertise
+**Bureaucratic Administration** - Weberian model of hierarchical governance through formal rules and expertise
 [[Representative Democracy]] - Electoral systems for combining popular sovereignty with practical governance
-[[Market Mechanisms]] - Price-based coordination systems for resource allocation and information aggregation
+**Market Mechanisms** - Price-based coordination systems for resource allocation and information aggregation
 [[polycentric governance]] - Multi-level governance systems with distributed authority
 [[commons governance]] - Institutional frameworks for managing shared resources democratically
 [[Decentralized Autonomous Organizations (DAOs)]] - Blockchain-based governance mechanisms using smart contracts
@@ -271,9 +271,9 @@ Yet market governance faces systematic failures including what economist Joseph 
 [[Liquid Democracy]] - Hybrid system combining direct and representative democracy through delegated voting
 [[Futarchy]] - Governance mechanism using prediction markets for policy evaluation
 [[Mechanism Design]] - Economic theory for creating institutions that achieve desired outcomes
-[[Principal-Agent Theory]] - Framework for understanding delegation and accountability in governance
+**Principal-Agent Theory** - Framework for understanding delegation and accountability in governance
 [[Collective Action Problem]] - Coordination challenges that governance mechanisms attempt to solve
 [[regulatory capture]] - Process where regulated industries influence regulatory agencies
 [[Democratic Legitimacy]] - Sources of political authority in democratic systems
-[[Constitutional Design]] - Institutional frameworks for limiting and structuring governmental power
-[[Federalism]] - Multi-level governance systems with distributed sovereignty
+**Constitutional Design** - Institutional frameworks for limiting and structuring governmental power
+**Federalism** - Multi-level governance systems with distributed sovereignty

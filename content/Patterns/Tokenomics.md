@@ -1,6 +1,7 @@
 ---
 aliases:
   - "tokenomics"
+  - "Regenerative Tokenomics"
 ---
 
 # Tokenomics
@@ -27,7 +28,7 @@ However, the effectiveness of algorithmic monetary policy remains largely untest
 
 Token distribution models fundamentally shape long-term governance dynamics and economic concentration within tokenized networks. "Fair launch" models that avoid pre-allocation attempt to create more democratic ownership structures, while venture capital-backed models that involve significant pre-mining may recreate traditional power concentrations despite decentralized technological architecture.
 
-The phenomenon of "airdrop governance" represents experiments in retroactive public goods funding where tokens are distributed to past users of protocols or contributors to public goods, attempting to reward value creation that occurred before explicit tokenization. Projects like [[Uniswap]] and [[Ethereum Name Service]] have demonstrated the technical feasibility and governance implications of large-scale retroactive token distribution.
+The phenomenon of "airdrop governance" represents experiments in retroactive public goods funding where tokens are distributed to past users of protocols or contributors to public goods, attempting to reward value creation that occurred before explicit tokenization. Projects like **Uniswap** and [[Ethereum Name Service]] have demonstrated the technical feasibility and governance implications of large-scale retroactive token distribution.
 
 Yet empirical analysis reveals that even "fair launch" tokens often exhibit significant concentration among sophisticated early adopters, while airdrops frequently reward gaming behavior rather than genuine value contribution. The challenge lies in designing distribution mechanisms that create genuine rather than merely formal democratization of economic participation.
 
@@ -109,5 +110,5 @@ The evolution toward more sophisticated tokenomics that prioritize utility creat
 [[Slashing]] - Cryptoeconomic penalty mechanisms for deterring malicious behavior
 [[Public Goods Funding]] - Addressing systematic under-provision through tokenized coordination
 [[Governance Tokens]] - Digital assets representing decision-making rights in protocols
-[[Economic Security]] - Security models based on cryptoeconomic rather than computational proof
+**Economic Security** - Security models based on cryptoeconomic rather than computational proof
 [[regulatory capture]] - Risk of tokenized governance being dominated by special interests

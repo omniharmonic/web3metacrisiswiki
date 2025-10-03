@@ -4,6 +4,7 @@ aliases:
   - "collective-action-problem"
   - "Collective-Action-Problem"
   - "collective -action -problem"
+  - "Collective Action"
 ---
 
 # Collective Action Problem
@@ -34,7 +35,7 @@ Collective action problems are compounded by information asymmetries where actor
 
 The challenge is compounded by what economists call "preference falsification" where actors may claim to support collective action while privately preferring free-riding, making it difficult to assess genuine support for collective initiatives. This information problem explains why public opinion polling may overestimate support for collective action that requires individual sacrifice.
 
-Web3 technologies including [[Mechanism Design]], [[cryptographic protocols]], and [[Zero-knowledge proofs]] offer novel approaches to information revelation that could enable coordination without revealing sensitive strategic information.
+Web3 technologies including [[Mechanism Design]], [[cryptographic protocols]], and **Zero-knowledge proofs** offer novel approaches to information revelation that could enable coordination without revealing sensitive strategic information.
 
 ## Contemporary Manifestations and Systemic Examples
 

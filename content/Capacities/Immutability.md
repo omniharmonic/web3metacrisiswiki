@@ -74,6 +74,6 @@ Supply chain applications using immutable records show promise for improving tra
 [[Transparency]] - Immutable records enable public verification
 [[censorship resistance]] - Immutability prevents retrospective data suppression
 [[Programmability]] - Smart contracts execute immutable program logic
-[[Privacy_Preservation]] - Tension between immutability and privacy rights
-[[Governance_Mechanisms]] - Collective decision-making about immutable systems
-[[Economic_Security]] - Financial incentives maintaining immutable consensus
+**Privacy_Preservation** - Tension between immutability and privacy rights
+**Governance_Mechanisms** - Collective decision-making about immutable systems
+**Economic_Security** - Financial incentives maintaining immutable consensus

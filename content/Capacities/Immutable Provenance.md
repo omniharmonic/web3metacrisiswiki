@@ -77,12 +77,12 @@ The emphasis on immutability may prove counterproductive for applications requir
 
 ## Related Concepts
 
-[[Oracle_Problem]] - Bridging physical to digital verification
-[[Garbage_In_Garbage_Out]] - Immutability of false information
-[[Error_Correction]] - Fixing mistakes in permanent records
-[[Physical_Digital_Bridging]] - Connecting items to records
+**Oracle_Problem** - Bridging physical to digital verification
+**Garbage_In_Garbage_Out** - Immutability of false information
+**Error_Correction** - Fixing mistakes in permanent records
+**Physical_Digital_Bridging** - Connecting items to records
 [[Authentication]] - Verifying genuineness and origins
-[[Supply_Chain_Fraud]] - Counterfeiting and mislabeling
+**Supply_Chain_Fraud** - Counterfeiting and mislabeling
 [[NFT_Provenance]] - Digital asset authenticity
-[[Institutional_Verification]] - Traditional authentication systems
-[[Right_to_be_Forgotten]] - Conflicts with permanence
+**Institutional_Verification** - Traditional authentication systems
+**Right_to_be_Forgotten** - Conflicts with permanence

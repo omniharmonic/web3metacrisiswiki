@@ -281,26 +281,26 @@ Based on [[Vitality, Resilience, Choice]] principles:
 
 ## Related Concepts
 
-[[Wealth Inequality]] - Statistical measurement and social consequences of economic concentration
-[[Capital Accumulation]] - Process by which wealth generates additional wealth through investment returns
-[[Market Concentration]] - Industrial organization patterns where few firms dominate sectors
-[[Monopoly Power]] - Market dominance that enables price-setting and competitor exclusion
+**Wealth Inequality** - Statistical measurement and social consequences of economic concentration
+**Capital Accumulation** - Process by which wealth generates additional wealth through investment returns
+**Market Concentration** - Industrial organization patterns where few firms dominate sectors
+**Monopoly Power** - Market dominance that enables price-setting and competitor exclusion
 [[regulatory capture]] - Political process where concentrated wealth influences policy development
-[[Financialization]] - Economic pattern where financial returns exceed productive investment returns
+Financialization - Economic pattern where financial returns exceed productive investment returns
 [[Network Effects]] - Technological dynamics that create winner-take-all market outcomes
-[[Platform Capitalism]] - Economic model where digital platforms extract value from user interactions
-[[Rent Seeking]] - Economic behavior that captures value without creating productive output
-[[Systemic Risk]] - Financial vulnerabilities created by concentration and interconnectedness
-[[Labor Monopsony]] - Employer market power that enables wage suppression and worker exploitation
+**Platform Capitalism** - Economic model where digital platforms extract value from user interactions
+**Rent Seeking** - Economic behavior that captures value without creating productive output
+**Systemic Risk** - Financial vulnerabilities created by concentration and interconnectedness
+**Labor Monopsony** - Employer market power that enables wage suppression and worker exploitation
 [[DeFi]] - Decentralized finance protocols attempting to democratize financial services
 [[DAOs]] - Decentralized autonomous organizations enabling community resource governance
 [[tokenization]] - Process of creating blockchain-based ownership representations for assets
 [[Quadratic Funding]] - Democratic mechanism for public goods funding that resists plutocratic capture
 [[Universal Basic Income]] - Policy proposal for providing economic security independent of employment
-[[Cooperative Economics]] - Worker and community ownership models that distribute control and benefits
+**Cooperative Economics** - Worker and community ownership models that distribute control and benefits
 [[commons governance]] - Institutional frameworks for managing shared resources democratically
-[[Progressive Taxation]] - Policy mechanism for redistributing wealth and reducing concentration
-[[Antitrust Policy]] - Legal framework for preventing and addressing market concentration
-[[Democratic Socialism]] - Political economy model combining democratic governance with economic equality
+**Progressive Taxation** - Policy mechanism for redistributing wealth and reducing concentration
+**Antitrust Policy** - Legal framework for preventing and addressing market concentration
+**Democratic Socialism** - Political economy model combining democratic governance with economic equality
 [[regenerative economics]] - Economic approaches that align financial success with ecological restoration
 [[multi-polar traps]] - Competitive dynamics that prevent cooperation despite mutual benefits from coordination

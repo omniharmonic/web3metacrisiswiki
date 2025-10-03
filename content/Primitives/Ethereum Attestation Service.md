@@ -4,6 +4,9 @@ aliases:
   - "ethereum-attestation-service"
   - "Ethereum-Attestation-Service"
   - "ethereum -attestation -service"
+  - "Ethereum"
+  - "Ethereum Name Service"
+  - "Attestation"
 ---
 
 

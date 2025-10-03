@@ -4,6 +4,10 @@ aliases:
   - "community-verified-impact-assessment"
   - "Community-verified-Impact-Assessment"
   - "community--verified -impact -assessment"
+  - "Environmental Impact Assessment"
+  - "Life Cycle Assessment"
+  - "Integrated Assessment"
+  - "impact assessment"
 ---
 
 # Community-Verified Impact Assessment
@@ -81,10 +85,10 @@ The evolution of privacy-preserving verification technologies offers potential p
 ## Related Concepts
 
 [[dMRV]] - Technical implementation of decentralized verification
-[[Participatory_Governance]] - Community control over assessment processes
-[[Epistemic_Justice]] - Questions about legitimate knowledge and authority
-[[Impact_Measurement]] - Methodological foundations and challenges
-[[Local_Knowledge_Systems]] - Indigenous and experiential knowledge
-[[Elite_Capture]] - Power dynamics in community processes
-[[Externality_Markets]] - Economic applications of impact verification
-[[Collective_Intelligence]] - Aggregation of distributed assessments
+**Participatory_Governance** - Community control over assessment processes
+**Epistemic_Justice** - Questions about legitimate knowledge and authority
+**Impact_Measurement** - Methodological foundations and challenges
+**Local_Knowledge_Systems** - Indigenous and experiential knowledge
+**Elite_Capture** - Power dynamics in community processes
+**Externality_Markets** - Economic applications of impact verification
+**Collective_Intelligence** - Aggregation of distributed assessments

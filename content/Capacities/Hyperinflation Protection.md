@@ -75,12 +75,12 @@ The emphasis on decentralized monetary alternatives may distract from more funda
 
 ## Related Concepts
 
-[[Stablecoins]] - Dollar-pegged cryptocurrency
-[[Capital_Controls]] - Government restrictions on currency conversion
-[[Depegging_Risk]] - Stablecoin stability failures
-[[Currency_Crisis]] - Hyperinflationary collapse
-[[Monetary_Sovereignty]] - Control over national currency
-[[Dollarization]] - Adoption of foreign currency
-[[Censorship_Resistance]] - Accessing prohibited assets
-[[Cryptocurrency_Onramps]] - Converting fiat to crypto
-[[Algorithmic_Stablecoins]] - Failed experiments in decentralized stability
+**Stablecoins** - Dollar-pegged cryptocurrency
+**Capital_Controls** - Government restrictions on currency conversion
+**Depegging_Risk** - Stablecoin stability failures
+**Currency_Crisis** - Hyperinflationary collapse
+**Monetary_Sovereignty** - Control over national currency
+**Dollarization** - Adoption of foreign currency
+**Censorship_Resistance** - Accessing prohibited assets
+**Cryptocurrency_Onramps** - Converting fiat to crypto
+**Algorithmic_Stablecoins** - Failed experiments in decentralized stability

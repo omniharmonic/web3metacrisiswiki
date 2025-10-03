@@ -4,6 +4,7 @@ aliases:
   - "byzantine-fault-tolerance"
   - "Byzantine-Fault-Tolerance"
   - "byzantine -fault -tolerance"
+  - "Practical Byzantine Fault Tolerance"
 ---
 
 # Byzantine Fault Tolerance

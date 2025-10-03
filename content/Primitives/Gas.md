@@ -1,6 +1,19 @@
 ---
 aliases:
   - "gas"
+  - "Gas Fees"
+  - "Gas Optimization"
+  - "Gas_Mechanism"
+  - "Gas_Metering"
+  - "Gas_Fees"
+  - "Gas_Optimization"
+  - "Gas_Price_Volatility"
+  - "Gas Fees"
+  - "Gas_Mechanism"
+  - "Gas_Metering"
+  - "Gas_Fees"
+  - "Gas_Optimization"
+  - "Gas_Price_Volatility"
 ---
 
 
@@ -131,16 +144,16 @@ Total Gas Fee = Gas Units Used × (Base Fee + Priority Fee)
 
 ## Related Concepts
 
-- [[EIP_1559]] - Fee structure reform
+- **EIP_1559** - Fee structure reform
 - [[MEV]] - Value extraction affecting gas markets
 - [[front running]] - Gas price manipulation for transaction ordering
 - [[Layer_2_Rollups]] - Scaling solution reducing gas costs
 - [[Ethereum Virtual Machine (EVM)]] - Execution environment using gas
 - [[smart contracts]] - Primary consumers of gas
 - [[Proof of Stake (PoS)]] - Consensus mechanism receiving gas fees
-- [[Network_Congestion]] - Condition driving up gas prices
+- **Network_Congestion** - Condition driving up gas prices
 - [[scalability trilemma]] - Fundamental challenge gas addresses
-- [[User_Experience]] - Area impacted by gas complexity
+- **User_Experience** - Area impacted by gas complexity
 
 ## References
 

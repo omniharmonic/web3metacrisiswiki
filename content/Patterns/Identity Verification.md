@@ -146,16 +146,16 @@ The long-term impact of decentralized identity systems depends on addressing fun
 [[Decentralized Identifiers (DIDs)]] - Cryptographic identifiers that enable decentralized identity verification
 [[Verifiable Credentials]] - Cryptographically signed digital credentials that can be independently verified
 [[Zero-Knowledge Proofs]] - Cryptographic techniques that enable verification without revealing sensitive information
-[[Digital Identity]] - Electronic representation of identity information and attributes
+**Digital Identity** - Electronic representation of identity information and attributes
 [[Biometric Identification]] - Identity verification using unique biological characteristics
 [[Multi-Factor Authentication]] - Security process requiring multiple verification methods
-[[Know Your Customer]] - Regulatory requirements for customer identity verification in financial services
-[[Privacy-Preserving Technology]] - Technical approaches to maintaining privacy while enabling verification
+**Know Your Customer** - Regulatory requirements for customer identity verification in financial services
+**Privacy-Preserving Technology** - Technical approaches to maintaining privacy while enabling verification
 [[Sybil Attacks]] - Attacks where single entities create multiple false identities
 [[Reputation Systems]] - Mechanisms for tracking and verifying trustworthiness and past behavior
 [[Digital Divide]] - Inequalities in access to digital technologies and skills
 [[Surveillance Capitalism]] - Economic model based on commodifying personal data and behavior
-[[Contextual Integrity]] - Privacy framework based on appropriate information sharing in specific contexts
+**Contextual Integrity** - Privacy framework based on appropriate information sharing in specific contexts
 [[Social Credit Systems]] - Government systems that track and score citizen behavior
 [[Regulatory Compliance]] - Adherence to legal requirements and regulatory frameworks
-[[Financial Inclusion]] - Access to useful and affordable financial products and services
+**Financial Inclusion** - Access to useful and affordable financial products and services

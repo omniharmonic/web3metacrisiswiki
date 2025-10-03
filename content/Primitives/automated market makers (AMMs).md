@@ -209,4 +209,4 @@ aliases:
 - [[Liquidity Pools]] - Core component
 - [[Decentralized Finance (DeFi)]] - Primary application
 - [[Composability]] - Key design principle
-- [[Market_Making]] - Core mechanism
+- **Market_Making** - Core mechanism

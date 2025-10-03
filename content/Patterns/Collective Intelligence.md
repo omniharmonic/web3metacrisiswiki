@@ -9,6 +9,9 @@ aliases:
   - "Group intelligence"
   - "crowd wisdom"
   - "Crowd wisdom"
+  - "Crowd Wisdom"
+  - "Citizen Science"
+  - "collective problem solving"
 ---
 
 # Collective Intelligence
@@ -190,7 +193,7 @@ Collective intelligence systems often suffer from what sociologist Clay Shirky c
 
 The challenge lies in creating participation mechanisms that are accessible to diverse participants while maintaining quality and avoiding lowest-common-denominator outcomes.
 
-### [[Information Quality]] and Misinformation
+### **Information Quality** and Misinformation
 
 Collective intelligence systems must address what information scientist Cass Sunstein calls "information cascades" where early or prominent contributions disproportionately influence subsequent participants, potentially amplifying errors or biases rather than correcting them.
 
@@ -226,7 +229,7 @@ Future developments should prioritize accessibility, quality control mechanisms,
 
 ## Related Concepts
 
-[[Swarm Intelligence]] - Biological and computational models of collective behavior and problem-solving
+**Swarm Intelligence** - Biological and computational models of collective behavior and problem-solving
 [[Crowd Wisdom]] - Phenomenon where groups can outperform individual experts under certain conditions
 [[Prediction Markets]] - Market-based mechanisms for aggregating collective forecasting intelligence
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems implementing programmable collective intelligence
@@ -234,18 +237,18 @@ Future developments should prioritize accessibility, quality control mechanisms,
 [[Quadratic Voting]] - Voting system that aggregates preference intensity across collective participants
 [[Conviction Voting]] - Time-weighted voting mechanism rewarding sustained collective engagement
 [[Reputation Systems]] - Merit-based coordination mechanisms for collective intelligence organization
-[[Open Source Development]] - Collaborative innovation model demonstrating successful collective intelligence
+**Open Source Development** - Collaborative innovation model demonstrating successful collective intelligence
 [[Citizen Science]] - Research methodology leveraging collective intelligence for scientific discovery
-[[Peer Review]] - Quality control mechanism that could be enhanced through collective intelligence
+Peer Review - Quality control mechanism that could be enhanced through collective intelligence
 [[Coordination Problems]] - Fundamental challenges that collective intelligence attempts to address
 [[Network Effects]] - Value creation dynamics that can enhance collective intelligence systems
-[[Information Theory]] - Mathematical framework for understanding collective information processing
-[[Cognitive Diversity]] - Psychological foundation for effective collective intelligence
-[[Participation Inequality]] - Challenge where small percentages dominate collective contributions
+[[Information theory]] - Mathematical framework for understanding collective information processing
+**Cognitive Diversity** - Psychological foundation for effective collective intelligence
+**Participation Inequality** - Challenge where small percentages dominate collective contributions
 [[Elite Capture]] - Risk of sophisticated minorities controlling collective intelligence systems
 [[Misinformation]] - Information quality challenge that collective intelligence must address
-[[Algorithmic Governance]] - Technical mechanisms for implementing collective intelligence decisions
+**Algorithmic Governance** - Technical mechanisms for implementing collective intelligence decisions
 [[Democratic Innovation]] - Governance approaches that collective intelligence can enhance
-[[Commons Governance]] - Resource management that can benefit from collective intelligence approaches
+[[commons governance]] - Resource management that can benefit from collective intelligence approaches
 [[Social Capital]] - Relationship networks that enable effective collective intelligence
 [[Deliberative Democracy]] - Political process that collective intelligence can improve through technology

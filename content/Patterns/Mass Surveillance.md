@@ -4,6 +4,11 @@ aliases:
   - "mass-surveillance"
   - "Mass-Surveillance"
   - "mass -surveillance"
+  - "Surveillance"
+  - "Mass Extinction"
+  - "Sixth Mass Extinction"
+  - "Critical Mass"
+  - "surveillance"
 ---
 
 # Mass Surveillance
@@ -82,9 +87,9 @@ However, the technical complexity of zero-knowledge systems creates adoption bar
 
 ### Decentralized Communication and Censorship Resistance
 
-[[Decentralized Social Networks]] and [[Peer-to-Peer]] communication protocols attempt to provide communication capabilities that resist both surveillance and censorship by state and corporate actors. These systems implement what cryptographer Timothy May calls "crypto-anarchy" where communication can occur without central authorities that could be compelled to provide surveillance access or content restrictions.
+[[Decentralized Social Networks]] and **Peer-to-Peer** communication protocols attempt to provide communication capabilities that resist both surveillance and censorship by state and corporate actors. These systems implement what cryptographer Timothy May calls "crypto-anarchy" where communication can occur without central authorities that could be compelled to provide surveillance access or content restrictions.
 
-[[Mesh Networks]] and [[Distributed Hash Tables]] potentially enable communication infrastructure that maintains functionality despite attempts at centralized control or shutdown, implementing what computer scientist Paul Baran calls "packet switching" principles at the application layer where communication routes around attempts at censorship or surveillance.
+**Mesh Networks** and **Distributed Hash Tables** potentially enable communication infrastructure that maintains functionality despite attempts at centralized control or shutdown, implementing what computer scientist Paul Baran calls "packet switching" principles at the application layer where communication routes around attempts at censorship or surveillance.
 
 Yet decentralized communication systems face persistent challenges with user experience complexity, content moderation without central authority, and the legal risks that may deter adoption by ordinary users who fear prosecution for using technologies associated with criminal activity or political dissent.
 
@@ -92,7 +97,7 @@ Yet decentralized communication systems face persistent challenges with user exp
 
 The transparency properties of blockchain systems create what privacy researcher Matthew Green calls "surveillance paradoxes" where the immutable transaction records that enable trustless verification also create permanent audit trails that may enable unprecedented financial surveillance and behavioral analysis by state and corporate actors with blockchain analysis capabilities.
 
-[[Privacy Coins]] including Monero and Zcash attempt to address surveillance concerns through cryptographic protocols that hide transaction details while maintaining the verification properties necessary for monetary systems, but face regulatory pressure and exchange restrictions that limit practical adoption for ordinary users.
+**Privacy Coins** including Monero and Zcash attempt to address surveillance concerns through cryptographic protocols that hide transaction details while maintaining the verification properties necessary for monetary systems, but face regulatory pressure and exchange restrictions that limit practical adoption for ordinary users.
 
 The challenge is compounded by what legal scholar Jerry Brito calls "address clustering" where blockchain analysis companies can correlate seemingly anonymous addresses with real-world identities through exchange records, internet protocol tracking, and transaction pattern analysis that may make blockchain transactions more surveilled than traditional financial systems.
 
@@ -141,11 +146,11 @@ The transformation of surveillance systems depends on building broad-based coali
 [[self-sovereign identity]] - Identity systems that resist centralized surveillance and control
 [[Decentralized Social Networks]] - Communication platforms designed to resist surveillance and censorship
 [[censorship resistance]] - Technical properties that prevent information control and monitoring
-[[Cryptographic Resistance]] - Use of cryptography to resist state and corporate surveillance
-[[Digital Rights]] - Legal frameworks for protecting privacy and autonomy in digital environments
+**Cryptographic Resistance** - Use of cryptography to resist state and corporate surveillance
+**Digital Rights** - Legal frameworks for protecting privacy and autonomy in digital environments
 [[Authoritarian Technology]] - Technologies designed to concentrate power and enable social control
 [[regulatory capture]] - Political process where surveillance interests influence policy and law
 [[Chilling Effects]] - Behavioral modification caused by surveillance possibility
-[[Algorithmic Authority]] - Power exercised through automated decision-making systems
-[[Turnkey Tyranny]] - Surveillance infrastructure that can be rapidly weaponized for authoritarian control
+**Algorithmic Authority** - Power exercised through automated decision-making systems
+**Turnkey Tyranny** - Surveillance infrastructure that can be rapidly weaponized for authoritarian control
 [[Digital Feudalism]] - Economic system where platform owners control digital interaction and surveillance

@@ -118,7 +118,7 @@ The maturation of prediction markets in Web3 contexts depends on solving fundame
 
 [[Futarchy]] - Governance system implementing "vote values, bet beliefs" through prediction markets
 [[Mechanism Design]] - Theoretical framework for creating institutions that align individual and collective incentives
-[[Information Aggregation]] - Process of combining dispersed knowledge through market mechanisms
+**Information Aggregation** - Process of combining dispersed knowledge through market mechanisms
 [[Game Theory]] - Mathematical analysis of strategic behavior in prediction market environments
 [[Nash Equilibrium]] - Stable outcomes in prediction market trading strategies
 [[Collective Action Problem]] - Coordination challenges that prediction markets may help address
@@ -128,5 +128,5 @@ The maturation of prediction markets in Web3 contexts depends on solving fundame
 [[Governance Tokens]] - Voting rights mechanisms that may integrate with prediction market systems
 [[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that may implement prediction market governance
 [[Public Goods Funding]] - Application domain where prediction markets could guide resource allocation
-[[Wisdom of Crowds]] - Theoretical foundation for collective intelligence through market mechanisms
-[[Market Design]] - Economic framework for creating efficient and fair market institutions
+**Wisdom of Crowds** - Theoretical foundation for collective intelligence through market mechanisms
+**Market Design** - Economic framework for creating efficient and fair market institutions

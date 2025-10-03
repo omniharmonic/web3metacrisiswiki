@@ -1,6 +1,10 @@
 ---
 aliases:
   - "auditability"
+  - "Privacy_vs_Auditability"
+  - "Privacy_vs_Auditability"
+  - "auditability"
+  - "audit trails"
 ---
 
 # Auditability
@@ -79,7 +83,7 @@ The strategic implementation of auditability likely requires sophisticated gover
 [[Immutability]] - Permanent records enabling comprehensive audit trails
 [[Trustlessness]] - Auditability enables verification without trusted intermediaries
 [[Accountability]] - Democratic benefits enabled by auditable systems
-[[Governance_Mechanisms]] - Auditability as component of democratic oversight
-[[Privacy_Preservation]] - Tension between auditability and confidentiality needs
-[[Institutional_Design]] - Auditability requirements in democratic institutions
-[[Public_Oversight]] - Civic engagement enabled by auditable systems
+**Governance_Mechanisms** - Auditability as component of democratic oversight
+**Privacy_Preservation** - Tension between auditability and confidentiality needs
+**Institutional_Design** - Auditability requirements in democratic institutions
+**Public_Oversight** - Civic engagement enabled by auditable systems

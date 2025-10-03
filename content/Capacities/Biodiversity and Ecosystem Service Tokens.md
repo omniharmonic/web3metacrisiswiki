@@ -4,6 +4,9 @@ aliases:
   - "biodiversity-and-ecosystem-service-tokens"
   - "Biodiversity-And-Ecosystem-Service-Tokens"
   - "biodiversity and -ecosystem -service -tokens"
+  - "Biodiversity Credits"
+  - "Biodiversity Conservation"
+  - "Ecosystem Tokens"
 ---
 
 # Biodiversity and Ecosystem Service Tokens

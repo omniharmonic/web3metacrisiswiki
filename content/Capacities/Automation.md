@@ -1,6 +1,7 @@
 ---
 aliases:
   - "automation"
+  - "Technological Automation"
 ---
 
 # Automation

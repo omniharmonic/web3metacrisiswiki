@@ -14,7 +14,7 @@ aliases:
 
 The theoretical significance of incentive mechanisms extends beyond simple reward systems to encompass fundamental questions about institutional design, social cooperation, and the conditions under which decentralized individual decisions can be aligned with collective objectives including environmental protection, democratic governance, and [[Public Goods]] provision. What economist Leonid Hurwicz calls "incentive compatibility" becomes the central challenge: designing systems where truth-telling and cooperative behavior represent the best individual strategies rather than requiring altruistic sacrifice of self-interest.
 
-In Web3 contexts, incentive mechanisms represent both an opportunity for creating novel coordination systems through [[Tokenomics]], [[smart contracts]], and [[Cryptographic]] verification that could address persistent [[Collective Action Problem]], and a challenge where the technical complexity and economic dynamics may create new forms of manipulation, inequality, and system gaming that reproduce rather than solve traditional coordination failures through technological rather than institutional means.
+In Web3 contexts, incentive mechanisms represent both an opportunity for creating novel coordination systems through [[Tokenomics]], [[smart contracts]], and **Cryptographic** verification that could address persistent [[Collective Action Problem]], and a challenge where the technical complexity and economic dynamics may create new forms of manipulation, inequality, and system gaming that reproduce rather than solve traditional coordination failures through technological rather than institutional means.
 
 ## Economic Theory and Mechanism Design Foundations
 
@@ -62,7 +62,7 @@ Yet tokenomics incentive mechanisms face persistent challenges with speculation 
 
 ### Cryptographic Verification and Trust Minimization
 
-[[Cryptographic Proofs]] enable incentive mechanisms that operate without requiring trusted intermediaries to verify claims or distribute rewards, potentially addressing what economist Oliver Williamson calls "transaction cost" problems where verification and enforcement expenses may exceed the benefits from coordination.
+**Cryptographic Proofs** enable incentive mechanisms that operate without requiring trusted intermediaries to verify claims or distribute rewards, potentially addressing what economist Oliver Williamson calls "transaction cost" problems where verification and enforcement expenses may exceed the benefits from coordination.
 
 [[Zero-Knowledge Proofs]] allow participants to prove eligibility for incentives without revealing sensitive personal information, enabling privacy-preserving incentive systems that could encourage participation from users who are concerned about surveillance or data exploitation while maintaining mechanism integrity.
 
@@ -141,7 +141,7 @@ The maturation of incentive mechanism design depends on interdisciplinary collab
 ## Related Concepts
 
 [[Mechanism Design]] - Economic framework for creating institutions that align individual and collective incentives
-[[Principal-Agent Theory]] - Analysis of delegation relationships under information asymmetries
+**Principal-Agent Theory** - Analysis of delegation relationships under information asymmetries
 [[Game Theory]] - Mathematical framework for analyzing strategic interactions among rational actors
 [[Behavioral Economics]] - Field integrating psychological insights about decision-making with economic analysis
 [[Public Choice Theory]] - Economic analysis of political processes and governmental decision-making

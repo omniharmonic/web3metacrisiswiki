@@ -28,7 +28,7 @@ Sybil attacks pose particularly severe threats to democratic governance mechanis
 
 ### Economic Exploitation and Resource Gaming
 
-Token distribution mechanisms including airdrops, [[yield farming]] programs, and [[Liquidity Mining]] incentives face systematic Sybil exploitation where attackers create multiple identities to claim disproportionate token allocations intended for community-wide distribution. This undermines the egalitarian objectives of token distribution while concentrating resources among sophisticated actors.
+Token distribution mechanisms including airdrops, [[yield farming]] programs, and **Liquidity Mining** incentives face systematic Sybil exploitation where attackers create multiple identities to claim disproportionate token allocations intended for community-wide distribution. This undermines the egalitarian objectives of token distribution while concentrating resources among sophisticated actors.
 
 [[Public Goods Funding]] mechanisms including [[Quadratic Funding]] become particularly vulnerable when matching algorithms can be gamed through Sybil identities that make small contributions to preferred projects, triggering larger matching funds that effectively convert community resources into attacker-controlled allocation. The mathematical properties that make quadratic funding resistant to plutocratic capture can be exploited through identity multiplication.
 

@@ -4,6 +4,8 @@ aliases:
   - "decentralized-social-networks"
   - "Decentralized-Social-Networks"
   - "decentralized -social -networks"
+  - "Decentralized Economic Networks"
+  - "Social Networks"
 ---
 
 # Decentralized Social Networks
@@ -77,12 +79,12 @@ The fundamental challenge remains network effects—social platforms derive valu
 
 ## Related Concepts
 
-[[Network_Effects]] - Value concentration in dominant platforms
+**Network_Effects** - Value concentration in dominant platforms
 [[Social_Graph_Portability]] - Challenges of moving social connections
-[[Content_Moderation]] - Governance of harmful content
-[[Platform_Power]] - Corporate control of social infrastructure
-[[ActivityPub]] - Decentralized social networking protocol
-[[Censorship_Resistance]] - Protection of controversial speech
-[[User_Experience]] - Usability vs decentralization trade-offs
-[[Token_Economics]] - Incentive models for social platforms
-[[Algorithmic_Curation]] - Content recommendation and discovery
+**Content_Moderation** - Governance of harmful content
+**Platform_Power** - Corporate control of social infrastructure
+**ActivityPub** - Decentralized social networking protocol
+**Censorship_Resistance** - Protection of controversial speech
+**User_Experience** - Usability vs decentralization trade-offs
+**Token_Economics** - Incentive models for social platforms
+**Algorithmic_Curation** - Content recommendation and discovery

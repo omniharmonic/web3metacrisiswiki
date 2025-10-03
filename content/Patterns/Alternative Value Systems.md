@@ -30,7 +30,7 @@ The philosophical foundations connect to what environmental philosopher David Ab
 
 Alternative value systems enable technological implementation of what anthropologist Marcel Mauss analyzes as "gift economy" principles where value circulation creates social bonds and community resilience rather than individual accumulation. This potentially addresses what sociologist Richard Titmuss demonstrates about the superiority of gift-based systems over market mechanisms for activities including blood donation and social care where market incentives can corrupt motivation and reduce overall supply.
 
-[[Social Tokens]] and community currencies can implement what economist Ithiel de Sola Pool calls "technologies of freedom" where communities can maintain economic autonomy while participating in broader networks, potentially enabling what political scientist James C. Scott calls "weapons of the weak" resistance to extractive economic systems through alternative coordination mechanisms.
+**Social Tokens** and community currencies can implement what economist Ithiel de Sola Pool calls "technologies of freedom" where communities can maintain economic autonomy while participating in broader networks, potentially enabling what political scientist James C. Scott calls "weapons of the weak" resistance to extractive economic systems through alternative coordination mechanisms.
 
 However, gift economy tokenization faces tensions between authentic reciprocity and instrumental calculation where the measurement and tracking required for token systems may transform genuine care relationships into calculated exchanges that undermine the social bonds that gift economies are designed to strengthen.
 
@@ -66,7 +66,7 @@ However, ecological value tokenization faces scientific challenges with measurem
 
 Alternative value systems including mutual aid networks and community care cooperatives create token mechanisms for recognizing reproductive labor, elder care, childcare, and community organizing that feminist economists including Marilyn Waring and Silvia Federici demonstrate are essential for social functioning but systematically invisible in market accounting.
 
-[[Social Impact Tokens]] enable communities to fund and coordinate care work through transparent resource allocation mechanisms that could address what economist Nancy Folbre calls "public good aspects" of care work while avoiding the exploitation that characterizes both unpaid family labor and commodified care markets.
+**Social Impact Tokens** enable communities to fund and coordinate care work through transparent resource allocation mechanisms that could address what economist Nancy Folbre calls "public good aspects" of care work while avoiding the exploitation that characterizes both unpaid family labor and commodified care markets.
 
 The tokenization of care work faces challenges with maintaining authentic relationships while creating economic incentives, avoiding what sociologist Arlie Hochschild calls "emotional labor" commodification, and ensuring that token systems enhance rather than replace organic community support networks.
 
@@ -74,7 +74,7 @@ The tokenization of care work faces challenges with maintaining authentic relati
 
 Alternative value systems enable funding and governance for cultural preservation projects including language revitalization, traditional knowledge sharing, artistic creation, and community media production through [[Quadratic Funding]] mechanisms that amplify community preferences while preventing wealthy donors from dominating cultural resource allocation.
 
-[[Creative Commons]] licensing integration with token economies enables artists and cultural workers to maintain attribution and community benefit while enabling broad sharing and remixing that could implement what legal scholar Lawrence Lessig calls "remix culture" through economic sustainability rather than depending on copyright restriction and artificial scarcity.
+**Creative Commons** licensing integration with token economies enables artists and cultural workers to maintain attribution and community benefit while enabling broad sharing and remixing that could implement what legal scholar Lawrence Lessig calls "remix culture" through economic sustainability rather than depending on copyright restriction and artificial scarcity.
 
 Cultural value tokenization must navigate tensions between commodification and authentic cultural expression while ensuring that technological systems serve rather than constrain cultural practices that may have different values and temporalities than market-oriented token mechanics.
 
@@ -142,22 +142,22 @@ The long-term impact of alternative value systems depends on their contribution 
 
 ## Related Concepts
 
-[[Post-Capitalist Economics]] - Economic theories that move beyond capitalist accumulation logic
+**Post-Capitalist Economics** - Economic theories that move beyond capitalist accumulation logic
 [[Solidarity Economy]] - Movement for democratic and cooperative economic arrangements
 [[regenerative economics]] - Economic frameworks that restore rather than deplete natural and social systems
 [[commons governance]] - Management systems for shared resources and community assets
-[[Social Tokens]] - Cryptocurrency tokens that represent social value and community participation
+**Social Tokens** - Cryptocurrency tokens that represent social value and community participation
 [[Reputation Systems]] - Mechanisms for tracking and rewarding community contributions
 [[Gift Economy]] - Economic systems based on reciprocity rather than market exchange
 [[Mutual Aid]] - Community support systems based on cooperation rather than charity
-[[Cultural Commons]] - Shared cultural resources including knowledge, arts, and traditions
+**Cultural Commons** - Shared cultural resources including knowledge, arts, and traditions
 [[Care Economy]] - Economic recognition of reproductive and care labor essential for social functioning
-[[Creative Commons]] - Legal frameworks for sharing creative and intellectual works
+**Creative Commons** - Legal frameworks for sharing creative and intellectual works
 [[Quadratic Funding]] - Mathematical mechanism for community resource allocation that resists plutocratic control
 [[Regenerative Finance]] - Financial mechanisms that reward ecological and social restoration
-[[Community Currencies]] - Local exchange systems that keep value within communities
-[[Worker Cooperatives]] - Democratic workplace organization that shares ownership and decision-making
-[[Transition Towns]] - Community initiatives for local resilience and sustainability
-[[Permaculture]] - Design principles for sustainable living systems that could inform alternative value frameworks
-[[Bioregionalism]] - Organizing principles based on ecological rather than political boundaries
-[[Degrowth]] - Economic frameworks that prioritize wellbeing over growth within ecological limits
+**Community Currencies** - Local exchange systems that keep value within communities
+**Worker Cooperatives** - Democratic workplace organization that shares ownership and decision-making
+**Transition Towns** - Community initiatives for local resilience and sustainability
+**Permaculture** - Design principles for sustainable living systems that could inform alternative value frameworks
+**Bioregionalism** - Organizing principles based on ecological rather than political boundaries
+**Degrowth** - Economic frameworks that prioritize wellbeing over growth within ecological limits

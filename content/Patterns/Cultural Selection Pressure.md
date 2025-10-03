@@ -4,6 +4,9 @@ aliases:
   - "cultural-selection-pressure"
   - "Cultural-Selection-Pressure"
   - "cultural -selection -pressure"
+  - "Cultural Evolution"
+  - "cultural selection"
+  - "selection pressure"
 ---
 
 # Cultural Selection Pressure

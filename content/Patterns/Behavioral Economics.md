@@ -106,18 +106,18 @@ The maturation of behavioral applications in Web3 contexts depends on developing
 
 ## Related Concepts
 
-[[Prospect Theory]] - Foundational theory explaining how people evaluate gains and losses relative to reference points
+**Prospect Theory** - Foundational theory explaining how people evaluate gains and losses relative to reference points
 [[Loss Aversion]] - Psychological bias where losses feel more painful than equivalent gains
-[[Mental Accounting]] - Tendency to categorize money and make decisions based on arbitrary mental categories
+**Mental Accounting** - Tendency to categorize money and make decisions based on arbitrary mental categories
 [[social proof]] - Psychological tendency to infer appropriate behavior from others' actions
-[[Nudging]] - Choice architecture that influences behavior while preserving freedom of choice
-[[Bounded Rationality]] - Concept that cognitive limitations constrain optimal decision-making
-[[Present Bias]] - Tendency to overweight immediate relative to delayed outcomes
-[[Status Quo Bias]] - Preference for maintaining current state despite potentially beneficial changes
-[[Framing Effects]] - How presentation of choices influences decisions despite mathematical equivalence
-[[Commitment Devices]] - Mechanisms that help people overcome self-control problems through voluntary pre-commitment
+**Nudging** - Choice architecture that influences behavior while preserving freedom of choice
+**Bounded Rationality** - Concept that cognitive limitations constrain optimal decision-making
+**Present Bias** - Tendency to overweight immediate relative to delayed outcomes
+**Status Quo Bias** - Preference for maintaining current state despite potentially beneficial changes
+**Framing Effects** - How presentation of choices influences decisions despite mathematical equivalence
+**Commitment Devices** - Mechanisms that help people overcome self-control problems through voluntary pre-commitment
 [[Tokenomics]] - Cryptocurrency economic design that may incorporate behavioral insights
 [[Quadratic Voting]] - Voting mechanism designed to address behavioral limitations in preference expression
 [[Mechanism Design]] - Economic framework for creating institutions that account for actual human behavior
 [[Choice Architecture]] - Design of environments in which people make decisions
-[[Paternalism]] - Ethical framework for determining when behavioral interventions may be justified
+**Paternalism** - Ethical framework for determining when behavioral interventions may be justified

@@ -85,6 +85,6 @@ The technical foundations include [[decentralization]], [[Cryptographic Identity
 [[economic centralization]] - Wealth concentration that enables political capture and democratic erosion
 [[Mass Surveillance]] - Technological infrastructure for authoritarian social control
 [[Algorithmic Amplification]] - Systematic manipulation of information flows for behavioral control
-[[Ecological Overshoot]] - Systematic violation of planetary boundaries through extractive growth models
+**Ecological Overshoot** - Systematic violation of planetary boundaries through extractive growth models
 [[polycentric governance]] - Distributed authority structures that transcend nation-state limitations
 [[commons governance]] - Institutional arrangements for managing shared resources sustainably

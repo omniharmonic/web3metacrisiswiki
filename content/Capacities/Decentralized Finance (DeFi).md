@@ -4,6 +4,11 @@ aliases:
   - "decentralized-finance-(defi)"
   - "Decentralized-Finance-(Defi)"
   - "decentralized -finance (-de-fi)"
+  - "DeFi"
+  - "decentralized finance"
+  - "DeFi Risks"
+  - "DeFi protocols"
+  - "decentralized finance"
 ---
 
 # Decentralized Finance (DeFi)
@@ -79,13 +84,13 @@ The evolution toward greater regulatory clarity will likely reduce DeFi's curren
 
 ## Related Concepts
 
-[[Smart_Contract_Risk]] - Execution vulnerabilities in automated finance
-[[Financial_Inclusion]] - Access barriers despite permissionlessness
-[[Systemic_Risk]] - Cascading failures and contagion
+**Smart_Contract_Risk** - Execution vulnerabilities in automated finance
+**Financial_Inclusion** - Access barriers despite permissionlessness
+**Systemic_Risk** - Cascading failures and contagion
 [[Regulatory_Arbitrage]] - Circumventing financial oversight
-[[Algorithmic_Stablecoins]] - Attempts at decentralized value pegging
-[[Collateralization]] - Over-collateralization requirements
+**Algorithmic_Stablecoins** - Attempts at decentralized value pegging
+**Collateralization** - Over-collateralization requirements
 [[Composability]] - Protocol interoperability and risk amplification
-[[Flash_Loans]] - Novel financial primitives enabled by atomicity
-[[Yield_Farming]] - Incentive-driven capital allocation
-[[Impermanent_Loss]] - Risks for automated market maker liquidity providers
+**Flash_Loans** - Novel financial primitives enabled by atomicity
+**Yield_Farming** - Incentive-driven capital allocation
+**Impermanent_Loss** - Risks for automated market maker liquidity providers

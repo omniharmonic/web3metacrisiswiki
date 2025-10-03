@@ -1,6 +1,9 @@
 ---
 aliases:
   - "sidechains"
+  - "Plasma Chains"
+  - "sidechains"
+  - "side chains"
 ---
 
 # Sidechains

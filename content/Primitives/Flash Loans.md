@@ -4,6 +4,9 @@ aliases:
   - "flash-loans"
   - "Flash-Loans"
   - "flash -loans"
+  - "Sustainability Linked Loans"
+  - "flash loans"
+  - "instant loans"
 ---
 
 
@@ -189,4 +192,4 @@ interface IFlashLoanReceiver {
 - [[decentralized lending protocols]] - Autonomous money markets
 - [[Composability]] - Ability of components to work together
 - [[Arbitrage]] - Exploiting price differences for profit
-- [[Liquidation]] - Automatic sale of undercollateralized positions
+- **Liquidation** - Automatic sale of undercollateralized positions

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "interoperability"
+  - "NFT_Interoperability"
+  - "NFT_Interoperability"
+  - "interoperability"
+  - "cross-chain interoperability"
 ---
 
 # Interoperability
@@ -74,12 +78,12 @@ The emphasis on universal interoperability may distract from fundamental questio
 
 ## Related Concepts
 
-[[Cross_Chain_Bridges]] - Connecting incompatible blockchains
-[[Wrapped_Tokens]] - IOUs representing cross-chain assets
-[[Bridge_Exploits]] - Security vulnerabilities and hacks
-[[Network_Effects]] - Consolidation toward dominant chains
-[[Security_as_Weak_Link]] - Vulnerability of connected systems
-[[Custodial_Risk]] - Centralized bridge validators
-[[Liquidity_Fragmentation]] - Assets split across chains
-[[Multi-Chain_vs_Layer_2]] - Scaling through interoperability vs. consolidation
-[[Atomic_Swaps]] - Trustless cross-chain exchanges
+**Cross_Chain_Bridges** - Connecting incompatible blockchains
+**Wrapped_Tokens** - IOUs representing cross-chain assets
+**Bridge_Exploits** - Security vulnerabilities and hacks
+**Network_Effects** - Consolidation toward dominant chains
+**Security_as_Weak_Link** - Vulnerability of connected systems
+**Custodial_Risk** - Centralized bridge validators
+**Liquidity_Fragmentation** - Assets split across chains
+**Multi-Chain_vs_Layer_2** - Scaling through interoperability vs. consolidation
+**Atomic_Swaps** - Trustless cross-chain exchanges

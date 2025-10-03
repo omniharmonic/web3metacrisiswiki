@@ -261,16 +261,16 @@ The maturation of oracle systems requires addressing fundamental tensions betwee
 [[Verifiable Credentials]] - Cryptographic credentials that depend on trusted issuers for factual accuracy
 [[Zero-Knowledge Proofs]] - Cryptographic techniques for proving data properties without revealing data
 [[consensus mechanisms]] - Blockchain protocols that cannot extend verification to external data sources
-[[Chainlink]] - Decentralized oracle network attempting to solve external data provision
-[[Flash Loan Attacks]] - DeFi exploits that manipulate oracle price feeds for profit
+**Chainlink** - Decentralized oracle network attempting to solve external data provision
+**Flash Loan Attacks** - DeFi exploits that manipulate oracle price feeds for profit
 [[Sybil Attacks]] - Identity manipulation attacks relevant to oracle network security
 [[Byzantine Fault Tolerance]] - Distributed computing property that oracle networks attempt to achieve
 [[Mechanism Design]] - Economic framework for creating truth-telling incentives in oracle systems
 [[Information theory]] - Mathematical foundation for understanding data verification limitations
-[[Cryptographic Hashing]] - Technical method for ensuring data integrity during transmission
+**Cryptographic Hashing** - Technical method for ensuring data integrity during transmission
 [[Proof of Stake (PoS)]] - Consensus mechanism that inspires oracle staking and slashing mechanisms
 [[Multi-Signature]] - Cryptographic technique for requiring multiple oracle confirmations
 [[Reputation Systems]] - Social coordination mechanisms for tracking oracle provider performance
 [[Data Provenance]] - Tracking data sources and transformations in oracle systems
-[[External Dependencies]] - Architectural challenge where decentralized systems require trusted external inputs
-[[Trustless Systems]] - Design philosophy that oracle requirements may fundamentally compromise
+**External Dependencies** - Architectural challenge where decentralized systems require trusted external inputs
+**Trustless Systems** - Design philosophy that oracle requirements may fundamentally compromise

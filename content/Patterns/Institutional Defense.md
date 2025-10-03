@@ -4,6 +4,9 @@ aliases:
   - "institutional-defense"
   - "Institutional-Defense"
   - "institutional -defense"
+  - "Institutional Corruption"
+  - "Institutional Quality"
+  - "Defense in Depth"
 ---
 
 # Institutional Defense

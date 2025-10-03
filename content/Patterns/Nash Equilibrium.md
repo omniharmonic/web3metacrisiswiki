@@ -4,6 +4,9 @@ aliases:
   - "nash-equilibrium"
   - "Nash-Equilibrium"
   - "nash -equilibrium"
+  - "Subgame Perfect Equilibrium"
+  - "nash equilibrium"
+  - "game equilibrium"
 ---
 
 

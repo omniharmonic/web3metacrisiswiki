@@ -71,11 +71,11 @@ The emphasis on blockchain rapidity may distract from more fundamental value pro
 ## Related Concepts
 
 [[Blockchain_Trilemma]] - Speed vs security vs decentralization
-[[Finality]] - Economic settlement guarantees  
-[[Layer_2_Scaling]] - Faster transactions with mainnet security
-[[Flash_Loans]] - Atomic transaction exploits
-[[Solana_Outages]] - Fragility from speed optimization
-[[Settlement_Speed]] - Confirmation vs final settlement
-[[TPS_Metrics]] - Transaction throughput measurements
-[[Optimistic_Rollups]] - Fast settlement with delayed withdrawals
+**Finality** - Economic settlement guarantees  
+**Layer_2_Scaling** - Faster transactions with mainnet security
+**Flash_Loans** - Atomic transaction exploits
+**Solana_Outages** - Fragility from speed optimization
+**Settlement_Speed** - Confirmation vs final settlement
+**TPS_Metrics** - Transaction throughput measurements
+**Optimistic_Rollups** - Fast settlement with delayed withdrawals
 [[MEV]] - Value extraction enabled by speed

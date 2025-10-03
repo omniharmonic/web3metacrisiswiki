@@ -158,7 +158,7 @@ The maturation of Web3 price discovery systems depends on addressing technical r
 
 ## Related Concepts
 
-[[Market Making]] - Trading strategies that provide liquidity and facilitate price discovery through continuous bid-ask spreads
+**Market Making** - Trading strategies that provide liquidity and facilitate price discovery through continuous bid-ask spreads
 [[automated market makers (AMMs)]] - Algorithmic systems that provide liquidity and price discovery through mathematical formulas
 [[oracle networks]] - Decentralized systems that provide external price data to blockchain applications and smart contracts
 [[Arbitrage]] - Trading strategy that exploits price differences across markets to improve price discovery and market efficiency
@@ -168,10 +168,10 @@ The maturation of Web3 price discovery systems depends on addressing technical r
 [[MEV]] - Maximal Extractable Value that includes opportunities to extract value from price discovery processes
 [[Flash Loans]] - DeFi primitives that enable capital-efficient arbitrage and price discovery strategies
 [[Governance Tokens]] - Digital assets whose price discovery reflects the value of decentralized governance rights
-[[Order Books]] - Traditional market mechanism that facilitates price discovery through matching buy and sell orders
-[[Price Oracles]] - Systems that provide reliable price data for smart contracts and automated financial applications
-[[Market Efficiency]] - Economic concept measuring how quickly and accurately prices incorporate all available information
-[[Information Asymmetry]] - Market condition where some participants have superior information affecting price discovery
+**Order Books** - Traditional market mechanism that facilitates price discovery through matching buy and sell orders
+**Price Oracles** - Systems that provide reliable price data for smart contracts and automated financial applications
+**Market Efficiency** - Economic concept measuring how quickly and accurately prices incorporate all available information
+**Information Asymmetry** - Market condition where some participants have superior information affecting price discovery
 [[front running]] - Trading strategy that exploits advance knowledge of pending transactions to extract value
-[[Slippage]] - Price impact effect that occurs during large trades and affects price discovery accuracy
+**Slippage** - Price impact effect that occurs during large trades and affects price discovery accuracy
 [[Impermanent Loss]] - Opportunity cost faced by liquidity providers in automated market making systems

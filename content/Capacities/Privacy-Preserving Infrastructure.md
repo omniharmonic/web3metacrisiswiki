@@ -4,6 +4,9 @@ aliases:
   - "privacy-preserving-infrastructure"
   - "Privacy-preserving-Infrastructure"
   - "privacy--preserving -infrastructure"
+  - "Privacy-Preserving Technologies"
+  - "privacy preserving"
+  - "Privacy Technologies"
 ---
 
 # Privacy-Preserving Infrastructure
@@ -72,12 +75,12 @@ The emphasis on universal privacy-preserving infrastructure may distract from mo
 
 ## Related Concepts
 
-[[Zero_Knowledge_Proofs]] - Cryptographic verification foundation
-[[Trusted_Execution_Environments]] - Hardware-based confidentiality
-[[Homomorphic_Encryption]] - Computation on encrypted data
-[[Secure_Multi-Party_Computation]] - Collaborative private computation
+**Zero_Knowledge_Proofs** - Cryptographic verification foundation
+**Trusted_Execution_Environments** - Hardware-based confidentiality
+**Homomorphic_Encryption** - Computation on encrypted data
+**Secure_Multi-Party_Computation** - Collaborative private computation
 [[zk-Rollups]] - Scalability through privacy tech
-[[Selective_Disclosure]] - Minimal information sharing
+**Selective_Disclosure** - Minimal information sharing
 [[Privacy_vs_Auditability]] - Fundamental tension
-[[Confidential_Transactions]] - Private financial operations
-[[Privacy_Performance_Tradeoffs]] - Efficiency costs
+**Confidential_Transactions** - Private financial operations
+**Privacy_Performance_Tradeoffs** - Efficiency costs

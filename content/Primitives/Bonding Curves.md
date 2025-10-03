@@ -4,6 +4,9 @@ aliases:
   - "bonding-curves"
   - "Bonding-Curves"
   - "bonding -curves"
+  - "Elliptic Curve Cryptography"
+  - "bonding curves"
+  - "automated market makers"
 ---
 
 # Bonding Curves

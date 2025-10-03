@@ -114,7 +114,7 @@ aliases:
 - [[Gas]] - Fee mechanism affected by MEV
 - [[decentralized exchanges]] - Primary MEV extraction venue
 - [[Liquidity]] - Market property affected by MEV
-- [[Market_Manipulation]] - Potential negative outcome
+- **Market_Manipulation** - Potential negative outcome
 
 ## References
 

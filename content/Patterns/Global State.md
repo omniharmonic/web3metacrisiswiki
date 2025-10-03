@@ -175,9 +175,9 @@ The maturation of global state infrastructure depends on addressing fundamental 
 [[Decentralized Finance (DeFi)]] - Financial applications that leverage global state for trustless financial coordination
 [[Proof of Stake (PoS)]] - Consensus mechanism that secures global state through economic incentives and penalties
 [[Gas]] - Economic mechanism for pricing computational resources in global state systems
-[[Merkle Trees]] - Cryptographic data structures that enable efficient global state verification
+**Merkle Trees** - Cryptographic data structures that enable efficient global state verification
 [[Byzantine Fault Tolerance]] - Technical property that enables global state consensus despite adversarial participants
-[[State Machine Replication]] - Distributed systems technique that enables identical computation across multiple nodes
+**State Machine Replication** - Distributed systems technique that enables identical computation across multiple nodes
 [[CAP Theorem]] - Theoretical framework describing trade-offs in distributed systems including global state
 [[Network Effects]] - Economic dynamics where global state utility increases with user adoption
 [[Public Goods]] - Economic framework for understanding global state infrastructure as shared resource

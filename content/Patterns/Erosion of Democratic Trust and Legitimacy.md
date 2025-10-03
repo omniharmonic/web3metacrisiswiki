@@ -4,6 +4,9 @@ aliases:
   - "erosion-of-democratic-trust-and-legitimacy"
   - "Erosion-Of-Democratic-Trust-And-Legitimacy"
   - "erosion of -democratic -trust and -legitimacy"
+  - "Democratic Legitimacy"
+  - "Web of Trust"
+  - "Trust and Reputation"
 ---
 
 # Erosion of Democratic Trust and Legitimacy

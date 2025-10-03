@@ -4,6 +4,7 @@ aliases:
   - "evm-layer-1-and-layer-2-foundations"
   - "Evm-Layer-1-And-Layer-2-Foundations"
   - "e-v-m -layer 1 and -layer 2 -foundations"
+  - "System 1 and System 2 Thinking"
 ---
 
 # EVM Layer 1 and Layer 2 Foundations

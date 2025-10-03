@@ -22,7 +22,7 @@ The significance extends beyond technical implementation to encompass questions 
 - **Redundancy**: Multiple copies of data across different nodes
 - **Fault Tolerance**: System continues operating despite node failures
 - **[[distributed consensus]]**: Agreement on system state across nodes
-- **[[Cryptographic_Security]]**: Mathematical guarantees of data integrity
+- ****Cryptographic_Security****: Mathematical guarantees of data integrity
 - **[[Immutability]]**: Data that cannot be altered or deleted
 
 ### Consensus and Validation
@@ -70,12 +70,12 @@ The future likely involves layered reliability—base layer blockchains optimizi
 
 ## Related Concepts
 
-[[Uptime]] - Continuous operational availability
-[[Redundancy]] - Multiple copies for fault tolerance
+**Uptime** - Continuous operational availability
+**Redundancy** - Multiple copies for fault tolerance
 [[Immutability]] - Permanent records vs bug fixes
-[[Consensus_Failures]] - Protocol-level vulnerabilities
-[[Network_Outages]] - System-wide availability failures
-[[Single_Point_of_Failure]] - Centralization risks
-[[Byzantine_Fault_Tolerance]] - Malicious node resistance
-[[Hard_Forks]] - Network upgrade risks
-[[The_DAO_Hack]] - Immutability consequences
+**Consensus_Failures** - Protocol-level vulnerabilities
+**Network_Outages** - System-wide availability failures
+**Single_Point_of_Failure** - Centralization risks
+**Byzantine_Fault_Tolerance** - Malicious node resistance
+**Hard_Forks** - Network upgrade risks
+**The_DAO_Hack** - Immutability consequences

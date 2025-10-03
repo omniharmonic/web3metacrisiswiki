@@ -180,5 +180,5 @@ The maturation of Web3 security depends on developing threat intelligence, incid
 [[Email Security]] - Technical and procedural measures for identifying and blocking phishing communications
 [[Community Governance]] - Decentralized decision-making processes that may implement anti-phishing measures
 [[Security Awareness Training]] - Educational programs designed to help users recognize and avoid phishing attacks
-[[Incident Response]] - Systematic procedures for responding to and recovering from successful phishing attacks
-[[Threat Intelligence]] - Information gathering and analysis about emerging phishing techniques and campaigns
+**Incident Response** - Systematic procedures for responding to and recovering from successful phishing attacks
+**Threat Intelligence** - Information gathering and analysis about emerging phishing techniques and campaigns

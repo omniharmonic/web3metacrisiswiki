@@ -110,5 +110,5 @@ Future developments likely require hybrid approaches that combine game-theoretic
 [[Proof of Stake (PoS)]] - Economic consensus mechanism that aligns individual and collective incentives
 [[Slashing]] - Punishment mechanism designed to deter defection in blockchain consensus
 [[Behavioral Economics]] - Field that studies deviations from rational choice in strategic environments
-[[Repeated Games]] - Game-theoretic analysis of how ongoing interaction can support cooperation
+**Repeated Games** - Game-theoretic analysis of how ongoing interaction can support cooperation
 [[Social Capital]] - Network relationships and norms that enable cooperation despite dilemma incentives

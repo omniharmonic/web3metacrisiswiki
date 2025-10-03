@@ -4,6 +4,9 @@ aliases:
   - "liquid-democracy"
   - "Liquid-Democracy"
   - "liquid -democracy"
+  - "Deliberative Democracy"
+  - "Representative Democracy"
+  - "Participatory Democracy"
 ---
 
 # Liquid Democracy
@@ -120,7 +123,7 @@ The maturation of liquid democracy depends on solving fundamental challenges inc
 [[Governance Tokens]] - Voting rights mechanisms that enable liquid democracy participation
 [[Quadratic Voting]] - Alternative voting mechanism that addresses similar preference intensity challenges
 [[Conviction Voting]] - Time-weighted governance mechanism that complements delegation systems
-[[Delegation]] - Core mechanism enabling flexible representation in liquid democracy
+**Delegation** - Core mechanism enabling flexible representation in liquid democracy
 [[Reputation Systems]] - Trust and accountability mechanisms essential for effective delegation
 [[Mechanism Design]] - Theoretical framework for creating governance institutions that align incentives
 [[Game Theory]] - Mathematical analysis of strategic behavior in delegation and voting systems
@@ -130,4 +133,4 @@ The maturation of liquid democracy depends on solving fundamental challenges inc
 [[smart contracts]] - Technical infrastructure enabling automated delegation and voting
 [[Holographic Consensus]] - Attention economy management that complements liquid democracy
 [[Democratic Innovation]] - Broader category of experiments in democratic participation enhancement
-[[Epistemic Democracy]] - Theory of democracy optimized for knowledge aggregation and decision quality
+**Epistemic Democracy** - Theory of democracy optimized for knowledge aggregation and decision quality

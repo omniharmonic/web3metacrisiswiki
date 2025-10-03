@@ -4,6 +4,9 @@ aliases:
   - "behavioral-analytics-and-psychological-profiling"
   - "Behavioral-Analytics-And-Psychological-Profiling"
   - "behavioral -analytics and -psychological -profiling"
+  - "On-Chain Analytics"
+  - "behavioral analytics"
+  - "psychological profiling"
 ---
 
 # Behavioral Analytics and Psychological Profiling

@@ -116,18 +116,18 @@ The maturation of network nation experiments depends on solving fundamental chal
 
 ## Related Concepts
 
-[[Network States]] - Balaji Srinivasan's framework for territorially-recognized network nations
+**Network States** - Balaji Srinivasan's framework for territorially-recognized network nations
 [[Decentralized Autonomous Organizations (DAOs)]] - Organizational structures that implement network nation governance principles
 [[self-sovereign identity]] - Identity systems that enable network citizenship without territorial dependency
-[[Digital Sovereignty]] - Political authority exercised through technological rather than territorial control
-[[Post-National Governance]] - Political frameworks that transcend territorial boundaries
-[[Platform Governance]] - Governance systems implemented through digital platforms and algorithmic rules
-[[Cryptographic Democracy]] - Democratic participation enabled through privacy-preserving cryptographic protocols
-[[Voluntary Association]] - Political organization based on consent rather than territorial control
-[[Imagined Communities]] - Benedict Anderson's framework for understanding non-territorial collective identity
+**Digital Sovereignty** - Political authority exercised through technological rather than territorial control
+**Post-National Governance** - Political frameworks that transcend territorial boundaries
+**Platform Governance** - Governance systems implemented through digital platforms and algorithmic rules
+**Cryptographic Democracy** - Democratic participation enabled through privacy-preserving cryptographic protocols
+**Voluntary Association** - Political organization based on consent rather than territorial control
+**Imagined Communities** - Benedict Anderson's framework for understanding non-territorial collective identity
 [[polycentric governance]] - Distributed authority structures that network nations may implement
 [[Liquid Democracy]] - Governance mechanisms that network nations may use for democratic participation
 [[Quadratic Voting]] - Preference aggregation mechanisms for network nation decision-making
 [[Zero-Knowledge Proofs]] - Privacy-preserving technologies essential for network nation identity systems
 [[Decentralized Finance (DeFi)]] - Economic coordination systems that network nations may implement
-[[Global Governance]] - International coordination challenges that network nations attempt to address
+**Global Governance** - International coordination challenges that network nations attempt to address

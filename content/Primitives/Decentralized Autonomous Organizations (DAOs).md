@@ -14,7 +14,7 @@ aliases:
 
 ## Definition and Theoretical Foundations
 
-**Decentralized Autonomous Organizations (DAOs)** represent a fundamental innovation in organizational design where collective decision-making and resource management occur through programmable governance mechanisms implemented via [[Smart Contracts]] rather than traditional hierarchical management structures. DAOs enable what organizational theorist Yochai Benkler calls "commons-based peer production" at unprecedented scales by combining blockchain transparency with [[Democratic Innovation]] and token-based economic incentives to coordinate collective action without requiring traditional institutional intermediaries.
+**Decentralized Autonomous Organizations (DAOs)** represent a fundamental innovation in organizational design where collective decision-making and resource management occur through programmable governance mechanisms implemented via [[smart contracts]] rather than traditional hierarchical management structures. DAOs enable what organizational theorist Yochai Benkler calls "commons-based peer production" at unprecedented scales by combining blockchain transparency with [[Democratic Innovation]] and token-based economic incentives to coordinate collective action without requiring traditional institutional intermediaries.
 
 The theoretical significance of DAOs extends beyond technological innovation to encompass fundamental questions about organizational governance, democratic participation, and the conditions under which large groups can achieve effective coordination while maintaining autonomy and [[decentralization]]. What economist Oliver Williamson calls "transaction cost economics" suggests that organizational forms emerge to minimize coordination costs, and DAOs potentially represent a new organizational category that can achieve coordination efficiency while preserving democratic participation through cryptographic mechanisms.
 
@@ -275,13 +275,13 @@ The measurement and evaluation of DAO effectiveness requires sophisticated metho
 [[Conviction Voting]] - Time-weighted voting system that rewards sustained engagement
 [[Governance Tokens]] - Cryptographic assets that enable participation in DAO decision-making
 [[Multi-Signature]] - Distributed authorization mechanisms essential for DAO treasury security
-[[Smart Contracts]] - Programmable systems that implement DAO governance and execution
+[[smart contracts]] - Programmable systems that implement DAO governance and execution
 [[Public Goods Funding]] - Resource allocation application where DAOs enable democratic funding decisions
 [[Social Capital]] - Trust and relationships that enable effective DAO community building
 [[Transaction Costs]] - Coordination barriers that DAOs reduce through automation and transparency
 [[Regulatory Compliance]] - Legal frameworks that DAOs must navigate while preserving decentralization
 [[Reputation Systems]] - Trust mechanisms that can enhance DAO governance and participation
-[[Token Economics]] - Economic incentive design that aligns individual and collective interests in DAOs
+**Token Economics** - Economic incentive design that aligns individual and collective interests in DAOs
 [[Decentralization]] - Power distribution principle that DAOs implement through governance mechanisms
 [[Transparency]] - Information access that DAOs provide through blockchain-based record keeping
 [[Accountability]] - Responsibility mechanisms that DAOs enable through transparent governance

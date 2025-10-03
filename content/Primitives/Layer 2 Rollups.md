@@ -4,6 +4,16 @@ aliases:
   - "layer-2-rollups"
   - "Layer-2-Rollups"
   - "layer 2 -rollups"
+  - "Layer 2 Solutions"
+  - "Layer_2_Rollups"
+  - "L2 Rollups"
+  - "rollups"
+  - "Rollups"
+  - "Layer 2"
+  - "layer 2"
+  - "L2"
+  - "scaling solutions"
+  - "Scaling Solutions"
 ---
 
 # Layer 2 Rollups

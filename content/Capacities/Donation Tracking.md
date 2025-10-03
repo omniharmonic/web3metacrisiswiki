@@ -76,11 +76,11 @@ The emphasis on transaction transparency may distract from more fundamental chal
 ## Related Concepts
 
 [[Philanthropic_Accountability]] - Ensuring charitable effectiveness
-[[Impact_Measurement]] - Assessing charitable outcomes
-[[Overhead_Costs]] - Operational expenses in charities
-[[Donor_Privacy]] - Anonymity in charitable giving
-[[Cash_Transfer_Programs]] - Direct giving to beneficiaries
-[[Program_Evaluation]] - Measuring charitable impact
-[[Institutional_Trust]] - Faith in established charities
-[[Crypto_Philanthropy]] - Cryptocurrency-based giving
-[[Public_Goods_Funding]] - Financing collective benefits
+**Impact_Measurement** - Assessing charitable outcomes
+**Overhead_Costs** - Operational expenses in charities
+**Donor_Privacy** - Anonymity in charitable giving
+**Cash_Transfer_Programs** - Direct giving to beneficiaries
+**Program_Evaluation** - Measuring charitable impact
+**Institutional_Trust** - Faith in established charities
+**Crypto_Philanthropy** - Cryptocurrency-based giving
+**Public_Goods_Funding** - Financing collective benefits

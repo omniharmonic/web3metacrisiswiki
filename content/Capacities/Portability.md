@@ -1,6 +1,10 @@
 ---
 aliases:
   - "portability"
+  - "Social_Graph_Portability"
+  - "Social_Graph_Portability"
+  - "data portability"
+  - "account portability"
 ---
 
 # Portability
@@ -16,8 +20,8 @@ The significance extends beyond technical implementation to encompass questions 
 ## Technical Mechanisms
 
 ### Cross-Chain Operations
-- **[[Bridge_Protocols]]**: Transferring assets between [[blockchain]]s
-- **[[Atomic_Swaps]]**: Direct exchanges between different networks
+- ****Bridge_Protocols****: Transferring assets between [[blockchain]]s
+- ****Atomic_Swaps****: Direct exchanges between different networks
 - **[[Interoperability]] Standards**: Common protocols for different systems
 - **Multi-Chain Wallets**: Single interface for multiple networks
 - **Cross-Chain Applications**: Applications that work across networks
@@ -74,12 +78,12 @@ The emphasis on universal portability may distract from more nuanced questions a
 
 ## Related Concepts
 
-[[Platform_Lock_In]] - Barriers to switching services
-[[Network_Effects]] - Value from user concentration
-[[Asset_Custody]] - Control over digital property
-[[Cross_Chain_Bridges]] - Multi-network asset mobility
-[[Standards_Fragmentation]] - Incompatible portability systems
-[[Self_Sovereign_Identity]] - User-controlled credentials
+**Platform_Lock_In** - Barriers to switching services
+**Network_Effects** - Value from user concentration
+**Asset_Custody** - Control over digital property
+**Cross_Chain_Bridges** - Multi-network asset mobility
+**Standards_Fragmentation** - Incompatible portability systems
+**Self_Sovereign_Identity** - User-controlled credentials
 [[NFT_Interoperability]] - Cross-platform digital assets
-[[Data_Export]] - Platform-independent information
-[[Integrated_Experiences]] - Coherent platform services
+**Data_Export** - Platform-independent information
+**Integrated_Experiences** - Coherent platform services

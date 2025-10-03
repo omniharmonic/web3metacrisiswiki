@@ -9,6 +9,9 @@ aliases:
   - "Coordination costs"
   - "friction costs"
   - "Friction costs"
+  - "Sunk Cost Fallacy"
+  - "Switching Costs"
+  - "transaction cost"
 ---
 
 # Transaction Costs
@@ -19,7 +22,7 @@ aliases:
 
 The theoretical significance of transaction costs extends beyond economics to encompass fundamental questions about institutional design, technological efficiency, and the conditions under which human coordination can occur at scale. What economist Oliver Williamson calls "transaction cost economics" demonstrates how different governance structures emerge to minimize the costs of economic coordination while what computer scientist Nick Szabo calls "transaction cost minimization" through technological innovation can enable new forms of economic organization previously considered impractical.
 
-Within the [[meta-crisis]] framework, high transaction costs represent a core barrier to effective collective action and coordination across social, economic, and political domains. Web3 technologies including [[Smart Contracts]], [[Decentralized Autonomous Organizations (DAOs)]], and blockchain-based coordination mechanisms offer potential pathways for dramatically reducing transaction costs while enabling collective coordination at unprecedented scales and across traditional institutional boundaries.
+Within the [[meta-crisis]] framework, high transaction costs represent a core barrier to effective collective action and coordination across social, economic, and political domains. Web3 technologies including [[smart contracts]], [[Decentralized Autonomous Organizations (DAOs)]], and blockchain-based coordination mechanisms offer potential pathways for dramatically reducing transaction costs while enabling collective coordination at unprecedented scales and across traditional institutional boundaries.
 
 ## Categories and Components of Transaction Costs
 
@@ -55,7 +58,7 @@ Negotiation costs include the time, effort, and resources required to reach agre
 - **Complexity Management**: Additional costs for negotiating complex agreements with multiple contingencies
 
 **Smart Contract Automation:**
-[[Smart Contracts]] can dramatically reduce negotiation costs by implementing standardized agreement templates with automated execution, reducing the need for custom contract drafting and complex negotiation processes while ensuring consistent enforcement.
+[[smart contracts]] can dramatically reduce negotiation costs by implementing standardized agreement templates with automated execution, reducing the need for custom contract drafting and complex negotiation processes while ensuring consistent enforcement.
 
 **Automated Contracting Benefits:**
 - **Template Standardization**: Pre-defined contract templates that reduce drafting and negotiation time
@@ -155,9 +158,9 @@ Different governance mechanisms become optimal under different transaction cost 
 
 ## Web3 Applications and Transaction Cost Innovation
 
-### [[Smart Contracts]] and Automated Execution
+### [[smart contracts]] and Automated Execution
 
-[[Smart Contracts]] represent a fundamental innovation in transaction cost reduction by enabling automated contract execution without requiring traditional legal enforcement mechanisms, potentially reducing both monitoring and enforcement costs to near zero for certain types of agreements.
+[[smart contracts]] represent a fundamental innovation in transaction cost reduction by enabling automated contract execution without requiring traditional legal enforcement mechanisms, potentially reducing both monitoring and enforcement costs to near zero for certain types of agreements.
 
 **Smart Contract Transaction Cost Benefits:**
 - **Elimination of Enforcement Costs**: Automated execution that removes need for legal enforcement
@@ -280,22 +283,22 @@ The measurement and evaluation of transaction cost reduction requires sophistica
 ## Related Concepts
 
 [[Coase Theorem]] - Economic theory explaining the relationship between transaction costs and institutional design
-[[Smart Contracts]] - Automated execution mechanisms that can dramatically reduce certain transaction costs
-[[Market Failure]] - Economic inefficiencies that transaction costs can cause or address
+[[smart contracts]] - Automated execution mechanisms that can dramatically reduce certain transaction costs
+**Market Failure** - Economic inefficiencies that transaction costs can cause or address
 [[Coordination Problems]] - Collective action challenges that transaction costs can exacerbate or solve
-[[Institutional Economics]] - Economic framework for understanding how institutions affect transaction costs
+**Institutional Economics** - Economic framework for understanding how institutions affect transaction costs
 [[Network Effects]] - Value creation dynamics that can reduce transaction costs through scale
-[[Platform Economics]] - Business models that reduce transaction costs through intermediation and automation
+**Platform Economics** - Business models that reduce transaction costs through intermediation and automation
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems that can reduce organizational transaction costs
-[[Property Rights]] - Legal frameworks that affect transaction costs through clarity and enforcement
-[[Information Asymmetry]] - Knowledge gaps that contribute to transaction costs and market inefficiency
-[[Principal-Agent Problems]] - Coordination challenges that transaction costs can address through monitoring and incentive alignment
+**Property Rights** - Legal frameworks that affect transaction costs through clarity and enforcement
+**Information Asymmetry** - Knowledge gaps that contribute to transaction costs and market inefficiency
+**Principal-Agent Problems** - Coordination challenges that transaction costs can address through monitoring and incentive alignment
 [[Public Goods]] - Resources that face provision challenges due to transaction costs and free rider problems
 [[Collective Action]] - Coordination challenges that transaction costs can facilitate or hinder
-[[Economic Efficiency]] - Resource allocation outcomes that transaction costs affect through coordination mechanisms
+**Economic Efficiency** - Resource allocation outcomes that transaction costs affect through coordination mechanisms
 [[Blockchain Trilemma]] - Technical trade-offs that affect transaction costs in distributed systems
 [[Gas Fees]] - Direct transaction costs in blockchain systems
 [[Layer 2 Solutions]] - Scaling technologies designed to reduce blockchain transaction costs
 [[Interoperability]] - System integration capabilities that affect cross-platform transaction costs
-[[Digital Identity]] - Identity verification systems that can reduce search and verification transaction costs
+**Digital Identity** - Identity verification systems that can reduce search and verification transaction costs
 [[Reputation Systems]] - Trust mechanisms that reduce due diligence and monitoring transaction costs

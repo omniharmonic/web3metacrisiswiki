@@ -4,6 +4,9 @@ aliases:
   - "complementary-currencies"
   - "Complementary-Currencies"
   - "complementary -currencies"
+  - "Local Currencies"
+  - "alternative currencies"
+  - "community currencies"
 ---
 
 # Complementary Currencies
@@ -80,11 +83,11 @@ The evolution of interoperability infrastructure enabling seamless exchange betw
 
 ## Related Concepts
 
-[[Monetary_Sovereignty]] - Questions about currency issuance authority
-[[Economic_Pluralism]] - Diversity of economic coordination mechanisms
-[[Local_Economic_Development]] - Community-scale economic strategies
-[[Programmable_Money]] - Technical capacity for rule-encoded currency
-[[Democratic_Fiscal_Policy]] - State capacity for economic management
-[[Values_Encoding]] - Embedding normative commitments in infrastructure
-[[Network_Effects]] - Adoption dynamics and coordination challenges
-[[Hyperinflation_Protection]] - Currency stability mechanisms
+**Monetary_Sovereignty** - Questions about currency issuance authority
+**Economic_Pluralism** - Diversity of economic coordination mechanisms
+**Local_Economic_Development** - Community-scale economic strategies
+**Programmable_Money** - Technical capacity for rule-encoded currency
+**Democratic_Fiscal_Policy** - State capacity for economic management
+**Values_Encoding** - Embedding normative commitments in infrastructure
+**Network_Effects** - Adoption dynamics and coordination challenges
+**Hyperinflation_Protection** - Currency stability mechanisms

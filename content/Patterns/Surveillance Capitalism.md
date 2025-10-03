@@ -66,7 +66,7 @@ However, the technical complexity of self-sovereign identity systems creates ado
 
 [[Decentralized Social Networks]] including Mastodon, Lens Protocol, and Farcaster attempt to provide social media functionality without the data extraction and algorithmic manipulation that characterize surveillance capitalism platforms. These systems implement what computer scientist Tim Berners-Lee calls "data pods" where users control their social data while maintaining the network effects that make social platforms valuable.
 
-[[Peer-to-Peer]] communication protocols enable what cryptographer Timothy May calls "crypto-anarchy" where communication can occur without surveillance or censorship by state or corporate actors. These technologies potentially implement what political theorist Jürgen Habermas calls "ideal speech situations" where communication occurs without domination or strategic manipulation.
+**Peer-to-Peer** communication protocols enable what cryptographer Timothy May calls "crypto-anarchy" where communication can occur without surveillance or censorship by state or corporate actors. These technologies potentially implement what political theorist Jürgen Habermas calls "ideal speech situations" where communication occurs without domination or strategic manipulation.
 
 Yet decentralized alternatives face persistent challenges with user experience complexity, moderation of harmful content without centralized control, and the coordination challenges of maintaining protocol standards across independent implementations that may diverge over time.
 
@@ -117,17 +117,17 @@ The transformation of surveillance capitalism depends on building broad-based co
 ## Related Concepts
 
 [[Digital Feudalism]] - Economic system where platform owners extract rent from digital interactions
-[[Platform Capitalism]] - Capitalist accumulation through digital platform intermediation
-[[Data Extractivism]] - Economic model based on extracting value from personal data
+**Platform Capitalism** - Capitalist accumulation through digital platform intermediation
+**Data Extractivism** - Economic model based on extracting value from personal data
 [[Behavioral Modification]] - Technological influence on human behavior through environmental design
-[[Epistemic Inequality]] - Unequal access to knowledge and information shaped by algorithmic systems
+**Epistemic Inequality** - Unequal access to knowledge and information shaped by algorithmic systems
 [[self-sovereign identity]] - Identity systems that resist data extraction and surveillance
 [[Zero-Knowledge Proofs]] - Cryptographic technologies that enable verification without data revelation
 [[Decentralized Social Networks]] - Communication platforms that operate without centralized data collection
-[[Privacy by Design]] - Technological architecture that prevents rather than restricts surveillance
+**Privacy by Design** - Technological architecture that prevents rather than restricts surveillance
 [[Algorithmic Amplification]] - Technological systems that shape attention and information exposure
 [[Network Effects]] - Economic dynamics that concentrate platform power and user dependency
 [[regulatory capture]] - Political process where regulated industries influence regulatory policy
-[[Digital Commons]] - Shared digital resources managed collectively rather than extracted privately
+**Digital Commons** - Shared digital resources managed collectively rather than extracted privately
 [[technological sovereignty]] - Community control over technological infrastructure and governance
 [[Democratic Innovation]] - Governance experiments that could constrain surveillance capitalism power

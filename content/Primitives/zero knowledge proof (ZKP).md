@@ -4,6 +4,11 @@ aliases:
   - "zero-knowledge-proof-(zkp)"
   - "Zero-Knowledge-Proof-(Zkp)"
   - "zero knowledge proof (-z-k-p)"
+  - "Zero-Knowledge Proofs"
+  - "Zero Knowledge Proofs"
+  - "ZKP"
+  - "zk-proofs"
+  - "zk proofs"
 ---
 
 
@@ -155,5 +160,5 @@ The verifier learns nothing from the interaction except for the fact that the st
 - [[Layer_2_Rollups]] - Scalability applications
 - [[decentralized identity]] - Identity applications
 - [[Privacy Preservation]] - Core capability
-- [[Cryptographic_Security]] - Technical foundation
-- [[Regulatory_Compliance]] - Use case
+- **Cryptographic_Security** - Technical foundation
+- **Regulatory_Compliance** - Use case

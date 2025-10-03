@@ -25,7 +25,7 @@ Self-sovereign identity represents a paradigm shift from centralized identity ma
 ### Interoperability
 - **[[Cross-Platform Data Portability]]**: Identity data portable across platforms
 - **[[Interoperability]]**: Identity systems that work across different networks
-- **[[Standards]]**: Open standards for identity verification
+- ****Standards****: Open standards for identity verification
 - **[[Composability]]**: Identity components that can be combined and reused
 
 ## Web3 Applications
@@ -52,9 +52,9 @@ Self-sovereign identity represents a paradigm shift from centralized identity ma
 
 ### Cryptographic Foundations
 - **[[Cryptographic Proof Generation]]**: Mathematical verification of identity claims
-- **[[Public Key Cryptography]]**: Secure communication and asset control
+- ****Public Key Cryptography****: Secure communication and asset control
 - **[[Digital Signatures]]**: Unforgeable proof of authorization
-- **[[Hash Functions]]**: Tamper-evident data structures
+- ****Hash Functions****: Tamper-evident data structures
 
 ### Blockchain Integration
 - **[[smart contracts]]**: Automated identity verification and management

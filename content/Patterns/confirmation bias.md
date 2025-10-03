@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of confirmation bias extends beyond individual psychology to encompass epistemological questions about knowledge validation, scientific method, and democratic discourse in societies where different groups may systematically interpret the same evidence in ways that support their existing worldviews. What philosopher Karl Popper calls "falsifiability" becomes psychologically difficult when confirmation bias leads people to seek evidence that supports rather than challenges their theories.
 
-In Web3 contexts, confirmation bias represents both a critical vulnerability where [[Echo Chambers]], algorithmic personalization, and tribal loyalties may amplify existing beliefs about technology adoption, investment strategies, and governance approaches, and an opportunity for designing [[Information Systems]], [[Deliberative Democracy]] mechanisms, and [[Reputation Systems]] that could help communities access diverse perspectives and evaluate evidence more systematically rather than selectively.
+In Web3 contexts, confirmation bias represents both a critical vulnerability where [[Echo Chambers]], algorithmic personalization, and tribal loyalties may amplify existing beliefs about technology adoption, investment strategies, and governance approaches, and an opportunity for designing **Information Systems**, [[Deliberative Democracy]] mechanisms, and [[Reputation Systems]] that could help communities access diverse perspectives and evaluate evidence more systematically rather than selectively.
 
 ## Psychological Mechanisms and Research Foundations
 
@@ -186,16 +186,16 @@ The effectiveness of bias mitigation depends on understanding confirmation bias 
 [[availability heuristic]] - Tendency to judge probability by ease of recall, often interacting with confirmation bias
 [[Echo Chambers]] - Environments where people encounter only information that reinforces existing beliefs
 [[filter bubbles]] - Algorithmic personalization that limits exposure to diverse information and perspectives
-[[Motivated Reasoning]] - Goal-directed reasoning that seeks to reach desired conclusions rather than accurate ones
+**Motivated Reasoning** - Goal-directed reasoning that seeks to reach desired conclusions rather than accurate ones
 [[Cognitive Dissonance]] - Psychological discomfort when confronted with contradictory information or beliefs
-[[Groupthink]] - Group decision-making process that prioritizes consensus over critical evaluation
+**Groupthink** - Group decision-making process that prioritizes consensus over critical evaluation
 [[Selective Exposure]] - Tendency to seek information that confirms existing beliefs while avoiding contradictory evidence
-[[Biased Assimilation]] - Process of interpreting mixed evidence as confirming existing beliefs
-[[Identity-Protective Cognition]] - Tendency to process information in ways that protect social identity and group membership
-[[Epistemic Bubbles]] - Information environments where other voices are absent
-[[Polarization]] - Process where groups become more extreme in their views through mutual reinforcement
+**Biased Assimilation** - Process of interpreting mixed evidence as confirming existing beliefs
+**Identity-Protective Cognition** - Tendency to process information in ways that protect social identity and group membership
+**Epistemic Bubbles** - Information environments where other voices are absent
+**Polarization** - Process where groups become more extreme in their views through mutual reinforcement
 [[social proof]] - Psychological phenomenon where people assume others' actions reflect correct behavior
 [[Algorithmic Amplification]] - Process where algorithms systematically promote certain types of content over others
-[[Adversarial Collaboration]] - Structured process where people with opposing views work together to evaluate evidence
-[[Red Team Exercises]] - Structured criticism designed to identify flaws and potential failures in plans or beliefs
-[[Devil's Advocate]] - Role specifically assigned to argue against popular positions to improve decision-making
+**Adversarial Collaboration** - Structured process where people with opposing views work together to evaluate evidence
+**Red Team Exercises** - Structured criticism designed to identify flaws and potential failures in plans or beliefs
+**Devil's Advocate** - Role specifically assigned to argue against popular positions to improve decision-making

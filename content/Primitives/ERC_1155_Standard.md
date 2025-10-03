@@ -154,7 +154,7 @@ interface ERC1155 {
 ## Related Concepts
 
 - [[tokenization]] - The process of creating digital representations of assets
-- [[Multi_Asset_Management]] - Systems for handling diverse asset types
-- [[Batch_Operations]] - Efficient processing of multiple operations
-- [[Gaming_Economies]] - Economic systems within games and virtual worlds
-- [[Supply_Chain_Tracking]] - Systems for monitoring product lifecycles
+- **Multi_Asset_Management** - Systems for handling diverse asset types
+- **Batch_Operations** - Efficient processing of multiple operations
+- **Gaming_Economies** - Economic systems within games and virtual worlds
+- **Supply_Chain_Tracking** - Systems for monitoring product lifecycles

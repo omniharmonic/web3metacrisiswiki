@@ -1,6 +1,9 @@
 ---
 aliases:
   - "externalities"
+  - "Educational Externalities"
+  - "Health Externalities"
+  - "Positive Externalities"
 ---
 
 # Externalities
@@ -120,15 +123,15 @@ The transformation of externality management depends on solving fundamental chal
 
 ## Related Concepts
 
-[[Market Failure]] - Economic situation where individual rational behavior fails to produce efficient outcomes
-[[Pigouvian Tax]] - Tax designed to correct negative externality by pricing external costs
+**Market Failure** - Economic situation where individual rational behavior fails to produce efficient outcomes
+**Pigouvian Tax** - Tax designed to correct negative externality by pricing external costs
 [[Coase Theorem]] - Economic principle about private negotiation solutions to externality problems
 [[Transaction Costs]] - Costs of coordinating economic activity that may prevent externality resolution
 [[Tragedy of the Commons]] - Collective action problem where individual rational behavior depletes shared resources
 [[Free Rider Problem]] - Situation where individuals benefit from collective goods without contributing to costs
 [[Public Goods]] - Resources characterized by non-excludability and non-rivalry that face positive externality problems
 [[Network Effects]] - Positive externalities where user participation increases value for other users
-[[Carbon Pricing]] - Policy mechanism for internalizing climate externalities through market mechanisms
+**Carbon Pricing** - Policy mechanism for internalizing climate externalities through market mechanisms
 [[environmental economics]] - Field studying externality problems in ecological systems
 [[Regenerative Finance]] - Financial mechanisms designed to reward positive environmental externalities
 [[Tokenomics]] - Cryptocurrency economic design that could enable novel externality internalization mechanisms

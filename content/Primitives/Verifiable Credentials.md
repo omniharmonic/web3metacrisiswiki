@@ -14,7 +14,7 @@ aliases:
 
 ## Definition and Theoretical Foundations
 
-**Verifiable Credentials** represent cryptographically secured digital attestations that enable individuals and organizations to prove claims about themselves without relying on centralized authorities or revealing unnecessary personal information. Developed through the World Wide Web Consortium (W3C) standards process and implemented through [[blockchain]] and [[Decentralized Identity]] technologies, verifiable credentials attempt to address what computer scientist Kim Cameron calls the "identity metasystem" problem where digital identity management has become fragmented, privacy-invasive, and subject to centralized control.
+**Verifiable Credentials** represent cryptographically secured digital attestations that enable individuals and organizations to prove claims about themselves without relying on centralized authorities or revealing unnecessary personal information. Developed through the World Wide Web Consortium (W3C) standards process and implemented through [[blockchain]] and [[decentralized identity]] technologies, verifiable credentials attempt to address what computer scientist Kim Cameron calls the "identity metasystem" problem where digital identity management has become fragmented, privacy-invasive, and subject to centralized control.
 
 The theoretical significance of verifiable credentials extends beyond technical convenience to encompass fundamental questions about digital sovereignty, privacy rights, and the conditions under which individuals can maintain control over their personal information in increasingly surveilled digital environments. What privacy researcher Ann Cavoukian terms "privacy by design" becomes technically feasible through cryptographic mechanisms that enable selective disclosure and [[zero knowledge proof (ZKP)]] verification.
 
@@ -48,15 +48,15 @@ Credential = {
 
 The mathematical foundations ensure that credentials cannot be forged without access to private keys, cannot be modified without detection, and can be verified by anyone with access to public verification information, creating what cryptographer Whitfield Diffie calls "public key cryptography" benefits for identity attestation.
 
-### [[Decentralized Identity]] and Self-Sovereign Identity
+### [[decentralized identity]] and Self-Sovereign Identity
 
-Verifiable credentials depend on [[Decentralized Identity]] infrastructure including Decentralized Identifiers (DIDs) that enable what identity researcher Christopher Allen calls "self-sovereign identity" where individuals control their own identity infrastructure rather than depending on corporate or government identity providers.
+Verifiable credentials depend on [[decentralized identity]] infrastructure including Decentralized Identifiers (DIDs) that enable what identity researcher Christopher Allen calls "self-sovereign identity" where individuals control their own identity infrastructure rather than depending on corporate or government identity providers.
 
 The DID specification enables what computer scientist Zooko Wilcox calls "Zooko's Triangle" solutions where identifiers can be simultaneously human-meaningful, secure, and decentralized through cryptographic mechanisms that separate identity resolution from centralized naming authorities.
 
 However, the practical implementation of self-sovereign identity requires solving complex key management problems where individuals must securely store and manage cryptographic keys that control access to their digital identity and credentials, potentially creating new categories of user error and exclusion.
 
-### [[Zero Knowledge Proof (ZKP)]] and Selective Disclosure
+### [[zero knowledge proof (ZKP)]] and Selective Disclosure
 
 Advanced verifiable credential implementations enable what cryptographer Shafi Goldwasser pioneered as "zero knowledge proofs" where credential holders can prove specific claims without revealing underlying credential data. This enables what privacy researchers call "selective disclosure" where individuals can prove they meet specific requirements without revealing additional personal information.
 
@@ -88,7 +88,7 @@ Verifiable credentials enable what healthcare informaticists call "patient-contr
 - **Insurance Verification**: Proof of insurance coverage without revealing specific policy details
 - **Clinical Trial Participation**: Research participation credentials that enable longitudinal studies while preserving participant privacy
 
-The integration with [[Patient Health Records]] systems could enable more portable and patient-controlled healthcare while addressing interoperability challenges that currently limit care coordination across different healthcare providers and systems.
+The integration with **Patient Health Records** systems could enable more portable and patient-controlled healthcare while addressing interoperability challenges that currently limit care coordination across different healthcare providers and systems.
 
 ### Financial Services and Identity Verification
 
@@ -118,7 +118,7 @@ However, the metadata generated by credential usage including verification times
 
 ### Correlation Resistance and Unlinkability
 
-Advanced verifiable credential systems implement what cryptographer David Chaum calls "unlinkability" where multiple credential presentations cannot be correlated to track individual behavior across different interactions. This requires sophisticated cryptographic techniques including [[Zero Knowledge Proof (ZKP)]] systems that enable verification without creating unique signatures or identifiers.
+Advanced verifiable credential systems implement what cryptographer David Chaum calls "unlinkability" where multiple credential presentations cannot be correlated to track individual behavior across different interactions. This requires sophisticated cryptographic techniques including [[zero knowledge proof (ZKP)]] systems that enable verification without creating unique signatures or identifiers.
 
 The challenge lies in balancing unlinkability with accountability requirements where some applications may require the ability to detect fraud or abuse while maintaining privacy for legitimate users. This may require what cryptographers call "accountable anonymity" systems that preserve privacy under normal circumstances while enabling identification in specific circumstances defined by governance mechanisms.
 
@@ -160,24 +160,24 @@ Future developments depend on continued innovation in cryptographic techniques, 
 
 ## Related Concepts
 
-[[Decentralized Identity]] - Technical infrastructure enabling self-sovereign identity management
-[[Zero Knowledge Proof (ZKP)]] - Cryptographic techniques enabling privacy-preserving verification
-[[Digital Identity]] - Comprehensive frameworks for managing identity in digital environments
+[[decentralized identity]] - Technical infrastructure enabling self-sovereign identity management
+[[zero knowledge proof (ZKP)]] - Cryptographic techniques enabling privacy-preserving verification
+**Digital Identity** - Comprehensive frameworks for managing identity in digital environments
 [[Cryptographic Identity]] - Mathematical foundations for secure, verifiable digital identity
 [[Blockchain Voting]] - Electoral systems that could integrate verifiable credential voter verification
-[[Patient Health Records]] - Healthcare applications for privacy-preserving medical credential sharing
+**Patient Health Records** - Healthcare applications for privacy-preserving medical credential sharing
 [[Digital Signatures]] - Cryptographic primitives that secure verifiable credential authenticity
-[[Self-Sovereign Identity]] - Identity model where individuals control their own identity infrastructure
+[[self-sovereign identity]] - Identity model where individuals control their own identity infrastructure
 [[Selective Disclosure]] - Privacy technique enabling verification of specific claims without full data revelation
-[[Privacy by Design]] - Design philosophy prioritizing privacy protection in technical system development
+**Privacy by Design** - Design philosophy prioritizing privacy protection in technical system development
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems that could issue verifiable credentials
 [[Reputation Systems]] - Mechanisms for tracking and verifying credible behavior over time
-[[Know Your Customer (KYC)]] - Financial compliance requirements that verifiable credentials could streamline
-[[Anti-Money Laundering (AML)]] - Regulatory frameworks that must be reconciled with privacy-preserving credentials
+**Know Your Customer (KYC)** - Financial compliance requirements that verifiable credentials could streamline
+**Anti-Money Laundering (AML)** - Regulatory frameworks that must be reconciled with privacy-preserving credentials
 [[Surveillance Capitalism]] - Economic model that verifiable credentials could help individuals resist
 [[Social Credit Systems]] - Comprehensive monitoring systems that privacy-preserving credentials could prevent
-[[Metadata]] - Information about information that could enable surveillance despite content privacy
+**Metadata** - Information about information that could enable surveillance despite content privacy
 [[Key Management]] - Technical challenge of securely storing and using cryptographic keys
 [[Interoperability]] - Technical requirement for credential systems to work across different platforms
-[[Regulatory Capture]] - Risk that credential governance could be controlled by incumbent interests
-[[Contextual Integrity]] - Privacy framework for appropriate information sharing across different contexts
+[[regulatory capture]] - Risk that credential governance could be controlled by incumbent interests
+**Contextual Integrity** - Privacy framework for appropriate information sharing across different contexts

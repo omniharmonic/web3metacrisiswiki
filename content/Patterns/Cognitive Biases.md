@@ -4,6 +4,9 @@ aliases:
   - "cognitive-biases"
   - "Cognitive-Biases"
   - "cognitive -biases"
+  - "Cognitive Dissonance"
+  - "cognitive bias"
+  - "behavioral bias"
 ---
 
 # Cognitive Biases
@@ -130,12 +133,12 @@ The maturation of bias-aware Web3 systems depends on developing ethical framewor
 [[availability heuristic]] - Judging probability by ease of recall
 [[Loss Aversion]] - Psychological bias where losses feel more painful than equivalent gains
 [[social proof]] - Tendency to infer appropriate behavior from others' actions
-[[Authority Bias]] - Tendency to attribute greater credibility to authority figures
-[[Anchoring Bias]] - Over-reliance on first piece of information encountered
-[[Overconfidence Bias]] - Tendency to overestimate one's own abilities or knowledge
-[[Herding Behavior]] - Following crowd behavior even against private information
-[[Mental Accounting]] - Treating money differently based on arbitrary mental categories
+**Authority Bias** - Tendency to attribute greater credibility to authority figures
+**Anchoring Bias** - Over-reliance on first piece of information encountered
+**Overconfidence Bias** - Tendency to overestimate one's own abilities or knowledge
+**Herding Behavior** - Following crowd behavior even against private information
+**Mental Accounting** - Treating money differently based on arbitrary mental categories
 [[Sunk Cost Fallacy]] - Continuing investment based on past costs rather than future value
 [[filter bubbles]] - Information isolation created by algorithmic bias exploitation
 [[Choice Architecture]] - Design of environments in which people make decisions
-[[Nudging]] - Influencing behavior while preserving freedom of choice
+**Nudging** - Influencing behavior while preserving freedom of choice

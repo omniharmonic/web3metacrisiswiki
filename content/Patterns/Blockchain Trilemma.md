@@ -113,7 +113,7 @@ Many high-throughput blockchain systems achieve scalability through delegated pr
 **Layer 2 Approaches:**
 - **Payment Channels**: Bilateral channels enabling numerous transactions with single on-chain settlement
 - **[[zk-Rollups]]**: Zero-knowledge proof systems that batch transactions while maintaining security
-- **[[Optimistic Rollups]]**: Fraud-proof systems that assume honest behavior while enabling challenge mechanisms
+- **[[Optimistic rollups]]**: Fraud-proof systems that assume honest behavior while enabling challenge mechanisms
 - **Plasma Chains**: Hierarchical blockchain systems that enable scalable computation with periodic main-chain checkpoints
 
 The Lightning Network demonstrates how payment channels can enable near-instant, low-cost Bitcoin transactions while inheriting Bitcoin's security properties, though channel management and liquidity requirements create usability challenges.
@@ -148,9 +148,9 @@ Polkadot's parachain architecture demonstrates how specialized blockchains can o
 
 ## Cryptographic and Mathematical Approaches
 
-### [[Zero Knowledge Proof (ZKP)]] and Computational Efficiency
+### [[zero knowledge proof (ZKP)]] and Computational Efficiency
 
-[[Zero Knowledge Proof (ZKP)]] technologies offer potential pathways for achieving scalability without sacrificing security or decentralization by enabling efficient verification of complex computations without requiring all validators to repeat expensive calculations.
+[[zero knowledge proof (ZKP)]] technologies offer potential pathways for achieving scalability without sacrificing security or decentralization by enabling efficient verification of complex computations without requiring all validators to repeat expensive calculations.
 
 **ZKP Scaling Benefits:**
 - **Computational Compression**: Complex transactions verified through succinct proofs
@@ -215,19 +215,19 @@ Future developments should prioritize research into fundamental improvements rat
 [[CAP Theorem]] - Foundational impossibility result in distributed systems analogous to blockchain trilemma
 [[Layer 2 Solutions]] - Technical approaches for transcending trilemma constraints through hierarchical architectures
 [[Sharding]] - Parallel processing technique for improving scalability while maintaining security
-[[Zero Knowledge Proof (ZKP)]] - Cryptographic techniques enabling efficient verification of complex computations
-[[Consensus Mechanisms]] - Fundamental protocols that embody different trilemma trade-offs
+[[zero knowledge proof (ZKP)]] - Cryptographic techniques enabling efficient verification of complex computations
+[[consensus mechanisms]] - Fundamental protocols that embody different trilemma trade-offs
 [[Network Effects]] - Adoption dynamics that may outweigh pure technical performance in trilemma resolution
 [[Scalability]] - Performance dimension representing transaction throughput and confirmation efficiency
 [[Security]] - Protection against attacks and manipulation that may conflict with other performance goals
 [[Decentralization]] - Distribution of control and validation that distinguishes blockchain from centralized systems
 [[zk-Rollups]] - Layer 2 solution using zero-knowledge proofs to enable scalable transaction processing
-[[Optimistic Rollups]] - Layer 2 approach using fraud proofs to achieve scalability with security guarantees
+[[Optimistic rollups]] - Layer 2 approach using fraud proofs to achieve scalability with security guarantees
 [[Payment Channels]] - Off-chain scaling mechanism enabling rapid transactions with periodic settlement
 [[Plasma Chains]] - Hierarchical blockchain architecture for scalable computation with main-chain security
-[[Validator Economics]] - Economic incentives affecting participation in consensus and validation
+**Validator Economics** - Economic incentives affecting participation in consensus and validation
 [[Proof of Work]] - Consensus mechanism prioritizing security and decentralization over scalability
 [[Proof of Stake]] - Consensus approach attempting to balance trilemma properties through economic incentives
 [[Cross-Chain Integration]] - Interoperability approaches that may enable specialized optimization for different trilemma priorities
 [[Byzantine Fault Tolerance]] - Security property that distributed consensus mechanisms must achieve
-[[Censorship Resistance]] - Decentralization benefit that may conflict with scalability optimization
+[[censorship resistance]] - Decentralization benefit that may conflict with scalability optimization

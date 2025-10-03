@@ -1,6 +1,9 @@
 ---
 aliases:
   - "sharding"
+  - "Hard Fork"
+  - "sharding"
+  - "blockchain sharding"
 ---
 
 # Sharding

@@ -6,6 +6,13 @@ aliases:
   - "EJ"
   - "environmental equity"
   - "Environmental equity"
+  - "Climate Justice"
+  - "Energy Justice"
+  - "Just Transition"
+  - "Food Justice"
+  - "Procedural Justice"
+  - "Distributional Justice"
+  - "Spatial Justice"
 ---
 
 # Environmental Justice
@@ -165,21 +172,21 @@ Future developments should prioritize community-led approaches that combine tech
 [[Just Transition]] - Equitable transformation to sustainable economic systems that protects affected workers and communities
 [[Food Justice]] - Equitable access to healthy, culturally appropriate food and fair food system governance
 [[Procedural Justice]] - Fair processes for environmental decision-making that include meaningful community participation
-[[Recognition Justice]] - Acknowledgment and respect for different cultural relationships with nature and environment
+**Recognition Justice** - Acknowledgment and respect for different cultural relationships with nature and environment
 [[Distributional Justice]] - Fair allocation of environmental benefits and burdens across different communities
-[[Cumulative Impacts]] - Combined effects of multiple environmental hazards concentrated in the same communities
-[[Environmental Racism]] - Systematic targeting of communities of color for environmental hazards and exclusion from benefits
-[[Frontline Communities]] - Communities most directly affected by environmental hazards and climate change impacts
-[[Green Gentrification]] - Process where environmental improvements lead to displacement of existing residents
+**Cumulative Impacts** - Combined effects of multiple environmental hazards concentrated in the same communities
+**Environmental Racism** - Systematic targeting of communities of color for environmental hazards and exclusion from benefits
+**Frontline Communities** - Communities most directly affected by environmental hazards and climate change impacts
+**Green Gentrification** - Process where environmental improvements lead to displacement of existing residents
 [[Regenerative Finance]] - Investment approaches that prioritize ecological and social restoration over financial returns
 [[Quadratic Funding]] - Democratic resource allocation mechanism that could support community-defined environmental priorities
 [[DAO]] - Governance structures that could enable community control over environmental investments and decisions
 [[Conviction Voting]] - Voting mechanism that weights preferences by time commitment, supporting long-term environmental planning
 [[Digital Divide]] - Unequal access to digital technologies that could limit participation in Web3 environmental justice solutions
-[[Regulatory Capture]] - Control of environmental agencies by industry interests rather than community protection
+[[regulatory capture]] - Control of environmental agencies by industry interests rather than community protection
 [[Systemic Racism]] - Institutional patterns that systematically disadvantage communities of color through environmental policy
 [[Community Data Sovereignty]] - Community control over environmental data collection, analysis, and use
-[[Civic Science]] - Community-led research and monitoring that challenges official environmental data
-[[Environmental Health]] - Health impacts of environmental conditions that disproportionately affect marginalized communities
+**Civic Science** - Community-led research and monitoring that challenges official environmental data
+**Environmental Health** - Health impacts of environmental conditions that disproportionately affect marginalized communities
 [[Spatial Justice]] - Fair distribution of environmental resources and hazards across geographic areas
-[[Intersectionality]] - Framework recognizing how multiple forms of oppression combine to create environmental vulnerability
+**Intersectionality** - Framework recognizing how multiple forms of oppression combine to create environmental vulnerability

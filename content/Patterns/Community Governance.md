@@ -99,7 +99,7 @@ The challenge lies in harnessing digital technologies to enhance rather than rep
 - **Delegate Voting**: Representative systems where community members can delegate voting power to trusted experts or advocates
 - **Proposal Systems**: Structured processes for community members to suggest and develop governance proposals
 
-The programmability of [[Smart Contracts]] enables implementation of what political scientist Jon Elster calls "constitutional constraints" that prevent temporary majorities from making decisions that undermine long-term community welfare or minority rights.
+The programmability of [[smart contracts]] enables implementation of what political scientist Jon Elster calls "constitutional constraints" that prevent temporary majorities from making decisions that undermine long-term community welfare or minority rights.
 
 ### [[Quadratic Funding]] and Democratic Resource Allocation
 
@@ -205,23 +205,23 @@ Future developments should prioritize participatory design processes where commu
 [[Quadratic Funding]] - Democratic resource allocation mechanism for community-controlled public goods funding
 [[Quadratic Voting]] - Voting system that enables preference intensity expression while preventing plutocratic control
 [[Conviction Voting]] - Time-weighted voting mechanism that rewards long-term commitment to community proposals
-[[Commons Governance]] - Institutional arrangements for managing shared community resources sustainably
+[[commons governance]] - Institutional arrangements for managing shared community resources sustainably
 [[Participatory Democracy]] - Governance approach emphasizing meaningful citizen participation in decision-making
-[[Polycentric Governance]] - Multi-level governance systems that coordinate across scales while maintaining local autonomy
+[[polycentric governance]] - Multi-level governance systems that coordinate across scales while maintaining local autonomy
 [[Social Capital]] - Network relationships and institutional trust that enable community collective action
 [[Deliberative Democracy]] - Decision-making processes that emphasize reasoned dialogue and diverse perspective consideration
-[[Subsidiarity]] - Principle that decisions should be made at the most local level capable of effective action
+**Subsidiarity** - Principle that decisions should be made at the most local level capable of effective action
 [[Collective Action Problems]] - Coordination challenges that prevent beneficial community cooperation
 [[Public Goods Funding]] - Mechanisms for financing community benefits that markets systematically underprovide
 [[Reputation Systems]] - Transparent tracking of community contributions and governance participation
-[[Smart Contracts]] - Programmable agreements that can automate community governance mechanisms
+[[smart contracts]] - Programmable agreements that can automate community governance mechanisms
 [[Local Currencies]] - Community-controlled monetary systems that keep economic value within local areas
-[[Community Land Trusts]] - Collective ownership models that maintain affordable housing and prevent gentrification
-[[Participatory Budgeting]] - Community-controlled allocation of public funds for local projects and services
-[[Worker Cooperatives]] - Democratic workplace governance and shared ownership of productive enterprises
+**Community Land Trusts** - Collective ownership models that maintain affordable housing and prevent gentrification
+**Participatory Budgeting** - Community-controlled allocation of public funds for local projects and services
+**Worker Cooperatives** - Democratic workplace governance and shared ownership of productive enterprises
 [[Time Banks]] - Systems for exchanging labor and services based on time rather than monetary value
 [[Environmental Justice]] - Community participation in environmental decision-making and benefit-sharing
 [[Digital Divide]] - Unequal access to digital technologies that may limit governance participation
-[[Regulatory Capture]] - Control of governance institutions by special interests rather than community welfare
-[[Economic Centralization]] - Concentration of economic power that undermines community self-determination
+[[regulatory capture]] - Control of governance institutions by special interests rather than community welfare
+[[economic centralization]] - Concentration of economic power that undermines community self-determination
 [[Meta-crisis]] - Systemic challenges that community governance innovations attempt to address

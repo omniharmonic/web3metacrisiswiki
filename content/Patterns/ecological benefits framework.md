@@ -169,20 +169,20 @@ The future of ecological benefits frameworks may determine whether human societi
 [[Natural Capital]] - Economic framework for valuing ecosystem assets and services
 [[Payment for Ecosystem Services]] - Market mechanisms for compensating ecosystem service providers
 [[environmental economics]] - Field addressing market failures in environmental resource allocation
-[[Millennium Ecosystem Assessment]] - Comprehensive global assessment of ecosystem condition and services
-[[TEEB]] - Initiative demonstrating economic value of ecosystems and biodiversity
+**Millennium Ecosystem Assessment** - Comprehensive global assessment of ecosystem condition and services
+**TEEB** - Initiative demonstrating economic value of ecosystems and biodiversity
 [[Natural Capital Accounting]] - Integration of ecosystem values into national economic accounts
-[[Green Infrastructure]] - Built environment approaches that provide ecosystem services
+**Green Infrastructure** - Built environment approaches that provide ecosystem services
 [[Biodiversity Conservation]] - Protection of species and habitat diversity that supports ecosystem services
-[[Climate Regulation]] - Ecosystem processes that moderate global and local climate conditions
+**Climate Regulation** - Ecosystem processes that moderate global and local climate conditions
 [[Water Ecosystem Services]] - Ecosystem contributions to water supply, quality, and regulation
-[[Pollination Services]] - Ecosystem support for agricultural production through pollinator species
-[[Carbon Sequestration]] - Ecosystem processes that remove atmospheric carbon dioxide
+**Pollination Services** - Ecosystem support for agricultural production through pollinator species
+**Carbon Sequestration** - Ecosystem processes that remove atmospheric carbon dioxide
 [[Soil Ecosystem Services]] - Ecosystem processes supporting soil formation and fertility
-[[Urban Ecology]] - Study of ecosystem processes and services in urban environments
+**Urban Ecology** - Study of ecosystem processes and services in urban environments
 [[Landscape Ecology]] - Study of ecosystem patterns and processes across heterogeneous landscapes
-[[Environmental Valuation]] - Economic methods for quantifying environmental benefits and costs
+**Environmental Valuation** - Economic methods for quantifying environmental benefits and costs
 [[Integrated Assessment]] - Interdisciplinary approaches to environmental and social system analysis
-[[Adaptive Management]] - Management approaches that account for uncertainty and system complexity
+**Adaptive Management** - Management approaches that account for uncertainty and system complexity
 [[Environmental Justice]] - Movement addressing equitable distribution of environmental benefits and burdens
-[[Indigenous Knowledge]] - Traditional ecological knowledge systems for understanding ecosystem benefits
+**Indigenous Knowledge** - Traditional ecological knowledge systems for understanding ecosystem benefits

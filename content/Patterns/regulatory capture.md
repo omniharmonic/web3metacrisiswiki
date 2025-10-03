@@ -2,6 +2,9 @@
 aliases:
   - "regulatory-capture"
   - "Regulatory-Capture"
+  - "Elite Capture"
+  - "capture"
+  - "Regulatory Capture"
 ---
 
 # Regulatory Capture
@@ -124,11 +127,11 @@ The maturation of Web3 governance systems depends on solving fundamental challen
 
 [[Public Choice Theory]] - Economic analysis of political processes that explains regulatory capture mechanisms
 [[Information Asymmetries]] - Superior industry knowledge that enables regulatory influence
-[[Revolving Door]] - Personnel exchange between regulatory agencies and regulated industries
-[[Lobbying]] - Professional advocacy that enables systematic industry influence over policy
-[[Economic Rent]] - Economic surplus captured through regulatory advantages rather than productive activity
+**Revolving Door** - Personnel exchange between regulatory agencies and regulated industries
+**Lobbying** - Professional advocacy that enables systematic industry influence over policy
+**Economic Rent** - Economic surplus captured through regulatory advantages rather than productive activity
 [[Institutional Corruption]] - Systematic bias in institutional decision-making due to conflicting interests
-[[Cultural Capture]] - Adoption of industry worldviews by regulatory officials through socialization
+**Cultural Capture** - Adoption of industry worldviews by regulatory officials through socialization
 [[Collective Action Problem]] - Coordination challenges that favor concentrated over diffuse interests
 [[Democratic Accountability]] - Mechanisms for public oversight and control of governmental power
 [[Transparency]] - Information disclosure that enables public oversight of regulatory processes
@@ -136,4 +139,4 @@ The maturation of Web3 governance systems depends on solving fundamental challen
 [[smart contracts]] - Automated enforcement that may reduce opportunities for discretionary industry influence
 [[Quadratic Voting]] - Governance mechanism designed to prevent plutocratic capture
 [[Sybil Attacks]] - Identity manipulation that could enable capture of decentralized systems
-[[Epistemic Capture]] - Industry influence over knowledge production and regulatory science
+**Epistemic Capture** - Industry influence over knowledge production and regulatory science

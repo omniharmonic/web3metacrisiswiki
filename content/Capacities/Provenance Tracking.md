@@ -82,11 +82,11 @@ See [[Immutable Provenance]] for deeper analysis of immutability implications an
 ## Related Concepts
 
 [[Immutable_Provenance]] - Permanence and error correction tensions
-[[Oracle_Problem]] - Physical-digital bridging challenges
+**Oracle_Problem** - Physical-digital bridging challenges
 [[Supply_Chain_Transparency]] - End-to-end visibility 
 [[Authentication_vs_Verification]] - Initial vs. ongoing validation
-[[Garbage_In_Garbage_Out]] - Fraud at origin
-[[RFID_Vulnerabilities]] - Physical identifier weaknesses
+**Garbage_In_Garbage_Out** - Fraud at origin
+**RFID_Vulnerabilities** - Physical identifier weaknesses
 [[Institutional_Authentication]] - Traditional verification systems
-[[Adoption_Barriers]] - Coordination challenges
+**Adoption_Barriers** - Coordination challenges
 [[NFT_Provenance]] - Digital asset authenticity

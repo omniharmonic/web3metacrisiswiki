@@ -75,13 +75,13 @@ The emphasis on decentralized architecture may distract from more fundamental ch
 
 ## Related Concepts
 
-[[Information_Public_Goods]] - Economic challenges of knowledge commons
-[[Institutional_Custodianship]] - Centralized stewardship models
-[[Content_Curation]] - Quality control in information systems
-[[Censorship_Resistance]] - Preservation of contested knowledge
-[[Archival_Sustainability]] - Long-term information preservation
-[[Wikipedia_Model]] - Community governance with centralized infrastructure
-[[Knowledge_Governance]] - Decision-making about information resources
-[[Token_Economics]] - Incentive models for information commons
-[[Network_Effects]] - Adoption barriers for alternative platforms
-[[Quality_Assurance]] - Expert review and editorial oversight
+**Information_Public_Goods** - Economic challenges of knowledge commons
+**Institutional_Custodianship** - Centralized stewardship models
+**Content_Curation** - Quality control in information systems
+**Censorship_Resistance** - Preservation of contested knowledge
+**Archival_Sustainability** - Long-term information preservation
+**Wikipedia_Model** - Community governance with centralized infrastructure
+**Knowledge_Governance** - Decision-making about information resources
+**Token_Economics** - Incentive models for information commons
+**Network_Effects** - Adoption barriers for alternative platforms
+**Quality_Assurance** - Expert review and editorial oversight

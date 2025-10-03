@@ -77,12 +77,12 @@ The emphasis on quadratic funding as democratizing may distract from more fundam
 
 ## Related Concepts
 
-[[Quadratic_Voting]] - Preference intensity signaling
-[[Sybil_Attacks]] - Identity manipulation for advantage
-[[Identity_Verification]] - Gatekeeping for fraud prevention
-[[Matching_Pools]] - Matching fund governance
+**Quadratic_Voting** - Preference intensity signaling
+**Sybil_Attacks** - Identity manipulation for advantage
+**Identity_Verification** - Gatekeeping for fraud prevention
+**Matching_Pools** - Matching fund governance
 [[Gitcoin_Grants]] - Primary implementation platform
-[[Collusion_Detection]] - Identifying coordination
-[[Public_Goods]] - Non-excludable collective benefits
-[[Democratic_Resource_Allocation]] - Community preference aggregation
-[[Plutocracy]] - Wealth-based influence
+**Collusion_Detection** - Identifying coordination
+**Public_Goods** - Non-excludable collective benefits
+**Democratic_Resource_Allocation** - Community preference aggregation
+**Plutocracy** - Wealth-based influence

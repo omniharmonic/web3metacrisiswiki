@@ -181,5 +181,5 @@ Blockchain Data → Indexer Nodes → Query Network → Applications
 - [[smart contracts]] - Self-executing agreements on blockchains
 - [[Decentralized Autonomous Organizations (DAOs)]] - Community-controlled organizations
 - [[Composability]] - Ability of components to work together
-- [[Data_Analytics]] - Analysis of blockchain data
+- **Data_Analytics** - Analysis of blockchain data
 - [[decentralization]] - Distribution of control and decision-making

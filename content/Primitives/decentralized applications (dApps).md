@@ -65,7 +65,7 @@ Yet decentralized social networks face persistent challenges with user experienc
 
 Blockchain-based games and virtual worlds including Axie Infinity, Decentraland, and The Sandbox implement what economist Vili Lehdonvirta calls "virtual economies" where digital assets have genuine ownership properties and can be transferred between different games and platforms rather than being controlled by game developers.
 
-[[Non-Fungible Tokens]] enable what legal scholar Joshua Fairfield calls "property rights in virtual worlds" where players can own digital assets that persist independently of individual games while potentially creating new economic opportunities through what economist Edward Castronova calls "exodus to the virtual world."
+**Non-Fungible Tokens** enable what legal scholar Joshua Fairfield calls "property rights in virtual worlds" where players can own digital assets that persist independently of individual games while potentially creating new economic opportunities through what economist Edward Castronova calls "exodus to the virtual world."
 
 However, blockchain gaming faces challenges with scalability that limits complex game mechanics, speculation that may overwhelm gameplay, and energy consumption that may conflict with environmental concerns while regulatory uncertainty affects the sustainability of play-to-earn economic models.
 
@@ -164,21 +164,21 @@ The maturation of dApps may determine whether decentralized computing becomes ac
 [[Ethereum Virtual Machine (EVM)]] - Execution environment that runs smart contract code for Ethereum-based dApps
 [[Decentralized Finance (DeFi)]] - Financial applications built as dApps on blockchain infrastructure
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance applications that operate as dApps through smart contracts
-[[Web3]] - Vision of decentralized internet where dApps replace centralized platform applications
+**Web3** - Vision of decentralized internet where dApps replace centralized platform applications
 [[InterPlanetary File System (IPFS)]] - Distributed storage network commonly used for dApp data and content storage
-[[Non-Fungible Tokens (NFTs)]] - Digital assets that enable unique item ownership within dApps
-[[Wallet]] - Software applications that enable users to interact with dApps through cryptographic key management
+**Non-Fungible Tokens (NFTs)** - Digital assets that enable unique item ownership within dApps
+**Wallet** - Software applications that enable users to interact with dApps through cryptographic key management
 [[Gas]] - Transaction fee mechanism that users pay to execute dApp operations on blockchain networks
 [[Layer 2 Solutions]] - Scaling technologies that enable faster and cheaper dApp interactions
 [[Composability]] - Property enabling dApps to integrate and interact with other applications and protocols
 [[Account Abstraction]] - Technology enabling more user-friendly wallet and authentication experiences in dApps
 [[Tokenomics]] - Economic design of cryptocurrency tokens that often fund and govern dApp development
 [[Governance Tokens]] - Tokens that provide voting rights for protocol parameters and development decisions
-[[Oracle]] - External data sources that provide real-world information to dApps for decision-making
+**Oracle** - External data sources that provide real-world information to dApps for decision-making
 [[Cross-Chain Integration]] - Technology enabling dApps to operate across multiple blockchain networks
 [[Decentralized Storage]] - Distributed file storage systems that provide data persistence for dApps
-[[Peer-to-Peer Networks]] - Communication protocols that enable direct interaction between dApp users
+**Peer-to-Peer Networks** - Communication protocols that enable direct interaction between dApp users
 [[censorship resistance]] - Property where dApps cannot be shut down or controlled by authorities
-[[Permissionless Innovation]] - Ability for anyone to build and deploy dApps without requiring authorization
+**Permissionless Innovation** - Ability for anyone to build and deploy dApps without requiring authorization
 [[self-sovereign identity]] - Identity systems built into dApps that give users control over personal data
 [[Privacy-Preserving Technologies]] - Cryptographic techniques that enable private dApp interactions

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Blockchain"
+  - "Modular Blockchain"
+  - "Blockchain Voting"
+  - "Blockchain_Trilemma"
+  - "Blockchain_Transparency"
+  - "Blockchain_Trilemma"
+  - "blockchain technology"
+  - "Blockchain Technology"
 ---
 
 # Blockchain
@@ -139,27 +146,27 @@ The maturation of blockchain technology may determine whether it remains a niche
 
 ## Related Concepts
 
-[[Distributed Ledger Technology]] - Broader category of technologies for maintaining distributed consensus and record-keeping
+**Distributed Ledger Technology** - Broader category of technologies for maintaining distributed consensus and record-keeping
 [[consensus mechanisms]] - Protocols that enable distributed nodes to agree on blockchain state updates
-[[Cryptographic Hash Functions]] - Mathematical functions providing security and integrity for blockchain data structures
-[[Merkle Trees]] - Data structures enabling efficient verification of large datasets within blockchain systems
+**Cryptographic Hash Functions** - Mathematical functions providing security and integrity for blockchain data structures
+**Merkle Trees** - Data structures enabling efficient verification of large datasets within blockchain systems
 [[Byzantine Fault Tolerance]] - System property enabling operation despite arbitrary failures including malicious behavior
 [[smart contracts]] - Programmable agreements that execute automatically on blockchain infrastructure
 [[proof of work (PoW)]] - Consensus mechanism securing blockchain through computational puzzle solving
 [[Proof of Stake (PoS)]] - Consensus mechanism securing blockchain through economic incentives and penalties
-[[State Machine Replication]] - Distributed systems technique enabling identical computation across multiple nodes
+**State Machine Replication** - Distributed systems technique enabling identical computation across multiple nodes
 [[Digital Signatures]] - Cryptographic proof systems enabling transaction authorization without revealing private keys
 [[Immutability]] - Property where blockchain records cannot be modified after confirmation
 [[decentralization]] - System architecture distributing control across multiple independent participants
-[[Permissionless Innovation]] - Property enabling anyone to build applications without requiring authorization
+**Permissionless Innovation** - Property enabling anyone to build applications without requiring authorization
 [[censorship resistance]] - System property preventing authorities from blocking or reversing transactions
 [[Transparency]] - Property where all blockchain transactions and state changes are publicly verifiable
-[[Pseudonymity]] - Property enabling transaction privacy while maintaining public verifiability
+**Pseudonymity** - Property enabling transaction privacy while maintaining public verifiability
 [[Global State]] - Shared data maintained consistently across all blockchain network participants
-[[Fork]] - Process of creating competing versions of blockchain through protocol changes
+**Fork** - Process of creating competing versions of blockchain through protocol changes
 [[Hard Fork]] - Protocol change requiring all participants to upgrade or create separate networks
-[[Soft Fork]] - Protocol change maintaining backwards compatibility with previous versions
-[[Mining]] - Process of creating new blocks and securing proof-of-work blockchain networks
+**Soft Fork** - Protocol change maintaining backwards compatibility with previous versions
+**Mining** - Process of creating new blocks and securing proof-of-work blockchain networks
 [[Staking]] - Process of participating in proof-of-stake consensus by locking tokens as collateral
-[[Validator]] - Network participant responsible for verifying transactions and maintaining blockchain consensus
-[[Node]] - Individual computer participating in blockchain network by maintaining distributed ledger copy
+**Validator** - Network participant responsible for verifying transactions and maintaining blockchain consensus
+**Node** - Individual computer participating in blockchain network by maintaining distributed ledger copy

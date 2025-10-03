@@ -185,17 +185,17 @@ The future of human coordination may depend on developing systems that can harne
 [[Nash Equilibrium]] - Solution concept for strategic games that may perpetuate zero-sum outcomes despite mutual losses
 [[Prisoner's Dilemma]] - Classic model of cooperation failure despite mutual benefits from collaboration
 [[multi-polar traps]] - Competitive dynamics that lock rational actors into collectively destructive patterns
-[[Winner-Take-All Markets]] - Economic environments where small performance differences create large reward differences
+**Winner-Take-All Markets** - Economic environments where small performance differences create large reward differences
 [[Network Effects]] - Economic dynamics that can create monopolistic zero-sum competition despite initial cooperation potential
-[[Positional Goods]] - Resources whose value depends on relative rather than absolute consumption
-[[Arms Race]] - Competitive escalation where defensive preparations trigger counter-preparations indefinitely
+**Positional Goods** - Resources whose value depends on relative rather than absolute consumption
+**Arms Race** - Competitive escalation where defensive preparations trigger counter-preparations indefinitely
 [[Collective Action Problem]] - Coordination challenges where individual rational behavior undermines collective welfare
 [[Mechanism Design]] - Economic framework for creating institutions that transform competitive into cooperative dynamics
 [[Public Goods]] - Resources that benefit everyone but may be under-provided due to free-rider problems
-[[Social Dilemmas]] - Situations where individual and collective rationality conflict
-[[Competition Policy]] - Legal and regulatory frameworks for managing competitive market dynamics
-[[Evolutionary Stable Strategy]] - Behavioral patterns that persist because they resist invasion by alternatives
-[[Reciprocal Altruism]] - Evolutionary strategy enabling cooperation despite initial competitive pressures
+**Social Dilemmas** - Situations where individual and collective rationality conflict
+**Competition Policy** - Legal and regulatory frameworks for managing competitive market dynamics
+**Evolutionary Stable Strategy** - Behavioral patterns that persist because they resist invasion by alternatives
+**Reciprocal Altruism** - Evolutionary strategy enabling cooperation despite initial competitive pressures
 [[Quadratic Funding]] - Democratic mechanism for public goods funding that creates positive-sum resource allocation
 [[Universal Basic Income]] - Policy proposal for reducing zero-sum labor market competition
 [[regenerative economics]] - Economic approaches that align financial success with ecological and social regeneration

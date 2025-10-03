@@ -304,11 +304,11 @@ The proposed solution draws from Elinor Ostrom's Nobel Prize-winning research on
 
 Web3 technologies enable the implementation of polycentric governance at unprecedented scale through cryptographic coordination mechanisms that can maintain coherence across distributed decision-making processes while preserving local autonomy and preventing single points of capture.
 
-**[[Open Civic Protocols]] and Stigmergic Coordination**: Building on the theoretical foundations of polycentric governance, emergent research in [[open civics]] suggests that traditional institutions can be supplemented or replaced by what researchers term "[[extitutions]]"—external, open organizations that provide civilizational services through networked approaches rather than hierarchical bureaucracies. These systems implement what biologists call "[[stigmergic coordination]]"—indirect coordination mechanisms where actions leave traces in shared environments that guide subsequent actions, enabling complex coordination without centralized control.
+****Open Civic Protocols** and Stigmergic Coordination**: Building on the theoretical foundations of polycentric governance, emergent research in [[open civics]] suggests that traditional institutions can be supplemented or replaced by what researchers term "extitutions"—external, open organizations that provide civilizational services through networked approaches rather than hierarchical bureaucracies. These systems implement what biologists call "**stigmergic coordination**"—indirect coordination mechanisms where actions leave traces in shared environments that guide subsequent actions, enabling complex coordination without centralized control.
 
 In the context of decentralized governance, stigmergic mechanisms can be implemented through blockchain-based coordination protocols where governance actions create publicly visible traces that inform future decisions. For example, successful policy implementations in one jurisdiction can automatically become visible and replicable by other jurisdictions, while failed experiments create learning signals that prevent repetition of mistakes.
 
-This approach enables what the DeCiv (Decentralized Civics) movement terms "[[cosmo-localism]]"—the dynamic interplay between global coordination and hyperlocal participation. Governance systems can maintain local autonomy and self-determination while enabling scaling, federation, and nesting into larger coordination networks, creating what some researchers describe as a "Cambrian explosion of experiments in self-governance" that can adapt or replace legacy institutional forms.
+This approach enables what the DeCiv (Decentralized Civics) movement terms "cosmo-localism"—the dynamic interplay between global coordination and hyperlocal participation. Governance systems can maintain local autonomy and self-determination while enabling scaling, federation, and nesting into larger coordination networks, creating what some researchers describe as a "Cambrian explosion of experiments in self-governance" that can adapt or replace legacy institutional forms.
 
 **Architecture 1: [[Network Nations]] - Polycentric Regulatory Networks with Blockchain Coordination**
 
@@ -534,15 +534,15 @@ Research by political scientists including Larry Bartels and Morris Fiorina docu
 
 **Revenue Model Transformation: From Data Extraction to Value Flow Optimization**
 
-A critical but underexamined aspect of misaligned incentives involves the revenue models that shape digital platforms and applications. Traditional Web2 platforms operate on attention-capture models that monetize user data through advertising, creating [[Surveillance Capitalism]] dynamics where user privacy and wellbeing are systematically subordinated to engagement optimization and data extraction. This model creates perverse incentives that drive [[epistemic collapse]], [[social fragmentation]], and [[psychological manipulation]] through algorithmic systems designed to maximize attention capture rather than user value.
+A critical but underexamined aspect of misaligned incentives involves the revenue models that shape digital platforms and applications. Traditional Web2 platforms operate on attention-capture models that monetize user data through advertising, creating [[Surveillance Capitalism]] dynamics where user privacy and wellbeing are systematically subordinated to engagement optimization and data extraction. This model creates perverse incentives that drive [[epistemic collapse]], **social fragmentation**, and **psychological manipulation** through algorithmic systems designed to maximize attention capture rather than user value.
 
-As described in contemporary analysis of [[pluralistic capital allocation systems]], "The narrow optimization of contemporary capitalism—its relentless focus on financial returns—has generated unprecedented wealth alongside profound inequality and ecological devastation." Web2 platforms exemplify this narrow optimization by reducing diverse forms of user value to a single metric: engagement time that can be monetized through advertising revenue.
+As described in contemporary analysis of **pluralistic capital allocation systems**, "The narrow optimization of contemporary capitalism—its relentless focus on financial returns—has generated unprecedented wealth alongside profound inequality and ecological devastation." Web2 platforms exemplify this narrow optimization by reducing diverse forms of user value to a single metric: engagement time that can be monetized through advertising revenue.
 
-**[[Real Value Optimization]] and Multi-Dimensional Tokenization**: Emerging research in regenerative economics suggests that Web3 systems can enable optimization for what philosopher John McMurtry terms the "life sequence of value" rather than the "money sequence of value." Instead of reducing all value to financial metrics, tokenization enables what researchers call "discrete representation of diverse forms of value"—where natural capital, social capital, cultural capital, and intellectual capital can be represented as distinct digital assets without requiring homogenization under a single metric.
+****Real Value Optimization** and Multi-Dimensional Tokenization**: Emerging research in regenerative economics suggests that Web3 systems can enable optimization for what philosopher John McMurtry terms the "life sequence of value" rather than the "money sequence of value." Instead of reducing all value to financial metrics, tokenization enables what researchers call "discrete representation of diverse forms of value"—where natural capital, social capital, cultural capital, and intellectual capital can be represented as distinct digital assets without requiring homogenization under a single metric.
 
 This multi-dimensional approach creates what economic sociologist Lucien Karpik terms an "economy of qualities"—markets organized around qualitative differences rather than just quantitative price comparisons. For example, regenerative agriculture projects can issue distinct tokens representing carbon sequestration, biodiversity enhancement, and water purification, each with independent measurement systems and governance rules that preserve the unique characteristics of different value forms while enabling economic coordination.
 
-**[[Composting Capital]] and Community Wealth Building**: Rather than extracting value from communities and concentrating it in distant financial centers, Web3 systems can implement what some researchers call "[[composting capital]]"—regenerative processes that recycle financial returns into community-owned infrastructure, build nutrient-rich ecosystems where multiple forms of value circulate and grow, and enable patient transformation rather than rapid extraction. This approach includes mechanisms like "[[Exit to Community]]" models where platform ownership gradually transfers to user communities rather than being sold to highest bidders, and community wealth building strategies that anchor capital in place through cooperative ownership structures and local value circulation.
+****Composting Capital** and Community Wealth Building**: Rather than extracting value from communities and concentrating it in distant financial centers, Web3 systems can implement what some researchers call "**composting capital**"—regenerative processes that recycle financial returns into community-owned infrastructure, build nutrient-rich ecosystems where multiple forms of value circulate and grow, and enable patient transformation rather than rapid extraction. This approach includes mechanisms like "**Exit to Community**" models where platform ownership gradually transfers to user communities rather than being sold to highest bidders, and community wealth building strategies that anchor capital in place through cooperative ownership structures and local value circulation.
 
 Web3 decentralized applications ([[decentralized applications (dApps)]]) fundamentally shift this incentive landscape by enabling revenue models based on **total value flowed** rather than data extraction. Instead of capturing user attention for external advertisers, dApps can generate revenue through mechanisms that align with user benefit and ecosystem growth. This includes [[transaction processing]] fees that scale with actual usage value, governance token appreciation that rewards long-term ecosystem health, and direct value exchange between users without intermediary extraction.
 
@@ -554,7 +554,7 @@ This shift has profound implications for addressing three core vectors of the [[
 
 **Incentive Realignment**: Perhaps most significantly, revenue models based on total value flowed create positive-sum dynamics where platform success requires ecosystem growth and user benefit, rather than zero-sum attention capture and data extraction. This aligns individual incentives with collective welfare by making platform success dependent on actual user and community flourishing rather than behavioral manipulation and privacy violation.
 
-The technical implementation of these alternative revenue models requires new primitives for value measurement, distribution, and governance that Web3 technologies uniquely enable. [[Distributed revenue sharing]] mechanisms like [[revnets]] can automatically distribute value flows based on contributed work and ecosystem participation, while [[peer validation]] systems like the [[Ethereum Attestation Service]] can verify and reward non-financial forms of value creation that traditional markets systematically undervalue.
+The technical implementation of these alternative revenue models requires new primitives for value measurement, distribution, and governance that Web3 technologies uniquely enable. **Distributed revenue sharing** mechanisms like revnets can automatically distribute value flows based on contributed work and ecosystem participation, while peer validation systems like the [[Ethereum Attestation Service]] can verify and reward non-financial forms of value creation that traditional markets systematically undervalue.
 
 #### Proposed Crypto-Based Solution: [[Tokenized Commons]] and [[regenerative economics]]
 
@@ -566,9 +566,9 @@ The proposed solution draws from [[environmental economics]], [[mechanism design
 
 The approach builds on Ronald Coase's theorem, which suggests that externality problems can be solved through clear property rights and low transaction costs. Web3 technologies could dramatically reduce transaction costs for [[externality markets]] while creating new forms of property rights over [[ecosystem services]], community contributions, and other previously uncompensated activities.
 
-**[[Dual Power Strategies]] and Parallel Society Development**: Emerging civic innovation research suggests that successful transformation requires what activists term "[[dual power]]"—the creation and coexistence of alternative institutional frameworks that operate alongside and eventually replace dominant systems. In the context of tokenized commons, this involves building alternative economic systems that enable communities to develop autonomy from extractive institutions while creating network effects that can influence broader systemic change.
+**Dual Power Strategies and Parallel Society Development**: Emerging civic innovation research suggests that successful transformation requires what activists term "dual power"—the creation and coexistence of alternative institutional frameworks that operate alongside and eventually replace dominant systems. In the context of tokenized commons, this involves building alternative economic systems that enable communities to develop autonomy from extractive institutions while creating network effects that can influence broader systemic change.
 
-These parallel systems enable what researchers describe as "[[democratic rationalization]]" of technology—technical designs that incorporate broader values than market efficiency, including ecological sustainability, social equity, and community self-determination. By creating economic infrastructure that rewards contributions to commons stewardship, community resilience, and ecosystem health, tokenized systems can function as what some scholars call "composting capital"—recycling extracted wealth into community-controlled infrastructure and regenerative economic relationships.
+These parallel systems enable what researchers describe as "**democratic rationalization**" of technology—technical designs that incorporate broader values than market efficiency, including ecological sustainability, social equity, and community self-determination. By creating economic infrastructure that rewards contributions to commons stewardship, community resilience, and ecosystem health, tokenized systems can function as what some scholars call "composting capital"—recycling extracted wealth into community-controlled infrastructure and regenerative economic relationships.
 
 Historical examples of successful dual power strategies, from the Zapatista movement's autonomous territories to Taiwan's vTaiwan digital democracy platform, demonstrate that alternative coordination mechanisms can achieve legitimacy and effectiveness when they provide genuine improvements over existing institutions while maintaining connection to broader social movements and political contexts.
 
@@ -614,21 +614,21 @@ A critical technical primitive enabling these reputation and contribution tracki
 
 Unlike traditional reputation systems that rely on centralized authorities or platform-specific data, EAS creates a composable, interoperable foundation for peer validation that can recognize diverse forms of value contribution across multiple contexts. Community members can create attestations about others' contributions to environmental stewardship, care work, knowledge sharing, or civic participation, building multi-dimensional reputation profiles that resist gaming while enabling nuanced recognition of different forms of value creation.
 
-The system addresses a fundamental limitation of traditional markets: the inability to efficiently measure and compensate [[social reproduction]] work, ecological stewardship, and other commons-beneficial activities that are essential for human flourishing but difficult to quantify through conventional economic metrics. By enabling peer attestation of these contributions, EAS creates the infrastructure for alternative economic systems that can recognize and reward the full spectrum of human value creation.
+The system addresses a fundamental limitation of traditional markets: the inability to efficiently measure and compensate **social reproduction** work, ecological stewardship, and other commons-beneficial activities that are essential for human flourishing but difficult to quantify through conventional economic metrics. By enabling peer attestation of these contributions, EAS creates the infrastructure for alternative economic systems that can recognize and reward the full spectrum of human value creation.
 
-EAS attestations are particularly powerful when combined with [[Hypercerts]] and other impact measurement frameworks that enable "retroactive funding" models. Communities can issue attestations about positive impacts after they have been verified, enabling funding systems that reward demonstrated results rather than promised outcomes. This approach aligns with [[mechanism design theory]] principles by creating incentives for actual value creation rather than proposal writing or grant seeking.
+EAS attestations are particularly powerful when combined with Hypercerts and other impact measurement frameworks that enable "retroactive funding" models. Communities can issue attestations about positive impacts after they have been verified, enabling funding systems that reward demonstrated results rather than promised outcomes. This approach aligns with [[mechanism design theory]] principles by creating incentives for actual value creation rather than proposal writing or grant seeking.
 
-The decentralized and composable nature of EAS enables what economists call "[[thick markets]]"—markets with sufficient participants and information to enable efficient coordination. Traditional reputation systems suffer from platform lock-in and limited data portability; EAS enables reputation profiles that travel with individuals across different contexts while enabling sophisticated analysis of contribution patterns and community impact.
+The decentralized and composable nature of EAS enables what economists call "**thick markets**"—markets with sufficient participants and information to enable efficient coordination. Traditional reputation systems suffer from platform lock-in and limited data portability; EAS enables reputation profiles that travel with individuals across different contexts while enabling sophisticated analysis of contribution patterns and community impact.
 
 **Architecture 4: [[Complementary Currencies]] and [[Alternative Value Systems]]**
 
-**[[Ecological Reserve Currencies]]**: Local currencies could be backed by or indexed to ecosystem health indicators rather than fiat currencies or gold, creating direct connections between economic value and ecological sustainability. As ecosystem health improves, the currency would strengthen; as it degrades, the currency would weaken.
+****Ecological Reserve Currencies****: Local currencies could be backed by or indexed to ecosystem health indicators rather than fiat currencies or gold, creating direct connections between economic value and ecological sustainability. As ecosystem health improves, the currency would strengthen; as it degrades, the currency would weaken.
 
 The ecological backing would be based on composite indices including biodiversity, carbon sequestration, water quality, soil health, and other measurable indicators of ecosystem function. Automated monitoring systems would provide real-time updates to currency values, creating immediate feedback between economic activity and environmental outcomes.
 
-**[[Time-Based and Care Work Currencies]]**: Complementary currencies could value time and care work that are undervalued in traditional markets, including childcare, elder care, community support, and volunteer activities. These currencies would enable exchange of services within communities while recognizing the economic value of care work.
+****Time-Based and Care Work Currencies****: Complementary currencies could value time and care work that are undervalued in traditional markets, including childcare, elder care, community support, and volunteer activities. These currencies would enable exchange of services within communities while recognizing the economic value of care work.
 
-**[[Mutual Credit and Gift Economy Integration]]**: Blockchain systems facilitate mutual credit networks where community members extend credit to each other based on trust and reciprocity rather than collateral or credit scores. Gift economy mechanisms track and recognize non-monetary contributions while maintaining the voluntary nature of gift relationships.
+****Mutual Credit and Gift Economy Integration****: Blockchain systems facilitate mutual credit networks where community members extend credit to each other based on trust and reciprocity rather than collateral or credit scores. Gift economy mechanisms track and recognize non-monetary contributions while maintaining the voluntary nature of gift relationships.
 
 **Real-World Implementation: Sarafu Network (Kenya) and Celo Global South Infrastructure**: The Sarafu Network demonstrates successful implementation of blockchain-based community currencies across Kenya's informal settlements and rural areas. Founded in 2010 by Grassroots Economics and operating on the Celo blockchain since 2020, Sarafu serves over 50,000 users across vulnerable communities. The system enables users to trade basic needs without requiring internet access, using USSD/SMS on inexpensive phones²². The community currency generates an average 22% increase in participating businesses' incomes, with up to 10% of local food purchases conducted using Sarafu tokens²³. During COVID-19, the network saw over 500% growth as communities used complementary currencies to maintain economic activity despite disrupted mainstream markets²⁴.
 
@@ -782,7 +782,7 @@ Web3 technologies offer mechanisms for creating [[censorship resistance]] inform
 
 The proposed solution draws from cryptography, information theory, and distributed systems research to create information infrastructure that derives security from mathematical properties rather than institutional trust. Rather than relying on centralized platforms or authorities to determine information authenticity, these systems would enable cryptographic verification of information sources, content integrity, and temporal provenance.
 
-The approach builds on concepts from academic research on [[secure information systems]], including [[Byzantine Fault Tolerance]], [[consensus mechanisms]], and [[cryptographic guarantees]]. These technologies enable the creation of systems where information authenticity can be verified independently by any participant without requiring trust in centralized authorities.
+The approach builds on concepts from academic research on **secure information systems**, including [[Byzantine Fault Tolerance]], [[consensus mechanisms]], and [[cryptographic guarantees]]. These technologies enable the creation of systems where information authenticity can be verified independently by any participant without requiring trust in centralized authorities.
 
 **Architecture 1: [[Content-Addressed Information Storage]] and [[Immutable Provenance]]**
 
@@ -1020,9 +1020,9 @@ The concentration of these extraction-based revenue models within a small number
 
 **Web3 Value Flow Models and Incentive Realignment**
 
-Web3 technologies enable fundamentally different economic models based on direct value flows between users and value creators, eliminating the need for advertising-based revenue extraction. [[tokenization]] systems can create direct economic relationships where users pay creators, developers, and service providers based on the actual value they provide, while [[automated distribution mechanisms]] like [[revnets]] can ensure fair compensation for all contributors to platform success.
+Web3 technologies enable fundamentally different economic models based on direct value flows between users and value creators, eliminating the need for advertising-based revenue extraction. [[tokenization]] systems can create direct economic relationships where users pay creators, developers, and service providers based on the actual value they provide, while **automated distribution mechanisms** like revnets can ensure fair compensation for all contributors to platform success.
 
-**[[Token Economics]] and Direct Value Exchange**: Web3 platforms can implement token-based economies where users directly compensate content creators, developers, and service providers through microtransactions, subscriptions, or usage-based payments. This creates economic incentives for platforms to optimize for user satisfaction and value creation rather than attention capture and data extraction.
+****Token Economics** and Direct Value Exchange**: Web3 platforms can implement token-based economies where users directly compensate content creators, developers, and service providers through microtransactions, subscriptions, or usage-based payments. This creates economic incentives for platforms to optimize for user satisfaction and value creation rather than attention capture and data extraction.
 
 Users can maintain ownership and control over their data while selectively sharing value with platforms and services that provide genuine utility. This model aligns platform incentives with user welfare, as platform success depends on creating value that users are willing to pay for directly rather than capturing value through surveillance and behavioral manipulation.
 
@@ -1030,7 +1030,7 @@ Users can maintain ownership and control over their data while selectively shari
 
 Token-based governance systems can enable community-driven development priorities, content moderation policies, and feature development that serve user interests rather than advertiser demands. [[Quadratic Voting]] and other sophisticated governance mechanisms can prevent plutocratic control while enabling effective collective decision-making.
 
-**[[Composable Protocols]] and Reduced Platform Dependence**: Web3's composable architecture enables users to combine services from multiple protocols while maintaining data portability and reducing dependence on any single platform. This creates competitive pressure for platforms to provide genuine value while reducing the lock-in effects that enable extractive behaviors.
+****Composable Protocols** and Reduced Platform Dependence**: Web3's composable architecture enables users to combine services from multiple protocols while maintaining data portability and reducing dependence on any single platform. This creates competitive pressure for platforms to provide genuine value while reducing the lock-in effects that enable extractive behaviors.
 
 Interoperable protocols can prevent the formation of data monopolies while enabling innovation through permissionless composability. Users can switch between competing implementations of similar services while maintaining their data, social graphs, and economic relationships.
 
@@ -1038,17 +1038,17 @@ Interoperable protocols can prevent the formation of data monopolies while enabl
 
 These transformed economic models address metacrisis dynamics through several mechanisms:
 
-**[[Epistemic Health]] through Aligned Incentives**: When platform revenue depends on providing value to users rather than capturing attention for advertisers, platforms have economic incentives to promote accurate information, productive discourse, and user wellbeing. Content recommendation systems can optimize for user-defined goals rather than engagement metrics that favor sensational content.
+****Epistemic Health** through Aligned Incentives**: When platform revenue depends on providing value to users rather than capturing attention for advertisers, platforms have economic incentives to promote accurate information, productive discourse, and user wellbeing. Content recommendation systems can optimize for user-defined goals rather than engagement metrics that favor sensational content.
 
 **[[Economic Decentralization]] through Value Distribution**: Direct value flows and distributed ownership structures can prevent the concentration of economic power while enabling broader participation in digital economies. [[Creator economy]] models can provide sustainable compensation for content creators, developers, and community contributors without requiring advertising intermediaries.
 
-**[[Democratic Participation]] through Governance Innovation**: Token-based governance systems can enable more direct democratic participation in platform governance while providing economic stakes that align participant incentives with long-term platform success. This can address the [[regulatory capture]] that occurs when platforms become too powerful for effective democratic oversight.
+****Democratic Participation** through Governance Innovation**: Token-based governance systems can enable more direct democratic participation in platform governance while providing economic stakes that align participant incentives with long-term platform success. This can address the [[regulatory capture]] that occurs when platforms become too powerful for effective democratic oversight.
 
 **Implementation Challenges and Considerations**
 
 However, these transformed economic models face significant implementation challenges including user experience complexity, regulatory uncertainty, scalability constraints, and coordination difficulties in transitioning from established Web2 models. Success requires careful attention to user onboarding, sustainable tokenomics design, governance mechanism development, and integration with existing legal and financial systems.
 
-The transition from extraction-based to value-flow-based models also requires solving technical challenges including [[scalability]], [[user experience]], and [[oracle problem]] issues that can prevent mainstream adoption. Additionally, token-based systems create new risks including speculation, financial volatility, and governance capture that require thoughtful design to mitigate.
+The transition from extraction-based to value-flow-based models also requires solving technical challenges including [[scalability]], **user experience**, and [[oracle problem]] issues that can prevent mainstream adoption. Additionally, token-based systems create new risks including speculation, financial volatility, and governance capture that require thoughtful design to mitigate.
 
 ### 2.1 Foundational Layer Primitives: The Infrastructure of Decentralization
 
@@ -1362,21 +1362,21 @@ The complexity also makes it difficult for users and developers to understand th
 
 #### 2.2.3 [[Ethereum Attestation Service]]: Cryptographic Validation Infrastructure
 
-The [[Ethereum Attestation Service]] (EAS) represents a foundational primitive for cryptographic validation and [[peer validation]] systems, providing a standardized infrastructure for creating, verifying, and managing digital attestations. This primitive enables new forms of trust and reputation systems that can verify claims about qualifications, contributions, behaviors, and other attributes without requiring centralized authorities or intermediaries.
+The [[Ethereum Attestation Service]] (EAS) represents a foundational primitive for cryptographic validation and peer validation systems, providing a standardized infrastructure for creating, verifying, and managing digital attestations. This primitive enables new forms of trust and reputation systems that can verify claims about qualifications, contributions, behaviors, and other attributes without requiring centralized authorities or intermediaries.
 
 **Technical Architecture and Attestation Framework**
 
 EAS operates as a global registry for digital attestations that can be created by any party and verified by anyone with access to the blockchain. Attestations are structured data records that make verifiable claims about subjects, objects, or events, cryptographically signed by attestors to ensure authenticity and integrity.
 
-**[[Schema-Based Attestation System]]**: EAS uses a flexible schema system that allows communities and organizations to define custom attestation formats for their specific use cases. These schemas specify the data structure, validation criteria, and interpretation rules for different types of attestations.
+****Schema-Based Attestation System****: EAS uses a flexible schema system that allows communities and organizations to define custom attestation formats for their specific use cases. These schemas specify the data structure, validation criteria, and interpretation rules for different types of attestations.
 
 The schema-based approach enables standardization within specific domains while maintaining flexibility across different use cases. Educational institutions can define schemas for academic credentials, while DAOs can create schemas for contribution tracking and governance participation.
 
-**[[Cryptographic Integrity]] and Non-Repudiation**: All attestations are cryptographically signed by their creators and stored immutably on-chain, providing mathematical guarantees about the authenticity and integrity of attestation data. This prevents tampering and enables reliable verification of attestation provenance.
+****Cryptographic Integrity** and Non-Repudiation**: All attestations are cryptographically signed by their creators and stored immutably on-chain, providing mathematical guarantees about the authenticity and integrity of attestation data. This prevents tampering and enables reliable verification of attestation provenance.
 
 The cryptographic signatures ensure that attestations cannot be forged or modified after creation, while the blockchain storage provides a tamper-resistant record that can be verified by anyone without requiring trust in the attestation service itself.
 
-**[[Composable Trust Networks]] and Recursive Validation**: EAS enables the creation of composable trust networks where attestations can reference and build upon other attestations, creating chains of verification and recursive validation systems. Communities can establish trust criteria based on combinations of different attestations.
+****Composable Trust Networks** and Recursive Validation**: EAS enables the creation of composable trust networks where attestations can reference and build upon other attestations, creating chains of verification and recursive validation systems. Communities can establish trust criteria based on combinations of different attestations.
 
 This composability enables sophisticated reputation and validation systems where multiple independent attestations can be combined to provide stronger evidence about claims. For example, professional qualifications might require attestations from educational institutions, employers, and peer reviewers.
 
@@ -1394,11 +1394,11 @@ Reputation attestations can capture complex behaviors and contributions that are
 
 Multiple parties in supply chains can provide independent attestations about different aspects of products, creating comprehensive verification records that are more resistant to fraud than single-source certifications.
 
-**[[Governance Participation]] and [[Voting Rights]] Verification**: DAOs and other decentralized organizations can use EAS to verify eligibility for governance participation, track voting history, and manage complex voting rights systems. This can enable more sophisticated governance models that account for diverse forms of contribution and participation.
+****Governance Participation** and **Voting Rights** Verification**: DAOs and other decentralized organizations can use EAS to verify eligibility for governance participation, track voting history, and manage complex voting rights systems. This can enable more sophisticated governance models that account for diverse forms of contribution and participation.
 
 Governance attestations can track not just token holdings but also contributions, expertise, participation history, and other factors relevant to governance decisions. This can lead to more informed and legitimate governance outcomes.
 
-**[[Peer Review]] and [[Academic Verification]]**: Academic and research communities can use EAS to create decentralized peer review systems where reviews and assessments are permanently recorded and verifiable. This can improve transparency and accountability in academic processes while reducing dependence on centralized publishers.
+**Peer Review and **Academic Verification****: Academic and research communities can use EAS to create decentralized peer review systems where reviews and assessments are permanently recorded and verifiable. This can improve transparency and accountability in academic processes while reducing dependence on centralized publishers.
 
 Research validation, peer review quality, and academic integrity can be tracked through attestations, creating more comprehensive and reliable assessment systems than traditional academic publishing models.
 
@@ -1412,15 +1412,15 @@ Malicious actors could aggregate attestation data to build detailed profiles of 
 
 The pseudonymous nature of blockchain systems makes it difficult to verify that attestations come from genuine, independent sources rather than from coordinated networks of false identities attempting to manipulate reputation systems.
 
-**[[Attestation Gaming]] and [[Metric Manipulation]]**: Poorly designed attestation systems can be gamed by users who focus on optimizing attestation metrics rather than providing genuine value. This can lead to metric manipulation and behaviors that improve attestation scores without corresponding improvements in actual performance or contribution.
+****Attestation Gaming** and **Metric Manipulation****: Poorly designed attestation systems can be gamed by users who focus on optimizing attestation metrics rather than providing genuine value. This can lead to metric manipulation and behaviors that improve attestation scores without corresponding improvements in actual performance or contribution.
 
 Gaming strategies might include collusive attestation networks, focus on easily measurable activities while neglecting important but harder-to-track contributions, or manipulation of attestation timing and criteria to maximize scores.
 
-**[[Social Pressure]] and [[Conformity Bias]]**: Comprehensive attestation systems might create social pressure for individuals to seek attestations for all activities, leading to conformity bias and reduced diversity in behavior and thinking. The permanent nature of attestations might discourage experimentation and risk-taking.
+****Social Pressure** and **Conformity Bias****: Comprehensive attestation systems might create social pressure for individuals to seek attestations for all activities, leading to conformity bias and reduced diversity in behavior and thinking. The permanent nature of attestations might discourage experimentation and risk-taking.
 
 Fear of negative attestations might lead to risk-averse behavior and conformity to prevailing standards, potentially reducing innovation and diversity of approaches within communities and organizations.
 
-**[[Governance Complexity]] and [[Dispute Resolution]]**: Managing attestation schemas, validation criteria, and dispute resolution processes requires complex governance systems that can become contentious and difficult to manage. Different stakeholders may have conflicting interests regarding attestation standards and validation requirements.
+****Governance Complexity** and Dispute Resolution**: Managing attestation schemas, validation criteria, and dispute resolution processes requires complex governance systems that can become contentious and difficult to manage. Different stakeholders may have conflicting interests regarding attestation standards and validation requirements.
 
 Disputes about attestation validity, schema changes, and governance decisions may be difficult to resolve in decentralized systems without clear authority structures, potentially leading to community fragmentation or governance paralysis.
 
@@ -1544,15 +1544,15 @@ The complexity of impermanent loss calculations and the various factors that aff
 
 Different jurisdictions may have different regulatory approaches to AMMs, creating uncertainty for users and developers. The global and permissionless nature of AMMs can make it difficult to implement jurisdiction-specific compliance measures.
 
-#### 2.4.2 [[revnets]]: Distributed Revenue Sharing Infrastructure
+#### 2.4.2 revnets: Distributed Revenue Sharing Infrastructure
 
-[[Revnets]] represent a fundamental innovation in distributed revenue sharing, providing programmable infrastructure for automatically distributing value flows based on contributed work and ecosystem participation. This primitive enables new economic models that align incentives between creators, contributors, and users while providing transparent and automated revenue distribution without traditional intermediaries.
+Revnets represent a fundamental innovation in distributed revenue sharing, providing programmable infrastructure for automatically distributing value flows based on contributed work and ecosystem participation. This primitive enables new economic models that align incentives between creators, contributors, and users while providing transparent and automated revenue distribution without traditional intermediaries.
 
 **Technical Architecture and Programmable Distribution**
 
 Revnets operate as smart contract systems that automatically split incoming revenue streams according to predefined rules and contribution metrics. Unlike traditional revenue sharing models that require manual distribution and trust in centralized entities, revnets execute distributions programmatically based on verifiable on-chain data about contributions and participation.
 
-**[[Contribution-Based Distribution]]**: Revnets can track various forms of contribution including code commits, content creation, community management, and other valuable activities. These contributions are weighted according to community-defined criteria and used to calculate revenue sharing percentages automatically.
+****Contribution-Based Distribution****: Revnets can track various forms of contribution including code commits, content creation, community management, and other valuable activities. These contributions are weighted according to community-defined criteria and used to calculate revenue sharing percentages automatically.
 
 The contribution tracking mechanism enables recognition and reward of diverse forms of value creation that traditional business models often overlook or undervalue. Contributors can earn revenue shares based on their ongoing participation rather than requiring upfront payment or employment relationships.
 
@@ -1566,7 +1566,7 @@ The auditability of revnet operations enables community governance and oversight
 
 **Beneficial Potentials and Applications**
 
-**[[Alternative Economic Models]] and Fairer Value Distribution**: Revnets enable new economic models that can distribute value more fairly among all contributors to an ecosystem rather than concentrating returns in the hands of owners or early investors. This can address issues of [[economic centralization]] and provide more equitable compensation structures.
+****Alternative Economic Models** and Fairer Value Distribution**: Revnets enable new economic models that can distribute value more fairly among all contributors to an ecosystem rather than concentrating returns in the hands of owners or early investors. This can address issues of [[economic centralization]] and provide more equitable compensation structures.
 
 By automatically distributing revenue based on contribution rather than ownership, revnets can enable sustainable funding for open source projects, community initiatives, and collaborative endeavors that traditional business models struggle to support.
 
@@ -1578,7 +1578,7 @@ This direct compensation model can reduce dependence on advertising-based revenu
 
 Revnets can track contributions across multiple repositories, documentation efforts, community management, and other activities that are essential for project success but often go uncompensated in traditional open source models.
 
-**Reduced Platform Dependence and [[Intermediary Elimination]]**: By providing direct revenue sharing mechanisms, revnets can reduce dependence on centralized platforms that extract significant value from creator and contributor efforts. Revenue can flow directly from users to contributors without platform intermediaries.
+**Reduced Platform Dependence and Intermediary Elimination**: By providing direct revenue sharing mechanisms, revnets can reduce dependence on centralized platforms that extract significant value from creator and contributor efforts. Revenue can flow directly from users to contributors without platform intermediaries.
 
 This disintermediation can enable higher compensation for contributors while potentially reducing costs for users, as the value previously captured by platform intermediaries can be redistributed to actual value creators.
 

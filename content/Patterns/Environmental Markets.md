@@ -163,17 +163,17 @@ The maturation of environmental markets requires honest assessment of their limi
 [[Carbon Credit Tokenization]] - Blockchain-based representation of verified carbon offsets
 [[Ecosystem Service Tokenization]] - Digital tokens representing specific environmental functions
 [[Regenerative Finance]] - Financial mechanisms that reward ecological restoration and stewardship
-[[Environmental Impact Bonds]] - Outcome-based financing for environmental improvement projects
+**Environmental Impact Bonds** - Outcome-based financing for environmental improvement projects
 [[Biodiversity Credits]] - Tradeable units representing biodiversity conservation and restoration
-[[Water Markets]] - Trading systems for water allocation and conservation incentives
+**Water Markets** - Trading systems for water allocation and conservation incentives
 [[Habitat Banking]] - Market system for trading habitat conservation and restoration credits
-[[Green Bonds]] - Debt securities specifically earmarked for environmental projects
+**Green Bonds** - Debt securities specifically earmarked for environmental projects
 [[Sustainability Linked Loans]] - Credit facilities with terms tied to environmental performance
-[[Environmental, Social, and Governance (ESG)]] - Investment criteria that includes environmental factors
+**Environmental, Social, and Governance (ESG)** - Investment criteria that includes environmental factors
 [[Life Cycle Assessment]] - Methodology for evaluating environmental impacts of products and services
 [[Circular Economy]] - Economic model designed to eliminate waste and maximize resource efficiency
-[[Externality Internalization]] - Economic mechanism for including external costs in market prices
+**Externality Internalization** - Economic mechanism for including external costs in market prices
 [[Coase Theorem]] - Economic principle about private solutions to externality problems
-[[Pigouvian Tax]] - Tax designed to correct negative externalities through price adjustments
+**Pigouvian Tax** - Tax designed to correct negative externalities through price adjustments
 [[Tragedy of the Commons]] - Problem of overuse of shared environmental resources
 [[Environmental Justice]] - Fair treatment and participation in environmental decision-making

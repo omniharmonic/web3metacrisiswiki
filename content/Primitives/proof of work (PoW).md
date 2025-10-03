@@ -4,6 +4,10 @@ aliases:
   - "proof-of-work-(pow)"
   - "Proof-Of-Work-(Pow)"
   - "proof of work (-po-w)"
+  - "Proof of Work"
+  - "Proof of Stake"
+  - "Proof of Personhood"
+  - "Proof of Humanity"
 ---
 
 

@@ -12,7 +12,7 @@ aliases:
 
 The theoretical significance of the availability heuristic extends beyond individual psychology to encompass fundamental questions about information processing, media influence, and social coordination in environments where the most memorable information may not reflect actual frequencies or risks. What Kahneman calls "System 1 thinking" creates automatic responses based on cognitive accessibility rather than careful analysis, while what sociologist Barry Glassner calls "culture of fear" demonstrates how availability bias can shape entire social narratives about risk and safety.
 
-In Web3 contexts, the availability heuristic represents both a critical vulnerability where [[Algorithmic Amplification]], viral content, and recency bias may distort decision-making about investments, governance, and technology adoption, and an opportunity for designing [[Information Systems]], [[Reputation Mechanisms]], and [[Governance]] interfaces that could help users access more representative information and make decisions based on systematic evidence rather than memorable anecdotes.
+In Web3 contexts, the availability heuristic represents both a critical vulnerability where [[Algorithmic Amplification]], viral content, and recency bias may distort decision-making about investments, governance, and technology adoption, and an opportunity for designing **Information Systems**, **Reputation Mechanisms**, and **Governance** interfaces that could help users access more representative information and make decisions based on systematic evidence rather than memorable anecdotes.
 
 ## Psychological Mechanisms and Cognitive Architecture
 
@@ -167,17 +167,17 @@ The effectiveness of bias mitigation depends on understanding availability heuri
 [[Cognitive Biases]] - Systematic patterns of deviation from rationality in judgment and decision-making
 [[confirmation bias]] - Tendency to search for and favor information that confirms existing beliefs
 [[System 1 and System 2 Thinking]] - Dual-process theory distinguishing fast automatic and slow deliberate thinking
-[[Representativeness Heuristic]] - Judging probability by similarity to mental prototypes
-[[Anchoring Bias]] - Over-reliance on first piece of information encountered when making decisions
-[[Recency Bias]] - Tendency to weigh recent events more heavily than earlier events
-[[Narrative Economics]] - How popular stories and narratives influence economic behavior and outcomes
-[[Media Effects]] - Influence of mass media content on audience attitudes and behavior
-[[Information Cascades]] - Phenomenon where people follow the behavior of others while ignoring private information
+**Representativeness Heuristic** - Judging probability by similarity to mental prototypes
+**Anchoring Bias** - Over-reliance on first piece of information encountered when making decisions
+**Recency Bias** - Tendency to weigh recent events more heavily than earlier events
+**Narrative Economics** - How popular stories and narratives influence economic behavior and outcomes
+**Media Effects** - Influence of mass media content on audience attitudes and behavior
+**Information Cascades** - Phenomenon where people follow the behavior of others while ignoring private information
 [[Echo Chambers]] - Environments where people encounter only information that reinforces existing beliefs
 [[filter bubbles]] - Algorithmic isolation where users receive personalized content that limits exposure to diverse information
 [[Algorithmic Amplification]] - Process where algorithms systematically promote certain types of content over others
 [[Choice Architecture]] - Design of environments in which people make decisions to influence behavior
 [[Reputation Systems]] - Mechanisms for tracking and evaluating the credibility and reliability of information sources
 [[Prediction Markets]] - Economic systems that aggregate information to forecast future events
-[[Risk Perception]] - Subjective judgment about the likelihood and consequences of potential dangers
+**Risk Perception** - Subjective judgment about the likelihood and consequences of potential dangers
 [[Behavioral Economics]] - Field combining psychology and economics to understand how people make economic decisions

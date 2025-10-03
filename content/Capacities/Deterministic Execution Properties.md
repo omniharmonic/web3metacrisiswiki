@@ -4,6 +4,8 @@ aliases:
   - "deterministic-execution-properties"
   - "Deterministic-Execution-Properties"
   - "deterministic -execution -properties"
+  - "Hierarchical Deterministic Wallets"
+  - "deterministic execution"
 ---
 
 # Deterministic Execution Properties
@@ -75,12 +77,12 @@ The evolution toward specialized execution environments—ZK-rollups for privacy
 
 ## Related Concepts
 
-[[Virtual_Machines]] - Execution environments like EVM
-[[Consensus_Mechanisms]] - Distributed agreement on state
-[[Smart_Contract_Security]] - Vulnerabilities in deterministic code
+**Virtual_Machines** - Execution environments like EVM
+**Consensus_Mechanisms** - Distributed agreement on state
+**Smart_Contract_Security** - Vulnerabilities in deterministic code
 [[Gas_Metering]] - Resource constraints for deterministic execution
-[[Oracle_Problem]] - Bringing external data into deterministic systems
+**Oracle_Problem** - Bringing external data into deterministic systems
 [[Immutability]] - Permanent execution results
-[[Formal_Verification]] - Proving deterministic code correctness
-[[Layer_2_Solutions]] - Reducing on-chain execution burden
-[[State_Replication]] - Maintaining identical state across nodes
+**Formal_Verification** - Proving deterministic code correctness
+**Layer_2_Solutions** - Reducing on-chain execution burden
+**State_Replication** - Maintaining identical state across nodes

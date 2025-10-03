@@ -4,6 +4,7 @@ aliases:
   - "authoritarian-technology"
   - "Authoritarian-Technology"
   - "authoritarian -technology"
+  - "authoritarian"
 ---
 
 # Authoritarian Technology

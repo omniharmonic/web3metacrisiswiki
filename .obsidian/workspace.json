@@ -226,6 +226,13 @@
     "docs/web3-primitives.html",
     "docs/web3--affordances--and---potentials.html",
     "docs/web3-affordances--and--potentials.html",
+    "content/Patterns/Preference Aggregation.md",
+    "content/Patterns/Mutual Aid.md",
+    "content/Patterns/Misinformation.md",
+    "content/Patterns/Universal Basic Income.md",
+    "content/Primitives/Layer_2_Rollups.md",
+    "reports/broken-links-status-report.md",
+    "scripts/broken-link-analysis.md",
     "content/Patterns/Collective Action Problems.md",
     "content/Patterns/Natural Capital Accounting.md",
     "content/Patterns/Circular Economy.md",
@@ -243,13 +250,6 @@
     "content/Primitives/Authentication.md",
     "content/Primitives/Accountability.md",
     "content/Primitives/Access Control.md",
-    "content/Patterns/Algorithmic Bias.md",
-    "content/Primitives/Atomic Swaps.md",
-    "content/Primitives/Account Abstraction.md",
-    "content/Patterns/Community Governance.md",
-    "content/Primitives/Digital Signatures.md",
-    "content/Patterns/Environmental Justice.md",
-    "content/Primitives/Verifiable Credentials.md",
-    "content/Primitives/Public Goods.md"
+    "content/Patterns/Algorithmic Bias.md"
   ]
 }

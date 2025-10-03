@@ -4,6 +4,10 @@ aliases:
   - "blockchain-oracles"
   - "Blockchain-Oracles"
   - "blockchain -oracles"
+  - "Oracles"
+  - "Oracles"
+  - "oracle networks"
+  - "data feeds"
 ---
 
 # Blockchain Oracles / Decentralized Oracle Networks (DONs)

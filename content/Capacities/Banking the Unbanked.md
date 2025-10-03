@@ -4,6 +4,9 @@ aliases:
   - "banking-the-unbanked"
   - "Banking-The-Unbanked"
   - "banking the -unbanked"
+  - "Habitat Banking"
+  - "banking the unbanked"
+  - "financial inclusion"
 ---
 
 # Banking the Unbanked

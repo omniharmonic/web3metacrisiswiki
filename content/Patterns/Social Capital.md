@@ -7,6 +7,9 @@ aliases:
   - "Social trust"
   - "community networks"
   - "Community networks"
+  - "Reciprocity"
+  - "social trust"
+  - "community capital"
 ---
 
 # Social Capital
@@ -241,20 +244,20 @@ The measurement and evaluation of social capital restoration efforts requires so
 [[Community Governance]] - Collective decision-making processes that both require and build social capital
 [[Reputation Systems]] - Digital mechanisms for verifying and building trust relationships
 [[Trust]] - Fundamental component of social capital that enables cooperation without formal enforcement
-[[Civic Engagement]] - Active participation that builds social capital through shared experience
+**Civic Engagement** - Active participation that builds social capital through shared experience
 [[Network Effects]] - Value creation dynamics that can enhance or undermine social capital formation
 [[Collective Intelligence]] - Problem-solving capacity that emerges from social capital and coordination
 [[Digital Divide]] - Technology access barriers that can limit social capital formation
-[[Political Polarization]] - Ideological division that erodes social capital across political boundaries
-[[Economic Inequality]] - Resource distribution that affects social capital formation and maintenance
-[[Commons Governance]] - Resource management that requires social capital for effectiveness
+**Political Polarization** - Ideological division that erodes social capital across political boundaries
+**Economic Inequality** - Resource distribution that affects social capital formation and maintenance
+[[commons governance]] - Resource management that requires social capital for effectiveness
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance systems that can build social capital
 [[Public Goods]] - Resources that require social capital for effective provision and maintenance
 [[Reciprocity]] - Exchange relationships that form the foundation of social capital
 [[Social Networks]] - Relationship structures through which social capital operates
-[[Cultural Capital]] - Knowledge and cultural resources that complement social capital
-[[Institutional Trust]] - Confidence in formal institutions that supplements interpersonal social capital
+**Cultural Capital** - Knowledge and cultural resources that complement social capital
+**Institutional Trust** - Confidence in formal institutions that supplements interpersonal social capital
 [[Community Resilience]] - Capacity for adaptation that depends on social capital
 [[Mutual Aid]] - Cooperative assistance that both requires and builds social capital
-[[Time Banking]] - Alternative exchange systems that can build social capital
-[[Cooperative Economics]] - Economic models that depend on and enhance social capital
+**Time Banking** - Alternative exchange systems that can build social capital
+**Cooperative Economics** - Economic models that depend on and enhance social capital

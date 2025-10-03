@@ -2,6 +2,9 @@
 aliases:
   - "externality-pricing"
   - "Externality-Pricing"
+  - "Congestion Pricing"
+  - "externality"
+  - "pricing externalities"
 ---
 
 # Externality Pricing
@@ -166,23 +169,23 @@ The future of externality pricing may depend on developing systems that can capt
 ## Related Concepts
 
 [[Externalities]] - Economic spillover effects that externality pricing attempts to internalize
-[[Pigouvian Taxes]] - Corrective taxation designed to internalize external costs at optimal levels
-[[Carbon Pricing]] - Specific application of externality pricing to greenhouse gas emissions
-[[Cap and Trade]] - Market-based mechanism for externality pricing through tradeable permits
-[[Double Dividend Hypothesis]] - Theory that externality pricing can achieve environmental and economic benefits simultaneously
+**Pigouvian Taxes** - Corrective taxation designed to internalize external costs at optimal levels
+**Carbon Pricing** - Specific application of externality pricing to greenhouse gas emissions
+**Cap and Trade** - Market-based mechanism for externality pricing through tradeable permits
+**Double Dividend Hypothesis** - Theory that externality pricing can achieve environmental and economic benefits simultaneously
 [[Coase Theorem]] - Economic theory about externality resolution through property rights rather than pricing
-[[Market Failure]] - Economic situations where unregulated markets fail to achieve optimal outcomes
+**Market Failure** - Economic situations where unregulated markets fail to achieve optimal outcomes
 [[environmental economics]] - Field addressing market failures in environmental resource allocation
 [[Congestion Pricing]] - Transportation application of externality pricing for traffic management
-[[Pollution Taxes]] - Environmental taxes designed to internalize costs of air and water pollution
+**Pollution Taxes** - Environmental taxes designed to internalize costs of air and water pollution
 [[Payment for Ecosystem Services]] - Market mechanism for pricing positive environmental externalities
-[[Social Cost of Carbon]] - Estimated economic damage from greenhouse gas emissions used for carbon pricing
+**Social Cost of Carbon** - Estimated economic damage from greenhouse gas emissions used for carbon pricing
 [[Cost-Benefit Analysis]] - Economic method for evaluating externality pricing policies
-[[Revenue Recycling]] - Use of externality pricing revenue to reduce other taxes or provide compensation
-[[Carbon Leakage]] - Problem where externality pricing in one jurisdiction shifts activity to unregulated areas
+**Revenue Recycling** - Use of externality pricing revenue to reduce other taxes or provide compensation
+**Carbon Leakage** - Problem where externality pricing in one jurisdiction shifts activity to unregulated areas
 [[Environmental Justice]] - Movement addressing equitable distribution of environmental costs and benefits
 [[regulatory capture]] - Political process where regulated industries influence externality pricing implementation
 [[Transaction Costs]] - Economic costs of implementing and enforcing externality pricing systems
 [[Public Goods]] - Resources that may require externality pricing to address under-provision
 [[Collective Action Problem]] - Coordination challenges in implementing effective externality pricing
-[[International Coordination]] - Need for global cooperation in externality pricing for transboundary problems
+**International Coordination** - Need for global cooperation in externality pricing for transboundary problems

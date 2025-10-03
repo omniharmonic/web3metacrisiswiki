@@ -77,13 +77,13 @@ The fundamental tension between privacy, accessibility, and sybil resistance adm
 
 ## Related Concepts
 
-[[Proof_of_Work]] - Computational cost resistance
-[[Proof_of_Stake]] - Capital requirement resistance
-[[Identity_Verification]] - Proving unique humans
-[[Quadratic_Funding_Attacks]] - Sybil exploitation
-[[Plutocracy]] - Wealth-based influence
-[[One_Person_One_Vote]] - Democratic equality
+**Proof_of_Work** - Computational cost resistance
+**Proof_of_Stake** - Capital requirement resistance
+**Identity_Verification** - Proving unique humans
+**Quadratic_Funding_Attacks** - Sybil exploitation
+**Plutocracy** - Wealth-based influence
+**One_Person_One_Vote** - Democratic equality
 [[Privacy_vs_Accountability]] - Fundamental tension
-[[BrightID]] - Social graph verification
-[[Proof_of_Humanity]] - Video-based identity
-[[Worldcoin]] - Biometric identification
+**BrightID** - Social graph verification
+**Proof_of_Humanity** - Video-based identity
+**Worldcoin** - Biometric identification

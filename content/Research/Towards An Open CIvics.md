@@ -4,6 +4,7 @@ aliases:
   - "towards-an-open-civics"
   - "Towards-An-Open-Civics"
   - "towards -an -open -c-ivics"
+  - "open civics"
 ---
 
 Towards an Open Civics 

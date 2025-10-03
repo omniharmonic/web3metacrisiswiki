@@ -79,8 +79,8 @@ These principles serve as criteria for evaluating solutions to systemic problems
 
 ## Related Concepts
 
-- [[Polycentric_Governance]] - Resilience principle in practice
-- [[Cosmo_localism]] - Scale-appropriate coordination
+- **Polycentric_Governance** - Resilience principle in practice
+- **Cosmo_localism** - Scale-appropriate coordination
 - [[self-sovereign identity]] - Choice principle in digital systems
 - [[commons governance]] - Vitality principle in resource management
-- [[Participatory_Democracy]] - Choice principle in governance
+- **Participatory_Democracy** - Choice principle in governance

@@ -2,6 +2,7 @@
 aliases:
   - "censorship-resistance"
   - "Censorship-Resistance"
+  - "Censorship"
 ---
 
 
@@ -68,8 +69,8 @@ The tension between censorship resistance and other social values including priv
 [[Trustlessness]] - Technical foundation enabling censorship resistance
 [[distributed consensus]] - Consensus mechanisms resistant to single-party control
 [[Immutability]] - Record permanence supporting censorship resistance
-[[Privacy_Preservation]] - Complementary capability for protecting user identity
-[[Decentralized_Governance]] - Governance models resistant to capture
-[[Economic_Incentive_Alignment]] - Economic mechanisms supporting resistance
-[[Network_Security]] - Technical robustness enabling continued operation
-[[Democratic_Participation]] - Democratic benefits of uncensored communication
+**Privacy_Preservation** - Complementary capability for protecting user identity
+**Decentralized_Governance** - Governance models resistant to capture
+**Economic_Incentive_Alignment** - Economic mechanisms supporting resistance
+**Network_Security** - Technical robustness enabling continued operation
+**Democratic_Participation** - Democratic benefits of uncensored communication

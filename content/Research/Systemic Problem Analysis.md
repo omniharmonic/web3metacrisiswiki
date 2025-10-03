@@ -4,6 +4,11 @@ aliases:
   - "systemic-problem-analysis"
   - "Systemic-Problem-Analysis"
   - "systemic -problem -analysis"
+  - "Metadata Analysis"
+  - "Traffic Analysis"
+  - "Material Flow Analysis"
+  - "Cost-Benefit Analysis"
+  - "Systemic Racism"
 ---
 
 # **An Analysis of Systemic Failures and the Criteria for a Life-Affirming Civilization**

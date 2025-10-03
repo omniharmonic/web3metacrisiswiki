@@ -40,5 +40,5 @@ Decentralized technologies present both opportunities and risks regarding chilli
 - [[Panopticon]]
 - [[Authoritarian Technology]]
 - [[Censorship]]
-- [[Social Control]]
+- **Social Control**
 - [[Privacy]]

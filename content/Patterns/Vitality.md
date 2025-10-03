@@ -45,7 +45,7 @@ However, ecological regeneration faces complex challenges including global coord
 
 ### Regenerative Finance and Impact-Aligned Investment
 
-Web3 technologies enable novel forms of impact measurement and regenerative finance that align capital allocation with vitality-enhancing outcomes rather than purely financial returns. Initiatives like the [[Regen Network]] implement blockchain-based monitoring, reporting, and verification (MRV) systems that enable direct payment for ecosystem services including carbon sequestration, biodiversity conservation, and soil health improvement.
+Web3 technologies enable novel forms of impact measurement and regenerative finance that align capital allocation with vitality-enhancing outcomes rather than purely financial returns. Initiatives like the **Regen Network** implement blockchain-based monitoring, reporting, and verification (MRV) systems that enable direct payment for ecosystem services including carbon sequestration, biodiversity conservation, and soil health improvement.
 
 The development of programmable money through smart contracts creates possibilities for what researchers term "impact bonds" or "ecological dividends" that automatically redistribute value based on verified environmental and social outcomes. This could enable economic systems that reward regenerative practices and internalize positive externalities that traditional markets fail to capture.
 
@@ -107,7 +107,7 @@ Future developments likely require more sophisticated integration of individual,
 [[Public Goods Funding]] - Mechanisms for supporting commons-based vitality enhancement
 [[Quadratic Funding]] - Democratic resource allocation for community vitality projects
 [[Decentralized Autonomous Organizations (DAOs)]] - Governance experiments for collective vitality enhancement
-[[Ecological Economics]] - Economic frameworks that recognize natural capital and ecosystem services
-[[Positive Psychology]] - Scientific study of human flourishing and eudaimonic well-being
+**Ecological Economics** - Economic frameworks that recognize natural capital and ecosystem services
+**Positive Psychology** - Scientific study of human flourishing and eudaimonic well-being
 [[Social Capital]] - Network relationships that enable collective action for community vitality
 [[commons governance]] - Institutional arrangements for managing shared resources sustainably

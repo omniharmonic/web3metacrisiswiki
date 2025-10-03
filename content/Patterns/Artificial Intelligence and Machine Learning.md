@@ -4,6 +4,7 @@ aliases:
   - "artificial-intelligence-and-machine-learning"
   - "Artificial-Intelligence-And-Machine-Learning"
   - "artificial -intelligence and -machine -learning"
+  - "Machine Learning"
 ---
 
 # Artificial Intelligence and Machine Learning
@@ -24,7 +25,7 @@ These technologies offer significant potential benefits including enhanced medic
 
 ## Metacrisis Implications
 
-AI and ML also contribute to [[metacrisis]] dynamics through several mechanisms: they enable new forms of [[Behavioral Modification]] and manipulation at scale, create [[Information Asymmetries]] between those who control algorithms and those subject to them, facilitate [[Mass Surveillance]] and social control, and can amplify existing biases and inequalities.
+AI and ML also contribute to **metacrisis** dynamics through several mechanisms: they enable new forms of [[Behavioral Modification]] and manipulation at scale, create [[Information Asymmetries]] between those who control algorithms and those subject to them, facilitate [[Mass Surveillance]] and social control, and can amplify existing biases and inequalities.
 
 ## Governance Challenges
 

@@ -4,6 +4,7 @@ aliases:
   - "data-sovereignty"
   - "Data-Sovereignty"
   - "data -sovereignty"
+  - "Community Data Sovereignty"
 ---
 
 # Data Sovereignty

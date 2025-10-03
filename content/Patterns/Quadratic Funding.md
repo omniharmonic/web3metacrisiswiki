@@ -115,7 +115,7 @@ The maturation of quadratic funding depends on solving fundamental challenges in
 
 [[Quadratic Voting]] - Voting mechanism that implements similar mathematical principles for preference intensity expression
 [[Public Goods Funding]] - Broader category of mechanisms for addressing market failures in commons provision
-[[Liberal Radicalism]] - Economic theory foundation developed by Glen Weyl and Eric Posner
+**Liberal Radicalism** - Economic theory foundation developed by Glen Weyl and Eric Posner
 [[Mechanism Design]] - Theoretical framework for creating institutions that align individual and collective incentives
 [[Free Rider Problem]] - Market failure that quadratic funding attempts to address through mathematical innovation
 [[Collective Action Problem]] - Coordination challenges in voluntary cooperation that quadratic funding may help solve

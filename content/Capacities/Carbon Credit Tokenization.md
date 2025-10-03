@@ -4,6 +4,10 @@ aliases:
   - "carbon-credit-tokenization"
   - "Carbon-Credit-Tokenization"
   - "carbon -credit -tokenization"
+  - "Token"
+  - "Tokens"
+  - "Carbon Credits"
+  - "Environmental Tokens"
 ---
 
 # Carbon Credit Tokenization

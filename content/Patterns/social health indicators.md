@@ -52,7 +52,7 @@ Many aspects of social health are inherently qualitative and context-dependent, 
 
 ## Integration with Meta-Crisis Analysis
 
-Social health indicators serve as crucial feedback mechanisms for evaluating whether Web3 interventions are contributing to the [[Third Attractor]] or inadvertently accelerating movement toward [[chaos]] or [[authoritarian]] outcomes. They provide empirical grounding for claims about technology's impact on human flourishing.
+Social health indicators serve as crucial feedback mechanisms for evaluating whether Web3 interventions are contributing to the [[Third Attractor]] or inadvertently accelerating movement toward **chaos** or [[authoritarian]] outcomes. They provide empirical grounding for claims about technology's impact on human flourishing.
 
 ## Related Concepts
 - [[epistemic commons]]
